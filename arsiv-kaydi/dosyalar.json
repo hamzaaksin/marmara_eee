@@ -38,5 +38,29 @@
     "size": 297016,
     "sha256": "0966473a2d59876d4ec0ac37b893d747a03e2bd17a4eecd959d1eaec849413fb",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1_Z2jS0Ie1Cvo-0NAC8ts2yZRcD2VQ8Nw",
+    "source_member": "microwaves-akif/EE4053_Spring2025_Syllabus.pdf",
+    "path": "Secmeli/Teknik/EE4053_Microwaves/microwaves-Serkan-TE/microwaves-akif/EE4053_Spring2025_Syllabus.pdf",
+    "size": 759369,
+    "sha256": "ec338b35c990c5cb2e1eb2a52820a5442e0cf8cfbdecb58d1f560d52b775d725",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_Z2jS0Ie1Cvo-0NAC8ts2yZRcD2VQ8Nw",
+    "source_member": "microwaves-akif/teardown report.docx",
+    "path": "Secmeli/Teknik/EE4053_Microwaves/microwaves-Serkan-TE/microwaves-akif/teardown report.docx",
+    "size": 415414,
+    "sha256": "cea869f2be1d9806ef430b4d64c83ef82f49c09c424093fcc23ccc67d0d95a3a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_Z2jS0Ie1Cvo-0NAC8ts2yZRcD2VQ8Nw",
+    "source_member": "microwaves-akif/teardown report.pdf",
+    "path": "Secmeli/Teknik/EE4053_Microwaves/microwaves-Serkan-TE/microwaves-akif/teardown report.pdf",
+    "size": 346342,
+    "sha256": "51168de974359df54e28c5cb8f83791ed86ea082838076ac89efd6e884e5e61f",
+    "storage": "git"
   }
 ]

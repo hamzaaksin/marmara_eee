@@ -1,11 +1,12 @@
 {
-  "completed_archives": 2,
+  "completed_archives": 3,
   "total_archives": 54,
   "completed_drive_file_ids": [
     "1yljJCg8NbRietCXVkq3-TQg5pmO6cvIO",
-    "1IBsJW-9ion8mRfGvIpOvQ5f4Umls8gDo"
+    "1IBsJW-9ion8mRfGvIpOvQ5f4Umls8gDo",
+    "1_Z2jS0Ie1Cvo-0NAC8ts2yZRcD2VQ8Nw"
   ],
-  "file_records": 5,
+  "file_records": 8,
   "nested_archives_opened": 0,
   "errors": []
 }
