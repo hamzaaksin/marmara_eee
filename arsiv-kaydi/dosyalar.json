@@ -11198,5 +11198,381 @@
     "size": 1845552,
     "sha256": "2289b11dbc26202cad98935ed35db5ae6d9b2dc237dd5ea8f0ebd3500ae7631c",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/fundamentals-of-physics-textbook.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/fundamentals-of-physics-textbook.pdf",
+    "size": 53690656,
+    "sha256": "1976f320ae9961d1fb3b43ccc34e6fd93c654292f9c0c4436da5aeaea364d83f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/midterm_exam_solution.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/midterm_exam_solution.pdf",
+    "size": 165558,
+    "sha256": "8ccacb686a0c5484bad240ba7d85170e1ab9542c7344d8618adfa1ddf9bc1faf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/q1_sample.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/q1_sample.pdf",
+    "size": 529683,
+    "sha256": "908e9852c820b8e81bbac7eb065af087c7c9fe87c73a5d41c7fb88ae8a34fba0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/q2_sample.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/q2_sample.pdf",
+    "size": 325262,
+    "sha256": "95f8a6993c46f3f98bc8a96e2cb5847a2d1ae408d93d42a1fd1726dd84480dd3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/syllabus_physics_i.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/syllabus_physics_i.pdf",
+    "size": 142397,
+    "sha256": "8c6fcfa6cc6ae0f24f4e37ce2458419d02f4835d9b706c9561855a37b5819f16",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_1.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_1.pdf",
+    "size": 1408805,
+    "sha256": "9e9be525d356db5b0d8701fb93641c05043dd7dc6b024da13e66bcc457e122f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_10.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_10.pdf",
+    "size": 693642,
+    "sha256": "b2f0977a979172e7d102d81fac19a9c12e07b03708bb63d31c326806115f7415",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_11.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_11.pdf",
+    "size": 826261,
+    "sha256": "7d6bf1588057bd28a7481bb78037ec384eda3fcd5a77efb4dc28b2fde90652e5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_12.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_12.pdf",
+    "size": 712920,
+    "sha256": "f93da03e1a26dbff4f47373c39014721062475a004306c910a04866807d8c5a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_13.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_13.pdf",
+    "size": 799389,
+    "sha256": "092add2b707082d7faca23b5e541f4f9cce980a84e41fcf7e8d07913d2220987",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_14.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_14.pdf",
+    "size": 936251,
+    "sha256": "f3a5befbb92e0fbabbfaa8c0a15eaeea4e2f88394a4e6165aa6b2dc8e5df56bd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_15.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_15.pdf",
+    "size": 596127,
+    "sha256": "ba3c3eabb0b375b79d96006f17d2ca415a11fc40b3f517f664232c8d7cc72e28",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_2.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_2.pdf",
+    "size": 1798865,
+    "sha256": "58b94314f23f1c3801e2e3ac4b266a7d981d29d072847e1fc96d295a2ada41cc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_3.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_3.pdf",
+    "size": 2432212,
+    "sha256": "27e0746bdbbb1d712f71c96f74db728d246c251f43a8e50688300656b6455841",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_4.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_4.pdf",
+    "size": 1284544,
+    "sha256": "d413926aad93bcd1fb3506a7012ceb00cf6ef5c1492c32696299377881f76120",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_5.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_5.pdf",
+    "size": 837241,
+    "sha256": "602a0e496341b70accf03502fd65e7c9193bb740c2dcb82d1dc1674c29dc0a91",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_6.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_6.pdf",
+    "size": 748491,
+    "sha256": "90d2f413c4ba65db48405e2ec9ebafc3bed139e89574996ecd72dcf7c5842f47",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_7.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_7.pdf",
+    "size": 1420012,
+    "sha256": "200087b5f514c67c35bd88a30b526f9bef6f8f25d663ab35b37e4955545d44e5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/alsunaidi - physics 1/week_9.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/week_9.pdf",
+    "size": 729942,
+    "sha256": "9055048491fbfcd8aa8356da2dd0d6bf9e386ac1cf0ba9571fec54f31b5052a4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics1/Capture.PNG",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/Capture.PNG",
+    "size": 62598,
+    "sha256": "29c2679365592ad2aefe507ecd9521e0da15e6c90bc75d770e9a283ca31492dd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/1/Exp1 Measurements, Errors And Uncertainities.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/1/Exp1 Measurements, Errors And Uncertainities.pdf",
+    "size": 1201753,
+    "sha256": "45cfc5be9eeddc21d8d0e271293054420d31aa2e05573149c58eeade3a04efd7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/1/S7G9E1-150721062-150720062.docx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/1/S7G9E1-150721062-150720062.docx",
+    "size": 950035,
+    "sha256": "444a338391528fb0afe4c7c370c420550ef9f1119f47f6f3512ea7c706a1b19d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/2/150720062.mp4",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/2/150720062.mp4",
+    "size": 1307561,
+    "sha256": "f724a885123f7f40a895a493fec31f381f6c3f120ba02e1b458dbed2c9ee5fe6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/2/Bel1.docx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/2/Bel1.docx",
+    "size": 19451,
+    "sha256": "fcaa73b5c12d7cbe9c3d703f734098224e71289ee92f243c2282286cb307a0f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/2/Exp2 Straight Line Motion with Constant Velocity.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/2/Exp2 Straight Line Motion with Constant Velocity.pdf",
+    "size": 468100,
+    "sha256": "66beb845f76d551b74d2953bf1191c093b7739a124198a73b4c88beb23bd6262",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/2/Kitap1.xlsx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/2/Kitap1.xlsx",
+    "size": 21218,
+    "sha256": "8937347b893178ec426578358c2356bb4e2a1fd1f8c687e4c651ef7eb2d859f0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/2/S7G9E2_150721062_150720062.docx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/2/S7G9E2_150721062_150720062.docx",
+    "size": 202692,
+    "sha256": "b60888ded366472431a47cd138e38e58755531f5a060bc256a1091790e6aaa54",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/2/trckWhatsApp Video 2021-11-15 at 12.49.11.trk",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/2/trckWhatsApp Video 2021-11-15 at 12.49.11.trk",
+    "size": 9963,
+    "sha256": "5577336ffd4ce2f9a41fb7450aeacf68a36b97f86f092e0b28414079f1b3b77e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/4/150720062.mp4",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/4/150720062.mp4",
+    "size": 206266,
+    "sha256": "f5a28026c7d2d74af916a44fe5d49924ff1936446481251dc4704b42a915a9bd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/4/Exp4 Projectile Motion.pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/4/Exp4 Projectile Motion.pdf",
+    "size": 366154,
+    "sha256": "ec2c02deeb52cc6de788c7c246a4b7d693117f21d0f0eb6800a31a84f48e506a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/4/lab tables.docx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/4/lab tables.docx",
+    "size": 42798,
+    "sha256": "7d682aa473b4ba60b957c3c9a35f68818c907f7adc15d6dd61ff780714887cf4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/4/S7G9E1-150720062.docx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/4/S7G9E1-150720062.docx",
+    "size": 193390,
+    "sha256": "00d94b49f94688ca8ee38f3c9f40e61babb5a6cf81b83fe56fd76d7bc5c9cb14",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/4/video's tables.xlsx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/4/video's tables.xlsx",
+    "size": 39493,
+    "sha256": "74959ba21cff45d2ac59d6088c492f21b0f357c4120bc858f998b685079222b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/4/WhatsApp Video 2021-12-10 at 15.11.10.mp4",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/4/WhatsApp Video 2021-12-10 at 15.11.10.mp4",
+    "size": 863475,
+    "sha256": "7d9712b41cca432d227ac8532b8583b62933dc7fdbf2eff9370d8e729d57fef3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/4/WhatsApp Video 2021-12-10 at 15.11.10.trk",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/4/WhatsApp Video 2021-12-10 at 15.11.10.trk",
+    "size": 19642,
+    "sha256": "7de15d3fb5f98c12f1dee39b74274c561ad45594570275d9acd5e106dfe938a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/5/Exp5 Finding static friction coefficient (2).pdf",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/5/Exp5 Finding static friction coefficient (2).pdf",
+    "size": 409376,
+    "sha256": "4161fce0575ae4005a9b30d91729c5674f7a668219d381a43fe71e7b11796f23",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/5/rapor 5.xlsx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/5/rapor 5.xlsx",
+    "size": 15985,
+    "sha256": "4f0f1ba877e2a647e1d6640b9d6d9ed395b0dd7e2d48ae1bcabbf28a544af750",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/5/S7G9E1-150720062_150720017.docx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/5/S7G9E1-150720062_150720017.docx",
+    "size": 138296,
+    "sha256": "1fc593b18d02d0a919c9f935b7bef2f46f5fe5d4a4fd59d653ed1e834b82acaa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/6/rapor6.xlsx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/6/rapor6.xlsx",
+    "size": 40699,
+    "sha256": "1948ee80bbaac99376069497aad0f832eafc9954e3c4a60765b376f2b4f3355c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/6/S7G9E1-150720062.docx",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/6/S7G9E1-150720062.docx",
+    "size": 197582,
+    "sha256": "620da5155404434358f6ac38ab5e8bdd8ecfc6fbb411e15426584f1d6072d60a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/6/WhatsApp Video 2021-12-27 at 11.59.34.mp4",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/6/WhatsApp Video 2021-12-27 at 11.59.34.mp4",
+    "size": 248596,
+    "sha256": "2a1ee526b93263f4138492e0fa109e8bfc89db968d71a3957b19bf2eb32e571a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/6/WhatsApp Video 2021-12-27 at 11.59.34.trk",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/6/WhatsApp Video 2021-12-27 at 11.59.34.trk",
+    "size": 50254,
+    "sha256": "735a42f971897b30618ce93b085880a0ef083a93e753567c9341c7d39be342a8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/mail adresi.txt",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/mail adresi.txt",
+    "size": 30,
+    "sha256": "a144313e1b3befb728612bf0fe560217194a223f97b2cda6c93c5e8508b4fc10",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/tracker/en son.mp4",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/tracker/en son.mp4",
+    "size": 205282,
+    "sha256": "98cc564ce0cd6b15fb1305341c9fb1bd243d013dbfe782df94157cb69128912d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/tracker/trackerrr.trk",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/tracker/trackerrr.trk",
+    "size": 30968,
+    "sha256": "498952de19d515c3144fb40803e5475c9f31a22f8db99af15924e26ddba28813",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/tracker/WhatsApp Video 2021-11-15 at 12.49.11-asìl.mp4",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/tracker/WhatsApp Video 2021-11-15 at 12.49.11-asìl.mp4",
+    "size": 219565,
+    "sha256": "e930a85259da9d996b967b203c26a10d4c5b75679b80dc48050fa2a8195a48d3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "13ic93-nnEF7UsbdBS8Oi-Wv3RScK5SQ1",
+    "source_member": "physics lab1.zip!/physics lab1/tracker/yeniWhatsApp Video 2021-11-15 at 12.49.11.trk",
+    "path": "1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics lab1__acilmis/physics lab1/tracker/yeniWhatsApp Video 2021-11-15 at 12.49.11.trk",
+    "size": 46907,
+    "sha256": "baf8301afaaf7a5c4ebd2e3b9e6a3da24e83bae8a94c6f619e45b968d2866ee5",
+    "storage": "git"
   }
 ]
