@@ -38,5 +38,11 @@
   ],
   "file_records": 1714,
   "nested_archives_opened": 12,
-  "errors": []
+  "errors": [
+    {
+      "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+      "archive": "electromagnetics.zip",
+      "error": "Command '['git', 'push', 'origin', 'HEAD:main']' returned non-zero exit status 1."
+    }
+  ]
 }
