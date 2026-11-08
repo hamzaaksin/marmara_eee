@@ -7918,5 +7918,277 @@
     "size": 2330814,
     "sha256": "b8acc6043fd2c380fbe61dd12b35ed4e10d91e45a06a7a98c8026b7544c88dfd",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Final Exam physics 2.pdf",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Final Exam physics 2.pdf",
+    "size": 602770,
+    "sha256": "50ed6ff2f3d062bfcc2ca2c9904922cdec58c70242f3c9ce5260ba3beb746aa5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/fundamentals-of-physics-textbook-1.pdf",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/fundamentals-of-physics-textbook-1.pdf",
+    "size": 53690656,
+    "sha256": "1976f320ae9961d1fb3b43ccc34e6fd93c654292f9c0c4436da5aeaea364d83f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/mehmet akif turkmenoglu 150720061 (2).pdf",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/mehmet akif turkmenoglu 150720061 (2).pdf",
+    "size": 463346,
+    "sha256": "5e965c4054c083e5d73d5bb9f46ee6e81a651562867c6927fdafee945beaa7ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/q1_sample.pdf",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/q1_sample.pdf",
+    "size": 401860,
+    "sha256": "c84b6cbb6c0771ed36a3a43405566674734474cea2938a883b54cc6a9cc18420",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (218).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (218).png",
+    "size": 134206,
+    "sha256": "7c4c09f1da2d377030866c2ac83f143777f756694406db2c2a997a6a08a77360",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (219).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (219).png",
+    "size": 143918,
+    "sha256": "83a19354c4210867bc5c4aaaa4d3ea7d758b814dfbd5243a2ffd1ac836547d57",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (220).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (220).png",
+    "size": 143105,
+    "sha256": "7a39704cb36335f0265ce73ab1f627e7471512516282ee05193813c0dbb985a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (221).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (221).png",
+    "size": 149632,
+    "sha256": "016d7fd56312af0c77a8952087df5a7b1f9072aa5cd6367bcaf9460a9ef5ab72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (222).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (222).png",
+    "size": 146560,
+    "sha256": "f86f82dce15358c4392a7244c7cb7f6aefa81ade072db03444b95829bf3a16a4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (223).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (223).png",
+    "size": 145720,
+    "sha256": "9ca9f38229794d9b85fcd0e972cfa2a7b9f809bbc4b10964a866c7293c87e690",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (224).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (224).png",
+    "size": 145266,
+    "sha256": "0985f2cf083b6ebc65a8a36c6391da9948522d194e414a605f3c844c146213f8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (225).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (225).png",
+    "size": 143536,
+    "sha256": "32db288ce4479264492c11933258202d04701517696fd41f64b4599943ff79fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (226).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (226).png",
+    "size": 199113,
+    "sha256": "7d02b5e68c2ace796640b895b0edd99d17fbd70779231e815ded31ff0306584f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (227).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (227).png",
+    "size": 137937,
+    "sha256": "ec1f45b63cc2a766b88811427c6f0c1f646a3e1518514f16f138e66581a73427",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/quiz/Screenshot (228).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/quiz/Screenshot (228).png",
+    "size": 128637,
+    "sha256": "5551d1cb6ca0ca12c868d1e62a6c736a59ce2942dbe04eb702cef7093881044b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (242).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (242).png",
+    "size": 157897,
+    "sha256": "ba98092b5d7ae5f7e465b2d8366596c7796937e3b8032a0723345226b12121dc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (243).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (243).png",
+    "size": 131765,
+    "sha256": "5c25652f792274f4eff44c462157c132480dea34c6305285b0955bb557f8b3ee",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (244).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (244).png",
+    "size": 142601,
+    "sha256": "92d1fc4a535d52a6807c393f7a7ee8bccc75661068c813af7a549a5e715e23db",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (245).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (245).png",
+    "size": 144809,
+    "sha256": "d6079e8907aff9eb33498b31416fe2b1bf813ebb4bab532ce0ae23d0015a51fd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (246).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (246).png",
+    "size": 167012,
+    "sha256": "876d70c9e23fb4f0388056a158a52455083c2647f0a98df79ebc045fcaed47ee",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (247).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (247).png",
+    "size": 148300,
+    "sha256": "353e581d092ac93f075bb46c63afcdb0b721add6ac76c778333d1492e461fe56",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (248).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (248).png",
+    "size": 146859,
+    "sha256": "f7f8aeb37774b485259ce02fd64fef2850d06e1764ceff07c25624f6f57316d3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (249).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (249).png",
+    "size": 137668,
+    "sha256": "ad98940e4aed2762b94f78adc6064d207ac6bfa002aa2cd20f4eda0f70830c49",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/Screenshot (250).png",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/Screenshot (250).png",
+    "size": 135984,
+    "sha256": "54a29f860397d68de946d3c6fc0e6c6d4dc8524935a6dafd1b2a029307dfaa1e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics 2/week_7.pdf",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/week_7.pdf",
+    "size": 1173729,
+    "sha256": "4a1d033cca26f9d9a9ff7af3171921d1c41d78913e5725387b7c9357e31b7cd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/Book1.xlsx",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/Book1.xlsx",
+    "size": 10573,
+    "sha256": "6d4887983b3640b544ef49c276d05953f0dd6a11fc1af0814b85c4f54c156440",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/Exp 2 - 150721032 - 150720062.docx",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/Exp 2 - 150721032 - 150720062.docx",
+    "size": 146012,
+    "sha256": "ef32765c07439cd4623e2a4d2035c9e8df27d35cf916cf2be5c313acb0860a72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/exp4.docx",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/exp4.docx",
+    "size": 88345,
+    "sha256": "72c8254d39daecf4d520463ef7bcb6932f727a345a8c47f4f574e89780281dce",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/Experiment 2 - serial-parallel-resistors.pdf",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/Experiment 2 - serial-parallel-resistors.pdf",
+    "size": 381979,
+    "sha256": "98556ea317a6ee800e36d0343d06a30ce1008bd3b0a33aed371ed6644478921f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/Experiment 3 - non-ohmic-device.pdf",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/Experiment 3 - non-ohmic-device.pdf",
+    "size": 445013,
+    "sha256": "a5abc2a9d84951968c6b08c3ae11830c9263f6260bfa28817b9f3b0c40aecc92",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/Kitap1.xlsx",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/Kitap1.xlsx",
+    "size": 11527,
+    "sha256": "f35c784bd11fb24cec53c4e93d7c773d4e6236fa2fcbd9a9b62cbd5fe27e8f85",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/Lab7.docx",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/Lab7.docx",
+    "size": 153327,
+    "sha256": "053082632965612e92cb421677b3b3a9a50b4bde8c224eaf6a87b8c209d29c94",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/MARMARA UNIVERSITY.docx",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/MARMARA UNIVERSITY.docx",
+    "size": 173160,
+    "sha256": "915ec11a0fde8efc9f20298533432bad8ab2e7f71c6041a884e0a64f105000c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ETWQ-ZUxxkaJZSqX5jaQCHUnWtvmMWvv",
+    "source_member": "physics lab 2.zip!/physics lab 2/Purpose.docx",
+    "path": "1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics lab 2__acilmis/physics lab 2/Purpose.docx",
+    "size": 12910,
+    "sha256": "f7b36243cfaa89ec461be89f00777c341124f80bd604246b53f039e765753c49",
+    "storage": "git"
   }
 ]
