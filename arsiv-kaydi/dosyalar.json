@@ -62,5 +62,29 @@
     "size": 346342,
     "sha256": "51168de974359df54e28c5cb8f83791ed86ea082838076ac89efd6e884e5e61f",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1dbEvzsjtu2wBZ0l2X5op2Tpna8VhRVWZ",
+    "source_member": "circuit 2/circuit midterm.jpg",
+    "path": "2.sinif/4.donem/EE2002_Electrical-Circuits-II/Circuit2-Alparslan2/circuit 2/circuit midterm.jpg",
+    "size": 105043,
+    "sha256": "54bdb6508fc9077d25bc5ea5675a0bc44476c3df34955196fde912096f2a5e72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1dbEvzsjtu2wBZ0l2X5op2Tpna8VhRVWZ",
+    "source_member": "circuit 2/Circuits 2 Final.pdf",
+    "path": "2.sinif/4.donem/EE2002_Electrical-Circuits-II/Circuit2-Alparslan2/circuit 2/Circuits 2 Final.pdf",
+    "size": 615995,
+    "sha256": "90927f6cc53ec2cd2aa4320b0cb0d3a119c3f00963b7185ad26818feb1361167",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1dbEvzsjtu2wBZ0l2X5op2Tpna8VhRVWZ",
+    "source_member": "circuit 2/EE2001final2019.pdf",
+    "path": "2.sinif/4.donem/EE2002_Electrical-Circuits-II/Circuit2-Alparslan2/circuit 2/EE2001final2019.pdf",
+    "size": 1963530,
+    "sha256": "30b2e5b5e2b92db6971fce44046d7915da8b07627fa297f2d3fc67139e389056",
+    "storage": "git"
   }
 ]
