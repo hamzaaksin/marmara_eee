@@ -8190,5 +8190,2085 @@
     "size": 12910,
     "sha256": "f7b36243cfaa89ec461be89f00777c341124f80bd604246b53f039e765753c49",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/EE2004 büt25.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/EE2004 büt25.pdf",
+    "size": 147746,
+    "sha256": "4cf92b8222e5913e2c21bc1550d17fa49014afb0ac0f173ea6b5b08a07a79a3a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/EE2004 final25.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/EE2004 final25.pdf",
+    "size": 208835,
+    "sha256": "379e9c26a1c47b5e334d6df83c88013cd35de824e566f3cf9948c7502f6996e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Embedded System Design.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Embedded System Design.pdf",
+    "size": 11718922,
+    "sha256": "2ef3a02fa56ee9afa7a7884dcc9c912ce38f4e2077b013103558db66a8c178ec",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/esp_7_3_25.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/esp_7_3_25.s",
+    "size": 390,
+    "sha256": "298c834cce5bb3c0529d29841284af3d31118ebf61ea12e132ca0c9fc8630058",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/ex1_17ek.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/ex1_17ek.s",
+    "size": 174,
+    "sha256": "0773a26b51b3e5dc93989d3df2ead5174f96499addc0634344d823d089256ce4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/ex1_24ek.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/ex1_24ek.s",
+    "size": 192,
+    "sha256": "24942f9ad950c4a2900556a32b30a47620c8113499eee8111f397a2f9c509a88",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/ex1_31ek.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/ex1_31ek.s",
+    "size": 324,
+    "sha256": "f126aded289672cfc532d6827294519153210b92fb8158742efbd17c9b1834cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/ex2_17ek.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/ex2_17ek.s",
+    "size": 104,
+    "sha256": "395ccd3652542b38c2c6fce672225e25606d00e1fcbb5746a3e4fd181396b4b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/ex2_24ek.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/ex2_24ek.s",
+    "size": 436,
+    "sha256": "06b9cf38d86f757a4aca7830d48dd2cf2085615f0adcd83130dc99df7260cd94",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/ex2_31ek.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/ex2_31ek.s",
+    "size": 234,
+    "sha256": "044bb110f7e26bcef5adf2a9d4baab1426c70b80a3bbc52f19c643a0e23e6094",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/ex3_17ek.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/ex3_17ek.s",
+    "size": 324,
+    "sha256": "35b2b8a9ca9abd22da192fd99b6e984ea1272cb786fbaf102e264115ffe1ba5d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/finalSol/p1.jpeg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/finalSol/p1.jpeg",
+    "size": 123108,
+    "sha256": "c7d2aa6512f0122a1600281052b29800508c6f10b370f1dfe8c821dbad25b042",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/finalSol/p2.jpeg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/finalSol/p2.jpeg",
+    "size": 130324,
+    "sha256": "2652030b3bb6d1185ec952693cd4631ccb3a1aeee14b2461048936cf75ba4f35",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/finalSol/p3.jpeg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/finalSol/p3.jpeg",
+    "size": 120866,
+    "sha256": "26ee0946cba08903e143718e323c336fb9fcf5a3fdc0f987795db56e2d3e0812",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/finalSol/p4.jpeg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/finalSol/p4.jpeg",
+    "size": 125626,
+    "sha256": "5f858732db39fa32f5e5d986ed1ebd6470f85ea324c79c1d732f045b94bf2e39",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/finalSol.zip!/p1.jpeg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/finalSol__acilmis/p1.jpeg",
+    "size": 119462,
+    "sha256": "f63b6178aa5a07fccb4bb4d515632e06b50fbc9232472d06af7fde76158e51d7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/finalSol.zip!/p2.jpeg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/finalSol__acilmis/p2.jpeg",
+    "size": 126654,
+    "sha256": "7d0d733c454f5d6e0b5327ea436a1c65c372cc1845221a032ac438014dbd55b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/finalSol.zip!/p4.jpeg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/finalSol__acilmis/p4.jpeg",
+    "size": 122292,
+    "sha256": "769cc8f8d75ba098c0594e881438557773fdec73bb88e1b8b46aec3c5bcf14f5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/finalSol.zip!/p3.jpeg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/finalSol__acilmis/p3.jpeg",
+    "size": 117548,
+    "sha256": "a17780deb8a4885385855d875dbeade628208b164fa1732a11d0783e444131d5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/furkan-micro değil/finalSol (1).pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/furkan-micro değil/finalSol (1).pdf",
+    "size": 834054,
+    "sha256": "e9ad342c3c02c9689478b9fb3cf88cbff20e2c7b5132b8fc822936094b871543",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/furkan-micro değil/mt_sol (1).pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/furkan-micro değil/mt_sol (1).pdf",
+    "size": 842473,
+    "sha256": "5c571d5249a5508d592b4376495e9672e6691bffc2b10eecd37f854f02788c7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/LAB1_task.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/LAB1_task.pdf",
+    "size": 272097,
+    "sha256": "4b38400121e9a084bf4088ef86133e256c1cf81e401cf554972d814a645c16d8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/LAB2_task.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/LAB2_task.pdf",
+    "size": 216810,
+    "sha256": "bfc6a23e14f4e2c5c5df4c93f6a1ae2df2c3bffddb2ae0f456babb49ebb7661b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/.cproject",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/.cproject",
+    "size": 25215,
+    "sha256": "edb48be070dc6dae4832996da55d3f4a3b3d52af19345ea99d1f41a374a1298a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/.project",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/.project",
+    "size": 1151,
+    "sha256": "4e76819aff9e005e53c25b149c149765a41011ffcdf0abe768bb31e7f48a0e0e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "size": 115,
+    "sha256": "a6188e0ff8e84f1ae480f614d33af1da46c360359ee8c6e29a97b521c1331b7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/.settings/language.settings.xml",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/.settings/language.settings.xml",
+    "size": 2172,
+    "sha256": "b6ee92111aa0a4a417d22c6c25aea073d3a044b5a6b29e83010bc43d62609b79",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/.settings/org.eclipse.core.resources.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/.settings/org.eclipse.core.resources.prefs",
+    "size": 57,
+    "sha256": "1a5b17d8a429f89e30d0d5fc6e12e81d37ea8f6f3f4a206383f4af8564292ac0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/blinkassembly Debug.launch",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/blinkassembly Debug.launch",
+    "size": 9519,
+    "sha256": "73220b8a76e3c79f5be4c0790e10a018d7e8fdf7eb174fea82f735e1bda88684",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/blinkassembly.elf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/blinkassembly.elf",
+    "size": 11384,
+    "sha256": "90053046592b0312d29ca0e75a4fe5ca796404e69e022c63e767ba9f53ecb001",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/blinkassembly.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/blinkassembly.list",
+    "size": 10418,
+    "sha256": "ad72794ac4360521806d5901778b8d8de0de748ffc82a4a64cb8c6150e4a82ea",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/blinkassembly.map",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/blinkassembly.map",
+    "size": 97571,
+    "sha256": "8cf621ebf1a6dff62d3ff00beb43cc0dd9f2558ad212f2fccc7faa6213d3633e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/makefile",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/makefile",
+    "size": 3021,
+    "sha256": "c8b7afac6027ca22a5c6ff52b5a1fab0ebb4cac051bab6f1429e298a0b782720",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/objects.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/objects.list",
+    "size": 53,
+    "sha256": "51c0bc766973d64103d837b02d9b5dbd82fefe8a6ed8b1dcb389ca758504377f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/objects.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/objects.mk",
+    "size": 285,
+    "sha256": "463fd13e6acfda6c30edd5cff64f26423ff7311dac730e53904b38ead8646e8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/sources.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/sources.mk",
+    "size": 586,
+    "sha256": "52a714c33f0542182f2314cfee51272ca7953ab12d2c675ac831cbd7c8d8f609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/Src/main.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/Src/main.d",
+    "size": 27,
+    "sha256": "50a0c9bc2be26518a0f84352af4285d04a21e9823098fde8c2576cc0173335cd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/Src/main.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/Src/main.o",
+    "size": 2032,
+    "sha256": "f93c5643c116746e4727fe3fd40c52cbf428b444ec9aa7a7d3aaa43bff9243aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/Src/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/Src/subdir.mk",
+    "size": 809,
+    "sha256": "b22865f2775cf49d06f381dc559094653b39b4f4f3af0f67c4844feada2d77be",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/Startup/startup_stm32f401retx.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/Startup/startup_stm32f401retx.d",
+    "size": 69,
+    "sha256": "09d219db009e5e3c79e344d1081e74a63912eb27ed2f172a7440ba11275f67fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/Startup/startup_stm32f401retx.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/Startup/startup_stm32f401retx.o",
+    "size": 6184,
+    "sha256": "f5d72236ce03488d7bebe85a94a5540a26a129bfd2da33e342f9dfa1e037463b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Debug/Startup/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Debug/Startup/subdir.mk",
+    "size": 938,
+    "sha256": "6bf86832ab9abdf7babb6e5f7a786edb16d4763d41472c96446a0700b790029e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Src/main.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Src/main.s",
+    "size": 931,
+    "sha256": "52d0da2410da408f9b5ce27ba44e26664bb3443a8b78fd23dd51243631473386",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/Startup/startup_stm32f401retx.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/Startup/startup_stm32f401retx.s",
+    "size": 19814,
+    "sha256": "f2d0f01ec3e349db6aa4e21c97733d413656e8afe1b05ae955fc783b8c36da9f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/STM32F401RETX_FLASH.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/STM32F401RETX_FLASH.ld",
+    "size": 5338,
+    "sha256": "ca7494bd7a61473743f7363efd7aecabe39380d9ec2e85ce4cd63d243418ac81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/blinkassembly/STM32F401RETX_RAM.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/blinkassembly/STM32F401RETX_RAM.ld",
+    "size": 5331,
+    "sha256": "27149df98734112493901991508f4b282cd92df971290f77d5c8503c97ce65a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/.cproject",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/.cproject",
+    "size": 25387,
+    "sha256": "8a7d0c23f12f948031f3098a79d4e9ba9248ae676f6001814f7ec0dacaeec48e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/.project",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/.project",
+    "size": 1142,
+    "sha256": "60c190603df144e3199f49db5a76f17af662407e89586a0fad1ec895dc2c3f8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "size": 115,
+    "sha256": "a6188e0ff8e84f1ae480f614d33af1da46c360359ee8c6e29a97b521c1331b7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/.settings/language.settings.xml",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/.settings/language.settings.xml",
+    "size": 2172,
+    "sha256": "1e8470aca9039e8ac954bc374683130077296a7ddcee953b7c41f015729d6eba",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/.settings/org.eclipse.core.resources.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/.settings/org.eclipse.core.resources.prefs",
+    "size": 57,
+    "sha256": "1a5b17d8a429f89e30d0d5fc6e12e81d37ea8f6f3f4a206383f4af8564292ac0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Lab1.elf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Lab1.elf",
+    "size": 11256,
+    "sha256": "2fc57b74ea8960d82c591feddf843276a5be4f621272ccca1a7e656727e226b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Lab1.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Lab1.list",
+    "size": 10750,
+    "sha256": "ed3a3d2df79479de334d8286a4bf487365e6b618f778e003204726bd5337289b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Lab1.map",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Lab1.map",
+    "size": 97562,
+    "sha256": "1165e0f548fff51e6e579b967910e7f8510c0520576a0f646892bf65027aa0cd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/makefile",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/makefile",
+    "size": 2877,
+    "sha256": "613daec7868566e8033eb9c1571ad3752d9f5eb059a4206b42c01b0733e84ef0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/objects.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/objects.list",
+    "size": 53,
+    "sha256": "09c87e4db37593537094e9461b33ac43b30edf4d8ce033cb0b956335b69ebe26",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/objects.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/objects.mk",
+    "size": 285,
+    "sha256": "463fd13e6acfda6c30edd5cff64f26423ff7311dac730e53904b38ead8646e8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/sources.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/sources.mk",
+    "size": 586,
+    "sha256": "52a714c33f0542182f2314cfee51272ca7953ab12d2c675ac831cbd7c8d8f609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Src/Lab1.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Src/Lab1.d",
+    "size": 27,
+    "sha256": "847ebc2aa9cbb86bab28af11a0d77652b50f4ba2881ba385d1b56ca3c6782cab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Src/Lab1.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Src/Lab1.o",
+    "size": 1892,
+    "sha256": "40abfad7d07cb28623575f7db96c594d59596616630aa89aa1ef85996d777b92",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Src/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Src/subdir.mk",
+    "size": 809,
+    "sha256": "0ebc66de10a0c8fc42751be2983e998c7dd6f76cb56d6f0c90b96e7ce51eab28",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Startup/startup_stm32f401retx.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Startup/startup_stm32f401retx.d",
+    "size": 69,
+    "sha256": "09d219db009e5e3c79e344d1081e74a63912eb27ed2f172a7440ba11275f67fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Startup/startup_stm32f401retx.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Startup/startup_stm32f401retx.o",
+    "size": 6160,
+    "sha256": "14420b6a5d589d2c7e453cce2ab2d07a248bc268e5d89a576e1e14bd31a43c4c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Debug/Startup/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Debug/Startup/subdir.mk",
+    "size": 938,
+    "sha256": "6bf86832ab9abdf7babb6e5f7a786edb16d4763d41472c96446a0700b790029e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Lab1 Debug.launch",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Lab1 Debug.launch",
+    "size": 9589,
+    "sha256": "00fbc9724b56042383c4c8a8212adac664452bb3a9c36bf417915d1494ec1068",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Src/Lab1.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Src/Lab1.s",
+    "size": 839,
+    "sha256": "2a82b104647c7bb6da57b63f2b901dad98c812b5ca535b635bd0206d42a92773",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/Startup/startup_stm32f401retx.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/Startup/startup_stm32f401retx.s",
+    "size": 19814,
+    "sha256": "f2d0f01ec3e349db6aa4e21c97733d413656e8afe1b05ae955fc783b8c36da9f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/STM32F401RETX_FLASH.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/STM32F401RETX_FLASH.ld",
+    "size": 5338,
+    "sha256": "ca7494bd7a61473743f7363efd7aecabe39380d9ec2e85ce4cd63d243418ac81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab1/STM32F401RETX_RAM.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab1/STM32F401RETX_RAM.ld",
+    "size": 5331,
+    "sha256": "27149df98734112493901991508f4b282cd92df971290f77d5c8503c97ce65a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/.cproject",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/.cproject",
+    "size": 24571,
+    "sha256": "72a1168b7fcfb1549a52a02330f9ccb93af76a2fdd4edb3676be87626c7052d7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/.project",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/.project",
+    "size": 1142,
+    "sha256": "1483451c81fb39c16dbc9bc921841ba2a0dd76db53f37577bbeb38c3af9bfb29",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "size": 115,
+    "sha256": "a6188e0ff8e84f1ae480f614d33af1da46c360359ee8c6e29a97b521c1331b7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/.settings/language.settings.xml",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/.settings/language.settings.xml",
+    "size": 2172,
+    "sha256": "d605b4b19759b7095f4456e7eef14d2c08dc7dcbd60418e9c2e889cc4fc5a989",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/.settings/org.eclipse.core.resources.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/.settings/org.eclipse.core.resources.prefs",
+    "size": 57,
+    "sha256": "1a5b17d8a429f89e30d0d5fc6e12e81d37ea8f6f3f4a206383f4af8564292ac0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Lab2.elf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Lab2.elf",
+    "size": 11224,
+    "sha256": "efbab53b976cc68c487540dbba92a981ecdd9a1a05515adc7cf6cc8356d490fc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Lab2.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Lab2.list",
+    "size": 10214,
+    "sha256": "ffee34f636793e2aac444bccd7844ab8132fd976c8b14c9daafbfd6bc7337385",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Lab2.map",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Lab2.map",
+    "size": 97562,
+    "sha256": "2354789bbf63dbf9c392fc34e7c06966e7ff99f1a9b1068c0f3f3eba46bc3358",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/makefile",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/makefile",
+    "size": 2877,
+    "sha256": "a1b5d39cc3697abf919060e56aaddbd90216ea2d58d02af384763c33a11df4d2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/objects.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/objects.list",
+    "size": 53,
+    "sha256": "697da0d46d6acc0de6817471c39a50c5d5e0509f274a097ef3c01e2fb87fefa3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/objects.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/objects.mk",
+    "size": 285,
+    "sha256": "463fd13e6acfda6c30edd5cff64f26423ff7311dac730e53904b38ead8646e8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/sources.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/sources.mk",
+    "size": 586,
+    "sha256": "52a714c33f0542182f2314cfee51272ca7953ab12d2c675ac831cbd7c8d8f609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Src/Lab2.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Src/Lab2.d",
+    "size": 27,
+    "sha256": "4b8fa6ae04bd9268acabf9fb7b2b64335ae92b13be0a0aa998cea7cd27ee4e52",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Src/Lab2.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Src/Lab2.o",
+    "size": 1912,
+    "sha256": "21d3e74eabf2ca61514c21f665353c5a044f8cb9e6a269b6042dad3748aa105a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Src/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Src/subdir.mk",
+    "size": 809,
+    "sha256": "01afe6d1fdb1f34fc1631f2f98e12aa0c6ec21d41ff8973d9879ee8cf9da673e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Startup/startup_stm32f401retx.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Startup/startup_stm32f401retx.d",
+    "size": 69,
+    "sha256": "09d219db009e5e3c79e344d1081e74a63912eb27ed2f172a7440ba11275f67fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Startup/startup_stm32f401retx.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Startup/startup_stm32f401retx.o",
+    "size": 6160,
+    "sha256": "af8e317747877e85d0a6dd0e433e053037f4d4439227f49d0cf2621d4689ce33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Debug/Startup/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Debug/Startup/subdir.mk",
+    "size": 938,
+    "sha256": "6bf86832ab9abdf7babb6e5f7a786edb16d4763d41472c96446a0700b790029e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Lab2 Debug.launch",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Lab2 Debug.launch",
+    "size": 9682,
+    "sha256": "f55c52af7024c845a1ccd539b03c6287cb9367fd8178d1c0fe8006ef9e005889",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Src/Lab2.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Src/Lab2.s",
+    "size": 364,
+    "sha256": "ea9a94b267cd1ecfdc8ab4da228ad58bcdf1d6f9dac40479d3cf411a2c87ece8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/Startup/startup_stm32f401retx.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/Startup/startup_stm32f401retx.s",
+    "size": 19814,
+    "sha256": "f2d0f01ec3e349db6aa4e21c97733d413656e8afe1b05ae955fc783b8c36da9f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/STM32F401RETX_FLASH.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/STM32F401RETX_FLASH.ld",
+    "size": 5338,
+    "sha256": "ca7494bd7a61473743f7363efd7aecabe39380d9ec2e85ce4cd63d243418ac81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2/STM32F401RETX_RAM.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2/STM32F401RETX_RAM.ld",
+    "size": 5331,
+    "sha256": "27149df98734112493901991508f4b282cd92df971290f77d5c8503c97ce65a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/.cproject",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/.cproject",
+    "size": 24564,
+    "sha256": "4776f6683ab65654fc1ff986a33cf50ac93208816520fc25199779a0953c41d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/.project",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/.project",
+    "size": 1143,
+    "sha256": "d353ce35ac99abbebd05955c135fd95bffd57219d9f0db8ebc1cb4c44f8c0c76",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/.settings/language.settings.xml",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/.settings/language.settings.xml",
+    "size": 2172,
+    "sha256": "4d1b246102401ccbedb4be2c80afba28f8b1a866b5843f51aa83d0aa57f616bf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/.settings/org.eclipse.core.resources.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/.settings/org.eclipse.core.resources.prefs",
+    "size": 57,
+    "sha256": "1a5b17d8a429f89e30d0d5fc6e12e81d37ea8f6f3f4a206383f4af8564292ac0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Lab2b.elf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Lab2b.elf",
+    "size": 12360,
+    "sha256": "0561cbb6bfc760fde8f33c20e041bb5120cf3c783c61e4c04278d1bec7acaf0f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Lab2b.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Lab2b.list",
+    "size": 10227,
+    "sha256": "56d0ec4005716ee50dc2e34d1cf669c08c5aaf4d58f42c6f29d9f32c5bbbc399",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Lab2b.map",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Lab2b.map",
+    "size": 99488,
+    "sha256": "f5ac4b27ba336eaae40965c427e7834e349687751f32eef33d3949a9ad150b85",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/makefile",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/makefile",
+    "size": 2893,
+    "sha256": "fac0d626f562f99eb7ee0cacde4c1020793215d20d806e9456a01855d5ba1db8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/objects.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/objects.list",
+    "size": 53,
+    "sha256": "1aedbc6aa306a875f185d313fed5bd17b3d367868af8c2b74350236943258d8c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/objects.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/objects.mk",
+    "size": 285,
+    "sha256": "463fd13e6acfda6c30edd5cff64f26423ff7311dac730e53904b38ead8646e8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/sources.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/sources.mk",
+    "size": 586,
+    "sha256": "52a714c33f0542182f2314cfee51272ca7953ab12d2c675ac831cbd7c8d8f609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Src/maim.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Src/maim.d",
+    "size": 27,
+    "sha256": "be851d767eaa749ee4307a7a572d9be3e2db8d007e75ac54082e279d99a770cc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Src/maim.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Src/maim.o",
+    "size": 1924,
+    "sha256": "8baea69d8c30422ce9d1052752e528e75509c2f47547bfaf91ad87e63be4514a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Src/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Src/subdir.mk",
+    "size": 809,
+    "sha256": "6708d39845cbc89e25ae7c25c7d35b49fe355fdd38a8e26e347947173959a46e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Startup/startup_stm32f446retx.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Startup/startup_stm32f446retx.d",
+    "size": 69,
+    "sha256": "fa33c37d0a133c5f380a3f70cff4c7f23f596ef4fafaf7a28debcff605297719",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Startup/startup_stm32f446retx.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Startup/startup_stm32f446retx.o",
+    "size": 7552,
+    "sha256": "ea318e9dc532644bbde2a8044fba21cf30e7527fb2d813827a0196aca3d41d82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Debug/Startup/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Debug/Startup/subdir.mk",
+    "size": 938,
+    "sha256": "5c2e21d7961d051b643e0e8a35aad191b91d767858204e38917c05c1dafac58c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Lab2b Debug.launch",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Lab2b Debug.launch",
+    "size": 9471,
+    "sha256": "64271a1ad618b46bc60cc9d5e24a57007a42c46645fc9b5edc0c6eaa0cfa8d64",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Src/maim.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Src/maim.s",
+    "size": 367,
+    "sha256": "7ab7ccc41d9e42dc3a99ad88bc7d2ddbc2260e774c529c44760bc8e232e62b83",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/Startup/startup_stm32f446retx.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/Startup/startup_stm32f446retx.s",
+    "size": 22365,
+    "sha256": "f3e1f050e97ed6b2ac8b23bb4776d238ce45dff0c717c67dba7edb32d05a590b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/STM32F446RETX_FLASH.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/STM32F446RETX_FLASH.ld",
+    "size": 5340,
+    "sha256": "5f15cc044e6e5b1cf0d02838b4fa2145be7dfb97fa7ce240f8ce058c79c30f3a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study/Lab2b/STM32F446RETX_RAM.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study/Lab2b/STM32F446RETX_RAM.ld",
+    "size": 5333,
+    "sha256": "6dee92fd74dff380090a47f003920ab74dd5a097c2553bf73df2033b26966250",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/.cproject",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/.cproject",
+    "size": 25387,
+    "sha256": "8a7d0c23f12f948031f3098a79d4e9ba9248ae676f6001814f7ec0dacaeec48e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/.project",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/.project",
+    "size": 1142,
+    "sha256": "60c190603df144e3199f49db5a76f17af662407e89586a0fad1ec895dc2c3f8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "size": 115,
+    "sha256": "a6188e0ff8e84f1ae480f614d33af1da46c360359ee8c6e29a97b521c1331b7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/.settings/language.settings.xml",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/.settings/language.settings.xml",
+    "size": 2172,
+    "sha256": "1e8470aca9039e8ac954bc374683130077296a7ddcee953b7c41f015729d6eba",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/.settings/org.eclipse.core.resources.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/.settings/org.eclipse.core.resources.prefs",
+    "size": 57,
+    "sha256": "1a5b17d8a429f89e30d0d5fc6e12e81d37ea8f6f3f4a206383f4af8564292ac0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Lab1.elf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Lab1.elf",
+    "size": 11256,
+    "sha256": "2fc57b74ea8960d82c591feddf843276a5be4f621272ccca1a7e656727e226b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Lab1.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Lab1.list",
+    "size": 10750,
+    "sha256": "ed3a3d2df79479de334d8286a4bf487365e6b618f778e003204726bd5337289b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Lab1.map",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Lab1.map",
+    "size": 97562,
+    "sha256": "1165e0f548fff51e6e579b967910e7f8510c0520576a0f646892bf65027aa0cd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Src/Lab1.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Src/Lab1.d",
+    "size": 27,
+    "sha256": "847ebc2aa9cbb86bab28af11a0d77652b50f4ba2881ba385d1b56ca3c6782cab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Src/Lab1.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Src/Lab1.o",
+    "size": 1892,
+    "sha256": "40abfad7d07cb28623575f7db96c594d59596616630aa89aa1ef85996d777b92",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Src/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Src/subdir.mk",
+    "size": 809,
+    "sha256": "0ebc66de10a0c8fc42751be2983e998c7dd6f76cb56d6f0c90b96e7ce51eab28",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Startup/startup_stm32f401retx.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Startup/startup_stm32f401retx.d",
+    "size": 69,
+    "sha256": "09d219db009e5e3c79e344d1081e74a63912eb27ed2f172a7440ba11275f67fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Startup/startup_stm32f401retx.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Startup/startup_stm32f401retx.o",
+    "size": 6160,
+    "sha256": "14420b6a5d589d2c7e453cce2ab2d07a248bc268e5d89a576e1e14bd31a43c4c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/Startup/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/Startup/subdir.mk",
+    "size": 938,
+    "sha256": "6bf86832ab9abdf7babb6e5f7a786edb16d4763d41472c96446a0700b790029e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/makefile",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/makefile",
+    "size": 2877,
+    "sha256": "613daec7868566e8033eb9c1571ad3752d9f5eb059a4206b42c01b0733e84ef0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/objects.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/objects.list",
+    "size": 53,
+    "sha256": "09c87e4db37593537094e9461b33ac43b30edf4d8ce033cb0b956335b69ebe26",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/objects.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/objects.mk",
+    "size": 285,
+    "sha256": "463fd13e6acfda6c30edd5cff64f26423ff7311dac730e53904b38ead8646e8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Debug/sources.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Debug/sources.mk",
+    "size": 586,
+    "sha256": "52a714c33f0542182f2314cfee51272ca7953ab12d2c675ac831cbd7c8d8f609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Lab1 Debug.launch",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Lab1 Debug.launch",
+    "size": 9589,
+    "sha256": "00fbc9724b56042383c4c8a8212adac664452bb3a9c36bf417915d1494ec1068",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/STM32F401RETX_FLASH.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/STM32F401RETX_FLASH.ld",
+    "size": 5338,
+    "sha256": "ca7494bd7a61473743f7363efd7aecabe39380d9ec2e85ce4cd63d243418ac81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/STM32F401RETX_RAM.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/STM32F401RETX_RAM.ld",
+    "size": 5331,
+    "sha256": "27149df98734112493901991508f4b282cd92df971290f77d5c8503c97ce65a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Src/Lab1.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Src/Lab1.s",
+    "size": 839,
+    "sha256": "2a82b104647c7bb6da57b63f2b901dad98c812b5ca535b635bd0206d42a92773",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab1/Startup/startup_stm32f401retx.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab1/Startup/startup_stm32f401retx.s",
+    "size": 19814,
+    "sha256": "f2d0f01ec3e349db6aa4e21c97733d413656e8afe1b05ae955fc783b8c36da9f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/.cproject",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/.cproject",
+    "size": 24571,
+    "sha256": "72a1168b7fcfb1549a52a02330f9ccb93af76a2fdd4edb3676be87626c7052d7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/.project",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/.project",
+    "size": 1142,
+    "sha256": "1483451c81fb39c16dbc9bc921841ba2a0dd76db53f37577bbeb38c3af9bfb29",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "size": 115,
+    "sha256": "a6188e0ff8e84f1ae480f614d33af1da46c360359ee8c6e29a97b521c1331b7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/.settings/language.settings.xml",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/.settings/language.settings.xml",
+    "size": 2172,
+    "sha256": "d605b4b19759b7095f4456e7eef14d2c08dc7dcbd60418e9c2e889cc4fc5a989",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/.settings/org.eclipse.core.resources.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/.settings/org.eclipse.core.resources.prefs",
+    "size": 57,
+    "sha256": "1a5b17d8a429f89e30d0d5fc6e12e81d37ea8f6f3f4a206383f4af8564292ac0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Lab2.elf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Lab2.elf",
+    "size": 11224,
+    "sha256": "efbab53b976cc68c487540dbba92a981ecdd9a1a05515adc7cf6cc8356d490fc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Lab2.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Lab2.list",
+    "size": 10214,
+    "sha256": "ffee34f636793e2aac444bccd7844ab8132fd976c8b14c9daafbfd6bc7337385",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Lab2.map",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Lab2.map",
+    "size": 97562,
+    "sha256": "2354789bbf63dbf9c392fc34e7c06966e7ff99f1a9b1068c0f3f3eba46bc3358",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Src/Lab2.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Src/Lab2.d",
+    "size": 27,
+    "sha256": "4b8fa6ae04bd9268acabf9fb7b2b64335ae92b13be0a0aa998cea7cd27ee4e52",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Src/Lab2.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Src/Lab2.o",
+    "size": 1912,
+    "sha256": "21d3e74eabf2ca61514c21f665353c5a044f8cb9e6a269b6042dad3748aa105a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Src/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Src/subdir.mk",
+    "size": 809,
+    "sha256": "01afe6d1fdb1f34fc1631f2f98e12aa0c6ec21d41ff8973d9879ee8cf9da673e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Startup/startup_stm32f401retx.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Startup/startup_stm32f401retx.d",
+    "size": 69,
+    "sha256": "09d219db009e5e3c79e344d1081e74a63912eb27ed2f172a7440ba11275f67fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Startup/startup_stm32f401retx.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Startup/startup_stm32f401retx.o",
+    "size": 6160,
+    "sha256": "af8e317747877e85d0a6dd0e433e053037f4d4439227f49d0cf2621d4689ce33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/Startup/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/Startup/subdir.mk",
+    "size": 938,
+    "sha256": "6bf86832ab9abdf7babb6e5f7a786edb16d4763d41472c96446a0700b790029e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/makefile",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/makefile",
+    "size": 2877,
+    "sha256": "a1b5d39cc3697abf919060e56aaddbd90216ea2d58d02af384763c33a11df4d2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/objects.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/objects.list",
+    "size": 53,
+    "sha256": "697da0d46d6acc0de6817471c39a50c5d5e0509f274a097ef3c01e2fb87fefa3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/objects.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/objects.mk",
+    "size": 285,
+    "sha256": "463fd13e6acfda6c30edd5cff64f26423ff7311dac730e53904b38ead8646e8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Debug/sources.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Debug/sources.mk",
+    "size": 586,
+    "sha256": "52a714c33f0542182f2314cfee51272ca7953ab12d2c675ac831cbd7c8d8f609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Lab2 Debug.launch",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Lab2 Debug.launch",
+    "size": 9682,
+    "sha256": "f55c52af7024c845a1ccd539b03c6287cb9367fd8178d1c0fe8006ef9e005889",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/STM32F401RETX_FLASH.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/STM32F401RETX_FLASH.ld",
+    "size": 5338,
+    "sha256": "ca7494bd7a61473743f7363efd7aecabe39380d9ec2e85ce4cd63d243418ac81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/STM32F401RETX_RAM.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/STM32F401RETX_RAM.ld",
+    "size": 5331,
+    "sha256": "27149df98734112493901991508f4b282cd92df971290f77d5c8503c97ce65a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Src/Lab2.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Src/Lab2.s",
+    "size": 364,
+    "sha256": "ea9a94b267cd1ecfdc8ab4da228ad58bcdf1d6f9dac40479d3cf411a2c87ece8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2/Startup/startup_stm32f401retx.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2/Startup/startup_stm32f401retx.s",
+    "size": 19814,
+    "sha256": "f2d0f01ec3e349db6aa4e21c97733d413656e8afe1b05ae955fc783b8c36da9f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/.cproject",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/.cproject",
+    "size": 24564,
+    "sha256": "4776f6683ab65654fc1ff986a33cf50ac93208816520fc25199779a0953c41d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/.project",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/.project",
+    "size": 1143,
+    "sha256": "d353ce35ac99abbebd05955c135fd95bffd57219d9f0db8ebc1cb4c44f8c0c76",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/.settings/language.settings.xml",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/.settings/language.settings.xml",
+    "size": 2172,
+    "sha256": "4d1b246102401ccbedb4be2c80afba28f8b1a866b5843f51aa83d0aa57f616bf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/.settings/org.eclipse.core.resources.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/.settings/org.eclipse.core.resources.prefs",
+    "size": 57,
+    "sha256": "1a5b17d8a429f89e30d0d5fc6e12e81d37ea8f6f3f4a206383f4af8564292ac0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Lab2b.elf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Lab2b.elf",
+    "size": 12360,
+    "sha256": "0561cbb6bfc760fde8f33c20e041bb5120cf3c783c61e4c04278d1bec7acaf0f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Lab2b.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Lab2b.list",
+    "size": 10227,
+    "sha256": "56d0ec4005716ee50dc2e34d1cf669c08c5aaf4d58f42c6f29d9f32c5bbbc399",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Lab2b.map",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Lab2b.map",
+    "size": 99488,
+    "sha256": "f5ac4b27ba336eaae40965c427e7834e349687751f32eef33d3949a9ad150b85",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Src/maim.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Src/maim.d",
+    "size": 27,
+    "sha256": "be851d767eaa749ee4307a7a572d9be3e2db8d007e75ac54082e279d99a770cc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Src/maim.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Src/maim.o",
+    "size": 1924,
+    "sha256": "8baea69d8c30422ce9d1052752e528e75509c2f47547bfaf91ad87e63be4514a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Src/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Src/subdir.mk",
+    "size": 809,
+    "sha256": "6708d39845cbc89e25ae7c25c7d35b49fe355fdd38a8e26e347947173959a46e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Startup/startup_stm32f446retx.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Startup/startup_stm32f446retx.d",
+    "size": 69,
+    "sha256": "fa33c37d0a133c5f380a3f70cff4c7f23f596ef4fafaf7a28debcff605297719",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Startup/startup_stm32f446retx.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Startup/startup_stm32f446retx.o",
+    "size": 7552,
+    "sha256": "ea318e9dc532644bbde2a8044fba21cf30e7527fb2d813827a0196aca3d41d82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/Startup/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/Startup/subdir.mk",
+    "size": 938,
+    "sha256": "5c2e21d7961d051b643e0e8a35aad191b91d767858204e38917c05c1dafac58c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/makefile",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/makefile",
+    "size": 2893,
+    "sha256": "fac0d626f562f99eb7ee0cacde4c1020793215d20d806e9456a01855d5ba1db8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/objects.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/objects.list",
+    "size": 53,
+    "sha256": "1aedbc6aa306a875f185d313fed5bd17b3d367868af8c2b74350236943258d8c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/objects.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/objects.mk",
+    "size": 285,
+    "sha256": "463fd13e6acfda6c30edd5cff64f26423ff7311dac730e53904b38ead8646e8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Debug/sources.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Debug/sources.mk",
+    "size": 586,
+    "sha256": "52a714c33f0542182f2314cfee51272ca7953ab12d2c675ac831cbd7c8d8f609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Lab2b Debug.launch",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Lab2b Debug.launch",
+    "size": 9471,
+    "sha256": "64271a1ad618b46bc60cc9d5e24a57007a42c46645fc9b5edc0c6eaa0cfa8d64",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/STM32F446RETX_FLASH.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/STM32F446RETX_FLASH.ld",
+    "size": 5340,
+    "sha256": "5f15cc044e6e5b1cf0d02838b4fa2145be7dfb97fa7ce240f8ce058c79c30f3a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/STM32F446RETX_RAM.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/STM32F446RETX_RAM.ld",
+    "size": 5333,
+    "sha256": "6dee92fd74dff380090a47f003920ab74dd5a097c2553bf73df2033b26966250",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Src/maim.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Src/maim.s",
+    "size": 367,
+    "sha256": "7ab7ccc41d9e42dc3a99ad88bc7d2ddbc2260e774c529c44760bc8e232e62b83",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/Lab2b/Startup/startup_stm32f446retx.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/Lab2b/Startup/startup_stm32f446retx.s",
+    "size": 22365,
+    "sha256": "f3e1f050e97ed6b2ac8b23bb4776d238ce45dff0c717c67dba7edb32d05a590b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/.cproject",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/.cproject",
+    "size": 25215,
+    "sha256": "edb48be070dc6dae4832996da55d3f4a3b3d52af19345ea99d1f41a374a1298a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/.project",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/.project",
+    "size": 1151,
+    "sha256": "4e76819aff9e005e53c25b149c149765a41011ffcdf0abe768bb31e7f48a0e0e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/.settings/com.st.stm32cube.ide.mcu.sfrview.prefs",
+    "size": 115,
+    "sha256": "a6188e0ff8e84f1ae480f614d33af1da46c360359ee8c6e29a97b521c1331b7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/.settings/language.settings.xml",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/.settings/language.settings.xml",
+    "size": 2172,
+    "sha256": "b6ee92111aa0a4a417d22c6c25aea073d3a044b5a6b29e83010bc43d62609b79",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/.settings/org.eclipse.core.resources.prefs",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/.settings/org.eclipse.core.resources.prefs",
+    "size": 57,
+    "sha256": "1a5b17d8a429f89e30d0d5fc6e12e81d37ea8f6f3f4a206383f4af8564292ac0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/Src/main.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/Src/main.d",
+    "size": 27,
+    "sha256": "50a0c9bc2be26518a0f84352af4285d04a21e9823098fde8c2576cc0173335cd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/Src/main.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/Src/main.o",
+    "size": 2032,
+    "sha256": "f93c5643c116746e4727fe3fd40c52cbf428b444ec9aa7a7d3aaa43bff9243aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/Src/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/Src/subdir.mk",
+    "size": 809,
+    "sha256": "b22865f2775cf49d06f381dc559094653b39b4f4f3af0f67c4844feada2d77be",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/Startup/startup_stm32f401retx.d",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/Startup/startup_stm32f401retx.d",
+    "size": 69,
+    "sha256": "09d219db009e5e3c79e344d1081e74a63912eb27ed2f172a7440ba11275f67fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/Startup/startup_stm32f401retx.o",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/Startup/startup_stm32f401retx.o",
+    "size": 6184,
+    "sha256": "f5d72236ce03488d7bebe85a94a5540a26a129bfd2da33e342f9dfa1e037463b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/Startup/subdir.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/Startup/subdir.mk",
+    "size": 938,
+    "sha256": "6bf86832ab9abdf7babb6e5f7a786edb16d4763d41472c96446a0700b790029e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/blinkassembly.elf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/blinkassembly.elf",
+    "size": 11384,
+    "sha256": "90053046592b0312d29ca0e75a4fe5ca796404e69e022c63e767ba9f53ecb001",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/blinkassembly.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/blinkassembly.list",
+    "size": 10418,
+    "sha256": "ad72794ac4360521806d5901778b8d8de0de748ffc82a4a64cb8c6150e4a82ea",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/blinkassembly.map",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/blinkassembly.map",
+    "size": 97571,
+    "sha256": "8cf621ebf1a6dff62d3ff00beb43cc0dd9f2558ad212f2fccc7faa6213d3633e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/makefile",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/makefile",
+    "size": 3021,
+    "sha256": "c8b7afac6027ca22a5c6ff52b5a1fab0ebb4cac051bab6f1429e298a0b782720",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/objects.list",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/objects.list",
+    "size": 53,
+    "sha256": "51c0bc766973d64103d837b02d9b5dbd82fefe8a6ed8b1dcb389ca758504377f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/objects.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/objects.mk",
+    "size": 285,
+    "sha256": "463fd13e6acfda6c30edd5cff64f26423ff7311dac730e53904b38ead8646e8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Debug/sources.mk",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Debug/sources.mk",
+    "size": 586,
+    "sha256": "52a714c33f0542182f2314cfee51272ca7953ab12d2c675ac831cbd7c8d8f609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/STM32F401RETX_FLASH.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/STM32F401RETX_FLASH.ld",
+    "size": 5338,
+    "sha256": "ca7494bd7a61473743f7363efd7aecabe39380d9ec2e85ce4cd63d243418ac81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/STM32F401RETX_RAM.ld",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/STM32F401RETX_RAM.ld",
+    "size": 5331,
+    "sha256": "27149df98734112493901991508f4b282cd92df971290f77d5c8503c97ce65a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Src/main.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Src/main.s",
+    "size": 931,
+    "sha256": "52d0da2410da408f9b5ce27ba44e26664bb3443a8b78fd23dd51243631473386",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/Startup/startup_stm32f401retx.s",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/Startup/startup_stm32f401retx.s",
+    "size": 19814,
+    "sha256": "f2d0f01ec3e349db6aa4e21c97733d413656e8afe1b05ae955fc783b8c36da9f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/Lab3study.rar!/blinkassembly/blinkassembly Debug.launch",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Lab3study__acilmis/blinkassembly/blinkassembly Debug.launch",
+    "size": 9519,
+    "sha256": "73220b8a76e3c79f5be4c0790e10a018d7e8fdf7eb174fea82f735e1bda88684",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/EE2004 Final Solution Manual(bu cem unsalanin sinavi).pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/EE2004 Final Solution Manual(bu cem unsalanin sinavi).pdf",
+    "size": 171770,
+    "sha256": "3967265d066d93e7236339021b74281867d5ef17ff3913dcf753914fc7d176db",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/finalSol.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/finalSol.pdf",
+    "size": 834054,
+    "sha256": "e9ad342c3c02c9689478b9fb3cf88cbff20e2c7b5132b8fc822936094b871543",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/lab1 solution.png",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/lab1 solution.png",
+    "size": 111150,
+    "sha256": "a9d953de47e4e3f5e47c8fc075a794303cb482f5725f607fd28498ee937499a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/lab2_1.png",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/lab2_1.png",
+    "size": 133127,
+    "sha256": "b33ae2ffaef454077f2e4b49cdf5c3373c23e2b21d49a2059ba3034e9915e1ac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/lab2_2.png",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/lab2_2.png",
+    "size": 106974,
+    "sha256": "9e24de15e358e5511887007ab87f3e8a8b23df43cb533f0fab63cca10df7d890",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/lab4 friday.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/lab4 friday.pdf",
+    "size": 138446,
+    "sha256": "835c04f3815600fe6871591ecbeeb54e6225f79e380ea9d7ab0e6ab132cda863",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/lab4 thursday.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/lab4 thursday.pdf",
+    "size": 138790,
+    "sha256": "9f95cad296b8980317ef835de96dfd46a9e8c008e843eee610c8e21c0d0bb135",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/makeupSol.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/makeupSol.pdf",
+    "size": 866547,
+    "sha256": "54897b2b03f78cb1c5782ae4caa9f4318ca43419c7a62b83ea04b338d92165b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/mt_sol.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/mt_sol.pdf",
+    "size": 842473,
+    "sha256": "5c571d5249a5508d592b4376495e9672e6691bffc2b10eecd37f854f02788c7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 1 Introduction.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 1 Introduction.pptx",
+    "size": 65281,
+    "sha256": "b42f70ef5f9682bcecc9a534d4a907832578d961db47377df302f92a633fc7af",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 10 Real-time Operating Systems.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 10 Real-time Operating Systems.pptx",
+    "size": 123132,
+    "sha256": "c32ec235c49a07e3aea7293fe01aadc708297e757ec6c601f2564c31c6275eac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 11 LCD, Touch Screen, and GUI Formation.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 11 LCD, Touch Screen, and GUI Formation.pptx",
+    "size": 256077,
+    "sha256": "ba3460888aa60717684edd598e3260b4ae9e74efb66ddf962f75065b4483a3e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 12 Introduction to Digital Signal Processing.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 12 Introduction to Digital Signal Processing.pptx",
+    "size": 123391,
+    "sha256": "3e1703c65c4d20cefd438078694627a4e28055a0f9d380e876539a04b1826230",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 13 Introduction to Digital Control.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 13 Introduction to Digital Control.pptx",
+    "size": 167737,
+    "sha256": "fd43a394eaec447bc99b2245516e9129c20bc630f12cd087206ba54e921b8034",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 14 Introduction to Digital Image Processing.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 14 Introduction to Digital Image Processing.pptx",
+    "size": 828456,
+    "sha256": "f463b1486d8528a28f9e438869bf501398445ddbd5603af13b07e6d2165e8183",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 15 Advanced Topics.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 15 Advanced Topics.pptx",
+    "size": 65450,
+    "sha256": "9b0c990d6bfa8f78042ec16c825a5b5d319f79a3711d81d33514a2271a7e1250",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 2 Microcontroller Architecture.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 2 Microcontroller Architecture.pptx",
+    "size": 937941,
+    "sha256": "ec583db31cf4a34c51ba5b1601fd7ed28606bcd4c5cd659f4f65cb0a0ff42b59",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 3 Software Development Platforms.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 3 Software Development Platforms.pptx",
+    "size": 287793,
+    "sha256": "c47e335e7a9d0dd059e008a4e01e26968fc5428a859f9de41720e798c34de28b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 4 Digital Input and Output.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 4 Digital Input and Output.pptx",
+    "size": 1338526,
+    "sha256": "3c2f0a7e32b6ed4544eef3cbdd429e6fecadf5bcd3f2af720b4c10b1ad20829c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 5 Interrupts and Power Management.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 5 Interrupts and Power Management.pptx",
+    "size": 359525,
+    "sha256": "f326c30777506aea8a62fa022b62c7a47307f25cfbe5bda8024535886f38304f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 6 Timing Operations.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 6 Timing Operations.pptx",
+    "size": 223579,
+    "sha256": "72ca8b24c37749d7c722b2ae112b120ec1358d6fddb5c77f43907dd3ac35577a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 7 Conversion Between Analog and Digital Values.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 7 Conversion Between Analog and Digital Values.pptx",
+    "size": 290149,
+    "sha256": "7fd7a2cbe0f26295e75990328720730f860150c16a2f7140d7ac0c56c3881b1d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 8 Digital Communication.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 8 Digital Communication.pptx",
+    "size": 593967,
+    "sha256": "e65e59e68c473cc2a710350a53f1e55fc94286b10bf289045a14e687b0862235",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/slides/Chapter 9 Memory Operations.pptx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/slides/Chapter 9 Memory Operations.pptx",
+    "size": 181090,
+    "sha256": "d2a6554de55f84394254e1295b674dd60f82f4fb07f03d6d9be72ab225f3bf7b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/tümslaytlar.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/tümslaytlar.pdf",
+    "size": 13379994,
+    "sha256": "0f4a882361fc7ee32d2c04413d87f9e6badb5ed1e260a039d93b4a746b273f6d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/week12.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/week12.pdf",
+    "size": 1850868,
+    "sha256": "967a1e55d700f0373f6b1f028c57c87813f9e06cb5da2a4a6d4f806d4e42965f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/week13.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/week13.pdf",
+    "size": 1716122,
+    "sha256": "e80bb4e00175112ef6d8398d3fba529c38a69f96a917de4c71071c6fcc90673e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/week1n2.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/week1n2.pdf",
+    "size": 1595392,
+    "sha256": "d29516372b89fff172c83a6b28e68a104e3d2995da38dc6cc0fc2b825146f963",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/week3n4.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/week3n4.pdf",
+    "size": 1283228,
+    "sha256": "1dad2cc4fe62c6e11592f85a800825fd66d2066ee336b3812b06fe0ac2b29a34",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/week5 (1).pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/week5 (1).pdf",
+    "size": 687493,
+    "sha256": "b58d49793a202facea69b1ddf25f6e57e0159562823704fd392eac0bda6caa47",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/week6.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/week6.pdf",
+    "size": 1383075,
+    "sha256": "016bbb771581dd2ec45aebe69f4980c99cf2d4ac731f63412050ffe83f0c162b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/week7n8.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/week7n8.pdf",
+    "size": 2716699,
+    "sha256": "fd9ad95e6a9e6e98c25a00034526097c66e68967025c25a106261fe35d394195",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro kemal-akif/micro kemal/week9n10n11.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/week9n10n11.pdf",
+    "size": 2514512,
+    "sha256": "788d4923a5904a4dac9b870cc836d00630faf12b58e226517db89b5b11b677a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro.docx",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro.docx",
+    "size": 91723,
+    "sha256": "e915283a3716ec99137c644ee2872fe7c7855f8e250e10b9f8012e3a17341086",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/micro.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro.pdf",
+    "size": 182552,
+    "sha256": "3880e2bdf179a09476671fe1e3fc930fcfcbbef0ec119099f4676a7739822f81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0003.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0003.jpg",
+    "size": 461167,
+    "sha256": "13378952cd3f54efe20214e281d84243422433e0e951a4c7e5db71bc486d9592",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0004.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0004.jpg",
+    "size": 343905,
+    "sha256": "66beba4d4b8306b361491464e9468de3213fdae85f5572ec51c23ca4295bae78",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0005.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0005.jpg",
+    "size": 267071,
+    "sha256": "15c47288a53d6f20f930a027e8e0c94e0ddd1fe937469d0c30fad907b201e32a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0006.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0006.jpg",
+    "size": 280226,
+    "sha256": "df7bfcbb61db73089a6082a012b51aa6cf04c32f1b1bb143cbf0616c839c202f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0007.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0007.jpg",
+    "size": 319893,
+    "sha256": "16c3e62f495b17bc8f237e1793bbe3bbd084f2a1214cda32e0e8cdd0cf1bc94a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0008.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0008.jpg",
+    "size": 320283,
+    "sha256": "fef522beb55357b1ccd1e6b5d197860b3cada2569c754b97f3cf48cfbeeb7a15",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0009.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0009.jpg",
+    "size": 319019,
+    "sha256": "a022bd788c103ea700b5bea0a33054c237eb3d9259d77620b3bdeaa978778627",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0010.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0010.jpg",
+    "size": 459681,
+    "sha256": "3816dd53264a7977f57966172b105ca4ae002a4e81ad0dc48de97ab8957aefed",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0011.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0011.jpg",
+    "size": 569067,
+    "sha256": "fbfeaf8a9b373c3ab5811dfd36f9b15eebf0a864acc99ca1eea41aa6d82b103e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0012.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0012.jpg",
+    "size": 343632,
+    "sha256": "1c16ecc07cf0d8b9af54d8f6a296a14dabc40ab02cfeef95bc387b1dfa5f6a64",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/IMG-20250411-WA0013.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/IMG-20250411-WA0013.jpg",
+    "size": 351291,
+    "sha256": "f942ee2910ce57e35253964c005932a2d9004e867fb93809d80514b7fac2ad67",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/WhatsApp Görsel 2025-04-11 saat 15.03.12_ab17cd12.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/WhatsApp Görsel 2025-04-11 saat 15.03.12_ab17cd12.jpg",
+    "size": 278654,
+    "sha256": "cb09fc0d43f0c10ba20f573f6569ea7287cba1657aa8f7414d8d6c2f792772b8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt foto/WhatsApp Görsel 2025-04-11 saat 15.03.12_cc667d20.jpg",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt foto/WhatsApp Görsel 2025-04-11 saat 15.03.12_cc667d20.jpg",
+    "size": 343905,
+    "sha256": "66beba4d4b8306b361491464e9468de3213fdae85f5572ec51c23ca4295bae78",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/mt_slayts.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/mt_slayts.pdf",
+    "size": 8681015,
+    "sha256": "a4a260510eadc5d16715c611c294480ccdfdd8ba1ab03f326c5af160dd6b7050",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/week1n2.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/week1n2.pdf",
+    "size": 1595392,
+    "sha256": "d29516372b89fff172c83a6b28e68a104e3d2995da38dc6cc0fc2b825146f963",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/week3.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/week3.pdf",
+    "size": 1187939,
+    "sha256": "d3c017428cb7d65d408a8875ee96155c3d7a5686e2a0c98f1bee2115d8d5cbfa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/week3n4.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/week3n4.pdf",
+    "size": 1283228,
+    "sha256": "1dad2cc4fe62c6e11592f85a800825fd66d2066ee336b3812b06fe0ac2b29a34",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/week5.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/week5.pdf",
+    "size": 687493,
+    "sha256": "b58d49793a202facea69b1ddf25f6e57e0159562823704fd392eac0bda6caa47",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/week6.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/week6.pdf",
+    "size": 1383075,
+    "sha256": "016bbb771581dd2ec45aebe69f4980c99cf2d4ac731f63412050ffe83f0c162b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15ghT0n_0Ownb02hoVdYobbRIrdLl7pqU",
+    "source_member": "micro24-25/week7n8.pdf",
+    "path": "2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/week7n8.pdf",
+    "size": 2708894,
+    "sha256": "69b8b2003e671f3f0039a437c05b7a31a6047c2f6e1b18a7a19bd89e3da6812b",
+    "storage": "git"
   }
 ]
