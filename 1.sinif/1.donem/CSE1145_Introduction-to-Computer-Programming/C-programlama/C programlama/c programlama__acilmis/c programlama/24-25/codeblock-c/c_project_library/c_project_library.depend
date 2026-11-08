@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735127056 source:c:\users\lenovo\desktop\codeblock-c\c_project_library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

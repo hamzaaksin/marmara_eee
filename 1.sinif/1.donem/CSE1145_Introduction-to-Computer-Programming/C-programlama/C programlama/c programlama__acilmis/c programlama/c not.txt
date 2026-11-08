@@ -1,0 +1,10 @@
+mallocun kullanımı :
+
+int *alan1= malloc(10*sizeof(int));
+
+
+
+
+power(sayi,ustu)
+// result = pow(4,2);//
+

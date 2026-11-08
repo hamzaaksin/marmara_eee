@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int max(int a, int b, int c, int d){
+    int result;
+
+
+    if(a>b && a>c && a>d){
+        result = a;
+    }
+    else if(b>a && b>c && b>d){
+        result = b;
+    }
+    else if (c>a && c>b && c>d){s
+        result = c;
+    }
+    else {
+        result = d;
+    }
+    return result ;
+}
+
+int main(){
+    int a, b, c, d;
+
+    scanf("%d%d%d%d", &a, &b, &c, &d);
+    printf("%d", max(a, b, c, d));
+
+    return 0;
+}

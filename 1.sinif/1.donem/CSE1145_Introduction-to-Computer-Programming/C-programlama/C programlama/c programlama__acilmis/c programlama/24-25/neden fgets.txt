@@ -1,0 +1,6 @@
+fgets(name, 20, stdin);: Bu, standart girişten (genellikle klavye) en fazla 19 karakter okuyup name dizisine kaydeder. 20. karakter olarak dizinin sonuna null karakter (\0) otomatik olarak eklenir.
+fgets Fonksiyonunun Parametreleri:
+name: Kullanıcıdan alınan girişin depolanacağı dizi.
+20: Okunacak maksimum karakter sayısı (null karakter dahil). Yani 19 karaktere kadar giriş alınabilir.
+stdin: Standart giriş, yani klavye girdisi.
+Neden fgets Kullanılıyor?: fgets, scanf("%s", ...) fonksiyonuna göre daha güvenlidir çünkü dizi taşmasını engellemek için okunacak karakter sayısını sınırlar. Ayrıca, boşluk karakterlerine izin verirken scanf boşlukları algılayamaz.
