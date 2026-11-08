@@ -534,5 +534,77 @@
     "size": 499909,
     "sha256": "c1cf8626a7daf25619d4b396ab1ac9f8f905feb36852aa2e8194c99140e8370d",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/150720062-mehmet ali kamalak-final.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/150720062-mehmet ali kamalak-final.pdf",
+    "size": 1589195,
+    "sha256": "809e628c5e929c42b354ee67670a70fa47f178162206c9095dbc51ff87577006",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/2016_complex_analysis_problems_solutions.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/2016_complex_analysis_problems_solutions.pdf",
+    "size": 957266,
+    "sha256": "46e7369dcc0d56ab3ef4333c705cbc60224cf254202fe3314a85bcead67f82c5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/A_First_Course_in_with_Applications_Comp.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/A_First_Course_in_with_Applications_Comp.pdf",
+    "size": 4572669,
+    "sha256": "4c57a34580d018324ce37b885efb51cd59c94e46a9a604f884a78e066c18686f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/book.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/book.pdf",
+    "size": 915585,
+    "sha256": "6f4bac565611815f8e61053e72118b238b1f3a88b6538d13bfcb821887f10e6d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/caqp.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/caqp.pdf",
+    "size": 247621,
+    "sha256": "bfcaccccdd6d7c2a5e95d5e4d0c264a5cb74846f1c26c1d5370f5ddc3c30fab9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/CheatSheetCN.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/CheatSheetCN.pdf",
+    "size": 204700,
+    "sha256": "fbccbdbedfde25753c5c92a9297c302e63568c1ba398c39148444e47505948d0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/complex.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/complex.pdf",
+    "size": 266517,
+    "sha256": "8813652f6cf7473c4052a926a894567ad2f6e28b5f4954c70eb2ac3451a36bd0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/Complex_Formula_Sheet.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/Complex_Formula_Sheet.pdf",
+    "size": 208956,
+    "sha256": "5245bca7baa62eec5c3f0452634589440449f245ee7ae1794c04767c902724df",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ICe_Ei9vPiAFnw6rY4WeRaiJBBjypP8z",
+    "source_member": "engineering math-kemal bayat/Ekran görüntüsü 2023-04-29 023501.png",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/engineering-math-kemal-bayat/engineering math-kemal bayat/Ekran görüntüsü 2023-04-29 023501.png",
+    "size": 704155,
+    "sha256": "b72d4040e17c93b4f2087bfdbbf073376378c3cd5bbbbb45f6f0aca021d8c01d",
+    "storage": "git"
   }
 ]
