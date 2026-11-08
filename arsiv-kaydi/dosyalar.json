@@ -25870,5 +25870,597 @@
     "size": 114288316,
     "sha256": "3d3ec7bb68326c08ab81057b6cbc227978eeb63d58a7cd1b7b0b53f5ec185a32",
     "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/(Newnes) John Kuffel, E. Kuffel, W. S. Zaengl - High Voltage Engineering Fundamentals-Newnes (2000).pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/(Newnes) John Kuffel, E. Kuffel, W. S. Zaengl - High Voltage Engineering Fundamentals-Newnes (2000).pdf",
+    "size": 4698225,
+    "sha256": "d52d2aa986425259a559ff53228cf3f1288f189631c868ae5057e3f8bd473e0a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/ee4047_finalgrades.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/ee4047_finalgrades.pdf",
+    "size": 408096,
+    "sha256": "f41f63532ddf0d7d7666f60961f8e6c6d1b6c7df19bb8fd2b3c560e37ee8228b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/expert answers.docx",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/expert answers.docx",
+    "size": 16411,
+    "sha256": "77d46bcdfb01932515a4a3d40d23f13b94d6a3194cd0b183a833504ba6bdf203",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Expert Speaker.mp4",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Expert Speaker.mp4",
+    "size": 1018859431,
+    "sha256": "7f3064b066931907f306fa78d0045ea18964d95e99dce0ef00914e1acd3134ef",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Nurullah_Said_Tüğmen_150720823.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Nurullah_Said_Tüğmen_150720823.pdf",
+    "size": 1409322,
+    "sha256": "d036646e748c631cc8a4a8fb620733efcf21c97a8cdf935a6cac3044bbfd3a37",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/G2/ee4047_project_guideline_2023.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/G2/ee4047_project_guideline_2023.pdf",
+    "size": 254998,
+    "sha256": "bf8f0febe85d13df9b1e3376cc0fc590e5a9a1d2eca33ab06e5b5fd48c7b6159",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/G2/formerly_selected_labs.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/G2/formerly_selected_labs.pdf",
+    "size": 408323,
+    "sha256": "a5b853ce20baef4d62057cc5caebd9c7fdcdd585c7727053757166bfe4ee9170",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/G2/Group-2 PPTX.pptx",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/G2/Group-2 PPTX.pptx",
+    "size": 4283654,
+    "sha256": "990c9ab5a21eef32e2c9cb4f2f15d56af1fd8bc2926f92af0b0b205f34a99b91",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/G2/measurment of High Volatge.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/G2/measurment of High Volatge.pdf",
+    "size": 455451,
+    "sha256": "47ed8b768f32aaeb8e1fdd2729f986aa9f259de509d74442260af1be89f0a225",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/G2/Nurullah_4.docx",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/G2/Nurullah_4.docx",
+    "size": 79120,
+    "sha256": "10d9dc8e2fc6132926d2f41bc32c5c801faf1ff183e42c07aac3a8b9f711e8f8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/G2/Nurullah_4.pptx",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/G2/Nurullah_4.pptx",
+    "size": 189033,
+    "sha256": "b5b638c5599d44242e9514f5ef25b19f7d9f2b9af3dbf2e6e726c2fb7719044b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/G2/project_groups.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/G2/project_groups.pdf",
+    "size": 438326,
+    "sha256": "76b748e7b6f6b865ccee9b384a6b1e197ff424e6fe9fd7345c07df7cc6c6e86d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/G2/Yeni Microsoft Word Belgesi.docx",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/G2/Yeni Microsoft Word Belgesi.docx",
+    "size": 15088,
+    "sha256": "1c3210cc74eb2b9f0e03f7fdb2c7f2baf425e41d9d15fb705b982a01b4ed7bd8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/Group 1_presentation.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/Group 1_presentation.pdf",
+    "size": 3070621,
+    "sha256": "63931817cc58b4ff15177fbc564520994afb61d0712220b3b61648edb1e30465",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/Group 2_presentation.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/Group 2_presentation.pdf",
+    "size": 3226389,
+    "sha256": "50260fafb732b696e78ed440dc3e29ecbf472aee3bf829208bc701ed0ec46f99",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/Group 3_presentation.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/Group 3_presentation.pdf",
+    "size": 5833424,
+    "sha256": "0d86f932e1bfbe1f4c952cbde499ee1144c48470a3e96182e4e43a9f9da0d787",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/Group 4_presentation.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/Group 4_presentation.pdf",
+    "size": 24249577,
+    "sha256": "9a1a391e96403b63a6880e7ad86c3544620f590f7e03e068182fa60644221d95",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/Group 5_presentation.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/Group 5_presentation.pdf",
+    "size": 1382052,
+    "sha256": "916f6745bdcf4ebb60c035da5e60e01902055efc307031cf11b94ad082e37f2e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/Group 6_presentation.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/Group 6_presentation.pdf",
+    "size": 3323155,
+    "sha256": "dd7f123133aa29ed2504ce46cc3f5c9eeb7b86372f3c0e27b7181018b77d1b21",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/Group 7_presentation.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/Group 7_presentation.pdf",
+    "size": 2500637,
+    "sha256": "da3167d4671a0f6e510906e480de5015f1e6ce85a682f071968d198245615694",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/Group 8_presentation.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/Group 8_presentation.pdf",
+    "size": 1212354,
+    "sha256": "289db748ae5f3a163ee3714f07e17a3e7120c9060fa143456c1d75400186637d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/Presentation/other groups.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/Presentation/other groups.pdf",
+    "size": 429859,
+    "sha256": "f3db7735ba2249c74af88ca31f4b00665de0f651b27333de7bd29334b3046719",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_10.1_monday_080522_ee4047.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_10.1_monday_080522_ee4047.pdf",
+    "size": 1283535,
+    "sha256": "5de97412fe15b78d1fb9d027ee5443b9b6a7de349f4538127a162f8fd213dcf6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_10.2_thursday_110523_ee4047.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_10.2_thursday_110523_ee4047.pdf",
+    "size": 2415714,
+    "sha256": "5cc15913df26225b2368920e948fd277c268f1d6a25305c56e45b17c61d1dcec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_11.2_thursday_180523_ee4047.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_11.2_thursday_180523_ee4047.pdf",
+    "size": 1803645,
+    "sha256": "abc62077e51278b00e8f19bda08136a64f6ce101b35e278d1babc860a4d58f89",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_12.1_monday_220523_ee4047_hour2_azehir__1_.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_12.1_monday_220523_ee4047_hour2_azehir__1_.pdf",
+    "size": 768928,
+    "sha256": "7df2f7fc7b0eb64f8f2d60e8cb8391df00d147b0e2fe2505986445e887a939ca",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_13.1_monday_290523_ee4047_hour1_azehir__2_.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_13.1_monday_290523_ee4047_hour1_azehir__2_.pdf",
+    "size": 1030035,
+    "sha256": "25433fa4968cbe3f4d69d31c0e17b7d5ec1ca4948c0c7f4670424b77eb8907fc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_13.2_monday_080623_ee4047_breakdowninliquiddielectrics.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_13.2_monday_080623_ee4047_breakdowninliquiddielectrics.pdf",
+    "size": 588395,
+    "sha256": "42ba9ecc8cf23d283d029592b4b66f57a195ee904153d315cb304ec221cedb8d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_14.2_thursday_080623_ee4047_lesson_approximatedelectricfieldcalcu.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_14.2_thursday_080623_ee4047_lesson_approximatedelectricfieldcalcu.pdf",
+    "size": 782961,
+    "sha256": "f9395650ea5031cc8bc831a30ee5601fe4a06c9752ec88e97200359419ee15b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_14.2_thursday_080623_ee4047_lesson_breakdowninsoliddielectrics.pd.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_14.2_thursday_080623_ee4047_lesson_breakdowninsoliddielectrics.pd.pdf",
+    "size": 378539,
+    "sha256": "24c288d5fe0c47e45e6ac5b4376b4562f8ee586ab8cbb363571f2d5250c04bab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14/week_14.2_thursday_080623_ee4047_studquestions.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14/week_14.2_thursday_080623_ee4047_studquestions.pdf",
+    "size": 1058395,
+    "sha256": "0b69812c5e0dfc43cc0a2010f4248fcf1a4207bb724d788a51112a310058d4f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W10-14.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W10-14.pdf",
+    "size": 8977837,
+    "sha256": "d0c2d84f53186d7405d451655bc1ec80a5f55daa10fa2cfe7a8995dfc723c6f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Final/W2-9.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Final/W2-9.pdf",
+    "size": 17013401,
+    "sha256": "29855f6b99465d59c39e14984261075d8306ff395ef73e7be6e4388bb815507f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Midterm/mt47_draft2.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Midterm/mt47_draft2.pdf",
+    "size": 172187,
+    "sha256": "8fd5b299d900cc2659d4cc8acc6ac7775194880f3e7085fb5fdf5b20e0a5da1f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/Midterm/Nurullah_Said_Tüğmen.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/Midterm/Nurullah_Said_Tüğmen.pdf",
+    "size": 739032,
+    "sha256": "4b048aab0ab5faa3573aff274e6264faecd3005de91e6d4a3eee0fb46c0765c5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_2.1_06.03.23_monday_lesson_slides.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_2.1_06.03.23_monday_lesson_slides.pdf",
+    "size": 1744952,
+    "sha256": "b01804b78c7384128fe0d4fac1d4dd06bccef862bb6708fd4e34ead051427534",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_2.2_09.03.23_thursday_lesson_slides.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_2.2_09.03.23_thursday_lesson_slides.pdf",
+    "size": 668684,
+    "sha256": "fcf0b734ab65e742681118f239dc3e15bea8a6940dd7c648c46a033268212d9e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_3.1_monday_130323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_3.1_monday_130323_ee4047_azehir.pdf",
+    "size": 3337945,
+    "sha256": "7bd8d862986b2db06b9325b2d8164dda80c7760056e8794dc25f9ee20a40aa2f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_3.2_thursday_160323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_3.2_thursday_160323_ee4047_azehir.pdf",
+    "size": 3110963,
+    "sha256": "4c7d6aee5f6cc973885f7db3ea2cafab4f6fec98e5abb0cc33720b4e9bb68aa1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_4.1_monday_200323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_4.1_monday_200323_ee4047_azehir.pdf",
+    "size": 635201,
+    "sha256": "559d6c35b2562849c54302fe787f31591811e8d2eb699dd2739b372e8ce52822",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_4.2_thursday_230323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_4.2_thursday_230323_ee4047_azehir.pdf",
+    "size": 854748,
+    "sha256": "db6e4237a3942ee82b4a281f8a7f89747bc890798da76d64dc3c6bdda0381dcf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_5.1_monday_270323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_5.1_monday_270323_ee4047_azehir.pdf",
+    "size": 375343,
+    "sha256": "4beb3e04bde81937af06bc55f306228f02c0a5565e9215f0af4d8fe5a7e0bcc2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_5.2_thursday_300323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_5.2_thursday_300323_ee4047_azehir.pdf",
+    "size": 802550,
+    "sha256": "b8a9be12b87374ff5dac831bb5b116ef29570a386eda572a6c8ea0a96ea4d673",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_6.1_monday_280322_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_6.1_monday_280322_ee4047_azehir.pdf",
+    "size": 407429,
+    "sha256": "2c453ea768f7f7278794f5cdce9499484acbaa0d6adb4d265dc41f8dd6e05316",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_6.2_thursday_060423_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_6.2_thursday_060423_ee4047_azehir.pdf",
+    "size": 1000856,
+    "sha256": "382e0a4352eb353a885bb7cc4e4f5b337ad767e59ed9168788e806054a2f0964",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_7.1_monday_100422_ee4047.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_7.1_monday_100422_ee4047.pdf",
+    "size": 590971,
+    "sha256": "eda7bc0eabad430d8e3159c219569f91940744530059feb30a929439f15eb06e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_7.2_thursday_130423_ee4047.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_7.2_thursday_130423_ee4047.pdf",
+    "size": 1612715,
+    "sha256": "b6a5aa7ee4b5f274a0e66103d40f3b133873dae7d133043c2a6dcda253b75f5f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_7.2_tuesday_050422_ee4047_azehir__1_.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_7.2_tuesday_050422_ee4047_azehir__1_.pdf",
+    "size": 319160,
+    "sha256": "b06357f2cd4e6caff616a3a957270f3a4216a9605f56d3c9ffcaadbff7e57784",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_7.2_tuesday_050422_study_questions_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_7.2_tuesday_050422_study_questions_ee4047_azehir.pdf",
+    "size": 560745,
+    "sha256": "d6108ce2d7805e94a498408692ffa4d5298e5fed716d62102410eb28a2e82561",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/W2-9/week_9.2_thursday_270423_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/W2-9/week_9.2_thursday_270423_ee4047_azehir.pdf",
+    "size": 1191596,
+    "sha256": "b3a419bb491f83855b078e1f00d5f5b8142d67fe956cf81ca6e79afe40b6a019",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W1/w1-1_270223_ee4047_highvoltagetechniquesi_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W1/w1-1_270223_ee4047_highvoltagetechniquesi_azehir.pdf",
+    "size": 434298,
+    "sha256": "971925e68a762a5a89adb1c4c978d6762fd73bb4e9896ba914a3dc1e5121a248",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W13/week_13-1_hour_extra_lesson_video_recording.mp4",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W13/week_13-1_hour_extra_lesson_video_recording.mp4",
+    "size": 138802901,
+    "sha256": "11901f6f8ed580258fc84a813f165906b1a7a3b139a969f7a45143d263b8789b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W2/week_2.1_06.03.23_monday_lesson_slides.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W2/week_2.1_06.03.23_monday_lesson_slides.pdf",
+    "size": 1744952,
+    "sha256": "b01804b78c7384128fe0d4fac1d4dd06bccef862bb6708fd4e34ead051427534",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W2/week_2.2_09.03.23_thursday_lesson_slides.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W2/week_2.2_09.03.23_thursday_lesson_slides.pdf",
+    "size": 668684,
+    "sha256": "fcf0b734ab65e742681118f239dc3e15bea8a6940dd7c648c46a033268212d9e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W2/week_2_monday_06.03.23_lesson_video_recording_part-1.mp4",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W2/week_2_monday_06.03.23_lesson_video_recording_part-1.mp4",
+    "size": 112945514,
+    "sha256": "a0dd59883f4902115cf8d9882efedaaa5ad1657505d7c8229a2ca84dd196a539",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W2/week_2_monday_06.03.23_lesson_video_recording_part-2.mp4",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W2/week_2_monday_06.03.23_lesson_video_recording_part-2.mp4",
+    "size": 93800985,
+    "sha256": "536f655ff57281a0e1dea7f5b3fba1631e9ee45c85848442880f09b078c13a55",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W3/1.mp4",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W3/1.mp4",
+    "size": 61410900,
+    "sha256": "ef6b3e26363d24676c25e5cb76a02365a7694410806f44254a96d0e2d9021cf6",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W3/2.mp4",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W3/2.mp4",
+    "size": 39852143,
+    "sha256": "6addff3eda6787a746313b5eef5dce80822e84ee33cc25bf583df2e0b0bf0be0",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W3/3.mp4",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W3/3.mp4",
+    "size": 97418596,
+    "sha256": "2629f609206eb2897a807bef64b9f04f526f97a7383e21f14e0277f819dfef02",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W3/4.mp4",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W3/4.mp4",
+    "size": 60025903,
+    "sha256": "acb2076f7bf485c6e42775b5b4581187da1b1411041e43ff1f0ca4894f35ea52",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W3/week_3.1_monday_130323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W3/week_3.1_monday_130323_ee4047_azehir.pdf",
+    "size": 3337945,
+    "sha256": "7bd8d862986b2db06b9325b2d8164dda80c7760056e8794dc25f9ee20a40aa2f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W3/week_3.2_thursday_160323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W3/week_3.2_thursday_160323_ee4047_azehir.pdf",
+    "size": 3110963,
+    "sha256": "4c7d6aee5f6cc973885f7db3ea2cafab4f6fec98e5abb0cc33720b4e9bb68aa1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W4/week_4.1_monday_200323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W4/week_4.1_monday_200323_ee4047_azehir.pdf",
+    "size": 635201,
+    "sha256": "559d6c35b2562849c54302fe787f31591811e8d2eb699dd2739b372e8ce52822",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W4/week_4.2_thursday_230323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W4/week_4.2_thursday_230323_ee4047_azehir.pdf",
+    "size": 854748,
+    "sha256": "db6e4237a3942ee82b4a281f8a7f89747bc890798da76d64dc3c6bdda0381dcf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W5/week_5.1_monday_270323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W5/week_5.1_monday_270323_ee4047_azehir.pdf",
+    "size": 375343,
+    "sha256": "4beb3e04bde81937af06bc55f306228f02c0a5565e9215f0af4d8fe5a7e0bcc2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W5/week_5.2_thursday_300323_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W5/week_5.2_thursday_300323_ee4047_azehir.pdf",
+    "size": 802550,
+    "sha256": "b8a9be12b87374ff5dac831bb5b116ef29570a386eda572a6c8ea0a96ea4d673",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W6/week_6.1_monday_280322_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W6/week_6.1_monday_280322_ee4047_azehir.pdf",
+    "size": 407429,
+    "sha256": "2c453ea768f7f7278794f5cdce9499484acbaa0d6adb4d265dc41f8dd6e05316",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W6/week_6.2_thursday_060423_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W6/week_6.2_thursday_060423_ee4047_azehir.pdf",
+    "size": 1000856,
+    "sha256": "382e0a4352eb353a885bb7cc4e4f5b337ad767e59ed9168788e806054a2f0964",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W7/week_7.1_monday_100422_ee4047.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W7/week_7.1_monday_100422_ee4047.pdf",
+    "size": 590971,
+    "sha256": "eda7bc0eabad430d8e3159c219569f91940744530059feb30a929439f15eb06e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W7/week_7.2_thursday_130423_ee4047.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W7/week_7.2_thursday_130423_ee4047.pdf",
+    "size": 1612715,
+    "sha256": "b6a5aa7ee4b5f274a0e66103d40f3b133873dae7d133043c2a6dcda253b75f5f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W7/week_7.2_tuesday_050422_ee4047_azehir__1_.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W7/week_7.2_tuesday_050422_ee4047_azehir__1_.pdf",
+    "size": 319160,
+    "sha256": "b06357f2cd4e6caff616a3a957270f3a4216a9605f56d3c9ffcaadbff7e57784",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W8/week_7.2_tuesday_050422_study_questions_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W8/week_7.2_tuesday_050422_study_questions_ee4047_azehir.pdf",
+    "size": 560745,
+    "sha256": "d6108ce2d7805e94a498408692ffa4d5298e5fed716d62102410eb28a2e82561",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W9/week_9.2_thursday_270423_ee4047_azehir.pdf",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W9/week_9.2_thursday_270423_ee4047_azehir.pdf",
+    "size": 1191596,
+    "sha256": "b3a419bb491f83855b078e1f00d5f5b8142d67fe956cf81ca6e79afe40b6a019",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1QSR6KnbuR5Helkcr9HgxopR3ImKtoWqZ",
+    "source_member": "EE4047 (High voltage)/WEEKS/W9/week_9.2_thursday_270423_ee4047_azehir.pptx",
+    "path": "Secmeli/Teknik/EE4047_High-Voltage-Techniques-I/EE4047-High-voltage/EE4047 (High voltage)/WEEKS/W9/week_9.2_thursday_270423_ee4047_azehir.pptx",
+    "size": 1031533,
+    "sha256": "7717583f34c21e6facd9077a486c5c7a501d9022b5c4c4700200709a2dd2b191",
+    "storage": "git"
   }
 ]
