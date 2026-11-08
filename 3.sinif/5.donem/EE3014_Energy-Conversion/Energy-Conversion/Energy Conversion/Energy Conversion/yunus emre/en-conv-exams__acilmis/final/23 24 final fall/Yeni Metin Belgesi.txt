@@ -1,0 +1,4 @@
+In  Q1 the per-unit resistance iwas given by 0.018 pu. 
+But in my solution  I have taken as 0.0018 pu. 
+Now, I correct the operations accordingly for grading.
+Only Req has changed to be 2.38 Ohms

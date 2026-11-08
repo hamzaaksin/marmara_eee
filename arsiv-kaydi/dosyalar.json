@@ -27246,5 +27246,2533 @@
     "size": 201524,
     "sha256": "4c0ad7aa09dbf82153fa8bbc6f4270ae181ad404a8153035c75d357339d31c38",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/2023_24_Fall_Study questions for final exam.txt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/2023_24_Fall_Study questions for final exam.txt",
+    "size": 421,
+    "sha256": "9deafbb53b2ba7e22521210df33dd8198b7d8f2bebe15bbdcd6e683103349530",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/2024 final.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/2024 final.pdf",
+    "size": 7098941,
+    "sha256": "8c3057f965121d595816ffefae155b330ed048aac166342a5bb9943251775f93",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/22 güz.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/22 güz.pdf",
+    "size": 3617092,
+    "sha256": "2bd5237335bb2abc8fd3d69a3351f504e0491b91bdd8fe21c9352c63aa8c57b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (1).jpeg",
+    "size": 174045,
+    "sha256": "7fd61999ef4102014f92ecd443a52b41cee3667855f7f3d435feeda9ed47c47a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (2).jpeg",
+    "size": 196031,
+    "sha256": "a518699056a59f28f7c8edb637a7eb5e8a3f7be19e8ef05aa3d294f5e83fdb9a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (3).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (3).jpeg",
+    "size": 200399,
+    "sha256": "842a3d4de896828c1c40575680699f5fc12df2730a3e1d99ae46b48dccec1da7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12.jpeg",
+    "size": 195771,
+    "sha256": "4715d185d32c76298653aeb8959919614fb2143d84beaa9ad824f1142b92c156",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13 (1).jpeg",
+    "size": 281327,
+    "sha256": "a0e563a00b1d67e22406a73114b2dfbfae842abfff4fda0044afc358be9b9512",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13 (2).jpeg",
+    "size": 226627,
+    "sha256": "18e6cd14e56d53cd031fd0def053ac5a4c1618abe0370eab3e2fa93354482adf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13.jpeg",
+    "size": 253035,
+    "sha256": "bfe570fc730ce0ac2abede22f6eeb5e7a3c95ece161b5acf1cfde94723598c56",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/23 24 final fall/Yeni Metin Belgesi.txt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/23 24 final fall/Yeni Metin Belgesi.txt",
+    "size": 198,
+    "sha256": "60222dd9df33b2eb4d0cfdf12f24bb1a3744523d87404327e9a2c84a6f77f4b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26 (1).jpeg",
+    "size": 203532,
+    "sha256": "e20484e32f98b4feaaa2ebeae4154a814415b444b5fb389ad714404ba8aa329e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26 (2).jpeg",
+    "size": 199074,
+    "sha256": "b1fc7bc0fcbc731f9fc33a9a99cab4d347228eb1129d88deacfac4353635ff83",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26.jpeg",
+    "size": 151095,
+    "sha256": "d00af769b277538a52c153ffc2283999e18e949e6181a814b51f2cb6d6b06b65",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.27 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.27 (1).jpeg",
+    "size": 179545,
+    "sha256": "d1a32f6a617468e9fdfd559b03b411704f6d385b561cc24f6b1890cd75844658",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.27.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.27.jpeg",
+    "size": 153250,
+    "sha256": "f36c936dbe05dd07ecfe03fdaf1ce74c56f9b295380dc782f4e7afd6f7646af0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/EE3014_FinalExamSolutions2024_Spring.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/EE3014_FinalExamSolutions2024_Spring.pdf",
+    "size": 7098941,
+    "sha256": "8c3057f965121d595816ffefae155b330ed048aac166342a5bb9943251775f93",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/ee3042_2022_final_with_solutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/ee3042_2022_final_with_solutions.pdf",
+    "size": 14855944,
+    "sha256": "1716ec3d42e97cd57f2dc25d8aee8e2d61c50c7500c5464428cba11387ca426c",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/EE3042_3014_SOLUTIONS_2022_FALL.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/EE3042_3014_SOLUTIONS_2022_FALL.pdf",
+    "size": 1088112,
+    "sha256": "406b015966bd5fe4e23acf32c553d6b4b0232931408f8e038634bcd8520d7474",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/energy final  çalışma soruları.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/energy final  çalışma soruları.pdf",
+    "size": 1483505,
+    "sha256": "baaf00eee65be17d06ac58749417d2d02329be65f54c50305afbe16ff2a9b0fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/enerji con 22_23 spring final .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/enerji con 22_23 spring final .pdf",
+    "size": 1213852,
+    "sha256": "f06a1d751fe776cb6ef360def4219fe2779adf7880536c671109f6b6d109d02f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/enerji con 23_24 spring final .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/enerji con 23_24 spring final .pdf",
+    "size": 7098941,
+    "sha256": "8c3057f965121d595816ffefae155b330ed048aac166342a5bb9943251775f93",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/Final Exam Solution 2024.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/Final Exam Solution 2024.pdf",
+    "size": 1444702,
+    "sha256": "a233732f61a0a3d73c3589119cd39c9a1c2a51fa63f6f925fb00b7f6c9a9d49c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.14 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.14 (1).jpeg",
+    "size": 293469,
+    "sha256": "1baa5bfcfb822dfd88bb8b01ed052327de41d37685e6a233e575e0367e4057e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.14 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.14 (2).jpeg",
+    "size": 248667,
+    "sha256": "7e7a26326f67653c360f8914e2497a8e6282e39ad69989c3b81fa10922d12c39",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.14 (3).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.14 (3).jpeg",
+    "size": 337887,
+    "sha256": "c1c876ce5a02d634da628bb11cce7c2bce12dcb6aa3a326575a19a0426ebc801",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.14.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.14.jpeg",
+    "size": 263041,
+    "sha256": "bdef1d455f7e95173d4d40345bd416baf170b4a1002fe8d07aa975f3ed7e4112",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.15.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_final/WhatsApp Image 2024-01-15 at 18.54.15.jpeg",
+    "size": 293286,
+    "sha256": "bbea0407d87a64dbcf66bfdde3319b009224b97bc62f863fc2e251b8258e184a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/1-DC MOTORS VE GENERATORS_Final_Exam_Questions.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/1-DC MOTORS VE GENERATORS_Final_Exam_Questions.docx",
+    "size": 41043,
+    "sha256": "8961230ddb1570e4caf788338d7b4af8b4119ef2296077cf7487394554cdfb32",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/1-DC MOTORS VE GENERATORS_Final_Exam_Questions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/1-DC MOTORS VE GENERATORS_Final_Exam_Questions.pdf",
+    "size": 487266,
+    "sha256": "427975089ee78f48e2a9e76ac4f5ff2f5b305fbffe617e307f978b32ec3170b2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/1.1-Transformers_Exam_Instructor_Style.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/1.1-Transformers_Exam_Instructor_Style.docx",
+    "size": 11777,
+    "sha256": "f9a215723a7409ab66409a1ea058b9c20309ae4a944014c0ed32dbebbd6b7778",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/1.1-Transformers_Exam_Instructor_Style.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/1.1-Transformers_Exam_Instructor_Style.pdf",
+    "size": 171593,
+    "sha256": "b4856f85a076603ed2e9f96bb803230f32c3f34fcccde3e5e84346f7358965db",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/2-Transformers_Final_Exam_Questions.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/2-Transformers_Final_Exam_Questions.docx",
+    "size": 40441,
+    "sha256": "24ab9f5f3252c39ad38c4ae3392b8c19e059cfe19ffeb183467691bc9f2cb71b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/2-Transformers_Final_Exam_Questions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/2-Transformers_Final_Exam_Questions.pdf",
+    "size": 346761,
+    "sha256": "84ab42a0ca25f8a22ef0a2075b7cc5f3f3507a0ac073ddb91cc63c6bc216fca8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/2.1-DC_Motors_Realistic_Final_Exam.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/2.1-DC_Motors_Realistic_Final_Exam.docx",
+    "size": 11851,
+    "sha256": "34278e485ec7fb5d6d9fe4b29812f85e340684ef72ac223362b9d9e5a1323401",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/2.1-DC_Motors_Realistic_Final_Exam.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/2.1-DC_Motors_Realistic_Final_Exam.pdf",
+    "size": 193047,
+    "sha256": "3fcd4951c39f560cf03a85fba5fa09ab67275e9a63b65ee2d921d7251fc1bdc1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/3-Senkron_Generatorler_Final_Sinav_Hazirligi.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/3-Senkron_Generatorler_Final_Sinav_Hazirligi.docx",
+    "size": 35906,
+    "sha256": "c2d8b3fcad2cb9d5867cf03bf541a94d1b3fcc55a488d9309fd6c19594826b61",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/3-Senkron_Generatorler_Final_Sinav_Hazirligi.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/3-Senkron_Generatorler_Final_Sinav_Hazirligi.pdf",
+    "size": 319919,
+    "sha256": "c2c36f90ae15f1ee9a656e15f74c5533282d9d7af4b1b76032df5dfb74d8aa56",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/3.1-Senkron_Makineler_Ileri_Seviye_10_Soru_Hoca_Tarzi.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/3.1-Senkron_Makineler_Ileri_Seviye_10_Soru_Hoca_Tarzi.docx",
+    "size": 15619,
+    "sha256": "01f2c43c3f85d2261e7328a9e088742b812cab4f3f16ca43164d9a2b9b4c88c2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/3.1-Senkron_Makineler_Ileri_Seviye_10_Soru_Hoca_Tarzi.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/3.1-Senkron_Makineler_Ileri_Seviye_10_Soru_Hoca_Tarzi.pdf",
+    "size": 4192688,
+    "sha256": "4a1d34f449785dda6df37a4e9495413c44203065d4837d20d5656df70b305579",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/4-Senkron_Motorlar_Final_Sinav_Hazirligi.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/4-Senkron_Motorlar_Final_Sinav_Hazirligi.docx",
+    "size": 30828,
+    "sha256": "82bb58430b77800579b0a29486fca7b2e98de9a6e7f773ec294f96d1eb7d1ab8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/4-Senkron_Motorlar_Final_Sinav_Hazirligi.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/4-Senkron_Motorlar_Final_Sinav_Hazirligi.pdf",
+    "size": 273222,
+    "sha256": "2ec34024663e368995b26b3ddf1ebb26143d70d86a87c0e2bc78b4ac3605b94e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/4.1-Senkron_Motorlar_ADVANCED_QUESTIONS.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/4.1-Senkron_Motorlar_ADVANCED_QUESTIONS.docx",
+    "size": 15615,
+    "sha256": "8acc45a7f76febb4a418db79d72f532be640ccbdcae748e3f762baafff34477a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_Final hazırlık soruları/4.1-Senkron_Motorlar_ADVANCED_QUESTIONS.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_Final hazırlık soruları/4.1-Senkron_Motorlar_ADVANCED_QUESTIONS.pdf",
+    "size": 4241830,
+    "sha256": "92fe8c4c46de9c17741a3c764b6acb03a47394877bb83e50da8271af47f8ba88",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/1-electricmachineryprinciples.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/1-electricmachineryprinciples.pdf",
+    "size": 7001959,
+    "sha256": "18eda1c55134d1829fda25efb1c12096636e41b549811f8d6810ea83ef0841e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/2-DC_machinery_fundamenals.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/2-DC_machinery_fundamenals.pdf",
+    "size": 4836989,
+    "sha256": "e722298d4bd06c48e59d961590df30e98a26ab8dcd9f195197d92159f3c2ec29",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/3-DC_Motors.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/3-DC_Motors.pdf",
+    "size": 4344871,
+    "sha256": "02a1c9f82f48f3aa0217634fcd047399abd56c4a6190e54692a46dc517c88439",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/4-Chp7_DC_machinery_fundamentals.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/4-Chp7_DC_machinery_fundamentals.pdf",
+    "size": 14616057,
+    "sha256": "c9288e84e75d66189c2a0a7319b78775f60d3c62bb67e5211cb36eea07f93fd6",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/5-DC Generators(526-551)_Chapman.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/5-DC Generators(526-551)_Chapman.pdf",
+    "size": 7126318,
+    "sha256": "61e26d80802bdc9ec090ff0beaa17be8f3f554fb54b86407355ecce7d92cd00f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/6-Chapter2_Transformers.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/6-Chapter2_Transformers.pdf",
+    "size": 3290758,
+    "sha256": "e1a648316d87f831dee02020a6a6b9abc59622954909731160071c837e12618b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/7-Syncronous_Generators.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/7-Syncronous_Generators.pdf",
+    "size": 4760670,
+    "sha256": "5b8d8167d8521a507416d829bc4debd6aa18d46ebb0c19185e917cb3c433b0ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/8-Synchronous_Motors.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/8-Synchronous_Motors.pdf",
+    "size": 2833702,
+    "sha256": "4e842f84cafde1a5a89c24da9a3354e1701909e69aa639afba2124b80f14b21f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/2025_slaytlar/9-Chapter6_Induction Motors.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/2025_slaytlar/9-Chapter6_Induction Motors.pdf",
+    "size": 26713547,
+    "sha256": "e9d11d2706222019b432f10f8d4884ce7d42ab9233f46940811484c032598b23",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Electric Machinery Fundamentals by Stephen J. Chapman.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Electric Machinery Fundamentals by Stephen J. Chapman.pdf",
+    "size": 42451981,
+    "sha256": "58a3f3dffbc1f74f178fdcbede44f4c15d75577ed2a2d17d6e9e806661c482d5",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/1/week1.l1.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/1/week1.l1.mp4",
+    "size": 125936103,
+    "sha256": "594c450af1f759b2239016bff62d3434b33e5d9f64721ceb34984cb0084ffad0",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/1/week1.l2.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/1/week1.l2.mp4",
+    "size": 73310735,
+    "sha256": "39edc2f822366855fded8782edbef2fadcc55371b1f91321ffd228c223d3555b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/1/week1.l3.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/1/week1.l3.mp4",
+    "size": 100228074,
+    "sha256": "23e2439867580076cfacc5532d6b5d636d2b3ae40bb1595577b8f5ff922aa4c7",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/2/week2.lecture1-2.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/2/week2.lecture1-2.mp4",
+    "size": 185130991,
+    "sha256": "7b0e8312535ea014a92e16be9cc8e456851f473de6de0d16acbd5ccbbe925fdf",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/2/week2.lecture3.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/2/week2.lecture3.mp4",
+    "size": 114797156,
+    "sha256": "a445ffbf2b9196f850867d4dc8e347fe238920e8fde2347ae2daed0be4a61261",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/3/week3.l1-2.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/3/week3.l1-2.mp4",
+    "size": 197010051,
+    "sha256": "7dfb597f756f487d4dd20be8b20de2509d8ee4f830b7eb8cc5de8e903c8e28d2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/4/week4.l1.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/4/week4.l1.mp4",
+    "size": 127605326,
+    "sha256": "349d5396be302784749432dab37d15c69a0dafafde7998f0f01fd93e2e3ecd76",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/4/week4.l2.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/4/week4.l2.mp4",
+    "size": 85955658,
+    "sha256": "6bc218e9f778957d37f45edc636d455da92939d043d9fb1b6c8242114d1deb61",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/4/week4.l3.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/4/week4.l3.mp4",
+    "size": 139081694,
+    "sha256": "558d22d4ac25cd491ba06e7138f1257a4b58ef56c0848cc34532b1860de5d0f6",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/5/week5.l1-2.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/5/week5.l1-2.mp4",
+    "size": 153396994,
+    "sha256": "7f900029c7c361ffba14b1d5729ae4e7ec6ace391e95813136809da961a79a56",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/2022 videolar/5/week5.l3.mp4",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/2022 videolar/5/week5.l3.mp4",
+    "size": 102374991,
+    "sha256": "c055351ddfb22e109921dd72d972ef5590f71f66f45f4b17af95a96f35f6c1b2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/5th_Ed_Solutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/5th_Ed_Solutions.pdf",
+    "size": 4000222,
+    "sha256": "097d868efc90c5891e0de0676d6c07ab5d31e6b34846ef30cfb47e971eb9410a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar.zip!/conversion Sınavlar/2024 final.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar__acilmis/conversion Sınavlar/2024 final.pdf",
+    "size": 7098941,
+    "sha256": "8c3057f965121d595816ffefae155b330ed048aac166342a5bb9943251775f93",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar.zip!/conversion Sınavlar/22 güz.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar__acilmis/conversion Sınavlar/22 güz.pdf",
+    "size": 3617092,
+    "sha256": "2bd5237335bb2abc8fd3d69a3351f504e0491b91bdd8fe21c9352c63aa8c57b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar.zip!/conversion Sınavlar/ee3042_2022_final_with_solutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar__acilmis/conversion Sınavlar/ee3042_2022_final_with_solutions.pdf",
+    "size": 14867274,
+    "sha256": "8d1af32fb2aba958edd4bfe53d1a55f73ab7b9594eb052a153c4834998837dc1",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar.zip!/conversion Sınavlar/EE3042_3014_SOLUTIONS_2022_FALL.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar__acilmis/conversion Sınavlar/EE3042_3014_SOLUTIONS_2022_FALL.pdf",
+    "size": 1088112,
+    "sha256": "406b015966bd5fe4e23acf32c553d6b4b0232931408f8e038634bcd8520d7474",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar.zip!/conversion Sınavlar/enerji con 22_23 spring final .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar__acilmis/conversion Sınavlar/enerji con 22_23 spring final .pdf",
+    "size": 1213852,
+    "sha256": "f06a1d751fe776cb6ef360def4219fe2779adf7880536c671109f6b6d109d02f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar.zip!/conversion Sınavlar/enerji con 23_24 spring final .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar__acilmis/conversion Sınavlar/enerji con 23_24 spring final .pdf",
+    "size": 7098941,
+    "sha256": "8c3057f965121d595816ffefae155b330ed048aac166342a5bb9943251775f93",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar.zip!/conversion Sınavlar/Final Exam Solution 2024.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/conversion Sınavlar__acilmis/conversion Sınavlar/Final Exam Solution 2024.pdf",
+    "size": 1444702,
+    "sha256": "a233732f61a0a3d73c3589119cd39c9a1c2a51fa63f6f925fb00b7f6c9a9d49c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/EE3014_3042Midterm_2023-24_FallSolutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/EE3014_3042Midterm_2023-24_FallSolutions.pdf",
+    "size": 6198614,
+    "sha256": "edf04d1573adae127d99607b7e4c6f63add49d5af1ee249dcbac5b2ca2925d33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/ee3042_2022_midterm_exam_with_solutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/ee3042_2022_midterm_exam_with_solutions.pdf",
+    "size": 5533810,
+    "sha256": "a9189221cb89e9b48012fb5047accf751a062f7f661a3638a0faf0dc62452f3f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/ee3042_spring_2021_examsolutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/ee3042_spring_2021_examsolutions.pdf",
+    "size": 12974165,
+    "sha256": "a25b4d253a13d6ac49505c7fd7b090f68aed3da67ef30cfe1817f7d23f1dfb8d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/enerji con 21 spring midterm .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/enerji con 21 spring midterm .pdf",
+    "size": 12974165,
+    "sha256": "a25b4d253a13d6ac49505c7fd7b090f68aed3da67ef30cfe1817f7d23f1dfb8d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/enerji con 22 spring midterm .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/enerji con 22 spring midterm .pdf",
+    "size": 5533810,
+    "sha256": "a9189221cb89e9b48012fb5047accf751a062f7f661a3638a0faf0dc62452f3f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/enerji con 22_23 spring final .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/enerji con 22_23 spring final .pdf",
+    "size": 1213852,
+    "sha256": "f06a1d751fe776cb6ef360def4219fe2779adf7880536c671109f6b6d109d02f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/enerji con 22_23 spring midterm .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/enerji con 22_23 spring midterm .pdf",
+    "size": 467136,
+    "sha256": "8c24ce0105f229dea05b1acca74bf14544d464d5c678c36e05b8ed176941bc5c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/enerji con 23-24 fall midterm.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/enerji con 23-24 fall midterm.pdf",
+    "size": 6198614,
+    "sha256": "edf04d1573adae127d99607b7e4c6f63add49d5af1ee249dcbac5b2ca2925d33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/enerji con 23_24 spring final .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/enerji con 23_24 spring final .pdf",
+    "size": 7098941,
+    "sha256": "8c3057f965121d595816ffefae155b330ed048aac166342a5bb9943251775f93",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/enerji con 23_24 spring midterm.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/enerji con 23_24 spring midterm.pdf",
+    "size": 6247758,
+    "sha256": "ba540ec27a243eeb772af729404f14afbf04c1f4ca4f86fbfa6d3c5eea54afa4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/ebu attı/midtermsolutions (1).pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/ebu attı/midtermsolutions (1).pdf",
+    "size": 1213852,
+    "sha256": "f06a1d751fe776cb6ef360def4219fe2779adf7880536c671109f6b6d109d02f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/EE3014_3042Midterm_2023-24_FallSolutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/EE3014_3042Midterm_2023-24_FallSolutions.pdf",
+    "size": 6198614,
+    "sha256": "edf04d1573adae127d99607b7e4c6f63add49d5af1ee249dcbac5b2ca2925d33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/1_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/1_5.jpeg",
+    "size": 199402,
+    "sha256": "672c3f4a6d6946189534cdcb072211405e8ce7d77b9e4095468f63a276274e72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/2_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/2_5.jpeg",
+    "size": 299201,
+    "sha256": "d39853109585a2f741b4fa278e156deb60b097665f02457bd1e6eb0ebe1b82c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/3_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/3_5.jpeg",
+    "size": 418838,
+    "sha256": "eccd56e29b6adfaa6396d87f35be5587c53861975d4996dad35acfa8b1f8aa5a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/4_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/4_5.jpeg",
+    "size": 192264,
+    "sha256": "21302e4636ef8ae40c11e95703990c5f4ce49d1f35e491638a4f6a2be03617bd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/5_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/5_5.jpeg",
+    "size": 175979,
+    "sha256": "25fd046bb6ab24d558ebe133e26552ae3ab507900f701c91c8191563edda1a09",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/energy final  çalışma soruları.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/energy final  çalışma soruları.pdf",
+    "size": 1483505,
+    "sha256": "baaf00eee65be17d06ac58749417d2d02329be65f54c50305afbe16ff2a9b0fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/final çalışma soruları .txt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/final çalışma soruları .txt",
+    "size": 1167,
+    "sha256": "afaad2594e6c994c7e3e5942b45436e811233ae4528e5f8e0315aaf6d2d77cb2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/finalexamsolutions.zip!/2_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/finalexamsolutions__acilmis/2_5.jpeg",
+    "size": 299201,
+    "sha256": "d39853109585a2f741b4fa278e156deb60b097665f02457bd1e6eb0ebe1b82c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/finalexamsolutions.zip!/4_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/finalexamsolutions__acilmis/4_5.jpeg",
+    "size": 192264,
+    "sha256": "21302e4636ef8ae40c11e95703990c5f4ce49d1f35e491638a4f6a2be03617bd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/finalexamsolutions.zip!/1_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/finalexamsolutions__acilmis/1_5.jpeg",
+    "size": 199402,
+    "sha256": "672c3f4a6d6946189534cdcb072211405e8ce7d77b9e4095468f63a276274e72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/finalexamsolutions.zip!/3_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/finalexamsolutions__acilmis/3_5.jpeg",
+    "size": 418838,
+    "sha256": "eccd56e29b6adfaa6396d87f35be5587c53861975d4996dad35acfa8b1f8aa5a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/final/finalexamsolutions.zip!/5_5.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/final/finalexamsolutions__acilmis/5_5.jpeg",
+    "size": 175979,
+    "sha256": "25fd046bb6ab24d558ebe133e26552ae3ab507900f701c91c8191563edda1a09",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/Midterm/energy_çalışma_soruları.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/Midterm/energy_çalışma_soruları.pdf",
+    "size": 619194,
+    "sha256": "93fa4edd9873d6b81c717dc14fe316b7069647ea9be75bccab595bf4f91447bc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/Midterm/KiraptakiSorular_compressed.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/Midterm/KiraptakiSorular_compressed.pdf",
+    "size": 10748063,
+    "sha256": "6ab6528902bdcea49368c66896a1550f7a9d7517e31a91dbd20a93ea887b42f3",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/Midterm/midterm çalışma soruları.txt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/Midterm/midterm çalışma soruları.txt",
+    "size": 601,
+    "sha256": "397ae45e539d76f26636652a0ba1ef17f80e3f93cb06c6edc445bb773b10f875",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/Midterm/MidtermExamSolutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/Midterm/MidtermExamSolutions.pdf",
+    "size": 7693681,
+    "sha256": "c65dfe84efb4687c78415311447d4a6606b25860e5c2d0e71df8f911c40bd7fa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/Midterm/midterm_Grades.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/Midterm/midterm_Grades.pdf",
+    "size": 173310,
+    "sha256": "ba3b50bed8e94056e94a911bac39a45a2af7c5302c91202f007941b45694d562",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/Midterm/MT21.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/Midterm/MT21.pdf",
+    "size": 12974165,
+    "sha256": "a25b4d253a13d6ac49505c7fd7b090f68aed3da67ef30cfe1817f7d23f1dfb8d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/Midterm/MT22.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/Midterm/MT22.pdf",
+    "size": 5434949,
+    "sha256": "f18a45a087e1b8c63a81e6f0c8d3026f3ef5a1ee5ce2475d8baf33304ad9d092",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/slaytlar/1-ElectricMachineryPrinciples.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/slaytlar/1-ElectricMachineryPrinciples.pdf",
+    "size": 9555208,
+    "sha256": "4642887d111a28cccb6c0c113011e93bcb403a1b286877f469a48a13f938cf6c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/slaytlar/2-Chapter7_Chapman.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/slaytlar/2-Chapter7_Chapman.pdf",
+    "size": 23345570,
+    "sha256": "ca56e3b469a373c2943c776402a92e6b1517d4becefebd1e263ab26d741eaf65",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/slaytlar/3-Chapter8_DC_Motors&Generators_Chapman.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/slaytlar/3-Chapter8_DC_Motors&Generators_Chapman.pdf",
+    "size": 25571041,
+    "sha256": "ad60fa9b248180b22f8571b158e04b3b9d7ee2a0871edb312eb01df8b270685e",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/slaytlar/4-Week5_Transformers(65-142).pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/slaytlar/4-Week5_Transformers(65-142).pdf",
+    "size": 15928000,
+    "sha256": "2c01999766fa361bff01770effa41ef36249a51171647cbad8adc43e35b302ac",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/slaytlar/5-Machines_II_2015_2016_Slides.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/slaytlar/5-Machines_II_2015_2016_Slides.pdf",
+    "size": 13020235,
+    "sha256": "6227803cac6c67eabcc90759d34351ad6b38dff64bb13b6d48ebc0b7f838b4bd",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/slaytlar/6-Chapter2_TransformersLecture_Chapman.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/slaytlar/6-Chapter2_TransformersLecture_Chapman.pdf",
+    "size": 28855586,
+    "sha256": "650c847e8c303b407c99a0d616e7ee2953ab9fac7c89fab236d52859e672e3ab",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/slaytlar/7-Chapter6_Induction Motors.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/slaytlar/7-Chapter6_Induction Motors.pdf",
+    "size": 25877993,
+    "sha256": "ba7993b2c62eef380fc2a8ff1536216692f913e26b40a8f5aae44f2f347c8bac",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/Stephen J. Chapman 5th - Electric Machinery Fundamentals-McGraw-Hill Education (2011).pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/Stephen J. Chapman 5th - Electric Machinery Fundamentals-McGraw-Hill Education (2011).pdf",
+    "size": 16399635,
+    "sha256": "7ccb952812e51f800e8552320114006023f9bf033fa9e7e8f0288f4e0557d04b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/1-s2.0-S1364032117304227-main.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/1-s2.0-S1364032117304227-main.pdf",
+    "size": 318783,
+    "sha256": "1dcb7eaeb7158f915649db6b4423b58102d000637a2d5a797d790131e4241011",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/A-review-of-mineral-precipitation-and-effective-scale-inhibition-_2019_Geoth.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/A-review-of-mineral-precipitation-and-effective-scale-inhibition-_2019_Geoth.pdf",
+    "size": 5809352,
+    "sha256": "9201307b30fc0701d1a243b691f86d5a7f048b6fdfd9a56b110bfe945db810c9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/Assessment-and-mapping-of-the-shallow-geothermal-potential-in_2017_Renewable.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/Assessment-and-mapping-of-the-shallow-geothermal-potential-in_2017_Renewable.pdf",
+    "size": 3872447,
+    "sha256": "2575578c83655492627e265a75d5cd798703d98042b4388a7742d83b19a50068",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/Cascade-utilization-of-low-and-medium-enthalpy-_2015_Renewable-and-Sustainab.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/Cascade-utilization-of-low-and-medium-enthalpy-_2015_Renewable-and-Sustainab.pdf",
+    "size": 6044741,
+    "sha256": "ba44990e8df94faf32577623311ef4c5be2d23a18d378e2f2690797ac2768c63",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/EE3042_Group4_Poster.ppt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/EE3042_Group4_Poster.ppt",
+    "size": 4478976,
+    "sha256": "47599916d179f1c6578913d90231d0d7ab1cdb0673b45bb6694e0a6f06e02ac6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/EE3042_Group4_Presentation.pptx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/EE3042_Group4_Presentation.pptx",
+    "size": 3620007,
+    "sha256": "60b427ff786f5277dfe2a2143e08ef84273c8df444c7fb7e6981b810f0e71644",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/EE3042_Group4_Project.zip!/EE3042_Group4_Project/EE3042_Group4_Poster.ppt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/EE3042_Group4_Project__acilmis/EE3042_Group4_Project/EE3042_Group4_Poster.ppt",
+    "size": 4481536,
+    "sha256": "62d09b73344b1aedc5b6479bd4c4d8f8c55e5fb989556f18d498d9c6ac3fbf78",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/EE3042_Group4_Project.zip!/EE3042_Group4_Project/EE3042_Group4_Presentation.pptx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/EE3042_Group4_Project__acilmis/EE3042_Group4_Project/EE3042_Group4_Presentation.pptx",
+    "size": 3620007,
+    "sha256": "60b427ff786f5277dfe2a2143e08ef84273c8df444c7fb7e6981b810f0e71644",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/Geothermal-energy-resources-in-Poland---Overview_2018_Renewable-and-Sustaina.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/Geothermal-energy-resources-in-Poland---Overview_2018_Renewable-and-Sustaina.pdf",
+    "size": 1043149,
+    "sha256": "a2f381a8777e47ed363a8fd2ce9e75974f187726008631b7917015a5262a2898",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/Integrated-assessment-projections-for-global-geothermal-ener_2019_Geothermic.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/Integrated-assessment-projections-for-global-geothermal-ener_2019_Geothermic.pdf",
+    "size": 3527049,
+    "sha256": "cfcad6084ce8570c71b3e909b16e36373fe5bd034861a62c4bd8c073a0998693",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/Jeotermal enerji türkiye.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/Jeotermal enerji türkiye.docx",
+    "size": 13717,
+    "sha256": "3154b689286c2701184225f8c838001a86fce9b4428d94b2d346cc0b8fbf7e58",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/Numerical-simulation-of-geothermal-reservoirs-for-_2014_Renewable-and-Sustai.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/Numerical-simulation-of-geothermal-reservoirs-for-_2014_Renewable-and-Sustai.pdf",
+    "size": 1705366,
+    "sha256": "6b81532eccff5a51aa4a7b70313c6f4e6d27889fcb0536e155f8ce7ef98604a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/Poster .ppt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/Poster .ppt",
+    "size": 3790848,
+    "sha256": "bdbd2070725b5ad2c464d8597ec565fde8752a56dea3472be3eaf50ff64d1c3e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/Poster Ahmet.ppt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/Poster Ahmet.ppt",
+    "size": 4412928,
+    "sha256": "b96b7c1ce7a80fc0988d878db88d2eac9788018c738a93355c97af64786a6f01",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/sunum/PROJECT GROUPS(2022-23).pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/sunum/PROJECT GROUPS(2022-23).pdf",
+    "size": 68777,
+    "sha256": "a1f1bfd89c18a1307aa4ab769243c7b26aee05186af6dccfe9531681f592a5bc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/syllabus_2022-23.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/syllabus_2022-23.pdf",
+    "size": 155933,
+    "sha256": "404cddd26ab82a25c107d2a47fa86aedcb746763782354cb741bf40f099feb68",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/2023_24_Fall_Study questions for final exam.txt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/2023_24_Fall_Study questions for final exam.txt",
+    "size": 421,
+    "sha256": "9deafbb53b2ba7e22521210df33dd8198b7d8f2bebe15bbdcd6e683103349530",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (1).jpeg",
+    "size": 174045,
+    "sha256": "7fd61999ef4102014f92ecd443a52b41cee3667855f7f3d435feeda9ed47c47a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (2).jpeg",
+    "size": 196031,
+    "sha256": "a518699056a59f28f7c8edb637a7eb5e8a3f7be19e8ef05aa3d294f5e83fdb9a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (3).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12 (3).jpeg",
+    "size": 200399,
+    "sha256": "842a3d4de896828c1c40575680699f5fc12df2730a3e1d99ae46b48dccec1da7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.12.jpeg",
+    "size": 195771,
+    "sha256": "4715d185d32c76298653aeb8959919614fb2143d84beaa9ad824f1142b92c156",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13 (1).jpeg",
+    "size": 276917,
+    "sha256": "2cf19b8c946f6b79a3249c54680432b14a2dd68e55f5d392f64dd343a5af99e7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13 (2).jpeg",
+    "size": 226627,
+    "sha256": "18e6cd14e56d53cd031fd0def053ac5a4c1618abe0370eab3e2fa93354482adf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/23 24 final fall/WhatsApp Image 2024-07-08 at 19.38.13.jpeg",
+    "size": 248987,
+    "sha256": "be61722f47a83681428539d29d4c4dc6886a365460c0f0f660055002c18e12c7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/23 24 final fall/Yeni Metin Belgesi.txt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/23 24 final fall/Yeni Metin Belgesi.txt",
+    "size": 198,
+    "sha256": "60222dd9df33b2eb4d0cfdf12f24bb1a3744523d87404327e9a2c84a6f77f4b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/EE3014_FinalExamSolutions2024_Spring.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/EE3014_FinalExamSolutions2024_Spring.pdf",
+    "size": 7098941,
+    "sha256": "8c3057f965121d595816ffefae155b330ed048aac166342a5bb9943251775f93",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/WhatsApp Image 2024-01-15 at 18.54.14 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/WhatsApp Image 2024-01-15 at 18.54.14 (1).jpeg",
+    "size": 293469,
+    "sha256": "1baa5bfcfb822dfd88bb8b01ed052327de41d37685e6a233e575e0367e4057e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/WhatsApp Image 2024-01-15 at 18.54.14 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/WhatsApp Image 2024-01-15 at 18.54.14 (2).jpeg",
+    "size": 248667,
+    "sha256": "7e7a26326f67653c360f8914e2497a8e6282e39ad69989c3b81fa10922d12c39",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/WhatsApp Image 2024-01-15 at 18.54.14 (3).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/WhatsApp Image 2024-01-15 at 18.54.14 (3).jpeg",
+    "size": 337887,
+    "sha256": "c1c876ce5a02d634da628bb11cce7c2bce12dcb6aa3a326575a19a0426ebc801",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/WhatsApp Image 2024-01-15 at 18.54.14.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/WhatsApp Image 2024-01-15 at 18.54.14.jpeg",
+    "size": 263041,
+    "sha256": "bdef1d455f7e95173d4d40345bd416baf170b4a1002fe8d07aa975f3ed7e4112",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/WhatsApp Image 2024-01-15 at 18.54.15.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/WhatsApp Image 2024-01-15 at 18.54.15.jpeg",
+    "size": 293286,
+    "sha256": "bbea0407d87a64dbcf66bfdde3319b009224b97bc62f863fc2e251b8258e184a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26 (1).jpeg",
+    "size": 203532,
+    "sha256": "e20484e32f98b4feaaa2ebeae4154a814415b444b5fb389ad714404ba8aa329e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26 (2).jpeg",
+    "size": 199074,
+    "sha256": "b1fc7bc0fcbc731f9fc33a9a99cab4d347228eb1129d88deacfac4353635ff83",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.26.jpeg",
+    "size": 151095,
+    "sha256": "d00af769b277538a52c153ffc2283999e18e949e6181a814b51f2cb6d6b06b65",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.27 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.27 (1).jpeg",
+    "size": 179545,
+    "sha256": "d1a32f6a617468e9fdfd559b03b411704f6d385b561cc24f6b1890cd75844658",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.27.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/büt 23 24 fall/WhatsApp Image 2024-07-08 at 19.36.27.jpeg",
+    "size": 153250,
+    "sha256": "f36c936dbe05dd07ecfe03fdaf1ce74c56f9b295380dc782f4e7afd6f7646af0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/final/ee3042_2022_final_with_solutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/final/ee3042_2022_final_with_solutions.pdf",
+    "size": 14855944,
+    "sha256": "1716ec3d42e97cd57f2dc25d8aee8e2d61c50c7500c5464428cba11387ca426c",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/mt/EE3014_3042Midterm_2023-24_FallSolutions.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/mt/EE3014_3042Midterm_2023-24_FallSolutions.pdf",
+    "size": 6198614,
+    "sha256": "edf04d1573adae127d99607b7e4c6f63add49d5af1ee249dcbac5b2ca2925d33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/mt/EE3014_3042_MidtermSolutions23-24-bahar.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/mt/EE3014_3042_MidtermSolutions23-24-bahar.pdf",
+    "size": 6247758,
+    "sha256": "ba540ec27a243eeb772af729404f14afbf04c1f4ca4f86fbfa6d3c5eea54afa4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/mt/Midterm Study Questions_Fall2023-24.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/mt/Midterm Study Questions_Fall2023-24.pdf",
+    "size": 16875,
+    "sha256": "59cd1a3df90b628dcd3db3b936294ded421d7513e37f2b25539e55879b36160e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-exams.rar!/mt/Midterm Study Questions_Spring2023-24.txt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-exams__acilmis/mt/Midterm Study Questions_Spring2023-24.txt",
+    "size": 528,
+    "sha256": "ca8803e2f9cd54676e058682143d38a75c932b99c6155dd6e95b468e14e1e93a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/CompoundGeneratorModel.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/CompoundGeneratorModel.slx",
+    "size": 30723,
+    "sha256": "8fdf6a3e0e34e0ac5d0377c381334c02e2fe53f3b3aabce511c2089e5e0cf0b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/1 ohm 70 n 230 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/1 ohm 70 n 230 v 1.png",
+    "size": 28375,
+    "sha256": "bbe50ff8238d0a6b82661359ef5d6bd4199c53f03ccd27b9b347b340ccb0f0e3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/1 ohm 70 n 230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/1 ohm 70 n 230 v.png",
+    "size": 20598,
+    "sha256": "36a1667d7e20e78be7df88721a291664f97120dfb59829c161938e94298277ad",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/10 ohm 70 n 1 500 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/10 ohm 70 n 1 500 v 1.png",
+    "size": 27546,
+    "sha256": "7cba7cdea6418fbc79b91dcad11c1d0690f5e5ea7fb0219b6f2fa6aab08bc1c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/10 ohm 70 n 1 500 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/10 ohm 70 n 1 500 v.png",
+    "size": 23334,
+    "sha256": "756a993b828e9d3e56a7de75994f6aa117c49d101ad6fd4ad0191e726a801eba",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/100 ohm 70 n 230 v  .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/100 ohm 70 n 230 v  .png",
+    "size": 19953,
+    "sha256": "ffd45a5f29df50295cf52366f70f2eadffd69b32416aa3c426f7eeb3c510dcfe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/100 ohm 70 n 230 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/100 ohm 70 n 230 v 1 .png",
+    "size": 29006,
+    "sha256": "07aa80485fdeb9e767b2e938abccecf6d0a3c1bf1ea8f98709ddc31b20397420",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n  200 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n  200 v 1.png",
+    "size": 28733,
+    "sha256": "23ee84116236e1279fddea72a0acd984a33de13184fc3a87e1459edf58007ffb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n  200 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n  200 v.png",
+    "size": 24109,
+    "sha256": "7b11690c8634e95fbf36c73dad3a2fae224becf0e3cc3981aa09beb30bed0938",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n  300 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n  300 v .png",
+    "size": 23337,
+    "sha256": "f9103c8ed1912e8ad62019ec655853f2a30da991e4015efdf4295ca5639a1d50",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n  300 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n  300 v 1 .png",
+    "size": 30382,
+    "sha256": "829101ffcd42f9a07f53ab07d20776a7be84ae66f639975dadc45fd81438f2b1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n  400 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n  400 v .png",
+    "size": 22262,
+    "sha256": "41c1b6196c4589bf1dcc6a8ca96b56348dfb4600ac172d2c3129523f657b5d4a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n  400 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n  400 v 1 .png",
+    "size": 28393,
+    "sha256": "ebb5c47287c33343301809914fa02f232021b18782144ef4a4044648da1a571d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n .png",
+    "size": 21689,
+    "sha256": "258b71829a968e21ae86f163217039d9eff639ee9110800f87076647b3563c03",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n 1 230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n 1 230 v.png",
+    "size": 29108,
+    "sha256": "292f3791f1999874f0b4a85f39a155962a06f34f031c18f1c4303953407c8b79",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n 100 v  1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n 100 v  1.png",
+    "size": 28737,
+    "sha256": "bd4247e1f16a2f6698ce445540c191fa67a686936241bc420a8cc0fb6f88693b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/20 ohm 70 n 100 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/20 ohm 70 n 100 v .png",
+    "size": 21598,
+    "sha256": "032691e2c1a0e8e418cb5a9bed2b9330306287ea4a26d106fb94796b6c77344b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/200 ohm 70 n 100 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/200 ohm 70 n 100 v 1.png",
+    "size": 28432,
+    "sha256": "9905f80e289c4314176c0aeda333084c66acdc4ff56dc89c7a1f76f0ae93ed5b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/200 ohm 70 n 100 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/200 ohm 70 n 100 v.png",
+    "size": 23644,
+    "sha256": "486c03f537985b1c8728ef0226e9111e6466ce6817e7f6dccf0ba40417ff051e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/50 ohm 70 n  230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/50 ohm 70 n  230 v.png",
+    "size": 21584,
+    "sha256": "ab9d7f889cb99ebdb15ab354ec60260a96b73cf5e3bd0965e5b69b9a3e2a3082",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/50 ohm 70 n 230 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/50 ohm 70 n 230 v 1.png",
+    "size": 28705,
+    "sha256": "3d231c0d3cf0b196531f46e5635a6bfe61ad74230d10e7bc10d8375151055ffc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/500 ohm 70 n  50 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/500 ohm 70 n  50 v .png",
+    "size": 23151,
+    "sha256": "3818986e89ef940e8b5ffac08b554a9171dfcb910bd6f905d137daea1a99773c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/500 ohm 70 n  50 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/500 ohm 70 n  50 v 1 .png",
+    "size": 28316,
+    "sha256": "97ed8848e26269ae2b0b1b5d1d790addf09fa092b394c96abd59f38674b282b5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Lab Report 4.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Lab Report 4.docx",
+    "size": 431780,
+    "sha256": "63cc2835a7554dc029f0a959a49a5d9559c900e6cd1a8c8b059be014658b0722",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/LabStudy#4.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/LabStudy#4.pdf",
+    "size": 43511,
+    "sha256": "b428f45d8f22b75791d602f602ac3ff9fa63e456bc31988b0bc04bd427b71fe1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/1 ohm 70 n 230 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/1 ohm 70 n 230 v 1.png",
+    "size": 28375,
+    "sha256": "bbe50ff8238d0a6b82661359ef5d6bd4199c53f03ccd27b9b347b340ccb0f0e3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/1 ohm 70 n 230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/1 ohm 70 n 230 v.png",
+    "size": 20598,
+    "sha256": "36a1667d7e20e78be7df88721a291664f97120dfb59829c161938e94298277ad",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/10 ohm 70 n 1 500 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/10 ohm 70 n 1 500 v 1.png",
+    "size": 27546,
+    "sha256": "7cba7cdea6418fbc79b91dcad11c1d0690f5e5ea7fb0219b6f2fa6aab08bc1c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/10 ohm 70 n 1 500 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/10 ohm 70 n 1 500 v.png",
+    "size": 23334,
+    "sha256": "756a993b828e9d3e56a7de75994f6aa117c49d101ad6fd4ad0191e726a801eba",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/100 ohm 70 n 230 v  .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/100 ohm 70 n 230 v  .png",
+    "size": 19953,
+    "sha256": "ffd45a5f29df50295cf52366f70f2eadffd69b32416aa3c426f7eeb3c510dcfe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/100 ohm 70 n 230 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/100 ohm 70 n 230 v 1 .png",
+    "size": 29006,
+    "sha256": "07aa80485fdeb9e767b2e938abccecf6d0a3c1bf1ea8f98709ddc31b20397420",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n  200 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n  200 v 1.png",
+    "size": 28733,
+    "sha256": "23ee84116236e1279fddea72a0acd984a33de13184fc3a87e1459edf58007ffb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n  200 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n  200 v.png",
+    "size": 24109,
+    "sha256": "7b11690c8634e95fbf36c73dad3a2fae224becf0e3cc3981aa09beb30bed0938",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n  300 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n  300 v .png",
+    "size": 23337,
+    "sha256": "f9103c8ed1912e8ad62019ec655853f2a30da991e4015efdf4295ca5639a1d50",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n  300 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n  300 v 1 .png",
+    "size": 30382,
+    "sha256": "829101ffcd42f9a07f53ab07d20776a7be84ae66f639975dadc45fd81438f2b1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n  400 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n  400 v .png",
+    "size": 22262,
+    "sha256": "41c1b6196c4589bf1dcc6a8ca96b56348dfb4600ac172d2c3129523f657b5d4a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n  400 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n  400 v 1 .png",
+    "size": 28393,
+    "sha256": "ebb5c47287c33343301809914fa02f232021b18782144ef4a4044648da1a571d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n .png",
+    "size": 21689,
+    "sha256": "258b71829a968e21ae86f163217039d9eff639ee9110800f87076647b3563c03",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n 1 230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n 1 230 v.png",
+    "size": 29108,
+    "sha256": "292f3791f1999874f0b4a85f39a155962a06f34f031c18f1c4303953407c8b79",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n 100 v  1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n 100 v  1.png",
+    "size": 28737,
+    "sha256": "bd4247e1f16a2f6698ce445540c191fa67a686936241bc420a8cc0fb6f88693b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/20 ohm 70 n 100 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/20 ohm 70 n 100 v .png",
+    "size": 21598,
+    "sha256": "032691e2c1a0e8e418cb5a9bed2b9330306287ea4a26d106fb94796b6c77344b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/200 ohm 70 n 100 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/200 ohm 70 n 100 v 1.png",
+    "size": 28432,
+    "sha256": "9905f80e289c4314176c0aeda333084c66acdc4ff56dc89c7a1f76f0ae93ed5b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/200 ohm 70 n 100 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/200 ohm 70 n 100 v.png",
+    "size": 23644,
+    "sha256": "486c03f537985b1c8728ef0226e9111e6466ce6817e7f6dccf0ba40417ff051e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/50 ohm 70 n  230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/50 ohm 70 n  230 v.png",
+    "size": 21584,
+    "sha256": "ab9d7f889cb99ebdb15ab354ec60260a96b73cf5e3bd0965e5b69b9a3e2a3082",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/50 ohm 70 n 230 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/50 ohm 70 n 230 v 1.png",
+    "size": 28705,
+    "sha256": "3d231c0d3cf0b196531f46e5635a6bfe61ad74230d10e7bc10d8375151055ffc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/500 ohm 70 n  50 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/500 ohm 70 n  50 v .png",
+    "size": 23151,
+    "sha256": "3818986e89ef940e8b5ffac08b554a9171dfcb910bd6f905d137daea1a99773c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/500 ohm 70 n  50 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/500 ohm 70 n  50 v 1 .png",
+    "size": 28316,
+    "sha256": "97ed8848e26269ae2b0b1b5d1d790addf09fa092b394c96abd59f38674b282b5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Energy conv Lab4 Values/Values.zip!/LabStudy#4.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Energy conv Lab4 Values/Values__acilmis/LabStudy#4.pdf",
+    "size": 43511,
+    "sha256": "b428f45d8f22b75791d602f602ac3ff9fa63e456bc31988b0bc04bd427b71fe1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Field_Control_DC_Shunt_Motor.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Field_Control_DC_Shunt_Motor.slx",
+    "size": 32961,
+    "sha256": "6c9a97a6844bc15cae111358a4308c7c86d3286270f1fb7dd5ba78fa0219de33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/GROUP11 LAB 5.rar!/CompoundGeneratorModel.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/GROUP11 LAB 5__acilmis/CompoundGeneratorModel.slx",
+    "size": 30723,
+    "sha256": "8fdf6a3e0e34e0ac5d0377c381334c02e2fe53f3b3aabce511c2089e5e0cf0b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/GROUP11 LAB 5.rar!/GROUP11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/GROUP11 LAB 5__acilmis/GROUP11.docx",
+    "size": 12810,
+    "sha256": "ac7cf50343c4ef5c776c1c4c71eb6b22c3fd3407c3bc6c93aeee5749eceb269f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/GROUP11 LAB 5.rar!/separately_excited_dc_generator.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/GROUP11 LAB 5__acilmis/separately_excited_dc_generator.slx",
+    "size": 86376,
+    "sha256": "839ffd6dbc27cd9f5a3bbb449b70a55aa82e09595b9f0a65d2b3c40ee39ee372",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/GROUP11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/GROUP11.docx",
+    "size": 12810,
+    "sha256": "ac7cf50343c4ef5c776c1c4c71eb6b22c3fd3407c3bc6c93aeee5749eceb269f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Group 11 Lab 2.rar!/DC_motor_simulink.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Group 11 Lab 2__acilmis/DC_motor_simulink.slx",
+    "size": 31372,
+    "sha256": "6015b231631d59c65efe7533ff4144eddd3fce247d02747502364fec144aea1b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Group 11 Lab 2.rar!/Energy_Conversion_Lab2_Group11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Group 11 Lab 2__acilmis/Energy_Conversion_Lab2_Group11.docx",
+    "size": 272947,
+    "sha256": "8990b53efe1f6544910d010661b1bd7b6cd753163f7da1e7463814d8adf5bbd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Group 11 Lab 2.rar!/question2.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Group 11 Lab 2__acilmis/question2.m",
+    "size": 717,
+    "sha256": "9990bfe01fe9767b28f5518725427fd013ce9e430308328871efed0e6d5a85ab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 1/ELEC344_2nd Tutorial_Examples_Wonbae Choi (1).pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 1/ELEC344_2nd Tutorial_Examples_Wonbae Choi (1).pdf",
+    "size": 196273,
+    "sha256": "504e07b77139c0ef07ea4abb87f1616e6ad4de4bdca9f4dc83d47a5db54632bc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 1/Energy_Conversion_Lab1_Group11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 1/Energy_Conversion_Lab1_Group11.docx",
+    "size": 702903,
+    "sha256": "870ee1b4c6e1340f538e1b741ffa0ca2e32c92208bb5a0bd0040ab129e780223",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 1/Exp1_org.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 1/Exp1_org.pdf",
+    "size": 409201,
+    "sha256": "01d247c37c88aff15972e576a42092c9e217846668f96bfa57396a9cd3957c52",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 1/Lab1-question2.1.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 1/Lab1-question2.1.docx",
+    "size": 382286,
+    "sha256": "b3808b99fa6b4a5f4249ecfdc5ed4149cfd02f07c17034f7f5426fd36b91eea9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/DC motor simulink.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/DC motor simulink.png",
+    "size": 29651,
+    "sha256": "c40b62081fc8b8253be8282ca989ed9af5567337366fcc7d7dcfc9af061e73ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/DC_motor_simulink.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/DC_motor_simulink.slx",
+    "size": 31372,
+    "sha256": "6015b231631d59c65efe7533ff4144eddd3fce247d02747502364fec144aea1b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/Energy_Conversion_Lab2_Group11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/Energy_Conversion_Lab2_Group11.docx",
+    "size": 274575,
+    "sha256": "86f55f3c97746e7486b43920a54038e1639901d8d022aa3fcb655ee9a489b6f8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/Group 11 Lab 2.rar!/DC_motor_simulink.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/Group 11 Lab 2__acilmis/DC_motor_simulink.slx",
+    "size": 31372,
+    "sha256": "6015b231631d59c65efe7533ff4144eddd3fce247d02747502364fec144aea1b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/Group 11 Lab 2.rar!/Energy_Conversion_Lab2_Group11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/Group 11 Lab 2__acilmis/Energy_Conversion_Lab2_Group11.docx",
+    "size": 272947,
+    "sha256": "8990b53efe1f6544910d010661b1bd7b6cd753163f7da1e7463814d8adf5bbd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/Group 11 Lab 2.rar!/question2.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/Group 11 Lab 2__acilmis/question2.m",
+    "size": 717,
+    "sha256": "9990bfe01fe9767b28f5518725427fd013ce9e430308328871efed0e6d5a85ab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/e.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/e.png",
+    "size": 24055,
+    "sha256": "070e6520b51b287d01174f1fc68b087cc008af60b26a84b36c100d706bc68af3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/f,fload.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/f,fload.png",
+    "size": 23793,
+    "sha256": "a4eac4a1c61990e6917d97c5fa69c39dc0211f4d4d0fc79433bdfed592b1775e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/i.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/i.png",
+    "size": 25897,
+    "sha256": "e43b3ff94b16cc0cb68bc955641ce444e4c6a81ab062769efd3e037b676f0afb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/question2.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/question2.m",
+    "size": 717,
+    "sha256": "9990bfe01fe9767b28f5518725427fd013ce9e430308328871efed0e6d5a85ab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 2/v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 2/v.png",
+    "size": 24189,
+    "sha256": "88f70636a7a30c5f8be4038201c50e93283cf634ed90c2b1909c3d6168fa835c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4/LabStudy4/CompoundGeneratorIncompleteModel.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4/LabStudy4/CompoundGeneratorIncompleteModel.slx",
+    "size": 31672,
+    "sha256": "3c62dcef709f07652a0728a794f507dc577799228f751d346d43f8efa2fc447c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4/LabStudy4/CompoundGeneratorIncompleteModel106.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4/LabStudy4/CompoundGeneratorIncompleteModel106.slx",
+    "size": 31342,
+    "sha256": "4014d14a2603620c69faf3cf707f65d4f8a19ca841f81757dfcae6c6e8f8b6a4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4/LabStudy4/Field_Control_DC_Shunt_Motor---.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4/LabStudy4/Field_Control_DC_Shunt_Motor---.slx",
+    "size": 32961,
+    "sha256": "6c9a97a6844bc15cae111358a4308c7c86d3286270f1fb7dd5ba78fa0219de33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4/LabStudy4/LabStudy#4.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4/LabStudy4/LabStudy#4.pdf",
+    "size": 43511,
+    "sha256": "b428f45d8f22b75791d602f602ac3ff9fa63e456bc31988b0bc04bd427b71fe1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4 (1) (1)/LabStudy4/Field_Control_DC_Shunt_Motor.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4 (1) (1)/LabStudy4/Field_Control_DC_Shunt_Motor.slx",
+    "size": 31275,
+    "sha256": "e0fbe3896cb8073544b5873e468cff22fee0e7dc18582c698e0c98b097045ae9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4 (1) (1)/LabStudy4/LabStudy#4.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4 (1) (1)/LabStudy4/LabStudy#4.pdf",
+    "size": 43511,
+    "sha256": "b428f45d8f22b75791d602f602ac3ff9fa63e456bc31988b0bc04bd427b71fe1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4 (1) (1).zip!/LabStudy4/Field_Control_DC_Shunt_Motor.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4 (1) (1)__acilmis/LabStudy4/Field_Control_DC_Shunt_Motor.slx",
+    "size": 31275,
+    "sha256": "e0fbe3896cb8073544b5873e468cff22fee0e7dc18582c698e0c98b097045ae9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4 (1) (1).zip!/LabStudy4/LabStudy#4.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4 (1) (1)__acilmis/LabStudy4/LabStudy#4.pdf",
+    "size": 43511,
+    "sha256": "b428f45d8f22b75791d602f602ac3ff9fa63e456bc31988b0bc04bd427b71fe1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4.zip!/LabStudy4/Field_Control_DC_Shunt_Motor.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4__acilmis/LabStudy4/Field_Control_DC_Shunt_Motor.slx",
+    "size": 32961,
+    "sha256": "6c9a97a6844bc15cae111358a4308c7c86d3286270f1fb7dd5ba78fa0219de33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/LabStudy4.zip!/LabStudy4/LabStudy#4.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/LabStudy4__acilmis/LabStudy4/LabStudy#4.pdf",
+    "size": 43511,
+    "sha256": "b428f45d8f22b75791d602f602ac3ff9fa63e456bc31988b0bc04bd427b71fe1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/1 ohm 70 n 230 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/1 ohm 70 n 230 v 1.png",
+    "size": 28375,
+    "sha256": "bbe50ff8238d0a6b82661359ef5d6bd4199c53f03ccd27b9b347b340ccb0f0e3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/1 ohm 70 n 230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/1 ohm 70 n 230 v.png",
+    "size": 20598,
+    "sha256": "36a1667d7e20e78be7df88721a291664f97120dfb59829c161938e94298277ad",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/10 ohm 70 n 1 500 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/10 ohm 70 n 1 500 v 1.png",
+    "size": 27546,
+    "sha256": "7cba7cdea6418fbc79b91dcad11c1d0690f5e5ea7fb0219b6f2fa6aab08bc1c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/10 ohm 70 n 1 500 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/10 ohm 70 n 1 500 v.png",
+    "size": 23334,
+    "sha256": "756a993b828e9d3e56a7de75994f6aa117c49d101ad6fd4ad0191e726a801eba",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/100 ohm 70 n 230 v  .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/100 ohm 70 n 230 v  .png",
+    "size": 19953,
+    "sha256": "ffd45a5f29df50295cf52366f70f2eadffd69b32416aa3c426f7eeb3c510dcfe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/100 ohm 70 n 230 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/100 ohm 70 n 230 v 1 .png",
+    "size": 29006,
+    "sha256": "07aa80485fdeb9e767b2e938abccecf6d0a3c1bf1ea8f98709ddc31b20397420",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n  200 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n  200 v 1.png",
+    "size": 28733,
+    "sha256": "23ee84116236e1279fddea72a0acd984a33de13184fc3a87e1459edf58007ffb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n  200 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n  200 v.png",
+    "size": 24109,
+    "sha256": "7b11690c8634e95fbf36c73dad3a2fae224becf0e3cc3981aa09beb30bed0938",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n  300 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n  300 v .png",
+    "size": 23337,
+    "sha256": "f9103c8ed1912e8ad62019ec655853f2a30da991e4015efdf4295ca5639a1d50",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n  300 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n  300 v 1 .png",
+    "size": 30382,
+    "sha256": "829101ffcd42f9a07f53ab07d20776a7be84ae66f639975dadc45fd81438f2b1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n  400 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n  400 v .png",
+    "size": 22262,
+    "sha256": "41c1b6196c4589bf1dcc6a8ca96b56348dfb4600ac172d2c3129523f657b5d4a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n  400 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n  400 v 1 .png",
+    "size": 28393,
+    "sha256": "ebb5c47287c33343301809914fa02f232021b18782144ef4a4044648da1a571d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n .png",
+    "size": 21689,
+    "sha256": "258b71829a968e21ae86f163217039d9eff639ee9110800f87076647b3563c03",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n 1 230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n 1 230 v.png",
+    "size": 29108,
+    "sha256": "292f3791f1999874f0b4a85f39a155962a06f34f031c18f1c4303953407c8b79",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n 100 v  1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n 100 v  1.png",
+    "size": 28737,
+    "sha256": "bd4247e1f16a2f6698ce445540c191fa67a686936241bc420a8cc0fb6f88693b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/20 ohm 70 n 100 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/20 ohm 70 n 100 v .png",
+    "size": 21598,
+    "sha256": "032691e2c1a0e8e418cb5a9bed2b9330306287ea4a26d106fb94796b6c77344b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/200 ohm 70 n 100 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/200 ohm 70 n 100 v 1.png",
+    "size": 28432,
+    "sha256": "9905f80e289c4314176c0aeda333084c66acdc4ff56dc89c7a1f76f0ae93ed5b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/200 ohm 70 n 100 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/200 ohm 70 n 100 v.png",
+    "size": 23644,
+    "sha256": "486c03f537985b1c8728ef0226e9111e6466ce6817e7f6dccf0ba40417ff051e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/50 ohm 70 n  230 v.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/50 ohm 70 n  230 v.png",
+    "size": 21584,
+    "sha256": "ab9d7f889cb99ebdb15ab354ec60260a96b73cf5e3bd0965e5b69b9a3e2a3082",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/50 ohm 70 n 230 v 1.png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/50 ohm 70 n 230 v 1.png",
+    "size": 28705,
+    "sha256": "3d231c0d3cf0b196531f46e5635a6bfe61ad74230d10e7bc10d8375151055ffc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/500 ohm 70 n  50 v .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/500 ohm 70 n  50 v .png",
+    "size": 23151,
+    "sha256": "3818986e89ef940e8b5ffac08b554a9171dfcb910bd6f905d137daea1a99773c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab 4/Values.zip!/500 ohm 70 n  50 v 1 .png",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab 4/Values__acilmis/500 ohm 70 n  50 v 1 .png",
+    "size": 28316,
+    "sha256": "97ed8848e26269ae2b0b1b5d1d790addf09fa092b394c96abd59f38674b282b5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab Kodlar/deneme.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab Kodlar/deneme.m",
+    "size": 1170,
+    "sha256": "9f8d3178df5a95b5a484b9288acd95fa4b99fa08d8a7afebaed15085412015bb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab Kodlar/dnm.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab Kodlar/dnm.m",
+    "size": 927,
+    "sha256": "d5810490609b63f887444f6005a6300e4dbb66b358b0df356ca9db5a5ed0df72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab Kodlar/q2.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab Kodlar/q2.m",
+    "size": 717,
+    "sha256": "9990bfe01fe9767b28f5518725427fd013ce9e430308328871efed0e6d5a85ab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab Kodlar/q22.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab Kodlar/q22.m",
+    "size": 1693,
+    "sha256": "d2671c330f50a459512e859e3d3e3d5c14c3c39e4c7dc0af9086dce6c49c5942",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab Kodlar/q2deneme.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab Kodlar/q2deneme.m",
+    "size": 1562,
+    "sha256": "81eb1a2b38e15f8ed3c79f4ccc706ecc5caa498797567188772b856d3adbc8e5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/Lab Report 4.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/Lab Report 4.docx",
+    "size": 431780,
+    "sha256": "63cc2835a7554dc029f0a959a49a5d9559c900e6cd1a8c8b059be014658b0722",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/LabStudy4.zip!/LabStudy4/Field_Control_DC_Shunt_Motor.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/LabStudy4__acilmis/LabStudy4/Field_Control_DC_Shunt_Motor.slx",
+    "size": 32961,
+    "sha256": "6c9a97a6844bc15cae111358a4308c7c86d3286270f1fb7dd5ba78fa0219de33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/LabStudy4.zip!/LabStudy4/LabStudy#4.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/LabStudy4__acilmis/LabStudy4/LabStudy#4.pdf",
+    "size": 43511,
+    "sha256": "b428f45d8f22b75791d602f602ac3ff9fa63e456bc31988b0bc04bd427b71fe1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 5/CompoundGeneratorModel.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 5/CompoundGeneratorModel.slx",
+    "size": 30723,
+    "sha256": "8fdf6a3e0e34e0ac5d0377c381334c02e2fe53f3b3aabce511c2089e5e0cf0b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 5/GROUP11 LAB 5.rar!/CompoundGeneratorModel.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 5/GROUP11 LAB 5__acilmis/CompoundGeneratorModel.slx",
+    "size": 30723,
+    "sha256": "8fdf6a3e0e34e0ac5d0377c381334c02e2fe53f3b3aabce511c2089e5e0cf0b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 5/GROUP11 LAB 5.rar!/GROUP11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 5/GROUP11 LAB 5__acilmis/GROUP11.docx",
+    "size": 12810,
+    "sha256": "ac7cf50343c4ef5c776c1c4c71eb6b22c3fd3407c3bc6c93aeee5749eceb269f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 5/GROUP11 LAB 5.rar!/separately_excited_dc_generator.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 5/GROUP11 LAB 5__acilmis/separately_excited_dc_generator.slx",
+    "size": 86376,
+    "sha256": "839ffd6dbc27cd9f5a3bbb449b70a55aa82e09595b9f0a65d2b3c40ee39ee372",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 5/GROUP11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 5/GROUP11.docx",
+    "size": 12810,
+    "sha256": "ac7cf50343c4ef5c776c1c4c71eb6b22c3fd3407c3bc6c93aeee5749eceb269f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 5/separately_excited_dc_generator.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 5/separately_excited_dc_generator.slx",
+    "size": 86376,
+    "sha256": "839ffd6dbc27cd9f5a3bbb449b70a55aa82e09595b9f0a65d2b3c40ee39ee372",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 6/GROUP11 Lab6.rar!/GROUP11 lab 6 - Q2.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 6/GROUP11 Lab6__acilmis/GROUP11 lab 6 - Q2.docx",
+    "size": 13787,
+    "sha256": "605504da6efbf6de5ac8e5ae9ae055bb44e52a33bb30e921a5362cc5ed901026",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 6/GROUP11 Lab6.rar!/GROUP11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 6/GROUP11 Lab6__acilmis/GROUP11.docx",
+    "size": 12825,
+    "sha256": "2ae2792eef55f57200235e9cd1e410aa965541365934970367e635d9fb461a18",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 6/GROUP11 Lab6.rar!/GROUP11_Lab6_Q1_OCtest_SCtest.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 6/GROUP11 Lab6__acilmis/GROUP11_Lab6_Q1_OCtest_SCtest.m",
+    "size": 2128,
+    "sha256": "866471558a6d0230083acdd2f370a351e4e4f766d7495388d53fd83d3fb39a98",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 6/GROUP11 lab 6 - Q2.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 6/GROUP11 lab 6 - Q2.docx",
+    "size": 13787,
+    "sha256": "605504da6efbf6de5ac8e5ae9ae055bb44e52a33bb30e921a5362cc5ed901026",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 6/GROUP11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 6/GROUP11.docx",
+    "size": 12825,
+    "sha256": "2ae2792eef55f57200235e9cd1e410aa965541365934970367e635d9fb461a18",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 6/GROUP11_Lab6_Q1_OCtest_SCtest.m",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 6/GROUP11_Lab6_Q1_OCtest_SCtest.m",
+    "size": 2128,
+    "sha256": "866471558a6d0230083acdd2f370a351e4e4f766d7495388d53fd83d3fb39a98",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 6/LabStudy#6.rtf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 6/LabStudy#6.rtf",
+    "size": 1294,
+    "sha256": "03e06407d7e74fd58008b08a913eb758b5e1352eba7ca3ef08d649dc8695db02",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 7/Autotransformer.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 7/Autotransformer.docx",
+    "size": 102007,
+    "sha256": "894081b30217cd865770d4532449dbf703abf85aa88c878536cc7a8397727444",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 7/GROUP11-Lab Report 7.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 7/GROUP11-Lab Report 7.pdf",
+    "size": 583708,
+    "sha256": "81519562c482efd6755bc43d00c607e0e21b2378c709037b574471e41aa2b68a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 7/GROUP11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 7/GROUP11.docx",
+    "size": 852349,
+    "sha256": "81f7b2b0603508360119ef86a43d9f9ef0aeab7081331824fe0f8957f54f5265",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 7/Group 11 - Lab 7 - Preliminary Study Report.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 7/Group 11 - Lab 7 - Preliminary Study Report.pdf",
+    "size": 741303,
+    "sha256": "60c3b3c8c69f6d196498e1cbccbf0cc760fedbf7919fd9bfde594964773bc723",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 7/WhatsApp Image 2023-11-29 at 19.02.07.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 7/WhatsApp Image 2023-11-29 at 19.02.07.jpeg",
+    "size": 1377754,
+    "sha256": "f8891917e4b74eacf6ea72688f122cf404ed2430386ba85439350f68a4515fca",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 7/Yeni Microsoft Word Belgesi.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 7/Yeni Microsoft Word Belgesi.docx",
+    "size": 1390575,
+    "sha256": "98a5decbc37430cf0fb8cf35bf6709f2db892b6e6bdcf4aa17158b4c13442d63",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 7/q1.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 7/q1.jpeg",
+    "size": 175294,
+    "sha256": "7260373340cbae420d018bf395d2db5f683b672a3ada5d30ad88c8d705ff958b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 7/q3.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 7/q3.jpeg",
+    "size": 140904,
+    "sha256": "e5d272820cc248052aa12d4e45564c294ccf8e1cab631edb65f12b6e1e7a7741",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 8/GROUP11-Preliminary Lab Report 8.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 8/GROUP11-Preliminary Lab Report 8.pdf",
+    "size": 369552,
+    "sha256": "73ea6190282d81546741be3d6fb36792ffd82b2ed8057046ac4e9f39c0b25b58",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 8/GROUP11.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 8/GROUP11.docx",
+    "size": 3964412,
+    "sha256": "8221f90572c7ea0104a4bf56c45b0370fe8a72af5a02eae1c30d873ac3880da7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 8/LabStudy#8.rtf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 8/LabStudy#8.rtf",
+    "size": 572,
+    "sha256": "c6289cb7245fa74e0c4c8ce5a826a6fa7a110ddc503042c90c145c6ab7328325",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 8/WhatsApp Image 2023-12-06 at 19.17.14 kırpılmış.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 8/WhatsApp Image 2023-12-06 at 19.17.14 kırpılmış.jpeg",
+    "size": 857690,
+    "sha256": "8152a02292df7abd46350729e20905a15f9b8cd2a8fd7e90443d9260017de5ff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/lab 8/WhatsApp Image 2023-12-06 at 19.17.14.jpeg",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/lab 8/WhatsApp Image 2023-12-06 at 19.17.14.jpeg",
+    "size": 853314,
+    "sha256": "fee2f98db991e19cbea64893dc0791c41670e8e1acb7660a5482dc3fcf93e5e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/en-conv-labs.rar!/separately_excited_dc_generator.slx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/en-conv-labs__acilmis/separately_excited_dc_generator.slx",
+    "size": 86376,
+    "sha256": "839ffd6dbc27cd9f5a3bbb449b70a55aa82e09595b9f0a65d2b3c40ee39ee372",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Energy Conversion/yunus emre/energy conv mt qst.docx",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Energy Conversion/yunus emre/energy conv mt qst.docx",
+    "size": 11463119,
+    "sha256": "0f791bf00cf3842d84c47b058a4ad94ec291a8b40cec7545744a095a8a431829",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/EnergyConversion_Project_Group_G9.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/EnergyConversion_Project_Group_G9.pdf",
+    "size": 1851957,
+    "sha256": "8f889c669ac1ca36086a4f6ccb919e9d7d4e1ae453487d03c089fed537d5a640",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/Lab 5- Shunt DC motor (1).pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/Lab 5- Shunt DC motor (1).pdf",
+    "size": 3434391,
+    "sha256": "04b42b21e4716fa58af2898966f79af94327f976625f54c7f36db3912495ee46",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab 6_Serial DC motor.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab 6_Serial DC motor.pdf",
+    "size": 2926430,
+    "sha256": "baf2b46dc30df43079456184d7fd771b14e31eb5216dfc3c667fdee94d00b49a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab1.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab1.pdf",
+    "size": 508600,
+    "sha256": "7cb100bd27e647c23aed7167370635e7df25b874c882ea8bac5585df341fdb58",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab10.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab10.pdf",
+    "size": 4344253,
+    "sha256": "7f225f148e45a970369facd8f60c906ecea484f8d4aa31eb621b999314db3bc1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab11.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab11.pdf",
+    "size": 3779127,
+    "sha256": "d4aacf0c2211525e35885c22ef979bdd9934d224fb506d71460ab976dcc75241",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab2.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab2.pdf",
+    "size": 539687,
+    "sha256": "ead1dab72513f7846896247844e5aaa0c153b242b75d4139551a3bca3c279616",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab3.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab3.pdf",
+    "size": 512074,
+    "sha256": "a6c0a7470773079794c8a7ce3d05b649a0dd039e1bd508699bb1c93833af4d48",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab4.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab4.pdf",
+    "size": 547087,
+    "sha256": "803c2a57dd7dc2d8aa3b136c86a29aa70ba80adfb4ee6a7066d23bac605b7faa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab7.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab7.pdf",
+    "size": 3696543,
+    "sha256": "52dae4cecaae73522d365d94dabf306ad75dbcf7fe7ec0507a3dab51b6814316",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab8.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab8.pdf",
+    "size": 1334160,
+    "sha256": "01536c7bc8125a308a3cb628f1c142c0dbb66f1d49b53d2d155aac22cb00baf0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab9.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/MehmetAli_Kamalak_150720062_Lab9.pdf",
+    "size": 821986,
+    "sha256": "89762d5697bae4122cfc0045a8b757a646e9af62bc828fa5e08e8b1de44f6595",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Lab/Solar_Power_Plant_Design_Assignment_project1.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Lab/Solar_Power_Plant_Design_Assignment_project1.pdf",
+    "size": 93804,
+    "sha256": "be5820f33cb935fa6bbbb32c3c54d025faa103693d60a47d238dacd00e88d4e8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/Midterm2025_Fall_WithAnswers.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/Midterm2025_Fall_WithAnswers.pdf",
+    "size": 137072,
+    "sha256": "f50257a13ce5d959ad4133e0af4626c2da16639390c9abd64d4bb5b944324e93",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/24-25 güz midterm.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/24-25 güz midterm.pdf",
+    "size": 719638,
+    "sha256": "9be23a22d4904bb20837e9a0cc35b79bf80c92b83523a009a5f75ebd07085dc1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/energy_çalışma_soruları.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/energy_çalışma_soruları.pdf",
+    "size": 619194,
+    "sha256": "93fa4edd9873d6b81c717dc14fe316b7069647ea9be75bccab595bf4f91447bc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/enerji con 21 spring midterm .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/enerji con 21 spring midterm .pdf",
+    "size": 12974165,
+    "sha256": "a25b4d253a13d6ac49505c7fd7b090f68aed3da67ef30cfe1817f7d23f1dfb8d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/enerji con 22 spring midterm .pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/enerji con 22 spring midterm .pdf",
+    "size": 5533810,
+    "sha256": "a9189221cb89e9b48012fb5047accf751a062f7f661a3638a0faf0dc62452f3f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/enerji con 22-23 spring midterm.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/enerji con 22-23 spring midterm.pdf",
+    "size": 1676908,
+    "sha256": "0ab4c7e84fbaf57cccdbae123a623d4ea0e507556ff2e83b400a8ac0e78c5dfb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/enerji con 23-24 fall midterm.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/enerji con 23-24 fall midterm.pdf",
+    "size": 6198614,
+    "sha256": "edf04d1573adae127d99607b7e4c6f63add49d5af1ee249dcbac5b2ca2925d33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/enerji con 23_24 spring midterm.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/enerji con 23_24 spring midterm.pdf",
+    "size": 6247758,
+    "sha256": "ba540ec27a243eeb772af729404f14afbf04c1f4ca4f86fbfa6d3c5eea54afa4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/KiraptakiSorular_compressed.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/KiraptakiSorular_compressed.pdf",
+    "size": 10748063,
+    "sha256": "6ab6528902bdcea49368c66896a1550f7a9d7517e31a91dbd20a93ea887b42f3",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/midterms son/midterm çalışma soruları.txt",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/midterms son/midterm çalışma soruları.txt",
+    "size": 601,
+    "sha256": "397ae45e539d76f26636652a0ba1ef17f80e3f93cb06c6edc445bb773b10f875",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1aIYXoW4kT6wElY3aRNKrqsK2f-yyNE8h",
+    "source_member": "Energy Conversion/SOLUTİON_Electrical-Machinery-chapman-5th-2012-solution.pdf",
+    "path": "3.sinif/5.donem/EE3014_Energy-Conversion/Energy-Conversion/Energy Conversion/SOLUTİON_Electrical-Machinery-chapman-5th-2012-solution.pdf",
+    "size": 4000222,
+    "sha256": "097d868efc90c5891e0de0676d6c07ab5d31e6b34846ef30cfb47e971eb9410a",
+    "storage": "git"
   }
 ]
