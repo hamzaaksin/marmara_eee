@@ -1,0 +1,20 @@
+Circuit: * D:\Dersler\Junior Lessons Spring Term\Electronics II\Homeworks & Lab Assignments\exp4\Draft2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jun 02 23:55:08 2022
+Total elapsed time: 0.172 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 20
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 20
+fillins = 0
+solver = Normal
+Matrix Compiler1:      62 opcodes
+Matrix Compiler2: 1.53 KB object code size
