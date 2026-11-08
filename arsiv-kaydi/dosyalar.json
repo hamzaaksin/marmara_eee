@@ -12454,5 +12454,45 @@
     "size": 19232256,
     "sha256": "f62f4ded61085ed8ea11f7b95f772345d74aafe1483923e7a176cacaf2d1d7f3",
     "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "10ScxEQf-jUQzv_j0HsE2vido8QUc-mLV",
+    "source_member": "stat/prob midterm 1 fall 2023 - Copy.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-Random-Variables/stat/prob midterm 1 fall 2023 - Copy.pdf",
+    "size": 34215923,
+    "sha256": "bacbd57f5f68503bb788c91ee88bdf47fdc1f5d316a0a3242bfc76b3fdd92853",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "10ScxEQf-jUQzv_j0HsE2vido8QUc-mLV",
+    "source_member": "stat/STAT2056 Midterm 2 -bahar- 2023.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-Random-Variables/stat/STAT2056 Midterm 2 -bahar- 2023.pdf",
+    "size": 348771,
+    "sha256": "f3825fa108bdb6393c2ccd1836eba832287b6742cbb830455bbb5625220f55cd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "10ScxEQf-jUQzv_j0HsE2vido8QUc-mLV",
+    "source_member": "stat/stat2056_final_exam_solutions.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-Random-Variables/stat/stat2056_final_exam_solutions.pdf",
+    "size": 396811,
+    "sha256": "9d12ce8dd4a752401a5a539cbb5c1a0ca45612727e7687ea23bb7e7cc4400935",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "10ScxEQf-jUQzv_j0HsE2vido8QUc-mLV",
+    "source_member": "stat/STAT2056_FinalExam_Solutions_Fall2023.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-Random-Variables/stat/STAT2056_FinalExam_Solutions_Fall2023.pdf",
+    "size": 67311310,
+    "sha256": "6de066e37ca63ccb862c48731b84fa6b1e61e11ea5176a338d1e79cc559339eb",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "10ScxEQf-jUQzv_j0HsE2vido8QUc-mLV",
+    "source_member": "stat/stat2056_midterm1_solution-bahar2023.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-Random-Variables/stat/stat2056_midterm1_solution-bahar2023.pdf",
+    "size": 699886,
+    "sha256": "74107300db6a941789420f3e1968f764b83b7976e4365a7126e07138c65a1cf7",
+    "storage": "git"
   }
 ]
