@@ -1254,5 +1254,101 @@
     "size": 13561650,
     "sha256": "43dbbb5e87fbe434c4395038a68362d5e0f7da6255581a9a36e4fd804d1c4f14",
     "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/150720062_MEHMET_ALİ_KAMALAK.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/150720062_MEHMET_ALİ_KAMALAK.pdf",
+    "size": 248796,
+    "sha256": "c6b05a09449bcf1ca47669a5f0ae8fb1e606538d3db54c5b870f84d109814ccb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/complex_mapping.m",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/complex_mapping.m",
+    "size": 393,
+    "sha256": "521aa4b5c5a6f7abc4a4f77c45eac838d8533800fbf860867c203bee2e60b0b6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/dennis_zill_a_first_course_in_complex_analysis_wbo_240220_170516.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/dennis_zill_a_first_course_in_complex_analysis_wbo_240220_170516.pdf",
+    "size": 10031209,
+    "sha256": "1a19ec13e5199d5dd48175f14daa6794141016ccfdee8caad6f2788967f9e86c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/hw1- 1.soru.png",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/hw1- 1.soru.png",
+    "size": 67622,
+    "sha256": "ecd04f8bb55601e04ad419ad437c3a8f191fd5a8f39c9b89f98b2c70245d1b61",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/hw1-2.soru.png",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/hw1-2.soru.png",
+    "size": 162680,
+    "sha256": "a1a35050a3785be9299937982451de6e8aa1fd654176016e38e2465a3b0baf44",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/hw1.asv",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/hw1.asv",
+    "size": 373,
+    "sha256": "28c22386361791e54bb84afb7b4cc48a94a9c7bf78925c46c6c96aed05f608e6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/hw1.m",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/hw1.m",
+    "size": 295,
+    "sha256": "cc1f8b2ba726b93574c691f4ab20595518dcf53e9ca9d94f8d239d55efb15c53",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/Hw3— part1.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/Hw3— part1.pdf",
+    "size": 10599888,
+    "sha256": "95bc2329b6aea710f4b8b0578d62b4ba9931cd1fe3ca12f536e9140ba5e0cf7a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/Hw3—Part 2.pdf",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/Hw3—Part 2.pdf",
+    "size": 2228309,
+    "sha256": "01d31eac87a59ca7a04b893588530bd669f61e758fbf0b05ac1f94f1b3da4f3e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/q2-1.m",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/q2-1.m",
+    "size": 453,
+    "sha256": "1bb78ea87ea07a5f515e2ec491889db2b0c90920afc9b09b081d698ae7e09cf3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/q2.m",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/q2.m",
+    "size": 657,
+    "sha256": "7419e1cc402fa1cf2b2fa6408ad50ffd1588d764d8a192afc53df3c2381c86a9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1C693JJn8TrYoCc-LSZ4623ae245FprmA",
+    "source_member": "enginering math-yunus dursun/q3.m",
+    "path": "2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/q3.m",
+    "size": 453,
+    "sha256": "1bb78ea87ea07a5f515e2ec491889db2b0c90920afc9b09b081d698ae7e09cf3",
+    "storage": "git"
   }
 ]

@@ -1,0 +1,19 @@
+function w = complex_mapping(z)
+    w = z.^2 + 1i*z - real(z);
+end
+
+num_points = 100;
+theta = linspace(0, 2*pi, num_points);
+radius = 2;
+z_circle = radius * exp(1i*theta);
+
+w_circle = complex_mapping(z_circle);
+
+figure;
+plot(real(w_circle), image(w_circle), 'b');
+axis equal;
+title('Image of |z| = 2 under w = z^2 + iz - Re(z)');
+xlabel('Re(w)');
+ylabel('Im(w)');
+grid on;
+
