@@ -29774,5 +29774,1197 @@
     "size": 4000222,
     "sha256": "097d868efc90c5891e0de0676d6c07ab5d31e6b34846ef30cfb47e971eb9410a",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Group22_OOP_Project11.docx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Group22_OOP_Project11.docx",
+    "size": 608526,
+    "sha256": "e5af97b8113c02e0ea2df8f0d6543d555bbad68360af3f6527d3376adcc7919c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/cevaplar.docx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/cevaplar.docx",
+    "size": 12784,
+    "sha256": "b2f70584c4cdcc6f75b300e98147eada4605930d976be6dfbb3cfc52c7feac94",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.23 (1).jpeg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.23 (1).jpeg",
+    "size": 26469,
+    "sha256": "32e194d74a30a6045f2b38051b2db90fec22c3192e820bb902629b3f0d1d9a2a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.23 (2).jpeg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.23 (2).jpeg",
+    "size": 38032,
+    "sha256": "ff272ff3b500fafb7f8455c861c902d0a8bd8f43c40d30b9ffe74724a03d8a0b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.23 (3).jpeg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.23 (3).jpeg",
+    "size": 34002,
+    "sha256": "1d278d486783562b3760fe18131a1b3658d0e88c83faccea61a32e599ff42896",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.23.jpeg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.23.jpeg",
+    "size": 13709,
+    "sha256": "713ec71b141fefb62e845fa85184a93a57272020fed5421049d0ffaac36a88c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.24 (1).jpeg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.24 (1).jpeg",
+    "size": 14139,
+    "sha256": "86faf8fd3c56189fdce5ad4c220942636e97e0ceb5a371708a0babdb01626a61",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.24 (2).jpeg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.24 (2).jpeg",
+    "size": 28118,
+    "sha256": "d7b680b066516fc7712f399f354ec104778d9570558625c8097bf973ba64844b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.24.jpeg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/Midterm/WhatsApp Image 2023-05-31 at 17.37.24.jpeg",
+    "size": 11280,
+    "sha256": "81f6adda2a2710435803f559354f3bd845a393737fb470ffc22788123444027f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/atm sorusu.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/atm sorusu.jpg",
+    "size": 157316,
+    "sha256": "42b4697c322b05134a4682644f8550e60570149deb99d91f5231fffd013d0408",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/atm sorusu.txt",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/atm sorusu.txt",
+    "size": 3484,
+    "sha256": "5f7f2772bde7b252ab73fa41542f99242a68ee853cd249425d26bc321ef45f0d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0040.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0040.jpg",
+    "size": 35882,
+    "sha256": "b2188f47e788b1ff8650c1830df7a2af449265ca07d994c595fbbbc19d6daf9a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0041.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0041.jpg",
+    "size": 91412,
+    "sha256": "7a64da136d8ec633a1b820fa5b5c5e35be85def4e922c880e83f300de01d17b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0042.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0042.jpg",
+    "size": 29548,
+    "sha256": "09622b0dd9b46ab42eb745b584878be5eede2cf43bbed60e6205b723f12b03c4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0043.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0043.jpg",
+    "size": 61790,
+    "sha256": "fb55751bef7ca691c4e1d122278f2861243ef2ab95d2fa2bc2bb064c6ee50b06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0044.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0044.jpg",
+    "size": 24566,
+    "sha256": "daed050eee1ad5c573ed21537b72673fe0e023487fda05fcdfff5408b02ea629",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0047.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/IMG-20230613-WA0047.jpg",
+    "size": 68713,
+    "sha256": "d8d5b19620e833e6b67f6c2b3b348a11b53bfb79246244ae431f6227240277ac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/WhatsApp Görsel 2023-06-13 saat 22.24.59.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/WhatsApp Görsel 2023-06-13 saat 22.24.59.jpg",
+    "size": 99696,
+    "sha256": "83ef79d4a3fe875bd5121fc995b86a56fa5a8f34d46252196b59bf359e597ea6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/WhatsApp Görsel 2023-06-13 saat 22.25.23.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/WhatsApp Görsel 2023-06-13 saat 22.25.23.jpg",
+    "size": 90442,
+    "sha256": "7cb8ee7e38384e46b0fd3dd4661be6ccc1610e4fe3fc973535da66e810ca4f19",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/WhatsApp Görsel 2023-06-13 saat 22.25.54.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/final exam/WhatsApp Görsel 2023-06-13 saat 22.25.54.jpg",
+    "size": 69478,
+    "sha256": "75baeeee2b330060af00f5447c0bf657fbcc9a43934d2d015dd32da734cbc145",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/OOP tüm slaytlatlar.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OBJE FİNAL/OOP tüm slaytlatlar.pdf",
+    "size": 20893599,
+    "sha256": "9f78fe91cc24453d91d2981df493576d1afde6068aa1903b030c62e6ba9fbf59",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/1/1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/1/1.mp4",
+    "size": 88245768,
+    "sha256": "f5dfeffd01135d56b66a7e3f9ca1d395699a16a23eacf60d935d26218888af79",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/1/2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/1/2.mp4",
+    "size": 87015206,
+    "sha256": "5201c7d73fdf81036013310dfca5bcd161a0f77db99a4986388655c8cef94ebd",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/2/1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/2/1.mp4",
+    "size": 113273391,
+    "sha256": "6d69d36770c0e2a748887e47664cf0ab6e3194c27c319b854fd3b50869a51f39",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/2/2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/2/2.mp4",
+    "size": 70436289,
+    "sha256": "2a006d7d061a4de44b511ad148cec260baf6813e0b5e6d8eeafe844a32b8ded7",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/2/3.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/2/3.mp4",
+    "size": 100518660,
+    "sha256": "6d1fc28c9278619e3af85b727044b65914a7cc1448d2d39b22175a714d23ad6f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/3/video1281963561.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/3/video1281963561.mp4",
+    "size": 164054214,
+    "sha256": "8b2ce807ca49722ea2272079d065038e7292a104eafe53b84a0694409ffa6ac4",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/4/1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/4/1.mp4",
+    "size": 123389725,
+    "sha256": "81fea3007c7f1f1dd6770291de9a71c7ad858b0ce2f3c1d2e5b0e582b009fe9f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/4/2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/4/2.mp4",
+    "size": 110998250,
+    "sha256": "5e1c01cde8f8e7490ed3618de85e30ec938c9500510ef000c93b933c56762ff6",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/4/3.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/4/3.mp4",
+    "size": 133234012,
+    "sha256": "118a8f3fddcd2643e0e4a51f9791537da3abfd0566e029a3d1cd188b86ebde48",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/5/1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/5/1.mp4",
+    "size": 111533101,
+    "sha256": "02cb11fb6c87dcce524f94aa848961da3c029d9f37cd8d037bd7a04057bd1c0b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/5/2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/5/2.mp4",
+    "size": 148393723,
+    "sha256": "ccab0d63b19732ff183773e0919bd25015bf1f3983def48e7917da6d14d09bc3",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/6/1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/6/1.mp4",
+    "size": 114621238,
+    "sha256": "e16081153338a847ace1eba40d96515063fbfe9885cc141c56afb7f6b8bdfced",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/6/2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/6/2.mp4",
+    "size": 145871930,
+    "sha256": "ce41ef07c9b779b046c59d227b127a8a15b2a180c57c0bad35b2f99c4d7ba0e1",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/6/3.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/6/3.mp4",
+    "size": 121225696,
+    "sha256": "e290e56467b1aa685a0f9befc39f0a9a18efbda4b373f4719c214a4e64a8275f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/7/1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/7/1.mp4",
+    "size": 172469717,
+    "sha256": "5bc762149650f9d757ad763b292892d3af021d2ce3d58c444347a4a55f2328c2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/7/2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/7/2.mp4",
+    "size": 92745810,
+    "sha256": "e31b978650721bd704f9fdc91289a90d775411e20d232970519180f192d51315",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/7/3.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/object oriented/7/3.mp4",
+    "size": 83673211,
+    "sha256": "95c53783a9ff9c2a328207fd4bd490c8aef6465a0892d3eb10d0c09a9c6c5990",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/OOP tüm slaytlatlar.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/OOP tüm slaytlatlar.pdf",
+    "size": 20893599,
+    "sha256": "9f78fe91cc24453d91d2981df493576d1afde6068aa1903b030c62e6ba9fbf59",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/01slide_accessible (1).pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/01slide_accessible (1).pdf",
+    "size": 1746373,
+    "sha256": "6ce6e2c4080eedc9fcba6f145f5339dc098f604d485e1d8589ecd1f882c5cc3d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/02slide_accessible (1).pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/02slide_accessible (1).pdf",
+    "size": 1341024,
+    "sha256": "467e5c7fedf269306530a6aa2e97ac62b186868801b8b6b2982456e3a19c8038",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/03slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/03slide_accessible.pdf",
+    "size": 1806690,
+    "sha256": "b76291255747c0f5f674c6b50e96e57a58337bdd4a84f09e8f76bccf7e4f28de",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/04slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/04slide_accessible.pdf",
+    "size": 953317,
+    "sha256": "ea20ee8b1efb3b554d7b4a145258998cc0011a391306d34e041a1ded05765242",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/05slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/05slide_accessible.pdf",
+    "size": 1223246,
+    "sha256": "a5fb64a455fb0a4fda3200624a84bebd22f751a86a9b1f837935791fd6d96272",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/06slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/06slide_accessible.pdf",
+    "size": 1882812,
+    "sha256": "4fe25a3b602fb941e5661cbc38b1cc6336a96a4a3713786b215d93bf4183e8e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/07slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/07slide_accessible.pdf",
+    "size": 3685507,
+    "sha256": "3c42b4b1e51ba73339e24f2a86eee104220d5f77333bfcc474e1a2f62ad7e475",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/08slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/08slide_accessible.pdf",
+    "size": 1075760,
+    "sha256": "e1b128fc2a7ed135a4008657f7fce92c465df43b4d2ee69fb5cc9285d69ffad7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/09slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/09slide_accessible.pdf",
+    "size": 1850522,
+    "sha256": "bbf5e8c2e7d1dcda8a5e935988d40e5e06d9dc1ecb7fcd4916513baf95f2bddb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/10slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/10slide.pdf",
+    "size": 956121,
+    "sha256": "b7b92ec97de7394c55af4b91fee86f77f90cc3de9fc17ace04b5a040f4e68e60",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/11slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/11slide.pdf",
+    "size": 925617,
+    "sha256": "dfdb1e7362e380a502aa15893e3507569c4867071f709e4f981a9753ee591f90",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/12slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/12slide.pdf",
+    "size": 1284987,
+    "sha256": "c425453d93b002a2c177f544a9e4ee184328cca0783eedd7de3fb14b26d0b2ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/13slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/13slide.pdf",
+    "size": 1479666,
+    "sha256": "b2adecbb44183c48f97853ec735b308a4cbf46238e6dcfc987198667bd5f7026",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/17slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/17slide.pdf",
+    "size": 1127203,
+    "sha256": "8bdf967776730dec6cf8c219a50327f1d47b314ad3cdecd9e28eec0830d2ffa3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/19slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/19slide.pdf",
+    "size": 539197,
+    "sha256": "2f7dadfabd24eaddf9ca2db3123d24dbc92b559b925e4fc68d0a24ec943f84e5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/20slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/20slide.pdf",
+    "size": 1377702,
+    "sha256": "cbb0f9250dd9f6a26d089cffb3113a468189b68796193c2305592df173d6b9a9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/21slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/21slide.pdf",
+    "size": 944541,
+    "sha256": "0255da20febc0d93842cc317759d56629f9e5806c8403ce912801570002368fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/22slide.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/slaytlar/22slide.pdf",
+    "size": 1050403,
+    "sha256": "3a76d03ab2061f406e5b0b55e8fa563dbe1e7777b56d3bc9216aa59bf499bb28",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W1/01slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W1/01slide_accessible.pdf",
+    "size": 1746373,
+    "sha256": "6ce6e2c4080eedc9fcba6f145f5339dc098f604d485e1d8589ecd1f882c5cc3d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W1/part1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W1/part1.mp4",
+    "size": 154293974,
+    "sha256": "ba6efb8edd89b6040046b521a6c50f722c29bafa55a5e11de923d8e9d85ec76d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W1/part2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W1/part2.mp4",
+    "size": 161520949,
+    "sha256": "24ef9d56aac2ce6535202d10a08abd79af01af46df25b20ece9e9abb22a692e2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W1/Week1_Introduction.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W1/Week1_Introduction.pdf",
+    "size": 247233,
+    "sha256": "0f32776e10ff978be39dca6c1b08f8d982546c4bf3bdbca181213586fe7b8e57",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W2/02slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W2/02slide_accessible.pdf",
+    "size": 1341024,
+    "sha256": "467e5c7fedf269306530a6aa2e97ac62b186868801b8b6b2982456e3a19c8038",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W2/part1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W2/part1.mp4",
+    "size": 152407692,
+    "sha256": "9733a394fd5d0723ac74a7d75e02d5c9cbd1fb4cd261eaba27e56caaad59c596",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W2/part2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W2/part2.mp4",
+    "size": 148918276,
+    "sha256": "dd84b6dcfe6eec93d59f813938afd0847c1e27843c633c4a8d6d95e7389aacf7",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W3/03.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W3/03.pdf",
+    "size": 1806690,
+    "sha256": "b76291255747c0f5f674c6b50e96e57a58337bdd4a84f09e8f76bccf7e4f28de",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W3/04.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W3/04.pdf",
+    "size": 953317,
+    "sha256": "ea20ee8b1efb3b554d7b4a145258998cc0011a391306d34e041a1ded05765242",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W3/part1 .mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W3/part1 .mp4",
+    "size": 173522151,
+    "sha256": "0b28aee317949a67b82108221008bc8b3c23450f6d67c6cef3ed7fd2463bb28e",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W3/part2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W3/part2.mp4",
+    "size": 156738547,
+    "sha256": "574df33d4606ad432cc7f8559c7927c41509c49a419aafbae99b13c42d8e8786",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W4/1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W4/1.mp4",
+    "size": 153171789,
+    "sha256": "6339c1df53c8d10c9073465c688ff7b3fb190ca4a483cebd41e5eacef48b4b47",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W4/2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W4/2.mp4",
+    "size": 122630605,
+    "sha256": "e523e7d274e59d83bcf67747523825d34684faad20b5d6094c2c408dd845da8f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W5/1.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W5/1.mp4",
+    "size": 159655535,
+    "sha256": "20528c5ec306741b71464adadca035733ec8be52b91e89a68288657816579e31",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/6-) CSE2062 (obj. oriented)/W5/2.mp4",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/6-) CSE2062 (obj. oriented)/W5/2.mp4",
+    "size": 122916687,
+    "sha256": "294d4b8a7e4d39f29d7df6f58e724b55c12a9d8197c42df404ea7ecad1fb665e",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/01slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/01slide_accessible.pdf",
+    "size": 1312344,
+    "sha256": "c31e3aba538ef1331157dae0cfb575aa954b444cd79b0391fa044b587f928889",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/02slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/02slide_accessible.pdf",
+    "size": 1347655,
+    "sha256": "2413744c4af932c6820d0c56212073fedabd7808dc250199e3936049458c24d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/03slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/03slide_accessible.pdf",
+    "size": 1553412,
+    "sha256": "0d10ef1dc3a5df38a29b293f6c5e1649e7111a271ed1ba7b9aa117281a0d2386",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/04slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/04slide_accessible.pdf",
+    "size": 575714,
+    "sha256": "a0367d8714c8fa19773b83e53236eebdde9d0c0a6abdcc42c0baf0d95052a8a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/05slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/05slide_accessible.pdf",
+    "size": 1118659,
+    "sha256": "6825db0581ff4146b490af92ec93b2e76e26acc8bf6ff2e50ee8da373bae82c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/06slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/06slide_accessible.pdf",
+    "size": 1799347,
+    "sha256": "bd7d5125294dac01be4dde4f0070bd817a71ce3779716d8512ae8af1e8ade2d1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/07slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/07slide_accessible.pdf",
+    "size": 3240591,
+    "sha256": "0d3b84034a94cf5be0083584e86e167eadd6d9b41f2120a77ce5d0eb5515f077",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/08slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/08slide_accessible.pdf",
+    "size": 728683,
+    "sha256": "2102ccc769769b7bc6f9a3bb38a9949bd8dd12ad9dc4822655fcbe582cda2c38",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/09slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/09slide_accessible.pdf",
+    "size": 1253552,
+    "sha256": "574d42092158c4a70a4ab4259c5ca56e20723cda5714c871937993fe35c93f38",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/10slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/10slide_accessible.pdf",
+    "size": 1061119,
+    "sha256": "52a58f5396e84141981cdbc83093db949b34c63f8cd199256d9c7c2c52a84e45",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/11slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/11slide_accessible.pdf",
+    "size": 1239698,
+    "sha256": "e7f60aa5010ea8c92507e188ebe7c4d72a2a5951410c7f990a125a98d8a46e46",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/12slide_accessible.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/12slide_accessible.pdf",
+    "size": 1639683,
+    "sha256": "59957428231f0cf0b998351cb71b5f89d80b5007cda45f2f388779072d0260e6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/atm sorusu.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/atm sorusu.jpg",
+    "size": 157316,
+    "sha256": "42b4697c322b05134a4682644f8550e60570149deb99d91f5231fffd013d0408",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/atm sorusu.txt",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/atm sorusu.txt",
+    "size": 3484,
+    "sha256": "5f7f2772bde7b252ab73fa41542f99242a68ee853cd249425d26bc321ef45f0d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0040.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0040.jpg",
+    "size": 35882,
+    "sha256": "b2188f47e788b1ff8650c1830df7a2af449265ca07d994c595fbbbc19d6daf9a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0041.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0041.jpg",
+    "size": 91412,
+    "sha256": "7a64da136d8ec633a1b820fa5b5c5e35be85def4e922c880e83f300de01d17b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0042.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0042.jpg",
+    "size": 29548,
+    "sha256": "09622b0dd9b46ab42eb745b584878be5eede2cf43bbed60e6205b723f12b03c4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0043.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0043.jpg",
+    "size": 61790,
+    "sha256": "fb55751bef7ca691c4e1d122278f2861243ef2ab95d2fa2bc2bb064c6ee50b06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0044.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0044.jpg",
+    "size": 24566,
+    "sha256": "daed050eee1ad5c573ed21537b72673fe0e023487fda05fcdfff5408b02ea629",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0047.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/IMG-20230613-WA0047.jpg",
+    "size": 68713,
+    "sha256": "d8d5b19620e833e6b67f6c2b3b348a11b53bfb79246244ae431f6227240277ac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/WhatsApp Görsel 2023-06-13 saat 22.24.59.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/WhatsApp Görsel 2023-06-13 saat 22.24.59.jpg",
+    "size": 99696,
+    "sha256": "83ef79d4a3fe875bd5121fc995b86a56fa5a8f34d46252196b59bf359e597ea6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/WhatsApp Görsel 2023-06-13 saat 22.25.23.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/WhatsApp Görsel 2023-06-13 saat 22.25.23.jpg",
+    "size": 90442,
+    "sha256": "7cb8ee7e38384e46b0fd3dd4661be6ccc1610e4fe3fc973535da66e810ca4f19",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final exam_eski/WhatsApp Görsel 2023-06-13 saat 22.25.54.jpg",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final exam_eski/WhatsApp Görsel 2023-06-13 saat 22.25.54.jpg",
+    "size": 69478,
+    "sha256": "75baeeee2b330060af00f5447c0bf657fbcc9a43934d2d015dd32da734cbc145",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/final_25/final_25.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/final_25/final_25.pdf",
+    "size": 1731986,
+    "sha256": "f0dd054965879316860256652a098df2e10adcc95a80a25b49c232a776dfb3e6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004 Lab9_Exception_Handling.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004 Lab9_Exception_Handling.pptx",
+    "size": 189370,
+    "sha256": "815561dbc42d60a39d1cd4a9d741a01ff4ab66ff28747fc03dc8086cd22695aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab1_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab1_Lecture.pptx",
+    "size": 935294,
+    "sha256": "009c112bf449e798d8c6904bfb1b06093a2794f5e3d5c2c2ead2a2b6b81d58ff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab2_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab2_Lecture.pptx",
+    "size": 143573,
+    "sha256": "619e7182dcb038e478fb24a3290f6caa0ce646add94dc644cd7943f1743c5cb2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab3_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab3_Lecture.pptx",
+    "size": 138739,
+    "sha256": "cce846424dc34872f221c375c0e59c0a26786174aaa98301803cf23ad745ade7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab4_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab4_Lecture.pptx",
+    "size": 205258,
+    "sha256": "31a559fa9e12d40b84bda346b197346b42238137cd35747b6b893e006777de7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab5_CodeLecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab5_CodeLecture.pptx",
+    "size": 219413,
+    "sha256": "d0c015b3bf6d0f77d658d817d61668c57b723fbccc91e6702b0ff8f120d7081f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab5_Theoric_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab5_Theoric_Lecture.pptx",
+    "size": 184995,
+    "sha256": "4b1ab03484cdca921b1b31641f21db299a59038910d9b58a8a32d30fa75aae2f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab6_Java_Classes_Objects.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab6_Java_Classes_Objects.pptx",
+    "size": 232363,
+    "sha256": "625e98b4725014728c3fa6ff5c740d577f553208e9e20782e1e33e290c2e205a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab6_Theoric_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab6_Theoric_Lecture.pptx",
+    "size": 193581,
+    "sha256": "538052674ab5fd305323ca6763499a33c6f2731eadf3e9e880fc745a334ef9bb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab7_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab7_Lecture.pptx",
+    "size": 255357,
+    "sha256": "d7103342a786b55139f95f823e2c121bd30ed61589f60c837ba20c91ec00d1a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab7_Theoric_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab7_Theoric_Lecture.pptx",
+    "size": 242734,
+    "sha256": "32424e6100e60667efa8439010800a3031a8c58450964bd36c1f09cfbca981aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab8_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab8_Lecture.pptx",
+    "size": 167103,
+    "sha256": "054b4d50ccb5033481c1dca674938ae6fcfdd9909ec5cda67ce1f3d8ee55b194",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab8_Theoric_Lecture.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab8_Theoric_Lecture.pptx",
+    "size": 134172,
+    "sha256": "8c26725fc04bf45abbb9798c61690e777a3c32d3f4306cdf771f9cb698eeb036",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab9_Project_Codes.pptx",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/EE1004_Lab9_Project_Codes.pptx",
+    "size": 122062,
+    "sha256": "470187d012aa9b4bc974ef1f4fd0115aaab6327f435b89f2cc19b1cf792a999b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 1_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 1_ Attempt review _ ProgExam.pdf",
+    "size": 347937,
+    "sha256": "6e974af606118344f082b70f95cc157be03a6fc91f5770946e76e1801822b89d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 2_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 2_ Attempt review _ ProgExam.pdf",
+    "size": 474690,
+    "sha256": "f672e55ae354de8f4fbd2c6797747e205a7d3386f1bf588a7145d8eebf5644ea",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 3_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 3_ Attempt review _ ProgExam.pdf",
+    "size": 544945,
+    "sha256": "cac0c466bb96660054e41820ef57e6b29965a21b87193d5fdc8e7a112c0dd326",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 4_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 4_ Attempt review _ ProgExam.pdf",
+    "size": 519038,
+    "sha256": "dd3250c93528fbd0417171acb2f21ebad1f8e02aa07449e352b7f800b03f6192",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 5_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 5_ Attempt review _ ProgExam.pdf",
+    "size": 629372,
+    "sha256": "7f09c2fb33e19e7c6e184f9fa5e2fb66e0ed6661be8a730a91de66be4ae990c7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 6_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 6_ Attempt review _ ProgExam.pdf",
+    "size": 345162,
+    "sha256": "f04121c67e5cfc909055ee0c11e47e02a7bb36af75098e8eb41c16c3c3a5e3e1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 7_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 7_ Attempt review _ ProgExam.pdf",
+    "size": 595687,
+    "sha256": "8644ecaf37fbacdbcff5ef1ea518ce44c337cdf7c9392263771433196d9d4ee2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 8_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 8_ Attempt review _ ProgExam.pdf",
+    "size": 775281,
+    "sha256": "938d61476f6914bbf836fed3cec1e7ce2f5a5f51dd15ef19c88333758a195edf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 9_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/lab_questions-25/[ASYNC _ CODE] LAB 9_ Attempt review _ ProgExam.pdf",
+    "size": 398583,
+    "sha256": "8cc4b19c575ba3371c86958be8af93860a71551956f105a2463bd8b5b09f99ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/1.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/1.png",
+    "size": 25247,
+    "sha256": "1763330162516a1abc3e1dd1002156221f0c6104d2eb66677ddb45a015a38085",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/2.cevap.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/2.cevap.png",
+    "size": 92997,
+    "sha256": "574cdc7d72ac90ad4d5d68b6048b9905a5ae89f0c310a18c2afd48206df866d5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/2.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/2.png",
+    "size": 75263,
+    "sha256": "6c2f876ad897f041843638dafeb79477afacf68cf99e3ebf56116784163dc1fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/3.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/3.png",
+    "size": 11742,
+    "sha256": "d23df91355c4199bcf1bdfd811f3a0f05e7775b4eda9d7e851e744e8a8de40a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/4.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/4.png",
+    "size": 8934,
+    "sha256": "70747c71ea34361a86888697aea8e2dfc4d0858ee0ed9ee694b979281cdf5b9e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/5.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/5.png",
+    "size": 14548,
+    "sha256": "caa04ef4d94bfa249ae1c7a0b62f00874157bff97366d2f347a8555a863255e9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/6.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/6.png",
+    "size": 120680,
+    "sha256": "d08cf22f8f21a09fec75981e048f925ef506e3231d65b4dfd4e8938c83df0814",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/7.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/7.png",
+    "size": 70002,
+    "sha256": "68102f1991dace1a6c108b9a11fd28dc04d6d6a99175e9fa07377b92a9124457",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/8.png",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/8.png",
+    "size": 82715,
+    "sha256": "cbef10ac66905222485c27110951f5e80a7404da04e5c3731f99a1f0ae87e07e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/mt 24/midterm_24.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/mt 24/midterm_24.pdf",
+    "size": 185247,
+    "sha256": "addfbf4707225f53a19c43040a47a4d7873df40b65fdf927de2a3a2a29901cc3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/[SYNC _ CODE] Final Exam_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/[SYNC _ CODE] Final Exam_ Attempt review _ ProgExam.pdf",
+    "size": 1326805,
+    "sha256": "4d32c2e3492c9ec27676a8d78db057accb23b9ed377703e980fc6721c7d5d609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/[SYNC _ CODE] Midterm Exam_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/[SYNC _ CODE] Midterm Exam_ Attempt review _ ProgExam.pdf",
+    "size": 634139,
+    "sha256": "dfff4ee1134aeb9dffe51ec98770252e7e2dbe2c727286cfc5db32125b3b1710",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/[SYNC _ STANDARD] Quiz-1_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/[SYNC _ STANDARD] Quiz-1_ Attempt review _ ProgExam.pdf",
+    "size": 472651,
+    "sha256": "d87e387ab6a500c5f12569205c2030118858303cea9100b7eacfbd1b5325dac6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/[SYNC _ STANDARD] Quiz-2_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/[SYNC _ STANDARD] Quiz-2_ Attempt review _ ProgExam.pdf",
+    "size": 799241,
+    "sha256": "9bf9da99bf9e5a584a7fad701afda931362ddc867fa8d3aa5620414a156d9e3d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/[SYNC _ STANDARD] Quiz-3_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/[SYNC _ STANDARD] Quiz-3_ Attempt review _ ProgExam.pdf",
+    "size": 700674,
+    "sha256": "6b1c1bdae849fed5a883a83f36d7288d2fd119b7e20ce0a4c05541356cf76800",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/JAVA25-26/[SYNC _ STANDARD] Quiz-4_ Attempt review _ ProgExam.pdf",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/JAVA25-26/[SYNC _ STANDARD] Quiz-4_ Attempt review _ ProgExam.pdf",
+    "size": 1032246,
+    "sha256": "563be9e15862e4384c3e799327f11c66ec1f0669bdd614e42f5ed3d34923c67d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/atm.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/atm.java",
+    "size": 1385,
+    "sha256": "bc93403c6b8889d9ad7c200aebc0a228e8b22728e9bb274d3f373b3589774e0f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/atmsorusu.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/atmsorusu.java",
+    "size": 1890,
+    "sha256": "804a1755afb41a917059ff9bfa9436adb3981c7b617d206ca0531e91a5047e6a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/claude_ basic_q1.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/claude_ basic_q1.java",
+    "size": 670,
+    "sha256": "2fbc1aee5feb401bf14788cd0efd8cb6e4cdeba901c1793f15e75847ee321c85",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/claude_ basic_q2.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/claude_ basic_q2.java",
+    "size": 30,
+    "sha256": "45adf093d089cd877222684857d3a14670bc361173d4d987a894143fdc68f82b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/distance.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/distance.java",
+    "size": 1348,
+    "sha256": "57d88a1297aedd5d1e40b92d27c392bda557c6cba1b4ea66d8ef3cb75972e92d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/distance2.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/distance2.java",
+    "size": 1347,
+    "sha256": "049187b15cc852fcd9db12b84987e5559f092fa76116d5b546a453ede06fefa5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/Main.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/Main.java",
+    "size": 66,
+    "sha256": "f4bf9a7648d01512ce7baa97aca7abb5d06fb700b977ff62ceedbe76fb53b336",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/SmartDevice.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/SmartDevice.java",
+    "size": 3069,
+    "sha256": "24da61e16b5e712968a7f348bf127264401cfcfe4a39bbf203912016963d075e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/smartdevice2.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/smartdevice2.java",
+    "size": 3665,
+    "sha256": "0c0a8e87ad6657d6a5fe23635cd8410d8a8b4f0b57476c0659392ccc8081a385",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/sum.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/sum.java",
+    "size": 584,
+    "sha256": "91e02ce49a138a4ea6b72621d6a5ad4ec33065828fa92f29dc15d61986dc71ff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/Test.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/Test.java",
+    "size": 705,
+    "sha256": "73aa63b6a75ea4eea079f10ddff6d9dd6691fa98dbea8c2315690a42bc046f23",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/örnekuml.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/örnekuml.java",
+    "size": 2866,
+    "sha256": "fb092904a031ec1a936f4d165679f5560e0052ac9b77ef48238906a06170ed0b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_final_ex/şekilliyazdırma.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_final_ex/şekilliyazdırma.java",
+    "size": 984,
+    "sha256": "53863828ce053a5b667b796af0ad38dad865d9fdf4a38d46b0d4b100363c604a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1W9wh3ESszOwnxwXtBvX7BCjC1z5FnuZZ",
+    "source_member": "Java 25-26/java_vscode/Main.java",
+    "path": "1.sinif/2.donem/EE1004_Object-Oriented-Programming/Java-25-26/Java 25-26/java_vscode/Main.java",
+    "size": 284,
+    "sha256": "6a84b6fd03a8ea8a4760a0dc148887048c0e5c249ef59a301100f37a866815a3",
+    "storage": "git"
   }
 ]
