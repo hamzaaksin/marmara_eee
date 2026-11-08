@@ -1,0 +1,1 @@
+The magnitude responses of system (a) and (b) differ due to their pole-zero distributions. System (a) behaves like a low-pass filter, preserving low-frequency components more effectively, while system (b) attenuates specific frequency components, exhibiting a broader frequency response variation. This difference makes the systems suitable for different applications.

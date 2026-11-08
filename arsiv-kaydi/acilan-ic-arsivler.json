@@ -173,5 +173,20 @@
     "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
     "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files.zip",
     "destination": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files__acilmis"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip",
+    "destination": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip",
+    "destination": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip",
+    "destination": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis"
   }
 ]

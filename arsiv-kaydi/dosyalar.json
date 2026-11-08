@@ -22278,5 +22278,837 @@
     "size": 1503983,
     "sha256": "147ef174585f4c72c0f189424e068933bd4a3ccef462562ac7b56fadd5197d12",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/2.edition kitap/discrete_time_signal_processing_oppenheim_2e_solution.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/2.edition kitap/discrete_time_signal_processing_oppenheim_2e_solution.pdf",
+    "size": 7247592,
+    "sha256": "8b9bfa9265d71f39d4cfdcbe2761714a0ac9c733e7d8d21aa61a886643565fde",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/2.edition kitap/dsp_second.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/2.edition kitap/dsp_second.pdf",
+    "size": 8027193,
+    "sha256": "4d62d50f168b55300fc87010adaddee025cc9f994db99d3243eaacec3666bb53",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/(ders kitabı) discrete-time signal proc. Oppenheim.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/(ders kitabı) discrete-time signal proc. Oppenheim.pdf",
+    "size": 9592525,
+    "sha256": "39d27e3d8be99ee984a57fb6f63300af05823dc7fdf9505822b8cb2a231d19c5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_10.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_10.pdf",
+    "size": 15204114,
+    "sha256": "8c799a7d42da36e45d14def3e686b73cbeba5d96be04202700e63039ef96e04a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_11.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_11.pdf",
+    "size": 5949457,
+    "sha256": "f789ff6d0b98070798987705fc1aa9a57b08a100a86eaa15fd9875b08616213a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_12.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_12.pdf",
+    "size": 5991688,
+    "sha256": "3ab235b655ef7646cbf3c57b73c683bfb5a084db3029730adb410cbb201dfdd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_2.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_2.pdf",
+    "size": 10620864,
+    "sha256": "509a12d0e65a3004a742eb0adf8d9d8273def2ddd8a97a5e57072dce9759baf1",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_3.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_3.pdf",
+    "size": 4965240,
+    "sha256": "501c64c6e92642a60ba16e6ddbb3dfb7f7f1c58633237f9131264faba6627e80",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_4.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_4.pdf",
+    "size": 7006469,
+    "sha256": "80a5fc988cd90b44826273931bc2e4d53253d8e1551a078d821379309817c814",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_5.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_5.pdf",
+    "size": 17079994,
+    "sha256": "a93f6d0dd4b638af54c06acae645efa22fe01da91ae71e95a9704470db2fda4e",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_6.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_6.pdf",
+    "size": 9292662,
+    "sha256": "b68b8b7f32046108aa8877d1101244f1ea31e2c303f0c4573752b1aa91a5e8f1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_7.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_7.pdf",
+    "size": 16774138,
+    "sha256": "4e11d0a6292b4af775f576a40bde20ca2d394f2f65fcc166e4f8d34683b9e3a9",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_8.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_8.pdf",
+    "size": 12480202,
+    "sha256": "f6372525ac5d8cc97592cc58c529f7cd2d95534720f92b20fe9fdf63ed8ae6bc",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/3.edition kitap/SOL_CH_9.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/3.edition kitap/SOL_CH_9.pdf",
+    "size": 16506272,
+    "sha256": "40b499fb071e3fcd71a1cc5bf5ae73483d9411c6d94537c93db1e5aea9270592",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/books-library.net-02190127Xu1L6.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/books-library.net-02190127Xu1L6.pdf",
+    "size": 9589509,
+    "sha256": "3307732f18126efcb8ba19e4b8a466c1b752ac17870afbddb403c3f3a36308fa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/HW1.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/HW1.pdf",
+    "size": 92979,
+    "sha256": "4f8c5b2dd506f4b60a737c1e6d27187235f8e557581f44d59d6d68faa94fadbb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/HW2.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/HW2.pdf",
+    "size": 157815,
+    "sha256": "355dfd9f234de174b26d0c59a188440f28d6772f20ddb081dd8329ff5bb4d3dd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/HW3-1.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/HW3-1.pdf",
+    "size": 80830,
+    "sha256": "f2a55c0b7ebd284f0ecfaf99011cbeb6ddab998266b50ec5b8345afc9e2f36f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/lab1.mlx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/lab1.mlx",
+    "size": 2823,
+    "sha256": "86ec3ad9d18fafcad8c7ac9265ffe976f033ae4642f5a16f4659b9c2c38de483",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/lab1_work.asv",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/lab1_work.asv",
+    "size": 1060,
+    "sha256": "71df480e5b465a315ca88c5639fb66b61caa93e940d05a8cff68e5ea374c6941",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1/1input.wav",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1/1input.wav",
+    "size": 763226,
+    "sha256": "fb0836fe7fe0e26588136c408069f5648bab8c5c82e94bae8531ea742f32b3e3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1/barbara_gray.bmp",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1/barbara_gray.bmp",
+    "size": 263224,
+    "sha256": "c52b9104b70dbed092e4c8ecb62b76e6e618a8da588c57debe5a91a0ffa944a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1/Lab1_prelab.mlx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1/Lab1_prelab.mlx",
+    "size": 383361,
+    "sha256": "0384d9edf7f30d0ccd6aaf85425a2279734256ed18814315650a967fab127499",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1/Lab1_v0.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1/Lab1_v0.pdf",
+    "size": 58836,
+    "sha256": "b6b14fa487b19450a18a0564145a08d80ee1a5c2d252a62011e2a5cd4f3bcea5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1/Lab1_vLabWork.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1/Lab1_vLabWork.pdf",
+    "size": 39280,
+    "sha256": "3e3b331c15e3753ddf42a9260e66b69dd7034e5d73e051eaf63571c2b6d072c9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1/lab1_work.m",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1/lab1_work.m",
+    "size": 1080,
+    "sha256": "8ff965289b34c08a95766e5aea9612bbae4d193c95e00a7a7079a503920d5035",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1/MehmetAli_Kamalak_Lab1work_report.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1/MehmetAli_Kamalak_Lab1work_report.pdf",
+    "size": 518244,
+    "sha256": "7bc04a6f751be615da44d8195b732590d7ff4efa8e1f1d1507e53ccfe5930155",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1/MehmetAli_Kamalak_preLab1_report.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1/MehmetAli_Kamalak_preLab1_report.pdf",
+    "size": 643283,
+    "sha256": "f721bea8f1bb8c1c458e7218aae1dfcf96f96ad53b8965ade9f3ab856218ff7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip!/MehmetAliKamalak_lab1/1input.wav",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis/MehmetAliKamalak_lab1/1input.wav",
+    "size": 763226,
+    "sha256": "fb0836fe7fe0e26588136c408069f5648bab8c5c82e94bae8531ea742f32b3e3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip!/MehmetAliKamalak_lab1/barbara_gray.bmp",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis/MehmetAliKamalak_lab1/barbara_gray.bmp",
+    "size": 263224,
+    "sha256": "c52b9104b70dbed092e4c8ecb62b76e6e618a8da588c57debe5a91a0ffa944a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip!/MehmetAliKamalak_lab1/Lab1_prelab.mlx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis/MehmetAliKamalak_lab1/Lab1_prelab.mlx",
+    "size": 383361,
+    "sha256": "0384d9edf7f30d0ccd6aaf85425a2279734256ed18814315650a967fab127499",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip!/MehmetAliKamalak_lab1/Lab1_v0.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis/MehmetAliKamalak_lab1/Lab1_v0.pdf",
+    "size": 58836,
+    "sha256": "b6b14fa487b19450a18a0564145a08d80ee1a5c2d252a62011e2a5cd4f3bcea5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip!/MehmetAliKamalak_lab1/Lab1_vLabWork.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis/MehmetAliKamalak_lab1/Lab1_vLabWork.pdf",
+    "size": 39280,
+    "sha256": "3e3b331c15e3753ddf42a9260e66b69dd7034e5d73e051eaf63571c2b6d072c9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip!/MehmetAliKamalak_lab1/lab1_work.m",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis/MehmetAliKamalak_lab1/lab1_work.m",
+    "size": 1080,
+    "sha256": "8ff965289b34c08a95766e5aea9612bbae4d193c95e00a7a7079a503920d5035",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip!/MehmetAliKamalak_lab1/MehmetAli_Kamalak_Lab1work_report.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis/MehmetAliKamalak_lab1/MehmetAli_Kamalak_Lab1work_report.pdf",
+    "size": 518244,
+    "sha256": "7bc04a6f751be615da44d8195b732590d7ff4efa8e1f1d1507e53ccfe5930155",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAliKamalak_lab1.zip!/MehmetAliKamalak_lab1/MehmetAli_Kamalak_preLab1_report.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAliKamalak_lab1__acilmis/MehmetAliKamalak_lab1/MehmetAli_Kamalak_preLab1_report.pdf",
+    "size": 643283,
+    "sha256": "f721bea8f1bb8c1c458e7218aae1dfcf96f96ad53b8965ade9f3ab856218ff7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAli_Kamalak_Lab1work_report.docx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAli_Kamalak_Lab1work_report.docx",
+    "size": 1541667,
+    "sha256": "6a6e8373188a673ed9848125c18de8082cab2f3a73d9ca3fc09bea1442607b3d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab1/MehmetAli_Kamalak_preLab1_report.docx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab1/MehmetAli_Kamalak_preLab1_report.docx",
+    "size": 482051,
+    "sha256": "467446d8aecb21e16b7d30f8d9f30eefe6768dc71019520556ae01fd9f5d2e92",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_labwork2/Lab2Work_v0.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_labwork2/Lab2Work_v0.pdf",
+    "size": 92862,
+    "sha256": "35ff1c6a10dbbf32397c58bb93989e4b31fbf50cb4fa81f579e622b10e0548c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_labwork2/t-2nb5bcUgKAYtu3rHYXuDEbtRx6z7PVk.m4a",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_labwork2/t-2nb5bcUgKAYtu3rHYXuDEbtRx6z7PVk.m4a",
+    "size": 37805,
+    "sha256": "7717d80df1c880d7c4e39e4191bd9797041dba053554ff4986da9e7bb415f85c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/comment.txt",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/comment.txt",
+    "size": 368,
+    "sha256": "a27e24562232ded51058c4b0d66ac4676fa635395bb8039cf1d0f7b725de97db",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/frequencyresponse_and_phase.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/frequencyresponse_and_phase.png",
+    "size": 40577,
+    "sha256": "db624ca3f254431a2c9f7238af3b8b3d3d343ee86616fc7563143a1299c419aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/impulse_response.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/impulse_response.png",
+    "size": 24030,
+    "sha256": "4d515492277997dd1e892a55811e71b7513f4e29d394e4e07ac83d1b9ebb4e0c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/Lab2_v0.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/Lab2_v0.pdf",
+    "size": 76330,
+    "sha256": "d5fb78f205f9f7d31851814cbeabb4246759b3b4c6e328ac1a232696a6266f11",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/magnitude_andphase.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/magnitude_andphase.png",
+    "size": 34462,
+    "sha256": "cac13c298e1bf8e473d507bd58fd707290b2486886ceb58af6e35ad98f27ae40",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/pole-zero.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/pole-zero.png",
+    "size": 21176,
+    "sha256": "2aaccd1e7d99c47842adf146504c777d3edc99c1a44db02cd8de58426f87e1c9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/Prelab2.m",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/Prelab2.m",
+    "size": 2358,
+    "sha256": "475a2eaa7f5756e44e270b276fda15570d2b171b5f79add46180d80ff7e99593",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/signal_spectrum.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/signal_spectrum.png",
+    "size": 35298,
+    "sha256": "50f76de1db2b5a1fbc048af4d43f39db724d0eed6d6b6c833a886a50eeb1cff3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/step_response.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/step_response.png",
+    "size": 21318,
+    "sha256": "e7c3dd1eab37c08fb34ffb9ad7539ba98dc45bf5d02870a21c1acb93c4d31b89",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/untitled1.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/untitled1.png",
+    "size": 30538,
+    "sha256": "4e1c006d68e5a0b2147ae1e663946850c3e19bb2ea5dd11f12c02c8c1c04ab3e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/untitled2.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2/untitled2.png",
+    "size": 32701,
+    "sha256": "7f3ab34fef3d32ac6cdd79c868c6a9224112e10e0a6d51e236591d85bb55909f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/comment.txt",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/comment.txt",
+    "size": 368,
+    "sha256": "a27e24562232ded51058c4b0d66ac4676fa635395bb8039cf1d0f7b725de97db",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/frequencyresponse_and_phase.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/frequencyresponse_and_phase.png",
+    "size": 40577,
+    "sha256": "db624ca3f254431a2c9f7238af3b8b3d3d343ee86616fc7563143a1299c419aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/impulse_response.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/impulse_response.png",
+    "size": 24030,
+    "sha256": "4d515492277997dd1e892a55811e71b7513f4e29d394e4e07ac83d1b9ebb4e0c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/Lab2_v0.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/Lab2_v0.pdf",
+    "size": 76330,
+    "sha256": "d5fb78f205f9f7d31851814cbeabb4246759b3b4c6e328ac1a232696a6266f11",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/magnitude_andphase.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/magnitude_andphase.png",
+    "size": 34462,
+    "sha256": "cac13c298e1bf8e473d507bd58fd707290b2486886ceb58af6e35ad98f27ae40",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/pole-zero.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/pole-zero.png",
+    "size": 21176,
+    "sha256": "2aaccd1e7d99c47842adf146504c777d3edc99c1a44db02cd8de58426f87e1c9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/Prelab2.m",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/Prelab2.m",
+    "size": 2358,
+    "sha256": "475a2eaa7f5756e44e270b276fda15570d2b171b5f79add46180d80ff7e99593",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/signal_spectrum.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/signal_spectrum.png",
+    "size": 35298,
+    "sha256": "50f76de1db2b5a1fbc048af4d43f39db724d0eed6d6b6c833a886a50eeb1cff3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/step_response.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/step_response.png",
+    "size": 21318,
+    "sha256": "e7c3dd1eab37c08fb34ffb9ad7539ba98dc45bf5d02870a21c1acb93c4d31b89",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/untitled1.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/untitled1.png",
+    "size": 30538,
+    "sha256": "4e1c006d68e5a0b2147ae1e663946850c3e19bb2ea5dd11f12c02c8c1c04ab3e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2.zip!/Mehmet_Ali_Kamalak_prelab2/untitled2.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/Mehmet_Ali_Kamalak_prelab2__acilmis/Mehmet_Ali_Kamalak_prelab2/untitled2.png",
+    "size": 32701,
+    "sha256": "7f3ab34fef3d32ac6cdd79c868c6a9224112e10e0a6d51e236591d85bb55909f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab2/prelab_2.m",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab2/prelab_2.m",
+    "size": 1517,
+    "sha256": "f2b99061cbdab54106e327ed283045ad478de15d485eff18eacd3af2de0d3ea6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/18.63-midrise.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/18.63-midrise.png",
+    "size": 22473,
+    "sha256": "b79210df2da42e90376b45391af950c5ab530c1932a3332b8d580186d9b83c59",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/19.13dB-midtread.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/19.13dB-midtread.png",
+    "size": 22833,
+    "sha256": "b766eb94aa156264f783cfda29349669035ff976b0b1d4d5282ddbc50fe77fb3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/comment.txt",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/comment.txt",
+    "size": 625,
+    "sha256": "87674cb1922d3ec048eac5b6bfed9c435ee14107dd97efce34f7810360e4ffcd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/Lab3.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/Lab3.pdf",
+    "size": 57078,
+    "sha256": "8561d352e1ccb0789b289db90b2a47f7de2fe7f3e81bb0fc21cdc5af0c6e714a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/lab3_dsp.mlx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/lab3_dsp.mlx",
+    "size": 137070,
+    "sha256": "5d67193fbfe001fec18ff13f89536764d6cd4255a6e86454715a614d501ba996",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/linear and nonlineaar phase filter signal.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/linear and nonlineaar phase filter signal.png",
+    "size": 34915,
+    "sha256": "c15011349cc9ca65ea9531afd5736b9ad093a33498ee64591428588ca9056bf1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/quantization error -segmentbased 3 bit.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/quantization error -segmentbased 3 bit.png",
+    "size": 39483,
+    "sha256": "40a5d8934807d083a789de449a3f025c69ed56aea326323ff5a5245c86d7e33c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/quantization error for sound -3bit.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/quantization error for sound -3bit.png",
+    "size": 33464,
+    "sha256": "caa678a7f1ae7c711dace7ed798beec715e7773f18d71278e2097e241081dc82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/quantization error for sound-4bit.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/quantization error for sound-4bit.png",
+    "size": 33723,
+    "sha256": "5a5e5e79aa49ea9cd85f71f5ba1138132248c174f3c812898d136fddd2a5e9c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/lab3_prelab/sound.mp3",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/lab3_prelab/sound.mp3",
+    "size": 167183,
+    "sha256": "6542a1998a3da9855c771cbf7a5b774df9c1b5eb415947ecef5e85abbd54cf0a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/18.63-midrise.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/18.63-midrise.png",
+    "size": 22473,
+    "sha256": "b79210df2da42e90376b45391af950c5ab530c1932a3332b8d580186d9b83c59",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/19.13dB-midtread.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/19.13dB-midtread.png",
+    "size": 22833,
+    "sha256": "b766eb94aa156264f783cfda29349669035ff976b0b1d4d5282ddbc50fe77fb3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/comment.txt",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/comment.txt",
+    "size": 625,
+    "sha256": "87674cb1922d3ec048eac5b6bfed9c435ee14107dd97efce34f7810360e4ffcd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/Lab3.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/Lab3.pdf",
+    "size": 57078,
+    "sha256": "8561d352e1ccb0789b289db90b2a47f7de2fe7f3e81bb0fc21cdc5af0c6e714a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/lab3_dsp.mlx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/lab3_dsp.mlx",
+    "size": 137070,
+    "sha256": "5d67193fbfe001fec18ff13f89536764d6cd4255a6e86454715a614d501ba996",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/linear and nonlineaar phase filter signal.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/linear and nonlineaar phase filter signal.png",
+    "size": 34915,
+    "sha256": "c15011349cc9ca65ea9531afd5736b9ad093a33498ee64591428588ca9056bf1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/quantization error -segmentbased 3 bit.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/quantization error -segmentbased 3 bit.png",
+    "size": 39483,
+    "sha256": "40a5d8934807d083a789de449a3f025c69ed56aea326323ff5a5245c86d7e33c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/quantization error for sound -3bit.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/quantization error for sound -3bit.png",
+    "size": 33464,
+    "sha256": "caa678a7f1ae7c711dace7ed798beec715e7773f18d71278e2097e241081dc82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/quantization error for sound-4bit.png",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/quantization error for sound-4bit.png",
+    "size": 33723,
+    "sha256": "5a5e5e79aa49ea9cd85f71f5ba1138132248c174f3c812898d136fddd2a5e9c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab.zip!/lab3_prelab/sound.mp3",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab3/Mehmet_Ali_Kamalak_lab3_prelab__acilmis/lab3_prelab/sound.mp3",
+    "size": 167183,
+    "sha256": "6542a1998a3da9855c771cbf7a5b774df9c1b5eb415947ecef5e85abbd54cf0a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/15Hz.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/15Hz.jpg",
+    "size": 133382,
+    "sha256": "53f6c6938bab6409301ceeab6ecc29e1e1479766d18853459d5ddc64e321edc4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/25Hz.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/25Hz.jpg",
+    "size": 136065,
+    "sha256": "cc222dec06710ad543cd006e3965396cdece18fc65ac105acfd9bf38763affb9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/30Hz.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/30Hz.jpg",
+    "size": 139937,
+    "sha256": "d7bda4e1cd8f82ac8da6cc7913206fb53919c0fb79883b5f2f8103dc38ecb428",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/DSP_Lab_Latex.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/DSP_Lab_Latex.pdf",
+    "size": 135997,
+    "sha256": "7f7188a8ea11bd667531f00755217a4d654aa21436d6c2fa98fef3ae8f02402f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/IMG-20250521-WA0026.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/IMG-20250521-WA0026.jpg",
+    "size": 133382,
+    "sha256": "53f6c6938bab6409301ceeab6ecc29e1e1479766d18853459d5ddc64e321edc4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/IMG-20250521-WA0027.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/IMG-20250521-WA0027.jpg",
+    "size": 147856,
+    "sha256": "daea6f434425e7f3ab4c8167240ad7486d1319866d0017651f7fa1d21f26875f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/IMG-20250521-WA0028.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/IMG-20250521-WA0028.jpg",
+    "size": 139937,
+    "sha256": "d7bda4e1cd8f82ac8da6cc7913206fb53919c0fb79883b5f2f8103dc38ecb428",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/IMG-20250521-WA0029.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/IMG-20250521-WA0029.jpg",
+    "size": 136065,
+    "sha256": "cc222dec06710ad543cd006e3965396cdece18fc65ac105acfd9bf38763affb9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/Mehmet_Ali_Kamalak_150720062_lab4.docx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/Mehmet_Ali_Kamalak_150720062_lab4.docx",
+    "size": 1152172,
+    "sha256": "b5b27255388afd510fa2048d739144fb0ad4d1222e9b616c5d78749a1be2b32a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/Mehmet_Ali_Kamalak_150720062_lab4.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/Mehmet_Ali_Kamalak_150720062_lab4.pdf",
+    "size": 853716,
+    "sha256": "f5c6d03a029d196067a20fb718f15ea23d32e2a8de67e01dd87c15ac2b936c8d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab4/Superposition.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab4/Superposition.jpg",
+    "size": 147856,
+    "sha256": "daea6f434425e7f3ab4c8167240ad7486d1319866d0017651f7fa1d21f26875f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab5/1.jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab5/1.jpg",
+    "size": 218150,
+    "sha256": "8607a81e9a4482ba859606d524bc8ccc8d8bc6749680f90d5ab7c8fe143383f4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab5/2 .jpg",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab5/2 .jpg",
+    "size": 210772,
+    "sha256": "3f79ec63ce8533d7d221c0c0a9747dd0e80c1ad7bd28deb44fd51eb67d6f3c49",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab5/DSP_Lab_5.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab5/DSP_Lab_5.pdf",
+    "size": 138041,
+    "sha256": "42594133b9fe9d4a184f69678227c08ac4dc522571c855e389c6c55890343f1a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab5/Mehmet_Ali_Kamalak_150720062_lab5.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab5/Mehmet_Ali_Kamalak_150720062_lab5.pdf",
+    "size": 477512,
+    "sha256": "bb61c7ad78b5e7e1401ebe400ae8300c9f6c43ed9f0733e17367545b891896a4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/lab5/report_1.docx",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/lab5/report_1.docx",
+    "size": 451727,
+    "sha256": "a1b39d7eb37123ac70b6bb7afaebab4727ebfe7a2f83ad046bfc3e99144e2fb9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/lab/output_image.bmp",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/lab/output_image.bmp",
+    "size": 263222,
+    "sha256": "f865c86c39ec60081b2dbf351b10ac75d2aff17600e9f49ad931b3e81803d773",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/Lecture_Notes_EE4002.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/Lecture_Notes_EE4002.pdf",
+    "size": 244895809,
+    "sha256": "21bf435e1790ddbe759983ab835a79a809f229c28f07b3e1eeb3173771f7342e",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/Mehmet_Ali_Kamalak_HW2 and HW1.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/Mehmet_Ali_Kamalak_HW2 and HW1.pdf",
+    "size": 5420840,
+    "sha256": "9cb8680af57a82462d96ef6126649fb9d864dba6bedb2bf556306c086f258c38",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/Mehmet_Ali_Kamalak_Hw3.pdf",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/Mehmet_Ali_Kamalak_Hw3.pdf",
+    "size": 1518010,
+    "sha256": "4f8cf400d4a820029a422cbd7d618e67f2be679a294be0a019733353ae27794b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1vmKJYWE84puhA05KN6rAKNkJ3OcuuXGP",
+    "source_member": "DSP24-25/yunus_arşiv.txt",
+    "path": "3.sinif/6.donem/EE4002_Introduction-to-Digital-Signal-Processing/DSP24-25/DSP24-25/yunus_arşiv.txt",
+    "size": 83,
+    "sha256": "ca8344fad8d914fcbacec2c33d12e3b6309616fdc5b05351bfa03fb07b7db831",
+    "storage": "git"
   }
 ]
