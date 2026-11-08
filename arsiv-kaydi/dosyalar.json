@@ -1182,5 +1182,77 @@
     "size": 19980368,
     "sha256": "f98c532bd687612f4b23304e27e331e3f17396bc36594b8605d011764df65f7a",
     "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/01_ders_isg_kavram_kurallar.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/01_ders_isg_kavram_kurallar.pdf",
+    "size": 1108593,
+    "sha256": "cf8cc666dc466a6e4414771de21ca66e8fb89561e1743a8f3aca12e6c27378ae",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/02_ders_isg_genelbakis_guvenlikkulturu.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/02_ders_isg_genelbakis_guvenlikkulturu.pdf",
+    "size": 690165,
+    "sha256": "68f9bafe6794c1d75c4aa8213cd6ca8b1c029d61dcb1ef34c3f0012bbe0e4580",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/03.ders_isg_turkiye_dunyada.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/03.ders_isg_turkiye_dunyada.pdf",
+    "size": 1189611,
+    "sha256": "440c3f86a74803a6870562506613ed9aa8db919c50a70f25f9da235107a0b7b1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/04.ders_isg_hizmetleri.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/04.ders_isg_hizmetleri.pdf",
+    "size": 605332,
+    "sha256": "e4e98a1e21849641bd3f79f8fc777c32370732b4707677ef1711dc8a460c659e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/is_sagligi_ve_guvenligi_kurullari.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/is_sagligi_ve_guvenligi_kurullari.pdf",
+    "size": 542915,
+    "sha256": "8844f36b3db697d87706447296f271afcb7b4d05b3d42dafddd9bc09bedec49d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/is_sagligi_ve_guvenligi_yonetim_sistemleri.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/is_sagligi_ve_guvenligi_yonetim_sistemleri.pdf",
+    "size": 3723282,
+    "sha256": "d82ad3103060215aac75b61578bc24cbeb49199a00ba61ceac052d55fcc7ce44",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/isg1-vize.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/isg1-vize.pdf",
+    "size": 323335,
+    "sha256": "383d2690967a65d2eadaa94d55a3d6ccf151563889aec350941f115214011a7b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/risk_yonetimi_ve_degerlendirmesi_ders_7_ve_8_2.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/risk_yonetimi_ve_degerlendirmesi_ders_7_ve_8_2.pdf",
+    "size": 3840713,
+    "sha256": "2019b8f2f01582c7e1f1dc76b365141707c482761a6728a7661bd0baba7961ef",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1YCZUI9Cx7PDSAvd0HfFYR-opDQT2a_zt",
+    "source_member": "iƒ saºlìºì1/risk_yonetimi_ve_degerlendirmesi_ders_9_ve_10.pdf",
+    "path": "1.sinif/1.donem/ISG121_Is-Sagligi-ve-Guvenligi-I/ISG-1/iƒ saºlìºì1/risk_yonetimi_ve_degerlendirmesi_ders_9_ve_10.pdf",
+    "size": 13561650,
+    "sha256": "43dbbb5e87fbe434c4395038a68362d5e0f7da6255581a9a36e4fd804d1c4f14",
+    "storage": "git-lfs"
   }
 ]
