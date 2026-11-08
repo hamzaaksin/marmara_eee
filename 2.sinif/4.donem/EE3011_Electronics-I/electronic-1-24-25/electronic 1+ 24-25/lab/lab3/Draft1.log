@@ -1,0 +1,16 @@
+LTspice 24.1.4 for Windows
+Circuit: C:\Users\mehme\OneDrive\Desktop\electronic 1+ 24-25\lab\lab2\Draft1.net
+Start Time: Thu Mar 13 09:15:32 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+.OP point found by inspection.
+.step 
+Total elapsed time: 0.060 seconds.
+
+Files loaded:
+C:\Users\mehme\OneDrive\Desktop\electronic 1+ 24-25\lab\lab2\Draft1.net
+C:\Users\mehme\AppData\Local\LTspice\lib\cmp\standard.dio
+

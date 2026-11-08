@@ -23110,5 +23110,1989 @@
     "size": 83,
     "sha256": "ca8344fad8d914fcbacec2c33d12e3b6309616fdc5b05351bfa03fb07b7db831",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra, Kenneth C. Smith - Chegg Solutions for Microelectronic Circuits. 7th edition-Oxford University Press (2014).pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra, Kenneth C. Smith - Chegg Solutions for Microelectronic Circuits. 7th edition-Oxford University Press (2014).pdf",
+    "size": 8930861,
+    "sha256": "2013e9f4e058552358afe15fb09d9343cd66714b57cbe016b829c7b6360df5d5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra_ Kenneth C. Smith - Microelectronic Circuits-Oxford University Press (2014).pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra_ Kenneth C. Smith - Microelectronic Circuits-Oxford University Press (2014).pdf",
+    "size": 73417683,
+    "sha256": "4f0ef6de1f571f7aa0babd08d4a61a2c4970bc5e571a8ce18526d4c655316c39",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Course_Project.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Course_Project.pdf",
+    "size": 73033,
+    "sha256": "357cab453ad1266d7a63f8558b7ae006167c0ba9fe9872339dac3a3f4c97b6e7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/EE3011_Lab_Manual.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/EE3011_Lab_Manual.docx",
+    "size": 926775,
+    "sha256": "d0cfb96bdc8abd5cae240f7ac93070e499865c8e6acec4a98f7906addff1fd0b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/EE3011_Lab_Manual.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/EE3011_Lab_Manual.pdf",
+    "size": 3352948,
+    "sha256": "eca244ba32fc51f0107a452c052b4424e43298f22f157955b78d2a7d04674689",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Ebubekir Mutugan_Ex 3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Ebubekir Mutugan_Ex 3.pdf",
+    "size": 514114,
+    "sha256": "76962370fb51d177b8cc532e9361a401bf80d474db1e535f6ddfd78c27a8f765",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Ebubekir Mutugan_Ex2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Ebubekir Mutugan_Ex2.pdf",
+    "size": 473467,
+    "sha256": "a68535060b3f7c1e6e64cdeb7cb66d4a3ec08e30222539c1f61cd87eac938598",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Ebubekir Mutugan_Experiment_1.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Ebubekir Mutugan_Experiment_1.docx",
+    "size": 62639,
+    "sha256": "9009e10454e9cb947ba0da2a89fbf0e1b1ef685b2c3232b3105027b96920174b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Ebubekir Mutugan_Experiment_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Ebubekir Mutugan_Experiment_1.pdf",
+    "size": 220921,
+    "sha256": "b1a2a2993e26d81fc6d76feea7664bc3eafc3f828e3e4ca4a714600e94dc6b8e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Experiment_3.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Experiment_3.docx",
+    "size": 370725,
+    "sha256": "05a2c9f04071b282bf1ad6fa383cd52d136efcb005a5f98c2b35bf124aaf31b5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Experiment_4.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/electronic lab 1_ebu/Lab/Experiment_4.docx",
+    "size": 1216925,
+    "sha256": "ce31e33f533fc0bfa76f32f1c5c13437f1a0a5d844fca8aac627c8e6472ede06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/ebubekirexp6.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/ebubekirexp6.docx",
+    "size": 869157,
+    "sha256": "6a84f3902923f3132d1eb1acdc562f8396aa6a894e99f2fb38adc546dcb2e438",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/exp7.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/exp7.docx",
+    "size": 4053055,
+    "sha256": "ad3c7d7ced2a25975f1c2e1f93426a58224c5dcc9fc15c682160f6905ca72fc8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment3_Mehmet_Akif_Türkmenoğlu.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment3_Mehmet_Akif_Türkmenoğlu.docx",
+    "size": 653770,
+    "sha256": "862291ba1214a7c1a824c29ceaaf5b7b97c391561154907173340854dd3843a8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment3_Mehmet_Akif_Türkmenoğlu.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment3_Mehmet_Akif_Türkmenoğlu.pdf",
+    "size": 876777,
+    "sha256": "4ef281d38ca4711f2099e7423a4b8740f82e3c56aa11dd35f3b8b4cce20a8d7b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/experiment6_mehmetakif_turkmenoglu.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/experiment6_mehmetakif_turkmenoglu.docx",
+    "size": 822283,
+    "sha256": "ae42b395ba24d2b8ba7f12a890c7dd9f870a629ff376c984352f48dbeefad534",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/experiment6_mehmetakif_turkmenoglu.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/experiment6_mehmetakif_turkmenoglu.pdf",
+    "size": 589125,
+    "sha256": "76b5c87b1a05c80ba5585e7b890df05570a75ee662d030cc559dc59bce69a426",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_1.pdf",
+    "size": 212175,
+    "sha256": "a21f72ce7dba182726055c1ce4e78efad991828ab4588ef845631758cac21076",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_1_MehmetAkif_Türkmenoğlu.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_1_MehmetAkif_Türkmenoğlu.docx",
+    "size": 67236,
+    "sha256": "e713554f6fa43abd8e5f613f726bc79a5871252b5e235943cdea838b291fb012",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_1_MehmetAkif_Türkmenoğlu.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_1_MehmetAkif_Türkmenoğlu.pdf",
+    "size": 152203,
+    "sha256": "f9cb476de77a5ff5ad0cec1d482c12426abb5b01d43c17cf403938207e13d72c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_2.pdf",
+    "size": 269537,
+    "sha256": "90bc3fc5aa3bcfe9da774e690a41a29a58227b5736081e18956eccc09e03c6a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_3.pdf",
+    "size": 563102,
+    "sha256": "426d718d8af4ffe0c855831b0b2e15e56cb6a4c8982f92bebece8dd515dbdffd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_4.pdf",
+    "size": 777866,
+    "sha256": "e57296314ecacf3ff4882e091cfebb4fed09fc1d545db8832dc9e5471b001d8e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_5.pdf",
+    "size": 562237,
+    "sha256": "7522bfdb8b288fdd8ac7f1eaba95517d768c6a9e47a6d59f0366ae8477f90894",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_6.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_6.pdf",
+    "size": 605178,
+    "sha256": "021bfe0f3b37e0049a236b56bf21750c193c7e60c481c7799b962bf266cd3f2e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_7.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/Experiment_7.pdf",
+    "size": 587319,
+    "sha256": "4f248f2a02aa597c57b0c9080dd7e2c1423e63a5cbe36e60b031ede59108c324",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/mehmet akif türkmenoğlu_experiment5_sectionA.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/mehmet akif türkmenoğlu_experiment5_sectionA.docx",
+    "size": 1846739,
+    "sha256": "6e3004a4322211fca4bae38a25a5edfce5d34063aa5fa3528faa7ff1677d03b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/mehmet akif türkmenoğlu_experiment5_sectionA.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/mehmet akif türkmenoğlu_experiment5_sectionA.pdf",
+    "size": 892973,
+    "sha256": "9e0aec613ad86edb7f9c9ca9db68f7c4ab79d1cffa866882eadf078a36072e80",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/MehmetAkif_Turkmenoglu_150720061_exp7.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/MehmetAkif_Turkmenoglu_150720061_exp7.docx",
+    "size": 1983953,
+    "sha256": "182c9cfe6c4f32cc350c739016959ce035e16cd39d3bc0a1a6e0eefad6e847cc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/MehmetAkif_Turkmenoglu_150720061_exp7.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/MehmetAkif_Turkmenoglu_150720061_exp7.pdf",
+    "size": 1678753,
+    "sha256": "e370cf353a751b143e033769938e26b9db716f4cab7ef5366613a1de40f4592c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/MehmetAkif_Turkmenoglu_experiment2.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/MehmetAkif_Turkmenoglu_experiment2.docx",
+    "size": 254244,
+    "sha256": "33a0d22d3df65c48ba24bb3c8fce1ac780f945f15ff1ed6bd91773481c0a3d6b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/experiments/MehmetAkif_Turkmenoglu_experiment2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/experiments/MehmetAkif_Turkmenoglu_experiment2.pdf",
+    "size": 941584,
+    "sha256": "6ed5704ffae4653a4c82aa7e0f13156ac11ae8006f2a45ad7a44acf54350d15b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/Conclusion[1].docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/Conclusion[1].docx",
+    "size": 22245,
+    "sha256": "43b783fd978fc1b11a02b1e1032076ca91263be3026446db7dc3f3b28a49e45b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/ElectronicsLAB1 (1).pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/ElectronicsLAB1 (1).pdf",
+    "size": 1173299,
+    "sha256": "ace5905b6c5c291c1bbfd9574eb2ae47fa346bbec20c492075e2d0cdb3ccce32",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/electronicslab1 (2).pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/electronicslab1 (2).pdf",
+    "size": 1173299,
+    "sha256": "ace5905b6c5c291c1bbfd9574eb2ae47fa346bbec20c492075e2d0cdb3ccce32",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/ElectronicsLAB1.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/ElectronicsLAB1.docx",
+    "size": 2452208,
+    "sha256": "f50be2d580b56d56e524200c54c5aa5e449f3edec3cf14ee1df0ff83c9ac8944",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/ElectronicsLAB1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/ElectronicsLAB1.pdf",
+    "size": 1173299,
+    "sha256": "ace5905b6c5c291c1bbfd9574eb2ae47fa346bbec20c492075e2d0cdb3ccce32",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/experiment_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/experiment_1.pdf",
+    "size": 850334,
+    "sha256": "bf746caeb3ba237644fed665866cdcf825de0c8ab398a2e275ca2c0ffc4012be",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1sadecedirendevre.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1sadecedirendevre.png",
+    "size": 3221,
+    "sha256": "b7ac71a25f28a82647e0a9c81bcff5223270d281b0acf328269def266b891106",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1sadecedirenççıkış.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1sadecedirenççıkış.png",
+    "size": 12365,
+    "sha256": "53844308c92ce3bb28b318d85300bb8d74a8dd95d0e76ba0c8491640eb988e23",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1sadecedirenççıkıştriangle.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1sadecedirenççıkıştriangle.png",
+    "size": 11498,
+    "sha256": "ed6beb106bccb24f4691b4bb260a9dd151b91e8b094e74104d517cc73173ad7e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1sinave.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1sinave.png",
+    "size": 3647,
+    "sha256": "5d4de09d35c986ed1078c56df20fff9a6cb91857c7b4b7048b50b70169e62196",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1triave.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1triave.png",
+    "size": 4083,
+    "sha256": "2ac3c89a0c077bd6619db9e2cff3536a8c2dce2e02530e4626212e89d1e81f3e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1çıkış.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1çıkış.jpeg",
+    "size": 235447,
+    "sha256": "6a8835590ccb44fef4cba6a786e5c85491136d822b83ffd5eb5230e73a505c21",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1çıkıştri.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part1çıkıştri.jpeg",
+    "size": 191548,
+    "sha256": "e36e17c72ac9b3867a8a194c62060d3af729dd55fb124f42af81c8081480abf1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2capzenergirişçıkış.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2capzenergirişçıkış.png",
+    "size": 15692,
+    "sha256": "65119752f22fccdc6d9070fb8bc546ef4930f4c6a4a0627d315cc9bb558befc5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2capzenergirişçıkışdevre.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2capzenergirişçıkışdevre.png",
+    "size": 7198,
+    "sha256": "3993b97f8f46b51d2cc2f806287431cd023a084617168cf33504e6fa077efdfb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2capzenergirişçıkıştri.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2capzenergirişçıkıştri.png",
+    "size": 11345,
+    "sha256": "56a6cf1772833182447f8969c0b350bf0b7248225092bd68db2587cbe1181825",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapgirişçıkıştri.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapgirişçıkıştri.png",
+    "size": 10948,
+    "sha256": "102f470ff8cf39b00756495f36559c56b52aea27567d81862ba0c7881d299eaa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapçıkışsin.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapçıkışsin.png",
+    "size": 11756,
+    "sha256": "2eaf1a77de9c6d0635d8620708cd2bd7120055054111d84d9f1c128be433268b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapçıkışsindevre.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapçıkışsindevre.png",
+    "size": 3260,
+    "sha256": "2277086c1b9cbb92efc4975800fec92c0b7c288b661235d6d49f3df85daab2b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapçıkıştri.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapçıkıştri.png",
+    "size": 8403,
+    "sha256": "d49e54566ce6aad00f240c56bd99ee4743617d8808dbc2ad837e5141613bf712",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapçıkıştridevre.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/part2sadcecapçıkıştridevre.png",
+    "size": 9258,
+    "sha256": "6c64b85381b34324e17a60f5f131225f5fadd7b2139ea801348230bb6ae5f5bd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/ripple.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/ripple.png",
+    "size": 38577,
+    "sha256": "812c70d02482ef0f18358619a86cd1efd3cb4c09ca17a1fe37038e59a26857dc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/sincapout.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/sincapout.jpeg",
+    "size": 117152,
+    "sha256": "0dc3ec309b4a7de42b1f4ec91163add58ba7203d15ee81f32ca812e6bd0a5b53",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/software_project_diodes.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/software_project_diodes.pdf",
+    "size": 78416,
+    "sha256": "d70284bf73f2f22f1d8d75c25595219c2c3d61695faf3f65cfb3ec53a2fa7fa0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/tricapout.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/tricapout.jpeg",
+    "size": 159367,
+    "sha256": "a7ffe5b1b63f377ca8f38611139a268c26d01f3227cb8c335ae711b1b33a5288",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/tricapout1.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/tricapout1.jpeg",
+    "size": 253240,
+    "sha256": "90185e02b96ce3b3a4cb9708a70e46c7d17e769c89cff0b8ca5b1aac5fe93f74",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/tricapout11.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/tricapout11.jpeg",
+    "size": 243701,
+    "sha256": "74be35d0594845cc6170eeac4ad43711d7f2f7627acf5ea986da334d4388a842",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/trizencapout.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/trizencapout.jpeg",
+    "size": 152927,
+    "sha256": "19ec4801f7642f4035e44a3fce41dbef75838a4d744f87280208f8d3c7a46c72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/trizencapout1.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/trizencapout1.jpeg",
+    "size": 294042,
+    "sha256": "b5612bbaf459c35bb5b6255f6199ab50497200e956bf405b0cb72e23ce4e8314",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/WhatsApp Image 2023-04-14 at 15.18.27.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/WhatsApp Image 2023-04-14 at 15.18.27.jpeg",
+    "size": 152339,
+    "sha256": "24891b267c445f8e0deb066a659ce0eae36562c3e2f190f6750dc08eaf50837a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/zenercapsinout.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab1/zenercapsinout.jpeg",
+    "size": 152339,
+    "sha256": "24891b267c445f8e0deb066a659ce0eae36562c3e2f190f6750dc08eaf50837a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/electronic1lab2 .pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/electronic1lab2 .pdf",
+    "size": 526332,
+    "sha256": "c2890ade7ec700d635fbfa00c79f2e470f90a8578654c296f9b165c67501633d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/electronic1lab2_.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/electronic1lab2_.pdf",
+    "size": 526332,
+    "sha256": "c2890ade7ec700d635fbfa00c79f2e470f90a8578654c296f9b165c67501633d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/electronıc 2 .docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/electronıc 2 .docx",
+    "size": 677965,
+    "sha256": "d4ac3f1f83d9f1414c6bba58e3bef970b9f71045c9047e4849f977f81d438a23",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/experiment_2.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/experiment_2.docx",
+    "size": 161942,
+    "sha256": "32a0963a20534575e46551ef4f90f3d825d736ca89b5f6e813d461d0dfb96cd2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/experiment_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab2/experiment_2.pdf",
+    "size": 624339,
+    "sha256": "7aa41b8cff3f82a7b00fd15e660d5761455be0d3cef4e29cf8a0db07c4ef7343",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/150721854-Yunus Emre Turunç-Electronics1Lab3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/150721854-Yunus Emre Turunç-Electronics1Lab3.pdf",
+    "size": 340721,
+    "sha256": "b661ab51c19c56d1edf1747226ee3cbeb4c81793537d7c93425430dbe3baea2e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/150721854-yunus_emre_turunc-electronics1lab3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/150721854-yunus_emre_turunc-electronics1lab3.pdf",
+    "size": 340721,
+    "sha256": "b661ab51c19c56d1edf1747226ee3cbeb4c81793537d7c93425430dbe3baea2e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/experiment_3.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/experiment_3.docx",
+    "size": 214697,
+    "sha256": "b65d80e8ebac5d61d74df95a3d928bd6c92f7cfec4b73684c55feb4ce70f2990",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/experiment_3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/experiment_3.pdf",
+    "size": 587209,
+    "sha256": "367cb0914b9f340dc6b33b52b030faa148e9be17973bda66aaf151bc585e5f1b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-100mv.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-100mv.png",
+    "size": 47173,
+    "sha256": "2b6d78162f46e5a0530d5e69be11e38890abfe6e785870cdfdce19bfca5c614f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-150mv.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-150mv.png",
+    "size": 44377,
+    "sha256": "fc3c7861f4177e02feab95a731d02b9e4572d3fcc5cb2099a47a03f1eea652a6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-350mv.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-350mv.png",
+    "size": 49343,
+    "sha256": "afcf3cab5a808ae9d0235302082f2e086e95876cfe2c0ff64ed00052cc9420c2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-5mv.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-5mv.png",
+    "size": 8272,
+    "sha256": "33cae3dc364f33119f0de3dc4c715ea34922d1f101a8f0c2ecc69f9893c2c9bf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-5mvgraph.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-5mvgraph.png",
+    "size": 17139,
+    "sha256": "2ce7ec7bf029602ac1cd28a56e0569684abdcc0e5b9803de065967f6c1f6fc32",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-noac.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/lab3-noac.png",
+    "size": 4937,
+    "sha256": "04971b2db106026fa71fe289556b7d0cfdf262503ca33a41d0b05d2cf3c51fc1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/Yeni Microsoft Word Belgesi.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab3/Yeni Microsoft Word Belgesi.docx",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/Electronics 1 Lab Report 4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/Electronics 1 Lab Report 4.pdf",
+    "size": 413181,
+    "sha256": "e771ea5dc0666700478c69cea8df073781922e0c68a2571f1df611a14772d065",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/Electronics1 Lab Report 4.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/Electronics1 Lab Report 4.docx",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/electronics_1_lab_report_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/electronics_1_lab_report_4.pdf",
+    "size": 413181,
+    "sha256": "e771ea5dc0666700478c69cea8df073781922e0c68a2571f1df611a14772d065",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/experiment_4.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/experiment_4.docx",
+    "size": 104940,
+    "sha256": "5ca02a30c65c2763b96d7a005bf41e3dcf283d61de081481e118d1ba45c199dd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/experiment_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/experiment_4.pdf",
+    "size": 1187974,
+    "sha256": "e67d575f65e2efd42b151028e02cc5a1b4e65392b833c616565235db6c11ac0e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/ivcrv.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/ivcrv.png",
+    "size": 10516,
+    "sha256": "586fcdf88aa882ab069f2e67f25c5bb5f41d7c297eebacaf8806405d99aeff2f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/Screenshot_1.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/Screenshot_1.png",
+    "size": 4864,
+    "sha256": "e0c87e899584c5a94a13cd2cdefd68ee2db592d2a45edf0834fcde123f16d3a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/Screenshot_2.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/experiments_öncekiler/yunus_elect1.Lablar/1.Lablar/Lab4/Screenshot_2.png",
+    "size": 6382,
+    "sha256": "ffda5dad47bc9872782181319cea2eb9eed591eb62bac639389a02302f454517",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_1.pdf",
+    "size": 212175,
+    "sha256": "a21f72ce7dba182726055c1ce4e78efad991828ab4588ef845631758cac21076",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_2.pdf",
+    "size": 269537,
+    "sha256": "90bc3fc5aa3bcfe9da774e690a41a29a58227b5736081e18956eccc09e03c6a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_3.pdf",
+    "size": 555582,
+    "sha256": "6af933b013a41df2211ee28805ddbfa11d3ae53c7940e0b07f220affab6dddb9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_4.pdf",
+    "size": 777866,
+    "sha256": "e57296314ecacf3ff4882e091cfebb4fed09fc1d545db8832dc9e5471b001d8e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Experiment_5.pdf",
+    "size": 562237,
+    "sha256": "7522bfdb8b288fdd8ac7f1eaba95517d768c6a9e47a6d59f0366ae8477f90894",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/LTSpice_N_Lombardo.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/LTSpice_N_Lombardo.pdf",
+    "size": 1579726,
+    "sha256": "11ce9a904ed5a27f68e77e6b32f51d6a351607f73882b7f476915fed87984a5d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Microelectronic_Circuits_by_Sedra_Smith.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Microelectronic_Circuits_by_Sedra_Smith.pdf",
+    "size": 46570482,
+    "sha256": "8b022a8c41aabc6a44151050560f82288fd6edad2b24e78e395a377191e90f3a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Midterm_Soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Midterm_Soln.pdf",
+    "size": 1009335,
+    "sha256": "b23d76c16427836fe9b239dd2d5583e59d867cd82e9a7ca326b821bd8eeccd7e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Project.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Project.pdf",
+    "size": 64438,
+    "sha256": "10cc86deb96e1c6e389fbda8db7ceab0b604657155d8a6cce202dc03dd2d1ffc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Q1_sample.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Q1_sample.pdf",
+    "size": 142222,
+    "sha256": "15f58c85370dd53165402da8c75fc03eefcdd0c6981e4bd9f53d98d0419c8dd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Q2_Solution.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Q2_Solution.pdf",
+    "size": 504866,
+    "sha256": "525fcdf8e2c6101091a563ee6b8c16d00bfdae7537d854248b15f58c22cafb8d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Review_questions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Review_questions.pdf",
+    "size": 382387,
+    "sha256": "36b20febdcd3f2d3b3c65020537000e3b7a7b5847da704d8c12d9897e55285b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Review_questions_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Review_questions_2.pdf",
+    "size": 1250084,
+    "sha256": "e48fa4096456c9c17bedc72f93ba9f41e4de32e8a56f59e743ae9b91035834e6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Syllabus_Electronics1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Syllabus_Electronics1.pdf",
+    "size": 132145,
+    "sha256": "e0a5f327f3fa5f6db318565fd04bca08be778b19f8e7bf0e06a64fea7c16d080",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_1.pdf",
+    "size": 6755402,
+    "sha256": "849852c1449f37b24983faa70d03ed14d4d194a2d60e1a591232249de19fbf5f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_10.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_10.pdf",
+    "size": 509328,
+    "sha256": "3e7eb192fc64f01d5ca9195b6f89b07b35f6a59365e1a3928abe6f81c89bfe06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_11.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_11.pdf",
+    "size": 614963,
+    "sha256": "7571061fd70c24019bf008a4e2c304cf5622b71d75d5e0315ab1f43be40f8fb6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_12.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_12.pdf",
+    "size": 394621,
+    "sha256": "267e3248821821bf2dc45b8fd2002cc7c49775ac6e3ea44fc8704b9e19948ee4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_13.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_13.pdf",
+    "size": 580126,
+    "sha256": "b24a84a0edc510173d4484da4d301a7aa00d7cff1df561fd63c6bc062d291bdf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_14.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_14.pdf",
+    "size": 930593,
+    "sha256": "23903911b55dda85c8f426808a1658b31503f83009c5ef36724bfead6139a1ca",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_15 .pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_15 .pdf",
+    "size": 1255194,
+    "sha256": "67b9b0bc78c4c1cd24d3366ea8d0527a7ca24e01cd4e03c5d9d2a70cf23ba408",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_2.pdf",
+    "size": 851087,
+    "sha256": "f7d4fb362145bfc9c621b0d743a5e8499f9878967fe84e02e5c6878ffa843296",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_3.pdf",
+    "size": 1281507,
+    "sha256": "bb2f9566dc4ea2c37ab975d22c86aedbdeef079dda4770df5b310807eb6450ed",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_4.pdf",
+    "size": 937447,
+    "sha256": "acb658cadb31997faf6b06a6b489209e10093d0b8e073f301ebb5b17efd348da",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_5.pdf",
+    "size": 427419,
+    "sha256": "978d560e001cc777a4de51339c3d9496c807ecdbc91a7d46555502f5270a8c60",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_6.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_6.pdf",
+    "size": 587972,
+    "sha256": "9e5bc38b3a0356c538aeb99331c9f48288c0a41f577905b324d3ed2b1b89640c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_7.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_7.pdf",
+    "size": 625629,
+    "sha256": "facc488b9c1757292cbde84b637e2235d617d686f08e3467cb7cf12e7bd4167f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_8.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/Week_8.pdf",
+    "size": 652214,
+    "sha256": "deab539d612f30c183d101ae6718404b00288ef6ebdd8414c2411e462057e2ef",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/ÇIKMIŞ SINAVLAR/final_exam_soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/ÇIKMIŞ SINAVLAR/final_exam_soln.pdf",
+    "size": 1814882,
+    "sha256": "7f3c5beb9b79103415720a57b9161a52505600e01812006f35fda8208959b453",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/ÇIKMIŞ SINAVLAR/midterm_solution.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/ÇIKMIŞ SINAVLAR/midterm_solution.pdf",
+    "size": 1537774,
+    "sha256": "589977cb5519ed9f27a26ac1957798697048729462cf76a230f91dfd5d65d781",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/ÇIKMIŞ SINAVLAR/review_problems.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/ELECTRONIC 1/ELECTRONIC 1/ÇIKMIŞ SINAVLAR/review_problems.pdf",
+    "size": 267803,
+    "sha256": "3c3c02d65b2a7eda1c9c1441f9f0a5496777e9d7d90ebdcd8fbbcb3af1b63333",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/final_exam_makeup_soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/final_exam_makeup_soln.pdf",
+    "size": 1308725,
+    "sha256": "df7672c0082180690480e7a2d8b201751adfeee96ae933e1fcf1df1515df78fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/feyz/final_exam_soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/feyz/final_exam_soln.pdf",
+    "size": 1814882,
+    "sha256": "7f3c5beb9b79103415720a57b9161a52505600e01812006f35fda8208959b453",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/final çalışma/final.jpg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/final çalışma/final.jpg",
+    "size": 439339,
+    "sha256": "97e4c94966a132297a9a968bd987589d0291ad4b16ed12e1f4c4a0a503dc9f31",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/final çalışma/final_exam_makeup_soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/final çalışma/final_exam_makeup_soln.pdf",
+    "size": 1308725,
+    "sha256": "df7672c0082180690480e7a2d8b201751adfeee96ae933e1fcf1df1515df78fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/final çalışma/final_exam_soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/final çalışma/final_exam_soln.pdf",
+    "size": 1814882,
+    "sha256": "7f3c5beb9b79103415720a57b9161a52505600e01812006f35fda8208959b453",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/final çalışma/Final_exam_soln2024.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/final çalışma/Final_exam_soln2024.pdf",
+    "size": 590150,
+    "sha256": "ab0c9f10c0c34e35e91f6c72f37fd4706cdcb3b22091d88c15e53ce331c5bda6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/final çalışma/Final_exam_solution_2025.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/final çalışma/Final_exam_solution_2025.pdf",
+    "size": 280890,
+    "sha256": "18b69cd3a643f7bfdeceee0d498a231c7ace8789af8bc78a19793f1064265651",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/final çalışma/Final_soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/final çalışma/Final_soln.pdf",
+    "size": 1855432,
+    "sha256": "e44211fdf88f785bd2d2e64876fc56d3474fdc0b089786764be8da4da97aecd0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/final çalışma/Review_questions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/final çalışma/Review_questions.pdf",
+    "size": 382387,
+    "sha256": "36b20febdcd3f2d3b3c65020537000e3b7a7b5847da704d8c12d9897e55285b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/final çalışma/Review_questions_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/final çalışma/Review_questions_2.pdf",
+    "size": 1250084,
+    "sha256": "e48fa4096456c9c17bedc72f93ba9f41e4de32e8a56f59e743ae9b91035834e6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Final_exam_solution_2025.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Final_exam_solution_2025.pdf",
+    "size": 239502,
+    "sha256": "6260e71b38ed6b3763bc50a53b5bc3bd427452e5655a22f680a0d52eb6bc1d38",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/Draft1.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/Draft1.asc",
+    "size": 603,
+    "sha256": "efaa06c40a1b13f87147904c074381ede31ba146664f30932bb7807b70f7f84b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/Draft1.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/Draft1.log",
+    "size": 710,
+    "sha256": "28ea236c246cbd2cff6bd3937771c773ca33325bfa886ba6eb1e54ade3bf2ab8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/Draft1.op.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/Draft1.op.raw",
+    "size": 868,
+    "sha256": "5a2a201574d79b735a0642c454117c9858962b5a1b035306690cc3fbdd7a0b97",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/Draft1.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/Draft1.png",
+    "size": 42808,
+    "sha256": "6126e3dc4d3e147df9a2a1cb862bd80eb397fd1905844943403cf716c79fa94a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/Draft1.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/Draft1.raw",
+    "size": 42808,
+    "sha256": "6bee23e9906917439749af0dc370231ea494ad158e6401d3829697f0a6ff5475",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/EE3011_Lab_Manual.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/EE3011_Lab_Manual.docx",
+    "size": 928035,
+    "sha256": "0af915d4182d7fd737dc6526b9b2266e531b580dd063fb059c0bcca4f920cdb9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/EE3011_Lab_Manual.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/EE3011_Lab_Manual.pdf",
+    "size": 3352948,
+    "sha256": "eca244ba32fc51f0107a452c052b4424e43298f22f157955b78d2a7d04674689",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Draft2.1.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Draft2.1.asc",
+    "size": 1178,
+    "sha256": "335f0f4e031bd2b28bf7b6c9b3c12c4012a170983832e78b515192ade159e25b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Draft2.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Draft2.asc",
+    "size": 1178,
+    "sha256": "335f0f4e031bd2b28bf7b6c9b3c12c4012a170983832e78b515192ade159e25b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Draft2.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Draft2.log",
+    "size": 407,
+    "sha256": "6964ca151d374929301b4e4cce3bf1dc239585c46e3e7eb3db59e5ce4fc34b08",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Draft2.op.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Draft2.op.raw",
+    "size": 1164,
+    "sha256": "80f458ff74d0c986d2110595d7c44755b215e9f0ee2e135d40954aec6e76f0c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Draft2.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Draft2.raw",
+    "size": 126190,
+    "sha256": "ea4b7add3cb4b838e12dd6d0ae0a15a0433d5be9b2b5041e73ddb6ee34d1c2e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Draft3.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Draft3.log",
+    "size": 439,
+    "sha256": "2e6db7d85db29da9e984966d7066243ce841debb9c9ab70bb08b1a7b56298ce1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Draft3.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Draft3.raw",
+    "size": 1462,
+    "sha256": "a1b7d754483a0e98d8bb4adc2ad7d981969185f32e5f63a6839b1894e481dfa4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Experiment_1_MehmetAliKamalak.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Experiment_1_MehmetAliKamalak.docx",
+    "size": 131335,
+    "sha256": "ee0134657e8d45c398d00755b71a31fbb4303a287ed889b22e21c869168fa251",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Experiment_1_MehmetAliKamalak.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Experiment_1_MehmetAliKamalak.pdf",
+    "size": 543413,
+    "sha256": "fa6eb1cd374984ec97015ea01ff94755d81fa53f2fcea0ebaa2aa7e96c993527",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Experiment_2_MehmetAliKamalak.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Experiment_2_MehmetAliKamalak.docx",
+    "size": 353537,
+    "sha256": "e9c28b3ed7b540daeeebbbb5f5614b3f157e41f1dc9dd4684cbb65c5e686e4fa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/Experiment_2_MehmetAliKamalak.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/Experiment_2_MehmetAliKamalak.pdf",
+    "size": 645652,
+    "sha256": "be55e0ea445657199f6a84dfb3990f5162b1645047a294e16b34aadb237a47a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_1.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_1.asc",
+    "size": 1441,
+    "sha256": "2291b1dd03f8ebbb54ad18112f5b687c705b982b28783257e3d64dd5ce9e67fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_1.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_1.log",
+    "size": 350,
+    "sha256": "edc5f7e170adfdbee6ee09050d3fa369797a52f470d850ec701617f32692d0b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_1.plt",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_1.plt",
+    "size": 268,
+    "sha256": "80e450e49f6748506d067f96a8b9b8048d08b9abbd548cd04e3b6572e05b5dc3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_1.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_1.raw",
+    "size": 7304,
+    "sha256": "c15977aa5cbb58ec00d833d838e6055b7d0404366b18d8dc5e33ab323431d7e1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_1_ilk devre.plt",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_1_ilk devre.plt",
+    "size": 248,
+    "sha256": "4515b8f67c722828cfcb30280aa90bbcd7b8fe6f821be0afd7ca2c6809c46a1f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_2.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_2.asc",
+    "size": 607,
+    "sha256": "3bd67e80f3970a104163e33f9279255386e45cd35089c91f186ce96015b57fae",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_2.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_2.log",
+    "size": 392,
+    "sha256": "3173af9e4e51c8dd19435ab44022956d11c8f7b4c96459dd83b02e4728ba04e9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_2.op.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_2.op.raw",
+    "size": 878,
+    "sha256": "e07bd16ba8caa8157a7ef7358ea0f58f2891fcfdfa3114b5e7ccb83570f0c53b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/lab1_2.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/lab1_2.raw",
+    "size": 4034,
+    "sha256": "8e9cb451c8e854efb42ed2f5c8ee891a83749319ce4ca8445cf0e69fabd69437",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab1-2/transferfunction.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab1-2/transferfunction.png",
+    "size": 18402,
+    "sha256": "14779344af1903cb42c7bcbb91883a9c8d5c5b62640b8abb155dd69b8cc6ca59",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/aaalabda_aldığım_not.txt",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/aaalabda_aldığım_not.txt",
+    "size": 262,
+    "sha256": "55de04dceab662987179efbc63155ace6f54372fc958ecb98f96cece49e132aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/Draft1.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/Draft1.log",
+    "size": 439,
+    "sha256": "bcf58bb25ffafdb61634ddd6d9c562e13fd8959653a9eaadb02b0e434d79d35e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/Draft1.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/Draft1.raw",
+    "size": 1466,
+    "sha256": "cb2cc9269e5d53583dbd9970be9bca334d7b1ec2eba84d06e428f6cfb1fac70d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/experiment_3_Mehmet_Ali_Kamalak.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/experiment_3_Mehmet_Ali_Kamalak.docx",
+    "size": 932507,
+    "sha256": "f1afa3f0b59bb6572485d828651ccb85727e6e1c678c446978291ee9d8a6fcfa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/experiment_3_Mehmet_Ali_Kamalak.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/experiment_3_Mehmet_Ali_Kamalak.pdf",
+    "size": 1162782,
+    "sha256": "c8badb26d8f03b23fabf9abb2f021798845c76654cf170b399c2b4851ec7e061",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part1-1.1.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part1-1.1.asc",
+    "size": 579,
+    "sha256": "78eac31c26a451b4777146d82e814a0f542bd5ad54069eb896bf6053f0ea49fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part1-1.1.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part1-1.1.log",
+    "size": 445,
+    "sha256": "ee082696ba1e224cd5e520f11ad08efcb5a625945fc12cb01d35fadee7836828",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part1-1.1.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part1-1.1.png",
+    "size": 32363,
+    "sha256": "6fe7c3d727034d7f23e16f94fc29117269f2fdce9baa8ef64d05e20eeaa7569a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part1-1.1.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part1-1.1.raw",
+    "size": 1468,
+    "sha256": "4823d5fb63c5dc1482385c14e0fee1fb37e941b35d18f635dc5380b3fd0884af",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part1-1.2.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part1-1.2.png",
+    "size": 40372,
+    "sha256": "1737e9fbaa550cadbd69b1671cb4da4f2b0df8a86f32104e195ee179495dd27d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part1-1.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part1-1.png",
+    "size": 15531,
+    "sha256": "439f79b05ac7559b6b57e059397ac18e3baf567c962f25bf395969c4c16776d3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part1-3.1.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part1-3.1.asc",
+    "size": 614,
+    "sha256": "e33eb93d220c09eb05fe66d8e4639a9984cbe653a06e5105fdf12e54414be24d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part1-3.1.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part1-3.1.png",
+    "size": 41972,
+    "sha256": "589b6be164b8460d798ca442dfced251b9dc44224dffa8073bcf8dbc8d2fe111",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part2-2.1.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part2-2.1.asc",
+    "size": 1036,
+    "sha256": "584276d1cde44058a4306a666471f663912dc9475b3dd86f9708b3c7d9601430",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part2-2.1.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part2-2.1.log",
+    "size": 414,
+    "sha256": "44bc22bf75aca2089c2a174d11f04f6b4e33a5ca8dc711159acf51d4fc3a3256",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part2-2.1.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part2-2.1.raw",
+    "size": 2124,
+    "sha256": "5d0ef3abb53c1b76df04c03bdc18f30db1521cb0db3b6b59fa2fc844cbadd640",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part3-3.1.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part3-3.1.asc",
+    "size": 970,
+    "sha256": "43fb07c7604617bbf40309f0ca397d4b2ecce3abdb8b4aaaf35a586463f71746",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part3-3.1.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part3-3.1.log",
+    "size": 456,
+    "sha256": "a15667e7a0c0a8b72d4adf33bc9b3b844868ac4e5965b2523e03eb2d37ab2397",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part3-3.1.op.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part3-3.1.op.raw",
+    "size": 982,
+    "sha256": "2b1ccd94cd085ba90ca6434c9a224781fa601308e0f5e84f2025585b2fc1bfd8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab3/part3-3.1.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab3/part3-3.1.raw",
+    "size": 48074,
+    "sha256": "e0fe102446eb7ad7f23ce49c288f0713a6bf53869587e975b8317f2c351f8a25",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab4/Mehmet_Ali_Kamalak_150720062_exp4.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab4/Mehmet_Ali_Kamalak_150720062_exp4.docx",
+    "size": 3400037,
+    "sha256": "0f4f28c20bd38ae9d5ed21e335d24d0193db67f08302da64e850cba4c62a7530",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab4/Mehmet_Ali_Kamalak_150720062_exp4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab4/Mehmet_Ali_Kamalak_150720062_exp4.pdf",
+    "size": 2120912,
+    "sha256": "5b17805dd2c5ddc9fb8dd575140d0f83f7831e13d830aef8129eb1c31a024344",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab5/Mehmet_Ali_Kamalak_150720062_Experiment5.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab5/Mehmet_Ali_Kamalak_150720062_Experiment5.docx",
+    "size": 3761160,
+    "sha256": "001749f05fe39cdc7b385736b8bf1587ac22b780f211864b4aa9b097c90a0645",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab5/Mehmet_Ali_Kamalak_150720062_Experiment5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab5/Mehmet_Ali_Kamalak_150720062_Experiment5.pdf",
+    "size": 1437558,
+    "sha256": "5ed9b2fe90a097428be6fbd8681514acd3aab8814b482bb0f25fea3be00340b6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab6/Mehmet_Ali_Kamalak_150720062_Exp6.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab6/Mehmet_Ali_Kamalak_150720062_Exp6.docx",
+    "size": 802213,
+    "sha256": "6c59f36224592c3dd6c60737b1a578625d9aed601b2647035a294b2d9c5b7cee",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab6/Mehmet_Ali_Kamalak_150720062_Exp6_.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab6/Mehmet_Ali_Kamalak_150720062_Exp6_.pdf",
+    "size": 658987,
+    "sha256": "a95a99268929127f3838e62c6700817d457db7bf42641b831a3d8089f6819765",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab7/Mehmet_Ali_Kamalak_150720062_exp7.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab7/Mehmet_Ali_Kamalak_150720062_exp7.docx",
+    "size": 8666900,
+    "sha256": "d1e27e9c3847207c0e4f9ad09b84ae0d36863d432a8321dc688fcd4c90990ab6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab7/Mehmet_Ali_Kamalak_150720062_exp7.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab7/Mehmet_Ali_Kamalak_150720062_exp7.pdf",
+    "size": 2452961,
+    "sha256": "bf83ddfe0c794ffaebf489d8d2c590cd9ee6a0175c3300389d9ba049ca501fa7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab8/experiment_8.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab8/experiment_8.docx",
+    "size": 2817005,
+    "sha256": "6cafa63cf19fcfe54c243eb8beb603abb1e5be2cfa48a46a7218b86ab170f01c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/lab/lab8/Mehmet_Ali_Kamalak_150720062_Exp8.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/lab/lab8/Mehmet_Ali_Kamalak_150720062_Exp8.pdf",
+    "size": 1592076,
+    "sha256": "4172591efcc0fc2e29bdcabdf7e09630771f7981123d44e1653d0111e9a3a663",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/(The Oxford Series in Electrical and Computer Engi_240216_093024.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/(The Oxford Series in Electrical and Computer Engi_240216_093024.pdf",
+    "size": 82218343,
+    "sha256": "e0c09b76ce38fb52237fc818eda512e7652c267ceca45ca8c8da3b5be0d208de",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/DOC-20240312-WA0008_240312_012112_240312_085153.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/DOC-20240312-WA0008_240312_012112_240312_085153.pdf",
+    "size": 2377373,
+    "sha256": "3dae660fa0c3a9ff4f9a955a2aa3bd740155cbf0c11dc9f2514815d228e610ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/DOC-20240312-WA0012_240312_091821_240312_100259.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/DOC-20240312-WA0012_240312_091821_240312_100259.pdf",
+    "size": 2423341,
+    "sha256": "acd98a3821d2c24ff0cb4a2a447f75f30b586d7cb5a4864a5c1e319d835753ea",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Midterm_Soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Midterm_Soln.pdf",
+    "size": 1009335,
+    "sha256": "b23d76c16427836fe9b239dd2d5583e59d867cd82e9a7ca326b821bd8eeccd7e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Midterm_Soln_240510_014313.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Midterm_Soln_240510_014313.pdf",
+    "size": 3848206,
+    "sha256": "d6962b0e47a8e66dc9039d18e209794fc7b6c53f7d35b0ceae15983ee1ee4011",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Notes_240509_045939.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Notes_240509_045939.pdf",
+    "size": 5535165,
+    "sha256": "7598d10da59fa90c9668017584cfffaa29720b8e3e6fc06fa7f35cb1e9364b8c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Q1_sample.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Q1_sample.pdf",
+    "size": 142222,
+    "sha256": "15f58c85370dd53165402da8c75fc03eefcdd0c6981e4bd9f53d98d0419c8dd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Q1_Soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Q1_Soln.pdf",
+    "size": 117475,
+    "sha256": "964530621ffec691f50184e6c9a57f462608314d889ead51019899308f41fc78",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Review_questions_240412_175310.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Review_questions_240412_175310.pdf",
+    "size": 377783,
+    "sha256": "fe96697e0cc782d597bb590b68f2553303ccc513b5050a56447545f557a15d51",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_1.pdf",
+    "size": 6755402,
+    "sha256": "849852c1449f37b24983faa70d03ed14d4d194a2d60e1a591232249de19fbf5f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_10.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_10.pdf",
+    "size": 509328,
+    "sha256": "3e7eb192fc64f01d5ca9195b6f89b07b35f6a59365e1a3928abe6f81c89bfe06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_11.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_11.pdf",
+    "size": 614963,
+    "sha256": "7571061fd70c24019bf008a4e2c304cf5622b71d75d5e0315ab1f43be40f8fb6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_12.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_12.pdf",
+    "size": 394621,
+    "sha256": "267e3248821821bf2dc45b8fd2002cc7c49775ac6e3ea44fc8704b9e19948ee4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_13.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_13.pdf",
+    "size": 580126,
+    "sha256": "b24a84a0edc510173d4484da4d301a7aa00d7cff1df561fd63c6bc062d291bdf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_2.pdf",
+    "size": 851087,
+    "sha256": "f7d4fb362145bfc9c621b0d743a5e8499f9878967fe84e02e5c6878ffa843296",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_3.pdf",
+    "size": 1122237,
+    "sha256": "834a7d1a8d029d88a2d2a000991ccfce3f2fca53c6ad0c13aab7f2520f03d953",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_4.pdf",
+    "size": 937447,
+    "sha256": "acb658cadb31997faf6b06a6b489209e10093d0b8e073f301ebb5b17efd348da",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_5.pdf",
+    "size": 427419,
+    "sha256": "978d560e001cc777a4de51339c3d9496c807ecdbc91a7d46555502f5270a8c60",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_6.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_6.pdf",
+    "size": 587972,
+    "sha256": "9e5bc38b3a0356c538aeb99331c9f48288c0a41f577905b324d3ed2b1b89640c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_7.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_7.pdf",
+    "size": 625629,
+    "sha256": "facc488b9c1757292cbde84b637e2235d617d686f08e3467cb7cf12e7bd4167f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/memili/Week_8.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/memili/Week_8.pdf",
+    "size": 885039,
+    "sha256": "bfcb3f827b0d6b89a89268145cb387f3cf93cefd9fc1ad9ca16a951ac20a64ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/microelectronic_5th edition-02131450Bc2O5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/microelectronic_5th edition-02131450Bc2O5.pdf",
+    "size": 46570482,
+    "sha256": "8b022a8c41aabc6a44151050560f82288fd6edad2b24e78e395a377191e90f3a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/microelectronic_circuits_5th_solution.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/microelectronic_circuits_5th_solution.pdf",
+    "size": 34798428,
+    "sha256": "2b028ef0bfea7ac97684f388dca9177ce673d813b75ff1470c4d6c57a30c5b04",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/midterm_solution.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/midterm_solution.pdf",
+    "size": 241488,
+    "sha256": "e1cd4be697294bfac39a9128491a2e0b83211086bd188318a58aa26f2e63b508",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/Draft1.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/Draft1.asc",
+    "size": 1217,
+    "sha256": "3f6206637ae091d42c9bcced2f412d21a715ec9fba3d840bfc47a82196d75deb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/Draft1.log",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/Draft1.log",
+    "size": 1323,
+    "sha256": "29d521fa71e19862fec3a3a51484d98e6e6f4a0708d993368fa8b6cb33cf6cae",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/Draft1.op.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/Draft1.op.raw",
+    "size": 1242,
+    "sha256": "de8bda7c9e857196226a292b2fc391ffa010724c6ad60aed1d19b57b80108fa3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/Draft1.plt",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/Draft1.plt",
+    "size": 233,
+    "sha256": "cd440ca3e36c9adee35b5435826e4e45a51f917d8231bd99603f16a6c876b5b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/Draft1.raw",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/Draft1.raw",
+    "size": 1985016,
+    "sha256": "432321342361712ba0f4841472fb0e9abaea765807bac4ff0df620bd0b4a3524",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/electo.xlsx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/electo.xlsx",
+    "size": 14730,
+    "sha256": "1e9ec5f6d409710f0c4a8755d42bf78f0399988e1b155252f32f5476449b930c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/electronic1_project.docx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/electronic1_project.docx",
+    "size": 258301,
+    "sha256": "b82ab7c7df0b7e9a9c37b3ea9c059b2953e6f8831bba80451333fa93d79a0dac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/electronic1_project.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/electronic1_project.pdf",
+    "size": 560577,
+    "sha256": "28ece375bbb312d5905e71324e43bddc1803fc54f7dc32e1d7477c5c366738cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/1.2kHz.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/1.2kHz.png",
+    "size": 9614,
+    "sha256": "5fa9965906bf33a8e2df595c3797ffdfd2f47e1ee075adeffe2631bbd4aea4b8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/1.5kHz.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/1.5kHz.png",
+    "size": 19670,
+    "sha256": "dd83616e7d3746ae64c9194c5ebd0292cbc5a042816d3dcf87e3b44f0efbba06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/1kHz.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/1kHz.png",
+    "size": 4749,
+    "sha256": "ed6f12131ae9dd409fdfc9268cc0f463c2fdbf6a88a3997cbbb228ecb11714b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/200Hz.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/200Hz.png",
+    "size": 16289,
+    "sha256": "ea45a577f9b53780c4475d8397846b5bd369426ddf41ac3d20f248a73b308927",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/2kHz.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/2kHz.png",
+    "size": 17118,
+    "sha256": "ff460ff95b4c6189d21aac92b8d4b6c2656ae000c74557c2f3153f6d526f528f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/400Hz.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/400Hz.png",
+    "size": 8515,
+    "sha256": "347fefb5e1c7f02d796162580ec07840c2dd4be963f008dfb62609cada210e15",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/600Hz.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/600Hz.png",
+    "size": 4526,
+    "sha256": "8083f555d8f9c3bd00ad976a6f1ea3207cc2b495cfe9205504bddfaf22a52034",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/800Hz.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/800Hz.png",
+    "size": 4533,
+    "sha256": "a1b75de49d2203f6faa4ae65c4cc7114f606df82e4f9c0d6fd498a3e81856907",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/allsteps.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/allsteps.png",
+    "size": 20329,
+    "sha256": "755675370690e9a1448a678521f34fec5c8db112348a7dff98961002bfd5fd63",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/project 2025/frequency steps photo/devre-ltspice.png",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/project 2025/frequency steps photo/devre-ltspice.png",
+    "size": 23514,
+    "sha256": "9afcc8f628c085f81151829d95903fb4b54fab72090db0ff433d35dfc740dfbf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Q1_soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Q1_soln.pdf",
+    "size": 1213239,
+    "sha256": "1be02d4628babad26ab2ca239f8d079a0d9917ddc423848c2079f15181ba7b87",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Q2_soln.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Q2_soln.pdf",
+    "size": 188715,
+    "sha256": "f0a5a191b10aa5e938dc2236316d78945987117e91b06948397bf46aabfa329b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Review_questions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Review_questions.pdf",
+    "size": 382387,
+    "sha256": "36b20febdcd3f2d3b3c65020537000e3b7a7b5847da704d8c12d9897e55285b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Review_questions_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Review_questions_2.pdf",
+    "size": 1337245,
+    "sha256": "22120469ec73996f1d4302365a6b0760cb39d43b1a6ada53677e1a89c6c1bde6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Sample_quiz.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Sample_quiz.pdf",
+    "size": 111360,
+    "sha256": "6a81225a4c9ecb1b38e38a561131d1d6cd59d3547d5efbc0d8ada6b7c999bb04",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Syllabus.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Syllabus.pdf",
+    "size": 171394,
+    "sha256": "a73ac68cd4df36031c5d9421109efe369a2203dad3837188c02d80c16d7aeae8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_1.pdf",
+    "size": 3157230,
+    "sha256": "4ce51fa2e11fb5d65b31e2a760555a2d2e079d5a95d3b383a31a34f820909f26",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_10.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_10.pdf",
+    "size": 659236,
+    "sha256": "147693c5c6e31bc070a6751cd4de244676b3f60c966f455210f2ae0a5a40edfb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_11.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_11.pdf",
+    "size": 727155,
+    "sha256": "05b9b0433d16e043901a8ea280288eafbff788f45da88ec8f4a129ab92e12770",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_12.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_12.pdf",
+    "size": 488071,
+    "sha256": "88d3b772c7f9de93db081a366b3626f43a0cfdc39fc1308d7c5c9421869aadde",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_13.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_13.pdf",
+    "size": 672490,
+    "sha256": "f635067f15bc7a9c003596c225de8bf131a77e8eba3ff1d2e3dd1b5876c63e4d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_15.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_15.pdf",
+    "size": 811518,
+    "sha256": "ca68f9a03da4527f3101d6e8cf4a5212c4e737f935ac70a7d610c1f2d098a591",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_16.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_16.pdf",
+    "size": 1258636,
+    "sha256": "c8a551f0364227e5df759bdf54c1432f5212fe72b191a602e88318d2b75e4590",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_2.pdf",
+    "size": 851140,
+    "sha256": "5198964cf02e647c230c9471264b6bc917f17f1cc3ed923487fac7e651d9eb46",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_3.pdf",
+    "size": 1020682,
+    "sha256": "c2bab27c216030e849da76bc9648925e5984ac762c8d4706395c9fa712fd5052",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_4.pdf",
+    "size": 856495,
+    "sha256": "eb58fbecce4833d220991d9a3cb6de12de03c7acc6f65d1bd21be94cfc942c32",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_5.pdf",
+    "size": 620248,
+    "sha256": "afd1ebe4d4e1494d911720a892bee8254ec043b7f4c4b717c5e16f9de3f1ac75",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_6.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_6.pdf",
+    "size": 591612,
+    "sha256": "e8a463aa57c4e715c1f912267f8e74d26bd148408f7591657b473a4376d10c15",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1_fYE6qrT_FR877T6x8qdCDepOX--Cj6a",
+    "source_member": "electronic 1+ 24-25/Week_8.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/electronic-1-24-25/electronic 1+ 24-25/Week_8.pdf",
+    "size": 939583,
+    "sha256": "13e9e5177e6254be8b268d8323179322f75d36bf69e8edff38f56c89224f1316",
+    "storage": "git"
   }
 ]

@@ -1,0 +1,13 @@
+1N4001 diodeu nasıl ekleniyor????
+
+
+
+Vdo -> diyot voltajı
+I(d1) -> diyot akımı  foto part1 - 1.2
+
+
+
+part2-2.1 dosyası için ölçümleri V2, Vin ve Vout olark al
+
+
+part3 de V2 değerini mesela 5v al, 0.8 al değişik değerlerle tabloyu doldur
