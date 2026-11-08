@@ -606,5 +606,77 @@
     "size": 704155,
     "sha256": "b72d4040e17c93b4f2087bfdbbf073376378c3cd5bbbbb45f6f0aca021d8c01d",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/leadership_management_midterm.docx",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/leadership_management_midterm.docx",
+    "size": 47235,
+    "sha256": "8ee1782d4965a89a33ca75cc767809d807a9fe0f331c7d689858f01b50d3b1fc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/Lec.Notes_Feb'27&Mar'6.pdf",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/Lec.Notes_Feb'27&Mar'6.pdf",
+    "size": 466621,
+    "sha256": "97ebc6bb73bfe736b0c38cacadf2abad41a82deed1e23c8b4ba023b3000003bb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/Lec.Notes_Mar'13.pdf",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/Lec.Notes_Mar'13.pdf",
+    "size": 471202,
+    "sha256": "d8105b8df91af5b04b38f19cf101367f2cc317d541b41c87f77a3ebda02384cc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/LectureNotes_after_Midterm/LectureNotes_after_Midterm.pdf",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/LectureNotes_after_Midterm/LectureNotes_after_Midterm.pdf",
+    "size": 1250924,
+    "sha256": "987f613ef245be03084cfa1299c9d8532dbe285fac2437c6eb0cb338cd689802",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/LectureNotes_after_Midterm/LectureNotes_after_Midterm.pptx",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/LectureNotes_after_Midterm/LectureNotes_after_Midterm.pptx",
+    "size": 3439516,
+    "sha256": "5ef2aecf089f03bbd9ef3f3bfbcbd8c3b90ac5717bc732186d81d3d53ecc1f0f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/LectureNotes_after_Midterm.zip!/LectureNotes_after_Midterm.pptx",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/LectureNotes_after_Midterm__acilmis/LectureNotes_after_Midterm.pptx",
+    "size": 3439516,
+    "sha256": "5ef2aecf089f03bbd9ef3f3bfbcbd8c3b90ac5717bc732186d81d3d53ecc1f0f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/LectureNotes_till_Midterm.pdf",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/LectureNotes_till_Midterm.pdf",
+    "size": 1190554,
+    "sha256": "007ca626eb4804fee04d341a224a8e6e4f356e47588f600a26e89ee020e50c7a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/Mehmet_Ali_Kamalak_150720062.pdf",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/Mehmet_Ali_Kamalak_150720062.pdf",
+    "size": 135158,
+    "sha256": "e66132b691640f5a86d775890a2a8a1059e8e15c3d598141b591d00063951ea5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1wK4MWV_lC2mzD9ePWRO1GyWznpBWdEk1",
+    "source_member": "leadership_management/NTE1015_Midterm.pdf",
+    "path": "Secmeli/Teknik-Olmayan/NTE1015_Introduction-to-Leadership-Management-for-Engineers/leadership-management-oZLEM/leadership_management/NTE1015_Midterm.pdf",
+    "size": 93752,
+    "sha256": "30b1020ee2f78cbc97f54aaee53262b99420428d2f84f07889611f0d4cce8b81",
+    "storage": "git"
   }
 ]
