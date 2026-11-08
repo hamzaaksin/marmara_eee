@@ -21606,5 +21606,677 @@
     "size": 15000132,
     "sha256": "0c6a2c78d6cffebb886f5f44375b1a131ec4fda8d378099c81e3c2ad93d1b062",
     "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/1. EE4051 Textbook.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/1. EE4051 Textbook.pdf",
+    "size": 122927846,
+    "sha256": "9e5b19c4b78f381991f45e72a78c4ed3c8d05c51d25b69340c720dabc0aee900",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/alsu_çıkmış/Final_mup_soln.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/alsu_çıkmış/Final_mup_soln.pdf",
+    "size": 499713,
+    "sha256": "fd663ff8ac50a378238e296d831be6b98c31adf1d8eb9ee7c7aa8656d80bf333",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/alsu_çıkmış/Midterm_soln.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/alsu_çıkmış/Midterm_soln.pdf",
+    "size": 1227367,
+    "sha256": "67b05f130aa0fd3b839a9e903983fa58add3f41183429a9bfbd6445604e7b06f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/alsu_çıkmış/Review_questions_1 (1).pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/alsu_çıkmış/Review_questions_1 (1).pdf",
+    "size": 57874,
+    "sha256": "1b27420d534761cbace5a396e5cb89c376668b8d5edef3edd57d66207ce8db8d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/alsu_çıkmış/Review_questions_2.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/alsu_çıkmış/Review_questions_2.pdf",
+    "size": 70747,
+    "sha256": "56431bfab9dd45fa563d2745e0c2ba0be0cae3df1f40717e97b72aa2bd497737",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/CheatsheetFinal.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/CheatsheetFinal.pdf",
+    "size": 1416163,
+    "sha256": "ed714a856271be3ccf890d1fc90775e441fdc0149bf52e31a19ff876a5260334",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Elements of Electromagnetics -Sadiku Matthew probably 5thedition.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Elements of Electromagnetics -Sadiku Matthew probably 5thedition.pdf",
+    "size": 39250207,
+    "sha256": "f5c179a10b3235c47a8f565e59ae30841e366a090dd5d940fbd3985496f408c2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/emwavescheatsheet.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/emwavescheatsheet.pdf",
+    "size": 1165703,
+    "sha256": "d5466a9926769667e1db86753a9f022af5fe194b950ceee5d79b9697e68d2e0f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Final_soln.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Final_soln.pdf",
+    "size": 757220,
+    "sha256": "f292a5ced2071655bc7212f73505bd72f16a33a129bede943220b11a994c7128",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/midterm.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/midterm.pdf",
+    "size": 65390,
+    "sha256": "1c20e4544e498fedc9baa594c2d17936a61458060ebf2a36fd28dd4f791e47a8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Midterm_solution.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Midterm_solution.pdf",
+    "size": 647704,
+    "sha256": "902435a5b1d83d0b9b30d84e4bd07066b70ecb0155e28a2164cf2895c686172f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Q1_Soln.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Q1_Soln.pdf",
+    "size": 909391,
+    "sha256": "1f7f21b12014f65f8d60cb012a856f1b36a6bb11e968fa5d44f6465fe9d5cf8b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Q2_Solution.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Q2_Solution.pdf",
+    "size": 781726,
+    "sha256": "a5a2195f11af1b3ace89f375b6349db2806c53477b2d2119edfe359bde2e110d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Review_questions_1.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Review_questions_1.pdf",
+    "size": 57874,
+    "sha256": "1b27420d534761cbace5a396e5cb89c376668b8d5edef3edd57d66207ce8db8d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Review_questions_2.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Review_questions_2.pdf",
+    "size": 74473,
+    "sha256": "52b03fcc16b6ee1014c5270c0e65d9d0ae9fd0232af85394187e4fe637fedfff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Syllabus_EM_Waves.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Syllabus_EM_Waves.pdf",
+    "size": 106094,
+    "sha256": "89e683711feb47807abc148ae86fa57dd621d80c343db46f8104cc1742f6c031",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_1.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_1.pdf",
+    "size": 3030200,
+    "sha256": "e664249c6173ca457c1944870b93a43384dd6c340772029efc77632907e657c7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_10.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_10.pdf",
+    "size": 356938,
+    "sha256": "3bdc8cfb00f57c8245e910e08f568c2d49dad881b05242887840523e597b4e53",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_11.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_11.pdf",
+    "size": 455401,
+    "sha256": "a582194f2989cd4216025dc0d357719ddc737f19d0f7ee17bd13fe6a16219f87",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_12.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_12.pdf",
+    "size": 880904,
+    "sha256": "1b39031455a39aa7b502c134a995b2c57863656a2f27fcaa3563a7b5d8317511",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_13.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_13.pdf",
+    "size": 349969,
+    "sha256": "f1319035ece87cab3dd07110952e9990da376938c68364be1e5a75d4d1d1f7e7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_14.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_14.pdf",
+    "size": 1037325,
+    "sha256": "f2738c4cc8ab8fb9b583ef5ea6562d98afc471ae9e88c7a47aa5e1354f142836",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_15.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_15.pdf",
+    "size": 2573175,
+    "sha256": "b5dea71ea762ebf4cfe534a7f3c0bbcca9fbe716a81f997e58d202282bdf129f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_2.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_2.pdf",
+    "size": 828702,
+    "sha256": "e7fda08042b59c29c4251113d1239ce66a8a35f1bd6fb8c64962d598a05628ce",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_3.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_3.pdf",
+    "size": 583034,
+    "sha256": "aba0da26b056bc913c6ec6ed2d17fee1e9e4fcc44b6a5f0a59b520ebf7d3929f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_4.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_4.pdf",
+    "size": 550801,
+    "sha256": "b8263b916a8481b8c68b9ca93a92c1dc2caa10b3db7b0c818a5dc5851f5c34e5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_5.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_5.pdf",
+    "size": 552960,
+    "sha256": "7f2ef29b04084f808256ff86f0d3281d0923d8c470650643b2945999b74eaa28",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_6.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_6.pdf",
+    "size": 673254,
+    "sha256": "e1d58278c7d62739042f78e238bff8e01db1a63675c76d26dc00d44f8b949cdf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_7.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_7.pdf",
+    "size": 1135978,
+    "sha256": "055d1196570b8c3914c2203b2d5731b96db8c7c58dbdfc6140a58aea9318c456",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/alsu/Week_8.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/alsu/Week_8.pdf",
+    "size": 1503983,
+    "sha256": "147ef174585f4c72c0f189424e068933bd4a3ccef462562ac7b56fadd5197d12",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/Chapter 8 P&S.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/Chapter 8 P&S.pdf",
+    "size": 1113901,
+    "sha256": "2f4028f9202d386a3f0dc696eceb665365ada784562cf75349c949c254b81778",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/Chp6&7 Review.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/Chp6&7 Review.pdf",
+    "size": 2676918,
+    "sha256": "c0b18e919cc7b2e3577780685c232db08d6ab7547d2d0def1c46ccc929a5c1d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/Final.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/Final.pdf",
+    "size": 4885129,
+    "sha256": "956b63d17e7cfcb91d41b1df8ccbda91d095c72332590d7fd7885f9e2e2b1dac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/Lecture 11 - Static Magnetic Fields (Part 4).pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/Lecture 11 - Static Magnetic Fields (Part 4).pdf",
+    "size": 2552720,
+    "sha256": "596341681d96012ca6febdaccada474a6a1a9ae1b27b17bb1ba23c729fc98c6c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/Lecture 12 - EM Induction - devam.pptx",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/Lecture 12 - EM Induction - devam.pptx",
+    "size": 3746533,
+    "sha256": "c8bca9c08c91713efee34085cb263e202c06709038d9c29e5ef730ac0518cd41",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/Lecture 12 - Time varying fields.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/Lecture 12 - Time varying fields.pdf",
+    "size": 1367837,
+    "sha256": "bbd4a8bd977579c8d33a06f37f75651a64f4115f0619f70892b91c1dc341fb6e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/Lecture 13 - Plane Waves.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/Lecture 13 - Plane Waves.pdf",
+    "size": 2367694,
+    "sha256": "e96485df68a41416267214770278e8156c78b772f2a2c97c6b124d1d300baccc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/25-26 Fulya/Static Magnetic Fields P&S -Part1.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/25-26 Fulya/Static Magnetic Fields P&S -Part1.pdf",
+    "size": 1389117,
+    "sha256": "d3c146270681ab0377409cfdfa1f4b1dbfc8be3e5c1816fc1cbb76a3e93c967f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/alsu_çıkmış/Final_mup_soln.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/alsu_çıkmış/Final_mup_soln.pdf",
+    "size": 499713,
+    "sha256": "fd663ff8ac50a378238e296d831be6b98c31adf1d8eb9ee7c7aa8656d80bf333",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/alsu_çıkmış/Midterm_soln.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/alsu_çıkmış/Midterm_soln.pdf",
+    "size": 1227367,
+    "sha256": "67b05f130aa0fd3b839a9e903983fa58add3f41183429a9bfbd6445604e7b06f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/alsu_çıkmış/Review_questions_1 (1).pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/alsu_çıkmış/Review_questions_1 (1).pdf",
+    "size": 57874,
+    "sha256": "1b27420d534761cbace5a396e5cb89c376668b8d5edef3edd57d66207ce8db8d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/alsu_çıkmış/Review_questions_2.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/alsu_çıkmış/Review_questions_2.pdf",
+    "size": 70747,
+    "sha256": "56431bfab9dd45fa563d2745e0c2ba0be0cae3df1f40717e97b72aa2bd497737",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/1 (1).jpg",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/1 (1).jpg",
+    "size": 7796378,
+    "sha256": "218b692ef53cc44cbb0feea3681e52899a0568c4cbd166892a45c0010ced9640",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/2 (1).jpg",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/2 (1).jpg",
+    "size": 8737847,
+    "sha256": "9f0d5cbe9c494033895969fd934e85c45aea96aa45675ea32fbd496063b8750a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/CheatsheetFinal.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/CheatsheetFinal.pdf",
+    "size": 1416163,
+    "sha256": "ed714a856271be3ccf890d1fc90775e441fdc0149bf52e31a19ff876a5260334",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Elements of Electromagnetics -Sadiku Matthew probably 5thedition.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Elements of Electromagnetics -Sadiku Matthew probably 5thedition.pdf",
+    "size": 39250207,
+    "sha256": "f5c179a10b3235c47a8f565e59ae30841e366a090dd5d940fbd3985496f408c2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/emwavescheatsheet.docx",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/emwavescheatsheet.docx",
+    "size": 3818719,
+    "sha256": "2d730bcfe7b4cd8d8afd3055313194330f3e0158e17a75988506194fcdffe7af",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/emwavescheatsheet.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/emwavescheatsheet.pdf",
+    "size": 1165703,
+    "sha256": "d5466a9926769667e1db86753a9f022af5fe194b950ceee5d79b9697e68d2e0f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Final_soln.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Final_soln.pdf",
+    "size": 757220,
+    "sha256": "f292a5ced2071655bc7212f73505bd72f16a33a129bede943220b11a994c7128",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/midterm.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/midterm.pdf",
+    "size": 65390,
+    "sha256": "1c20e4544e498fedc9baa594c2d17936a61458060ebf2a36fd28dd4f791e47a8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Midterm_solution.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Midterm_solution.pdf",
+    "size": 647704,
+    "sha256": "902435a5b1d83d0b9b30d84e4bd07066b70ecb0155e28a2164cf2895c686172f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/New Text Document.txt",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/New Text Document.txt",
+    "size": 1134,
+    "sha256": "f40c7c6c2d9d1d077d95b0889ff54d9c53830507d9a7dec47f027143586aa203",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/BONUS.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/BONUS.m",
+    "size": 1607,
+    "sha256": "256f35288046831235c4388d15d2eaa5624aab36919095969d0dfabbbdfef56e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/Em Waves Proje_ebubekir_yunusemre.docx",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/Em Waves Proje_ebubekir_yunusemre.docx",
+    "size": 80449045,
+    "sha256": "d16f09d38a535a6033165a78b7491d0880a53d7524910b269ee195ef70cbf8b9",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/feyzullah_oguz_mehmetakif_turkmenoglu.docx",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/feyzullah_oguz_mehmetakif_turkmenoglu.docx",
+    "size": 31366094,
+    "sha256": "da4753f5df15207b69d0b9a8a30b01ef6d61e4e897d17718c7e18fe0543618bb",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/feyzullah_oguz_mehmetakif_turkmenoglu.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/feyzullah_oguz_mehmetakif_turkmenoglu.pdf",
+    "size": 1035678,
+    "sha256": "75b55d7f25e5935916f6dede00e6e2b8123f75a73582fd4645f8f7cef5e0dffa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/Simulation_Project.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/Simulation_Project.pdf",
+    "size": 211410,
+    "sha256": "b8f33e5aa1313eff8dc7aeedb5b4f922d7eb260af6c360ea23854e1a28c5f753",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/soru10.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/soru10.m",
+    "size": 1543,
+    "sha256": "b3125f630659a14af2a4b2e83ea3c52ccd900ad6bea5b3eb7ce20d4a7c775993",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/soru11.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/soru11.m",
+    "size": 1559,
+    "sha256": "06245aa6e70a8c55ab15ca9fa49704e780cd2e1539823ebd05275f83a1f8fe20",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/soru9.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/soru9.m",
+    "size": 2257,
+    "sha256": "76db84fa933ed4831a735fc067146cd387cdc04c8420ac1a330a1549eb53166f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/stepsize05.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/stepsize05.m",
+    "size": 2255,
+    "sha256": "eb6df09e0aa70828fe45c5fae243dacf146791ab7222790be293e2f6c074ae76",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/stepsize1.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/stepsize1.m",
+    "size": 2252,
+    "sha256": "73f95b4680dbe139ba805398a8e28e4ccb532cc09c839d54676f55cb44f71770",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/stepsize2.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/stepsize2.m",
+    "size": 2252,
+    "sha256": "641291b737dbda6e4df10a05fb9f1f9898b124b66cac17f9ae5017cff5f7869d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/stepsize5.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/stepsize5.m",
+    "size": 2258,
+    "sha256": "8bb3bf0583c01b6179c8ea8ca8019eb380d921e856032b8abcaac5e40301bbb8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/project/stepsize5_255.m",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/project/stepsize5_255.m",
+    "size": 2249,
+    "sha256": "4c13397f454d54dd570e8a92dcbdff43e7319f3d9c8ba6714b5dfabff225afb2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Q1_Soln.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Q1_Soln.pdf",
+    "size": 909391,
+    "sha256": "1f7f21b12014f65f8d60cb012a856f1b36a6bb11e968fa5d44f6465fe9d5cf8b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Q2_Solution.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Q2_Solution.pdf",
+    "size": 781726,
+    "sha256": "a5a2195f11af1b3ace89f375b6349db2806c53477b2d2119edfe359bde2e110d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Review_questions_1.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Review_questions_1.pdf",
+    "size": 57874,
+    "sha256": "1b27420d534761cbace5a396e5cb89c376668b8d5edef3edd57d66207ce8db8d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Review_questions_2.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Review_questions_2.pdf",
+    "size": 74473,
+    "sha256": "52b03fcc16b6ee1014c5270c0e65d9d0ae9fd0232af85394187e4fe637fedfff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Syllabus_EM_Waves.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Syllabus_EM_Waves.pdf",
+    "size": 106094,
+    "sha256": "89e683711feb47807abc148ae86fa57dd621d80c343db46f8104cc1742f6c031",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_1.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_1.pdf",
+    "size": 3030200,
+    "sha256": "e664249c6173ca457c1944870b93a43384dd6c340772029efc77632907e657c7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_10.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_10.pdf",
+    "size": 356938,
+    "sha256": "3bdc8cfb00f57c8245e910e08f568c2d49dad881b05242887840523e597b4e53",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_11.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_11.pdf",
+    "size": 455401,
+    "sha256": "a582194f2989cd4216025dc0d357719ddc737f19d0f7ee17bd13fe6a16219f87",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_12.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_12.pdf",
+    "size": 880904,
+    "sha256": "1b39031455a39aa7b502c134a995b2c57863656a2f27fcaa3563a7b5d8317511",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_13.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_13.pdf",
+    "size": 349969,
+    "sha256": "f1319035ece87cab3dd07110952e9990da376938c68364be1e5a75d4d1d1f7e7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_14.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_14.pdf",
+    "size": 1037325,
+    "sha256": "f2738c4cc8ab8fb9b583ef5ea6562d98afc471ae9e88c7a47aa5e1354f142836",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_15.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_15.pdf",
+    "size": 2573175,
+    "sha256": "b5dea71ea762ebf4cfe534a7f3c0bbcca9fbe716a81f997e58d202282bdf129f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_2.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_2.pdf",
+    "size": 828702,
+    "sha256": "e7fda08042b59c29c4251113d1239ce66a8a35f1bd6fb8c64962d598a05628ce",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_3.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_3.pdf",
+    "size": 583034,
+    "sha256": "aba0da26b056bc913c6ec6ed2d17fee1e9e4fcc44b6a5f0a59b520ebf7d3929f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_4.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_4.pdf",
+    "size": 550801,
+    "sha256": "b8263b916a8481b8c68b9ca93a92c1dc2caa10b3db7b0c818a5dc5851f5c34e5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_5.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_5.pdf",
+    "size": 552960,
+    "sha256": "7f2ef29b04084f808256ff86f0d3281d0923d8c470650643b2945999b74eaa28",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_6.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_6.pdf",
+    "size": 673254,
+    "sha256": "e1d58278c7d62739042f78e238bff8e01db1a63675c76d26dc00d44f8b949cdf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_7.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_7.pdf",
+    "size": 1135978,
+    "sha256": "055d1196570b8c3914c2203b2d5731b96db8c7c58dbdfc6140a58aea9318c456",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1oSjzGIq4sL0Kcyl-XazmqUKFgiF0zxEc",
+    "source_member": "EM Waves 25-26/EM Waves-akif/Week_8.pdf",
+    "path": "3.sinif/6.donem/EE4051_Electromagnetic-Waves/EM-Waves-25-26/EM Waves 25-26/EM Waves-akif/Week_8.pdf",
+    "size": 1503983,
+    "sha256": "147ef174585f4c72c0f189424e068933bd4a3ccef462562ac7b56fadd5197d12",
+    "storage": "git"
   }
 ]
