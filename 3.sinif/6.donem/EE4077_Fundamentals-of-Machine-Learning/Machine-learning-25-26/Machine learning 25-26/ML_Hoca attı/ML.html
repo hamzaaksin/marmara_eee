@@ -1,0 +1,556 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Machine Learning Numerical Questions</title>
+<style>
+:root{--bg:#f6f7fb;--paper:#fff;--ink:#171717;--line:#dfe3ea;--accent:#0b3fa5;--soft:#eef4ff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:1.65}
+main{max-width:980px;margin:0 auto;padding:28px 18px 70px}
+header{background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:22px 24px;margin-bottom:22px;box-shadow:0 8px 24px rgba(0,0,0,.05)}
+h1{font-size:30px;margin:0;color:var(--accent)}
+h2{font-size:24px;margin:28px 0 16px;color:var(--accent);background:var(--soft);border:1px solid #d8e4ff;padding:14px 18px;border-radius:14px}
+h3{font-size:21px;margin:24px 0 12px;color:#0f2f78;border-bottom:1px solid var(--line);padding-bottom:7px}
+h4{font-size:18px;margin:18px 0 10px;color:#2b2b2b}
+section.module{background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:10px 22px 22px;margin-bottom:24px;box-shadow:0 8px 24px rgba(0,0,0,.04)}
+p{margin:8px 0} ul{margin:8px 0 12px 24px;padding:0} li{margin:4px 0}
+hr{border:0;border-top:1px dashed #c9ced8;margin:18px 0}
+.math-display{overflow-x:auto;padding:10px 12px;margin:8px 0;background:#fbfcff;border:1px solid #edf0f6;border-radius:10px}
+.mjx-inline{white-space:nowrap}.prefix{font-weight:600;color:#404854}
+@media print{body{background:white;font-size:12pt}main{max-width:none;padding:0}section.module,header{box-shadow:none;break-inside:avoid}}
+</style>
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['\\(', '\\)']],
+    displayMath: [['\\[', '\\]']],
+    processEscapes: true,
+    packages: {'[+]': ['ams']}
+  },
+  loader: {load: ['[tex]/ams']},
+  svg: {fontCache: 'global'}
+};
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+</head>
+<body><main>
+<header><h1>Machine Learning Numerical Questions</h1></header>
+<section class="module"><h2>MODULE 1: SUPPORT VECTOR MACHINES (SVM) - 5 NUMERICAL QUESTIONS</h2>
+<h3>Question 1.1 (Hard-Margin SVM Weights and Bias Optimization)</h3>
+<p>You are given a 2D dataset with four training samples:</p>
+<ul>
+<li><span class="mjx-inline">\(x_{1} = \begin{bmatrix}1\\2\end{bmatrix}, y_{1} = +1\)</span></li>
+<li><span class="mjx-inline">\(x_{2} = \begin{bmatrix}2\\1\end{bmatrix}, y_{2} = +1\)</span></li>
+<li><span class="mjx-inline">\(x_{3} = \begin{bmatrix}3\\4\end{bmatrix}, y_{3} = -1\)</span></li>
+<li><span class="mjx-inline">\(x_{4} = \begin{bmatrix}4\\3\end{bmatrix}, y_{4} = -1\)</span></li>
+</ul>
+<p>Assume that the optimal separating hyperplane is determined exclusively by the support vectors x1, x2, and x3. Find the exact numerical values for the weight vector w = <span class="mjx-inline">\(\begin{bmatrix}w_{1}\\w_{2}\end{bmatrix}\)</span> and the bias b that satisfy the margin equations y_n(w^T x_n + b) = 1.</p>
+<h4>Solution:</h4>
+<p>For support vectors, the margin constraint holds with strict equality:</p>
+<p><span class="prefix">(1) For x1:</span> <span class="mjx-inline">\(1 \cdot (w_{1}(1) + w_{2}(2) + b) = 1 \Rightarrow w_{1} + 2w2 + b = 1\)</span></p>
+<p><span class="prefix">(2) For x2:</span> <span class="mjx-inline">\(1 \cdot (w_{1}(2) + w_{2}(1) + b) = 1 \Rightarrow 2w1 + w_{2} + b = 1\)</span></p>
+<p><span class="prefix">(3) For x3:</span> <span class="mjx-inline">\(-1 \cdot (w_{1}(3) + w_{2}(4) + b) = 1 \Rightarrow 3w1 + 4w2 + b = -1\)</span></p>
+<p>Subtract (1) from (2):</p>
+<div class="math-display">\[(2w1 + w_{2} + b) - (w_{1} + 2w2 + b) = 1 - 1\]</div>
+<div class="math-display">\[w_{1} - w_{2} = 0 \Rightarrow w_{1} = w_{2}\]</div>
+<div class="math-display">\[Substitute w_{1} = w_{2} into (1) and (3):\]</div>
+<p><span class="prefix">From (1):</span> <span class="mjx-inline">\(w_{1} + 2w1 + b = 1 \Rightarrow 3w1 + b = 1 \Rightarrow b = 1 - 3w1\)</span></p>
+<p><span class="prefix">From (3):</span> <span class="mjx-inline">\(3w1 + 4w1 + b = -1 \Rightarrow 7w1 + b = -1\)</span></p>
+<div class="math-display">\[Substitute b = 1 - 3w1 into the updated equation (3):\]</div>
+<div class="math-display">\[7w1 + (1 - 3w1) = -1\]</div>
+<div class="math-display">\[4w1 + 1 = -1 \Rightarrow 4w1 = -2 \Rightarrow w_{1} = -0.5\]</div>
+<div class="math-display">\[Since w_{1} = w_{2}, then w_{2} = -0.5.\]</div>
+<p>Now find b:</p>
+<div class="math-display">\[b = 1 - 3(-0.5) = 1 + 1.5 = 2.5\]</div>
+<div class="math-display">\[The optimal parameters are w = \begin{bmatrix}-0.5\\-0.5\end{bmatrix} and b = 2.5.\]</div>
+<hr>
+<h3>Question 1.2 (Soft-Margin SVM Slack Variables and Hinge Loss Evaluation)</h3>
+<p>Consider a soft-margin SVM classifier with w = <span class="mjx-inline">\(\begin{bmatrix}1.0\\-2.0\end{bmatrix}\)</span> and b = 0.5. Calculate the exact numerical values of the Hinge Loss = max(0, 1 - y_n(w^T x_n + b)) and the slack variables ξ_n for the following points:</p>
+<ul>
+<li>xA = <span class="mjx-inline">\(\begin{bmatrix}1\\1\end{bmatrix}\)</span>   with true label yA = +1</li>
+<li>xB = <span class="mjx-inline">\(\begin{bmatrix}2\\0\end{bmatrix}\)</span>   with true label yB = -1</li>
+<li>xC = <span class="mjx-inline">\(\begin{bmatrix}0\\-1\end{bmatrix}\)</span>  with true label yC = -1</li>
+</ul>
+<h4>Solution:</h4>
+<div class="math-display">\[The decision score formula is f(x) = 1.0\cdot x_{1} - 2.0\cdot x_{2} + 0.5.\]</div>
+<ul>
+<li>For xA:</li>
+</ul>
+<div class="math-display">\[f(x_{A}) = 1(1) - 2(1) + 0.5 = -0.5\]</div>
+<div class="math-display">\[y_{A} \cdot f(x_{A}) = (+1) \cdot (-0.5) = -0.5\]</div>
+<div class="math-display">\[Loss_{A} = \max(0, 1 - (-0.5)) = \max(0, 1.5) = 1.5. Thus, \xi_{A} = 1.5.\]</div>
+<ul>
+<li>For xB:</li>
+</ul>
+<div class="math-display">\[f(x_{B}) = 1(2) - 2(0) + 0.5 = 2.5\]</div>
+<div class="math-display">\[y_{B} \cdot f(x_{B}) = (-1) \cdot (2.5) = -2.5\]</div>
+<div class="math-display">\[Loss_{B} = \max(0, 1 - (-2.5)) = \max(0, 3.5) = 3.5. Thus, \xi_{B} = 3.5.\]</div>
+<ul>
+<li>For xC:</li>
+</ul>
+<div class="math-display">\[f(x_{C}) = 1(0) - 2(-1) + 0.5 = 2.5\]</div>
+<div class="math-display">\[y_{C} \cdot f(x_{C}) = (-1) \cdot (2.5) = -2.5\]</div>
+<div class="math-display">\[Loss_{C} = \max(0, 1 - (-2.5)) = \max(0, 3.5) = 3.5. Thus, \xi_{C} = 3.5.\]</div>
+<hr>
+<h3>Question 1.3 (Functional vs Geometric Margin Calculation)</h3>
+<p>A linear separating hyperplane is parameterized by w = <span class="mjx-inline">\(\begin{bmatrix}3\\4\end{bmatrix}\)</span> and b = -5. For a training point x = <span class="mjx-inline">\(\begin{bmatrix}2\\1\end{bmatrix}\)</span> with label y = +1, compute:</p>
+<p>1. The functional margin γ_f = y(w^T x + b).</p>
+<p>2. The geometric margin γ_g = y(w^T x + b) / ||w||.</p>
+<h4>Solution:</h4>
+<p>1. Functional Margin:</p>
+<div class="math-display">\[w^{T} x + b = (3 \cdot 2) + (4 \cdot 1) - 5 = 6 + 4 - 5 = 5\]</div>
+<div class="math-display">\[\gamma_{f} = y \cdot (5) = (+1) \cdot 5 = 5\]</div>
+<p>2. Geometric Margin:</p>
+<p>Calculate the Euclidean norm of w: ||w|| = sqrt(3<sup>2</sup> + 4<sup>2</sup>) = sqrt(9 + 16) = sqrt(25) = 5</p>
+<div class="math-display">\[\gamma_{g} = \gamma_{f} / \|w\| = 5 / 5 = 1.0\]</div>
+<hr>
+<h3>Question 1.4 (Kernel SVM Feature Mapping Inner Product)</h3>
+<p>Let φ(x) be a quadratic feature mapping for 2D vectors x = <span class="mjx-inline">\(\begin{bmatrix}x_{1}\\x_{2}\end{bmatrix}\)</span> defined as φ(x) = <span class="mjx-inline">\(\begin{bmatrix}x_{1}^{2}\\\sqrt{2}x_{1} x_{2}\\x_{2}^{2}\end{bmatrix}\)</span>. Given two data vectors a = <span class="mjx-inline">\(\begin{bmatrix}2\\3\end{bmatrix}\)</span> and b = <span class="mjx-inline">\(\begin{bmatrix}1\\4\end{bmatrix}\)</span>:</p>
+<p>1. Compute the high-dimensional transformed vectors φ(a) and φ(b).</p>
+<p>2. Calculate their inner product φ(a)^T φ(b).</p>
+<p>3. Verify that the polynomial kernel K(a, b) = (a^T b)<sup>2</sup> yields identical results.</p>
+<h4>Solution:</h4>
+<p>1. High-dimensional mapping:</p>
+<div class="math-display">\[\phi(a) = \begin{bmatrix}2^{2}\\\sqrt{2}\cdot 2\cdot 3\\3^{2}\end{bmatrix} = \begin{bmatrix}4\\6\cdot \sqrt{2}\\9\end{bmatrix}\]</div>
+<div class="math-display">\[\phi(b) = \begin{bmatrix}1^{2}\\\sqrt{2}\cdot 1\cdot 4\\4^{2}\end{bmatrix} = \begin{bmatrix}1\\4\cdot \sqrt{2}\\16\end{bmatrix}\]</div>
+<p>2. Inner product:</p>
+<div class="math-display">\[\phi(a)^{T} \phi(b) = (4 \cdot 1) + (6\cdot \sqrt{2} \cdot 4\cdot \sqrt{2}) + (9 \cdot 16)\]</div>
+<div class="math-display">\[\phi(a)^{T} \phi(b) = 4 + (24 \cdot 2) + 144 = 4 + 48 + 144 = 196\]</div>
+<p>3. Kernel Trick Verification:</p>
+<div class="math-display">\[a^{T} b = (2 \cdot 1) + (3 \cdot 4) = 2 + 12 = 14\]</div>
+<div class="math-display">\[K(a, b) = (a^{T} b)^{2} = 14^{2} = 196\]</div>
+<p>Both methods yield exactly 196.</p>
+<hr>
+<h3>Question 1.5 (Dual SVM Constraints and Coordinate Check)</h3>
+<p>The dual optimization problem of a hard-margin SVM yields Lagrange multipliers α = <span class="mjx-inline">\(\begin{bmatrix}0.5\\0\\1.5\\0.2\end{bmatrix}\)</span> corresponding to four training points with labels y = <span class="mjx-inline">\(\begin{bmatrix}+1\\-1\\-1\\+1\end{bmatrix}\)</span>.</p>
+<p>1. Check if the fundamental linear equality constraint Σ (α_n * y_n) = 0 is satisfied.</p>
+<p>2. Identify which data points are support vectors and which are non-support vectors based on the numerical α values.</p>
+<h4>Solution:</h4>
+<p>1. Equality constraint check:</p>
+<div class="math-display">\[\sum (\alpha_{n} \cdot y_{n}) = (\alpha_{1}\cdot y_{1}) + (\alpha_{2}\cdot y_{2}) + (\alpha_{3}\cdot y_{3}) + (\alpha_{4}\cdot y_{4})\]</div>
+<div class="math-display">\[\sum (\alpha_{n} \cdot y_{n}) = (0.5 \cdot 1) + (0 \cdot -1) + (1.5 \cdot -1) + (0.2 \cdot 1)\]</div>
+<div class="math-display">\[\sum (\alpha_{n} \cdot y_{n}) = 0.5 + 0 - 1.5 + 0.2 = -0.8\]</div>
+<div class="math-display">\[Since -0.8 \ne 0, this configuration violates the dual validity condition.\]</div>
+<p>2. Support Vector Identification:</p>
+<p>Any point with α_n &gt; 0 acts as a support vector.</p>
+<ul>
+<li><span class="mjx-inline">\(x_{1} (\alpha_{1} = 0.5 > 0) \to Support Vector\)</span></li>
+<li><span class="mjx-inline">\(x_{2} (\alpha_{2} = 0) \to Non-Support Vector (lies outside the margin)\)</span></li>
+<li><span class="mjx-inline">\(x_{3} (\alpha_{3} = 1.5 > 0) \to Support Vector\)</span></li>
+<li><span class="mjx-inline">\(x_{4} (\alpha_{4} = 0.2 > 0) \to Support Vector\)</span></li>
+</ul>
+<section class="module"><h2>MODULE 2: NEAREST NEIGHBORS AND DECISION TREES - 5 NUMERICAL QUESTIONS</h2>
+<h3>Question 2.1 (k-NN Classification with Mixed Euclidean Distance)</h3>
+<p>You have a reference 2D training dataset with 4 samples:</p>
+<ul>
+<li>P1 = [1, 1], Class A</li>
+<li>P2 = [1, 3], Class B</li>
+<li>P3 = [2, 4], Class B</li>
+<li>P4 = [3, 1], Class A</li>
+</ul>
+<p>An unknown query instance arrives at X_test = [2, 2]. Compute the Euclidean distances to all training points and determine the classification label using 3-NN (k=3).</p>
+<h4>Solution:</h4>
+<p>Euclidean distance d = sqrt((x1 - x_test1)<sup>2</sup> + (x2 - x_test2)<sup>2</sup>)</p>
+<ul>
+<li><span class="mjx-inline">\(d(P_{1}, X_{test}) = sqrt((1-2)^{2} + (1-2)^{2}) = \sqrt{1 + 1} = \sqrt{2} \approx 1.414\)</span></li>
+<li><span class="mjx-inline">\(d(P_{2}, X_{test}) = sqrt((1-2)^{2} + (3-2)^{2}) = \sqrt{1 + 1} = \sqrt{2} \approx 1.414\)</span></li>
+<li><span class="mjx-inline">\(d(P_{3}, X_{test}) = sqrt((2-2)^{2} + (4-2)^{2}) = \sqrt{0 + 4} = \sqrt{4} = 2.000\)</span></li>
+<li><span class="mjx-inline">\(d(P_{4}, X_{test}) = sqrt((3-2)^{2} + (1-2)^{2}) = \sqrt{1 + 1} = \sqrt{2} \approx 1.414\)</span></li>
+</ul>
+<p>The three nearest neighbors are P1, P2, and P4 (all sharing distance 1.414).</p>
+<p>Class distribution among neighbors:</p>
+<ul>
+<li>P1 -&gt; Class A</li>
+<li>P2 -&gt; Class B</li>
+<li>P4 -&gt; Class A</li>
+</ul>
+<p>Class A has 2 votes, Class B has 1 vote. By majority vote, X_test is assigned to Class A.</p>
+<hr>
+<h3>Question 2.2 (k-NN Distance Metrics: Manhattan vs Minkowski)</h3>
+<p>Calculate the exact distance metrics between vector u = [1, 5, -2] and vector v = [4, 1, 2] under:</p>
+<p>1. Manhattan Distance (L1 norm).</p>
+<p>2. Minkowski Distance of order p=3.</p>
+<h4>Solution:</h4>
+<p>1. Manhattan Distance (L1):</p>
+<div class="math-display">\[D_{L1} = |1 - 4| + |5 - 1| + |-2 - 2| = |-3| + |4| + |-4| = 3 + 4 + 4 = 11\]</div>
+<p>2. Minkowski Distance (p=3):</p>
+<div class="math-display">\[D_{L3} = (|1 - 4|^{3} + |5 - 1|^{3} + |-2 - 2|^{3})^{1/3}\]</div>
+<div class="math-display">\[D_{L3} = (|-3|^{3} + |4|^{3} + |-4|^{3})^{1/3}\]</div>
+<div class="math-display">\[D_{L3} = (27 + 64 + 64)^{1/3} = (155)^{1/3} \approx 5.371\]</div>
+<hr>
+<h3>Question 2.3 (Decision Tree Parent Node Entropy Calculation)</h3>
+<p>A dataset at a root node contains a total of 80 instances. 50 instances belong to Class &#x27;Yes&#x27; and 30 instances belong to Class &#x27;No&#x27;. Calculate the exact Shannon Entropy (base 2) of this parent node. (Use log2(0.625) ≈ -0.678 and log2(0.375) ≈ -1.415).</p>
+<h4>Solution:</h4>
+<p><span class="prefix">Probability metrics:</span> <span class="mjx-inline">\(p_{yes} = 50/80 = 0.625; p_{no} = 30/80 = 0.375.\)</span></p>
+<p><span class="prefix">Entropy formula:</span> <span class="mjx-inline">\(H = - [p_{yes} \cdot \log_{2}(p_{yes}) + p_{no} \cdot \log_{2}(p_{no})]\)</span></p>
+<div class="math-display">\[H = - [0.625 \cdot (-0.678) + 0.375 \cdot (-1.415)]\]</div>
+<div class="math-display">\[H = - [-0.42375 - 0.530625] = - [-0.954375] = 0.9544 bits\]</div>
+<hr>
+<h3>Question 2.4 (Information Gain across a Threshold Split)</h3>
+<p>The root node described in Question 2.3 (H_parent = 0.9544) is split by a continuous feature threshold into two branches:</p>
+<ul>
+<li>Left Branch: 40 instances total (35 &#x27;Yes&#x27;, 5 &#x27;No&#x27;)</li>
+<li>Right Branch: 40 instances total (15 &#x27;Yes&#x27;, 25 &#x27;No&#x27;)</li>
+</ul>
+<p>Compute the weighted entropy of the split and the resulting Information Gain.</p>
+<p><span class="prefix">(Given:</span> <span class="mjx-inline">\(H_{left} \approx 0.5436, H_{right} \approx 0.9544)\)</span></p>
+<h4>Solution:</h4>
+<div class="math-display">\[Total parent samples N = 80. Left branch N_{L} = 40, Right branch N_{R} = 40.\]</div>
+<p>Weighted Entropy of Split (H_split):</p>
+<div class="math-display">\[H_{split} = (N_{L} / N) \cdot H_{left} + (N_{R} / N) \cdot H_{right}\]</div>
+<div class="math-display">\[H_{split} = (40/80) \cdot 0.5436 + (40/80) \cdot 0.9544\]</div>
+<div class="math-display">\[H_{split} = (0.5 \cdot 0.5436) + (0.5 \cdot 0.9544) = 0.2718 + 0.4772 = 0.7490\]</div>
+<p>Information Gain:</p>
+<div class="math-display">\[IG = H_{parent} - H_{split} = 0.9544 - 0.7490 = 0.2054 bits\]</div>
+<hr>
+<h3>Question 2.5 (Gini Impurity and Gini Gain Optimization)</h3>
+<p>A node has 20 samples: 10 of Class Red and 10 of Class Blue. It is partitioned into:</p>
+<ul>
+<li>Left Child: 8 Red, 2 Blue</li>
+<li>Right Child: 2 Red, 8 Blue</li>
+</ul>
+<p>Calculate the initial parent Gini Impurity and the final Gini Gain.</p>
+<h4>Solution:</h4>
+<p>Parent Gini Impurity:</p>
+<div class="math-display">\[P_{red} = 10/20 = 0.5, P_{blue} = 10/20 = 0.5\]</div>
+<div class="math-display">\[G_{parent} = 1 - (0.5^{2} + 0.5^{2}) = 1 - (0.25 + 0.25) = 0.5\]</div>
+<p>Child Nodes Gini:</p>
+<ul>
+<li>Left Child (N=10): P_red = 8/10 = 0.8, P_blue = 2/10 = 0.2</li>
+</ul>
+<div class="math-display">\[G_{left} = 1 - (0.8^{2} + 0.2^{2}) = 1 - (0.64 + 0.04) = 1 - 0.68 = 0.32\]</div>
+<ul>
+<li>Right Child (N=10): P_red = 2/10 = 0.2, P_blue = 8/10 = 0.8</li>
+</ul>
+<div class="math-display">\[G_{right} = 1 - (0.2^{2} + 0.8^{2}) = 1 - (0.04 + 0.64) = 1 - 0.68 = 0.32\]</div>
+<p>Weighted Gini of Split:</p>
+<div class="math-display">\[G_{split} = (10/20) \cdot 0.32 + (10/20) \cdot 0.32 = 0.16 + 0.16 = 0.32\]</div>
+<p>Gini Gain:</p>
+<div class="math-display">\[G_{gain} = G_{parent} - G_{split} = 0.50 - 0.32 = 0.18\]</div>
+<section class="module"><h2>MODULE 3: ENSEMBLE METHODS (BAGGING AND BOOSTING) - 5 NUMERICAL QUESTIONS</h2>
+<h3>Question 3.1 (AdaBoost Error and Alpha Weight Calculation)</h3>
+<p>In an AdaBoost training round, a weak classifier is evaluated over a dataset of 5 samples. The current sample weights are w = [0.1, 0.3, 0.2, 0.2, 0.2]. The weak classifier makes incorrect predictions on sample 2 and sample 4.</p>
+<p>1. Calculate the total weighted error rate ε.</p>
+<p>2. Determine the exact classifier update alpha weight α.</p>
+<h4>Solution:</h4>
+<p>1. Weighted Error Rate ε:</p>
+<div class="math-display">\[\varepsilon = \sum (w_{i} \cdot Indicator(misclassified))\]</div>
+<p>The misclassified indices are 2 and 4.</p>
+<div class="math-display">\[\varepsilon = w_{2} + w_{4} = 0.3 + 0.2 = 0.5\]</div>
+<p>2. Classifier Weight α Calculation:</p>
+<div class="math-display">\[\alpha = 0.5 \cdot ln( (1 - \varepsilon) / \varepsilon )\]</div>
+<div class="math-display">\[\alpha = 0.5 \cdot ln( (1 - 0.5) / 0.5 ) = 0.5 \cdot \ln(1) = 0\]</div>
+<p>An error rate of exactly 0.5 gives the classifier an importance weight of 0.</p>
+<hr>
+<h3>Question 3.2 (AdaBoost Sample Weights Multiplicative Update)</h3>
+<p>Suppose an AdaBoost iteration has a weighted error ε = 0.20, resulting in a classifier weight α = 0.693. A subset of training points has a prior weight distribution w_old = 0.10.</p>
+<p>Compute the new unnormalized sample weight w_new for:</p>
+<p>1. A sample that was correctly classified.</p>
+<p>2. A sample that was misclassified.</p>
+<h4>Solution:</h4>
+<p>The multiplicative factor rules for unnormalized updates are:</p>
+<ul>
+<li>Correct sample factor: exp(-α) = exp(-0.693) ≈ 0.50</li>
+<li>Incorrect sample factor: exp(α) = exp(0.693) ≈ 2.00</li>
+</ul>
+<p>Weight Calculations:</p>
+<p>1. For Correctly Classified Sample:</p>
+<div class="math-display">\[w_{new} = w_{old} \cdot e^{-\alpha} = 0.10 \cdot 0.50 = 0.05\]</div>
+<p>2. For Misclassified Sample:</p>
+<div class="math-display">\[w_{new} = w_{old} \cdot e^{\alpha} = 0.10 \cdot 2.00 = 0.20\]</div>
+<hr>
+<h3>Question 3.3 (Normalization of Exponentially Updated Weights)</h3>
+<p>Following an update step, a vector of unnormalized weights for a 4-sample dataset is computed as w_unnorm = [0.04, 0.12, 0.04, 0.20]. Normalize these values to sum to 1.</p>
+<h4>Solution:</h4>
+<p>Calculate the sum of all unnormalized weights:</p>
+<div class="math-display">\[Sum = 0.04 + 0.12 + 0.04 + 0.20 = 0.40\]</div>
+<p>Divide each component by the total sum:</p>
+<ul>
+<li><span class="mjx-inline">\(w_{1} = 0.04 / 0.40 = 0.10\)</span></li>
+<li><span class="mjx-inline">\(w_{2} = 0.12 / 0.40 = 0.30\)</span></li>
+<li><span class="mjx-inline">\(w_{3} = 0.04 / 0.40 = 0.10\)</span></li>
+<li><span class="mjx-inline">\(w_{4} = 0.20 / 0.40 = 0.50\)</span></li>
+</ul>
+<div class="math-display">\[The normalized weight vector is w_{norm} = [0.10, 0.30, 0.10, 0.50].\]</div>
+<hr>
+<h3>Question 3.4 (Ensemble Majority Vote Output Calculation)</h3>
+<p>A Random Forest ensemble contains 5 trained decision trees. For a test input vector x, the individual trees predict class labels as follows: Tree1=&#x27;Class 0&#x27;, Tree2=&#x27;Class 1&#x27;, Tree3=&#x27;Class 1&#x27;, Tree4=&#x27;Class 0&#x27;, Tree5=&#x27;Class 1&#x27;. Calculate the vote proportions and final ensemble prediction.</p>
+<h4>Solution:</h4>
+<p>Count votes for each class label:</p>
+<ul>
+<li>Total Votes for Class 0 = 2 (Tree1, Tree4)</li>
+<li>Total Votes for Class 1 = 3 (Tree2, Tree3, Tree5)</li>
+</ul>
+<p>Proportion calculations:</p>
+<ul>
+<li>P(Class 0) = 2/5 = 0.40 (40%)</li>
+<li>P(Class 1) = 3/5 = 0.60 (60%)</li>
+</ul>
+<p>By majority vote decision rule, the final ensemble prediction is Class 1.</p>
+<hr>
+<h3>Question 3.5 (Weighted Ensemble Sign-Based Inference)</h3>
+<p>An AdaBoost ensemble consists of three weak classifiers with voting weights α1 = 0.8, α2 = 0.5, and α3 = 1.1. For an incoming test example, the base models output predictions h1(x) = +1, h2(x) = -1, and h3(x) = -1. Compute the exact final score and sign-based output.</p>
+<h4>Solution:</h4>
+<p><span class="prefix">The ensemble score equation is:</span> <span class="mjx-inline">\(Score = \sum (\alpha_{t} \cdot h_{t}(x))\)</span></p>
+<div class="math-display">\[Score = (\alpha_{1} \cdot h_{1}) + (\alpha_{2} \cdot h_{2}) + (\alpha_{3} \cdot h_{3})\]</div>
+<div class="math-display">\[Score = (0.8 \cdot 1) + (0.5 \cdot -1) + (1.1 \cdot -1)\]</div>
+<div class="math-display">\[Score = 0.8 - 0.5 - 1.1 = -0.8\]</div>
+<p>Final predicted label = sign(Score) = sign(-0.8) = -1.</p>
+<section class="module"><h2>MODULE 4: NEURAL NETWORKS AND BACKPROPAGATION - 5 NUMERICAL QUESTIONS</h2>
+<h3>Question 4.1 (Scalar Backpropagation Step with Linear Graph)</h3>
+<p>Consider a mathematical node processing two inputs x = 4, w = -3 through a function f(x, w) = w * x. During backpropagation, the incoming upstream derivative from the loss layer is dL/df = -2.0. Compute the local derivatives and downstream gradients dL/dw and dL/dx.</p>
+<h4>Solution:</h4>
+<p>Local derivatives of the multiplication function:</p>
+<ul>
+<li><span class="mjx-inline">\(\frac{df}{dx} = w = -3\)</span></li>
+<li><span class="mjx-inline">\(\frac{df}{dw} = x = 4\)</span></li>
+</ul>
+<p>Apply the chain rule to propagate the loss gradient down:</p>
+<ul>
+<li><span class="mjx-inline">\(\frac{dL}{dx} = \frac{dL}{df} \cdot \frac{df}{dx} = (-2.0) \cdot (-3) = 6.0\)</span></li>
+<li><span class="mjx-inline">\(\frac{dL}{dw} = \frac{dL}{df} \cdot \frac{df}{dw} = (-2.0) \cdot (4) = -8.0\)</span></li>
+</ul>
+<hr>
+<h3>Question 4.2 (Sigmoid Node Activation and Gradient Optimization)</h3>
+<p>A neuron calculates a local activation output using a standard sigmoid function: σ(z) = 1 / (1 + exp(-z)).</p>
+<p>1. Given a linear activation sum value z = 0, calculate the exact numeric forward pass output a = σ(z).</p>
+<p>2. If the upstream derivative is dL/da = 4.0, calculate the downstream gradient dL/dz.</p>
+<h4>Solution:</h4>
+<p>1. Forward activation pass:</p>
+<div class="math-display">\[a = 1 / (1 + e^{-0}) = 1 / (1 + 1) = 0.5\]</div>
+<p>2. Sigmoid Local Gradient property: da/dz = a * (1 - a)</p>
+<div class="math-display">\[\frac{da}{dz} = 0.5 \cdot (1 - 0.5) = 0.25\]</div>
+<p>Downstream loss gradient computation via chain rule:</p>
+<div class="math-display">\[\frac{dL}{dz} = \frac{dL}{da} \cdot \frac{da}{dz} = 4.0 \cdot 0.25 = 1.0\]</div>
+<hr>
+<h3>Question 4.3 (ReLU Node Deflection Gradient Mechanics)</h3>
+<p>A hidden layer computational unit applies a ReLU activation function: f(z) = max(0, z). Compute the downstream loss gradient dL/dz for two alternative tracking scenarios:</p>
+<ul>
+<li>Scenario A: z = 2.50  with upstream gradient dL/df = 3.5</li>
+<li>Scenario B: z = -1.25 with upstream gradient dL/df = 3.5</li>
+</ul>
+<h4>Solution:</h4>
+<p><span class="prefix">The derivative of ReLU is:</span> <span class="mjx-inline">\(\frac{df}{dz} = 1 if z > 0 else 0.\)</span></p>
+<ul>
+<li><span class="mjx-inline">\(Scenario A (z = 2.50 > 0):\)</span></li>
+</ul>
+<div class="math-display">\[The local derivative \frac{df}{dz} = 1.\]</div>
+<div class="math-display">\[\frac{dL}{dz} = \frac{dL}{df} \cdot \frac{df}{dz} = 3.5 \cdot 1 = 3.5\]</div>
+<ul>
+<li><span class="mjx-inline">\(Scenario B (z = -1.25 < 0):\)</span></li>
+</ul>
+<div class="math-display">\[The local derivative \frac{df}{dz} = 0.\]</div>
+<div class="math-display">\[\frac{dL}{dz} = \frac{dL}{df} \cdot \frac{df}{dz} = 3.5 \cdot 0 = 0\]</div>
+<hr>
+<h3>Question 4.4 (Weight Matrix Gradient using Matrix Calculus Identity)</h3>
+<p>A layer output matrix is defined by the transformation Y = XW. The input activation matrix X and upstream loss matrix dL/dY are given as:</p>
+<div class="math-display">\[X = \begin{bmatrix}2 & 1 \\ 0 & 3\end{bmatrix}\]</div>
+<div class="math-display">\[\frac{dL}{dY} = \begin{bmatrix}1 & 4 \\ 2 & 0\end{bmatrix}\]</div>
+<p>Compute the exact matrix components of the weight parameter gradient dL/dW = X^T * dL/dY.</p>
+<h4>Solution:</h4>
+<p>First, transpose the matrix X:</p>
+<div class="math-display">\[X^{T} = \begin{bmatrix}2 & 0 \\ 1 & 3\end{bmatrix}\]</div>
+<div class="math-display">\[Perform matrix multiplication between X^{T} and \frac{dL}{dY}:\]</div>
+<p><span class="prefix">Row 1, Col 1:</span> <span class="mjx-inline">\((2 \cdot 1) + (0 \cdot 2) = 2\)</span></p>
+<p><span class="prefix">Row 1, Col 2:</span> <span class="mjx-inline">\((2 \cdot 4) + (0 \cdot 0) = 8\)</span></p>
+<p><span class="prefix">Row 2, Col 1:</span> <span class="mjx-inline">\((1 \cdot 1) + (3 \cdot 2) = 1 + 6 = 7\)</span></p>
+<p><span class="prefix">Row 2, Col 2:</span> <span class="mjx-inline">\((1 \cdot 4) + (3 \cdot 0) = 4\)</span></p>
+<p>The resulting gradient matrix is:</p>
+<div class="math-display">\[\frac{dL}{dW} = \begin{bmatrix}2 & 8 \\ 7 & 4\end{bmatrix}\]</div>
+<hr>
+<h3>Question 4.5 (Input Layer Matrix Gradient Calculations)</h3>
+<p>Using the same parameters and input matrices from Question 4.4, compute the input gradient matrix dL/dX using the matrix identity dL/dX = dL/dY * W^T. Assume the layer weight matrix W is defined as:</p>
+<div class="math-display">\[W = \begin{bmatrix}1 & 2 \\ 3 & 4\end{bmatrix}\]</div>
+<h4>Solution:</h4>
+<p>First, transpose the weight matrix W:</p>
+<div class="math-display">\[W^{T} = \begin{bmatrix}1 & 3 \\ 2 & 4\end{bmatrix}\]</div>
+<div class="math-display">\[Multiply the upstream gradient matrix \frac{dL}{dY} by W^{T}:\]</div>
+<div class="math-display">\[\frac{dL}{dX} = \begin{bmatrix}1 & 4 \\ 2 & 0\end{bmatrix} \cdot \begin{bmatrix}1 & 3 \\ 2 & 4\end{bmatrix}\]</div>
+<p><span class="prefix">Row 1, Col 1:</span> <span class="mjx-inline">\((1 \cdot 1) + (4 \cdot 2) = 1 + 8 = 9\)</span></p>
+<p><span class="prefix">Row 1, Col 2:</span> <span class="mjx-inline">\((1 \cdot 3) + (4 \cdot 4) = 3 + 16 = 19\)</span></p>
+<p><span class="prefix">Row 2, Col 1:</span> <span class="mjx-inline">\((2 \cdot 1) + (0 \cdot 2) = 2\)</span></p>
+<p><span class="prefix">Row 2, Col 2:</span> <span class="mjx-inline">\((2 \cdot 3) + (0 \cdot 4) = 6\)</span></p>
+<p>The resulting input gradient matrix is:</p>
+<div class="math-display">\[\frac{dL}{dX} = \begin{bmatrix}9 & 19 \\ 2 & 6\end{bmatrix}\]</div>
+<section class="module"><h2>MODULE 5: CONVOLUTIONAL NEURAL NETWORKS (CNNS) - 5 NUMERICAL QUESTIONS</h2>
+<h3>Question 5.1 (CNN Output Shape Dimension Math)</h3>
+<p>An input feature map matrix tensor has dimensions [Width = 16, Height = 16, Channels = 3]. It is processed by a convolutional layer with the following properties:</p>
+<ul>
+<li><span class="mjx-inline">\(Filter Count (K) = 16\)</span></li>
+<li><span class="mjx-inline">\(Spatial Filter Footprint (F) = 5\)</span></li>
+<li><span class="mjx-inline">\(Operational Stride (S) = 1\)</span></li>
+<li><span class="mjx-inline">\(Symmetric Padding (P) = 2\)</span></li>
+</ul>
+<p>Calculate the exact spatial matrix dimensions [W_out, H_out, C_out] of the output feature tensor.</p>
+<h4>Solution:</h4>
+<p>Apply the spatial dimension formula: Out = floor((In - F + 2P) / S) + 1</p>
+<div class="math-display">\[W_{out} = floor((16 - 5 + 2(2)) / 1) + 1 = \left\lfloor 15 / 1 \right\rfloor + 1 = 16\]</div>
+<div class="math-display">\[Due to spatial symmetry, H_{out} = 16.\]</div>
+<p>The channel depth matches the number of convolutional filters: C_out = K = 16.</p>
+<p>The output tensor dimensions are [16, 16, 16].</p>
+<hr>
+<h3>Question 5.2 (Strided Convolution Output Dimension Reduction)</h3>
+<p>Recalculate the spatial dimensions [W_out, H_out, C_out] for the input tensor in Question 5.1 if the stride is changed to S = 2, and padding is removed (P = 0).</p>
+<h4>Solution:</h4>
+<div class="math-display">\[W_{out} = floor((In - F + 2P) / S) + 1\]</div>
+<div class="math-display">\[W_{out} = floor((16 - 5 + 2(0)) / 2) + 1 = \left\lfloor 11 / 2 \right\rfloor + 1 = 5 + 1 = 6\]</div>
+<div class="math-display">\[H_{out} = 6 by symmetry.\]</div>
+<div class="math-display">\[C_{out} remains equal to the number of filters K = 16.\]</div>
+<p>The output tensor dimensions are [6, 6, 16].</p>
+<hr>
+<h3>Question 5.3 (CNN Parameter Count Calculation)</h3>
+<p>Calculate the total number of learnable parameters (weights and biases) for the convolutional layer described in Question 5.1 (Input Channels = 3, Filter Count K = 16, Filter Size F = 5). Assume each filter has one bias term.</p>
+<h4>Solution:</h4>
+<p>Parameters per single filter:</p>
+<div class="math-display">\[Weights = Filter_{Width} \cdot Filter_{Height} \cdot Input_{Channels} = 5 \cdot 5 \cdot 3 = 75 parameters.\]</div>
+<p>Each filter has exactly 1 bias parameter, so:</p>
+<div class="math-display">\[Total parameters per filter = 75 + 1 = 76 parameters.\]</div>
+<div class="math-display">\[Since there are K = 16 filters in the layer:\]</div>
+<div class="math-display">\[Total Layer Parameters = 16 \cdot 76 = 1216 parameters.\]</div>
+<hr>
+<h3>Question 5.4 (Max Pooling Layer Operation and Shape Transformation)</h3>
+<p>An output activation tensor map of size [8 x 8 x 4] is passed into a Max Pooling layer with a filter size of F = 2 and a stride of S = 2.</p>
+<p>1. Determine the spatial output dimensions.</p>
+<p>2. Given a 2x2 slice window of an activation matrix:</p>
+<p>[[1.2, 0.5],</p>
+<p>[2.1, 1.8]]</p>
+<p>Compute the exact numeric value produced by the pooling operation.</p>
+<h4>Solution:</h4>
+<p>1. Spatial output dimension for pooling:</p>
+<div class="math-display">\[Out = ((In - F) / S) + 1 = ((8 - 2) / 2) + 1 = 3 + 1 = 4\]</div>
+<p>The output shape is [4 x 4 x 4].</p>
+<p>2. Max Pooling extracts the maximum value within the window:</p>
+<div class="math-display">\[Value = \max(1.2, 0.5, 2.1, 1.8) = 2.1\]</div>
+<hr>
+<h3>Question 5.5 (Receptive Field Growth Calculation)</h3>
+<p>A deep CNN architecture stacks three consecutive convolutional layers directly on top of each other. All layers use a filter size of F = 3 and a stride of S = 1. Calculate the receptive field size of a single neuron in Layer 3 relative to the original input space.</p>
+<h4>Solution:</h4>
+<p>Receptive field growth formula: RF_now = RF_prev + (F - 1) * Stride_Product</p>
+<ul>
+<li><span class="mjx-inline">\(Layer 1 (Base): RF_{1} = 3\)</span></li>
+<li><span class="mjx-inline">\(Layer 2: RF_{2} = 3 + (3 - 1) \cdot 1 = 5\)</span></li>
+<li><span class="mjx-inline">\(Layer 3: RF_{3} = 5 + (3 - 1) \cdot 1 = 7\)</span></li>
+</ul>
+<p>A single neuron in Layer 3 has a receptive field of 7x7 pixels relative to the input image.</p>
+<section class="module"><h2>MODULE 6: RECURRENT NEURAL NETWORKS (RNN) - 5 NUMERICAL QUESTIONS</h2>
+<h3>Question 6.1 (Vanilla RNN Hidden State Update Step)</h3>
+<p>A Vanilla Recurrent Neural Network hidden neuron updates its state using the formula: h_t = tanh(W_hh * h_prev + W_xh * x_t + b).</p>
+<p>Given the following parameters:</p>
+<ul>
+<li><span class="mjx-inline">\(Recurrent scalar weight W_{hh} = 0.4\)</span></li>
+<li><span class="mjx-inline">\(Input scalar weight W_{xh} = 1.5\)</span></li>
+<li><span class="mjx-inline">\(Bias term b = -0.2\)</span></li>
+</ul>
+<p>Calculate the net input sum z_t and the final hidden state h_t at time step t if the previous hidden state was h_prev = 0.50 and the current input is x_t = 1.00. (Use the approximation tanh(1.5) ≈ 0.905).</p>
+<h4>Solution:</h4>
+<p>Calculate the net input sum z_t before activation:</p>
+<div class="math-display">\[z_{t} = (W_{hh} \cdot h_{prev}) + (W_{xh} \cdot x_{t}) + b\]</div>
+<div class="math-display">\[z_{t} = (0.4 \cdot 0.50) + (1.5 \cdot 1.00) + (-0.2) = 0.20 + 1.50 - 0.2 = 1.50\]</div>
+<p>Apply the activation function:</p>
+<div class="math-display">\[h_{t} = \tanh(1.50) \approx 0.905\]</div>
+<hr>
+<h3>Question 6.2 (RNN Unrolled Sequence Forward Pass Computation)</h3>
+<p>Using the same network parameters from Question 6.1 (W_hh = 0.4, W_xh = 1.5, b = -0.2), calculate the next hidden state h_{t+1} if the next input token value is x_{t+1} = -0.50. (Use tanh(-0.588) ≈ -0.528).</p>
+<h4>Solution:</h4>
+<div class="math-display">\[The previous hidden state is now h_{t} = 0.905.\]</div>
+<p>Calculate the new net input sum z_{t+1}:</p>
+<div class="math-display">\[z_{t+1} = (W_{hh} \cdot h_{t}) + (W_{xh} \cdot x_{t+1}) + b\]</div>
+<div class="math-display">\[z_{t+1} = (0.4 \cdot 0.905) + (1.5 \cdot -0.50) - 0.2 = 0.362 - 0.75 - 0.2 = -0.588\]</div>
+<p>Apply the activation function:</p>
+<div class="math-display">\[h_{t+1} = \tanh(-0.588) \approx -0.528\]</div>
+<hr>
+<h3>Question 6.3 (RNN Exploding Gradient Sequence Verification)</h3>
+<p>A deep unrolled recurrent sequence has an identical weight derivative chain across time-steps. The total gradient expression contains the term (W_hh)^T. If W_hh = 2.50 and the sequence length is T = 4, compute the product multiplier to illustrate why gradients explode.</p>
+<h4>Solution:</h4>
+<p>The multiplicative growth factor across 4 steps is:</p>
+<div class="math-display">\[Factor = (W_{hh})^{4} = (2.50)^{4} = 39.0625\]</div>
+<p>Because the parameter value is greater than 1, the gradient is amplified significantly.</p>
+<hr>
+<h3>Question 6.4 (RNN Vanishing Gradient Sequence Verification)</h3>
+<p>Recalculate the gradient growth factor from Question 6.3 if the recurrent weight is reduced to W_hh = 0.25 across a sequence length of T = 4 steps.</p>
+<h4>Solution:</h4>
+<p>The multiplicative growth factor across 4 steps is:</p>
+<div class="math-display">\[Factor = (W_{hh})^{4} = (0.25)^{4} = 0.00390625\]</div>
+<p>Because the parameter value is less than 1, the gradient decays significantly toward 0.</p>
+<hr>
+<h3>Question 6.5 (LSTM Gate Output Computation Mechanics)</h3>
+<p>An LSTM cell uses a sigmoid function to determine its forget gate activation: f_t = σ(W_f * [h_prev, x_t] + b_f).</p>
+<p>Given the linear combined sum input to the forget gate is exactly 0.00, calculate:</p>
+<p>1. The numeric gate activation level f_t.</p>
+<p>2. The new cell state C_t if the previous cell state was C_prev = 6.0 and the input candidate update is completely blocked.</p>
+<h4>Solution:</h4>
+<p>1. Forget gate activation:</p>
+<div class="math-display">\[f_{t} = \sigma(0.00) = 1 / (1 + e^{-0}) = 0.50 (The gate is 50% open).\]</div>
+<p>2. Cell state update:</p>
+<p>Assuming the input gate is closed (candidate = 0):</p>
+<div class="math-display">\[C_{t} = f_{t} \cdot C_{prev} + 0 = 0.50 \cdot 6.0 = 3.0\]</div>
+<section class="module"><h2>MODULE 7: CLUSTERING AND GAUSSIAN MIXTURE MODELS (GMM) - 5 NUMERICAL QUESTIONS</h2>
+<h3>Question 7.1 (k-means Cluster Centroid Distance Assignment)</h3>
+<p>You are running a k-means clustering algorithm with K=2. There are two initial cluster centroids:</p>
+<ul>
+<li><span class="mjx-inline">\(\mu_{1} = [1.0, 1.0]\)</span></li>
+<li><span class="mjx-inline">\(\mu_{2} = [4.0, 4.0]\)</span></li>
+</ul>
+<p>A data point is located at x = [2.0, 3.0]. Calculate the squared Euclidean distance from x to both centroids and assign the point to the closest cluster.</p>
+<h4>Solution:</h4>
+<p><span class="prefix">Squared Euclidean distance formula:</span> <span class="mjx-inline">\(d^{2} = (x_{1} - \mu_{1})^{2} + (x_{2} - \mu_{2})^{2}\)</span></p>
+<ul>
+<li>Distance to Centroid 1:</li>
+</ul>
+<div class="math-display">\[d^{2}(x, \mu_{1}) = (2.0 - 1.0)^{2} + (3.0 - 1.0)^{2} = 1^{2} + 2^{2} = 5.0\]</div>
+<ul>
+<li>Distance to Centroid 2:</li>
+</ul>
+<div class="math-display">\[d^{2}(x, \mu_{2}) = (2.0 - 4.0)^{2} + (3.0 - 4.0)^{2} = (-2)^{2} + (-1)^{2} = 5.0\]</div>
+<p>Since both distances are exactly equal (5.0 = 5.0), we default to the lower index cluster. The point is assigned to Cluster 1.</p>
+<hr>
+<h3>Question 7.2 (k-means Centroid Coordinate Update Calculation)</h3>
+<p>A cluster contains three data points after the assignment step: A = [1, 2], B = [2, 3], and C = [3, 7]. Compute the updated coordinates for this cluster&#x27;s centroid vector μ_new.</p>
+<h4>Solution:</h4>
+<p>The updated centroid is the mean of the coordinates of all assigned points:</p>
+<div class="math-display">\[\mu_{new} = [ (x_{A} + x_{B} + x_{C})/3 , (y_{A} + y_{B} + y_{C})/3 ]\]</div>
+<div class="math-display">\[\mu_{new} = [ (1 + 2 + 3)/3 , (2 + 3 + 7)/3 ] = [2.0, 4.0]\]</div>
+<hr>
+<h3>Question 7.3 (k-means++ Probability Initialization Math)</h3>
+<p>In a k-means++ initialization step over a 3-point dataset, the squared distances from each point to the closest existing center are:</p>
+<ul>
+<li><span class="mjx-inline">\(d^{2}(x_{1}) = 2.0\)</span></li>
+<li><span class="mjx-inline">\(d^{2}(x_{2}) = 8.0\)</span></li>
+<li><span class="mjx-inline">\(d^{2}(x_{3}) = 0.0\)</span></li>
+</ul>
+<p>Calculate the exact selection probability distribution [p1, p2, p3] for choosing the next cluster center.</p>
+<h4>Solution:</h4>
+<p><span class="prefix">Total sum of squared distances:</span> <span class="mjx-inline">\(Sum = 2.0 + 8.0 + 0.0 = 10.0\)</span></p>
+<p><span class="prefix">Selection probability formula:</span> <span class="mjx-inline">\(p_{i} = d^{2}(x_{i}) / Sum\)</span></p>
+<ul>
+<li><span class="mjx-inline">\(p1 = 2.0 / 10.0 = 0.20 (20%)\)</span></li>
+<li><span class="mjx-inline">\(p2 = 8.0 / 10.0 = 0.80 (80%)\)</span></li>
+<li><span class="mjx-inline">\(p3 = 0.0 / 10.0 = 0.00 (0%)\)</span></li>
+</ul>
+<p>The probability distribution is [0.20, 0.80, 0.00].</p>
+<hr>
+<h3>Question 7.4 (GMM Soft Responsibility Component Math)</h3>
+<p>In a 2-component Gaussian Mixture Model, the weighted probability densities for a data point x are calculated as:</p>
+<ul>
+<li>Component 1: π1 * N(x | μ1, Σ1) = 0.60</li>
+<li>Component 2: π2 * N(x | μ2, Σ2) = 0.20</li>
+</ul>
+<p>Calculate the soft responsibility metrics γ_1 and γ_2 that Component 1 and Component 2 share for this data point.</p>
+<h4>Solution:</h4>
+<div class="math-display">\[Total density sum = 0.60 + 0.20 = 0.80\]</div>
+<p><span class="prefix">Responsibility formula:</span> <span class="mjx-inline">\(\gamma_{k} = (\pi_{k} \cdot N_{k}) / Sum\)</span></p>
+<ul>
+<li>γ_1 = 0.60 / 0.80 = 0.75 (75% responsibility assigned to Component 1)</li>
+<li>γ_2 = 0.20 / 0.80 = 0.25 (25% responsibility assigned to Component 2)</li>
+</ul>
+<hr>
+<h3>Question 7.5 (GMM Parameter Maximum Likelihood Update Metric)</h3>
+<p>The soft responsibility values assigned to Component 1 across a 3-point dataset are γ = [0.5, 1.0, 0.5]. The data point values are x1 = 2.0, x2 = 4.0, and x3 = 6.0. Compute the updated mean μ_1 for Component 1.</p>
+<h4>Solution:</h4>
+<div class="math-display">\[\mu_{1} = \sum (\gamma_{i} \cdot x_{i}) / \sum (\gamma_{i})\]</div>
+<p><span class="prefix">Denominator (sum of responsibilities):</span> <span class="mjx-inline">\(Sum_\gamma = 0.5 + 1.0 + 0.5 = 2.0\)</span></p>
+<p><span class="prefix">Numerator (weighted sum of data points):</span> <span class="mjx-inline">\(Num = (0.5 \cdot 2.0) + (1.0 \cdot 4.0) + (0.5 \cdot 6.0) = 8.0\)</span></p>
+<div class="math-display">\[\mu_{1} = 8.0 / 2.0 = 4.0\]</div>
+</main></body></html>

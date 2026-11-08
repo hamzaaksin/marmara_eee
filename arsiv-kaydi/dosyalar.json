@@ -16102,5 +16102,1533 @@
     "size": 80185,
     "sha256": "88b4ad5e25218986e372663df1fbea292469d9f59d55799fc8806429ad4bc1b0",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/2026Midterm_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/2026Midterm_solution.pdf",
+    "size": 39139,
+    "sha256": "7ba0cde193c4369db4e9366bb0ce0919971ace559ff7e9e8902a55fcd6e6e8b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment1.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment1.docx",
+    "size": 76606,
+    "sha256": "77aa760092b6da1fb722c49ba1fe44de2c60e0ac6714ebd71382658ef7288cdb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment1_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment1_solution.pdf",
+    "size": 395487,
+    "sha256": "0044ea2756b98d9e56c84f4aef0e9ca3ffecb8f7810811eb22e500e3c7f8eabe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/car.csv",
+    "size": 17867,
+    "sha256": "ea6302ae3ca3a847d41d3028607de52f370ded3e7c2b801f647ed88d839dcd30",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Hw2.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Hw2.docx",
+    "size": 63747,
+    "sha256": "5f61fb52035bab4b04f0f36a010bfebfab410781758b8400ed1b169c53344dbf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/poly.csv",
+    "size": 1457,
+    "sha256": "ced208fd1ecdffe01f4f3b2d7f26dea0e6bdb73ffa782146855a0f4bd447c2e1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Xtesting_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Xtesting_car.csv",
+    "size": 841,
+    "sha256": "5e1ba9c449e622770f7d92455a2046ee6f08bb3b6d936a104c21e1a41ea82f85",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Xtraining_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Xtraining_car.csv",
+    "size": 6163,
+    "sha256": "c474f3ae2fb74d8974b8e2a7b38ef9845e2da8cb0014ff83428c25bd42cbd506",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Xtraining_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Xtraining_poly.csv",
+    "size": 407,
+    "sha256": "b8a82bb36b9af060ae8a4a7ed03aacc6c183d30a49ab1f84e757ac305ccd86a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Xvalidation_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Xvalidation_car.csv",
+    "size": 231,
+    "sha256": "099223f4428102d406720601849cee359cd389a168fd351f7b46e6b290e96eb5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Xvalidation_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Xvalidation_poly.csv",
+    "size": 97,
+    "sha256": "2b6c3f781b352e4c8afeae5f50b353e3a77de82195b03db63e2f4ec9ab8619c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Ytesting_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Ytesting_car.csv",
+    "size": 185,
+    "sha256": "f149b1a4362ca223b0cc1058ce47f76710994ac5e875ed2c2888f276f12b0090",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Ytraining_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Ytraining_car.csv",
+    "size": 1438,
+    "sha256": "cc37222a83a6ad119abfbc97b4bf41a44fefe07d22d7ab54fa885e0bd52a7789",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Ytraining_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Ytraining_poly.csv",
+    "size": 433,
+    "sha256": "5778c8a9f3726b47016028091e960a7367460213d0698c9c36cb5a43a319fa7e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Yvalidation_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Yvalidation_car.csv",
+    "size": 231,
+    "sha256": "099223f4428102d406720601849cee359cd389a168fd351f7b46e6b290e96eb5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2/Hw2/Yvalidation_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2/Hw2/Yvalidation_poly.csv",
+    "size": 108,
+    "sha256": "aed80d8379fa4211d8e5a66cfa977adda72fd6b128986d58828234c503bc90c5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment2_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment2_solution.pdf",
+    "size": 777671,
+    "sha256": "ec498616c02fd24b8a18b5c77f2763dbe60d8a921978857f98c0644b825b90f5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3/Hw3/car_classification.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3/Hw3/car_classification.csv",
+    "size": 8515,
+    "sha256": "87c02e265f32e82d740714d77031d509f6b703b9ae04bcbfbd3cab6adb2789c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3/Hw3/car_high_mileage.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3/Hw3/car_high_mileage.csv",
+    "size": 4213,
+    "sha256": "c246eecdbec14ffdaf369575f3f73f1625c3a7cc908821ebfa381524aed14752",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3/Hw3/car_low_mileage.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3/Hw3/car_low_mileage.csv",
+    "size": 4361,
+    "sha256": "5ac677d99fc12497f5f994be40fab3f2ac43e361681cfa125f99dad3c852efb9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3/Hw3/Hw3.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3/Hw3/Hw3.docx",
+    "size": 329594,
+    "sha256": "b31e41c6ed7779f096de1fe0faad19ffa4c10a8cf6db5bd8671529bf56ccbad3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3/Hw3/Test/car_high_mileage_test.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3/Hw3/Test/car_high_mileage_test.csv",
+    "size": 922,
+    "sha256": "edbd6761af123afb875a741d2b1dde3656bc6ff4b62fb59d870614e807f9773b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3/Hw3/Test/car_low_mileage_test.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3/Hw3/Test/car_low_mileage_test.csv",
+    "size": 963,
+    "sha256": "e0c871515a432235989f2fc0cbe8fbc84b569e89d9573ea680881e572b457719",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3/Hw3/Train/car_high_mileage_train.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3/Hw3/Train/car_high_mileage_train.csv",
+    "size": 3350,
+    "sha256": "9400dcf5c083f9729db6716eee2129977ad107bf02291ff8dc054489ecb3a416",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3/Hw3/Train/car_low_mileage_train.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3/Hw3/Train/car_low_mileage_train.csv",
+    "size": 3457,
+    "sha256": "7b8b4d6505e02094ddc1f37f6a0b938fac6ef1a3a53e9cd7e35ba936063db065",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Assignment3_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Assignment3_solution.pdf",
+    "size": 852582,
+    "sha256": "f9e54176f01837abc7029aa56a373c4f58893ee718a8ccd0db70499c6cd6f584",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Midterm1_Spring23.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Midterm1_Spring23.pdf",
+    "size": 173343,
+    "sha256": "f9460afc4c7452036130356374a80501565abac14368bc603998919b80ab492c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Midterm1_Spring23_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Midterm1_Spring23_sol.pdf",
+    "size": 101998,
+    "sha256": "e652108c846a43f762ab98bb51708e945086585ddff6bcc81eff8c879240d09b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Midterm1_Spring24.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Midterm1_Spring24.pdf",
+    "size": 176171,
+    "sha256": "11215a9e9dd1f15013e18c0388c6ee5918af6a32b03da04f4a4dc5f57c6f87f4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Midterm1_Spring24_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Midterm1_Spring24_sol.pdf",
+    "size": 281852,
+    "sha256": "6be9dcacbe47710ba7502055f36b9671e5268ea2000456b412db819bca83f708",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Midterm_Spring25.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Midterm_Spring25.pdf",
+    "size": 157992,
+    "sha256": "0a0857d546ffe9a95894017112b105f0b84524c779408570dc3fb838c20332a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Midterm_Spring25_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Midterm_Spring25_sol.pdf",
+    "size": 133003,
+    "sha256": "9831829a2eda40d8ae96a757b8efcbadc41cb51d1771bc27106df4ab6dfa16ce",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Week1_Introduction_Prob_Lin_Algebra.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Week1_Introduction_Prob_Lin_Algebra.pdf",
+    "size": 2793421,
+    "sha256": "9629199c888e95cac3386e8604deb1150818198693fc7d66fc9dd45e514d3b7c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Week2&3_Linear_Regression.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Week2&3_Linear_Regression.pdf",
+    "size": 3630618,
+    "sha256": "2a9be38fa38503f43281ea9485beb2d21eb3febf1cab863b117e3d9af48e6c07",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Week4_Naive_Bayes_Logistic_Regression.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Week4_Naive_Bayes_Logistic_Regression.pdf",
+    "size": 11896508,
+    "sha256": "40946c285aeda4c4bf09551b712d808795cd60248d70838951b6d54f487c7fa8",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/25-26/Week5&6_Support_Vector_Machines.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/25-26/Week5&6_Support_Vector_Machines.pdf",
+    "size": 2770295,
+    "sha256": "e73c6dff24624ec88e2134ee898e516d7c3d4680f6f38c680fe22e8b8a651a12",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/.OTTER_LOG",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/.OTTER_LOG",
+    "size": 43373,
+    "sha256": "c10ed589cd26e50e26176f4fc8e2e1c4972971feffe44fc23c304a18e52c4998",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Hw1.ipynb",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Hw1.ipynb",
+    "size": 15566,
+    "sha256": "fbfde98d5086937b7d9350c4e969e3e981710f49f064a2269997a1c8e77176a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Xtraining_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Xtraining_car.csv",
+    "size": 6163,
+    "sha256": "c474f3ae2fb74d8974b8e2a7b38ef9845e2da8cb0014ff83428c25bd42cbd506",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Xtraining_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Xtraining_poly.csv",
+    "size": 407,
+    "sha256": "b8a82bb36b9af060ae8a4a7ed03aacc6c183d30a49ab1f84e757ac305ccd86a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Xvalidation_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Xvalidation_car.csv",
+    "size": 833,
+    "sha256": "60b13f1cd6b8ef5e3c2eee8115ea1860a10fc7ba22dc69abac29b59fd40b18cd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Xvalidation_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Xvalidation_poly.csv",
+    "size": 97,
+    "sha256": "2b6c3f781b352e4c8afeae5f50b353e3a77de82195b03db63e2f4ec9ab8619c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Ytraining_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Ytraining_car.csv",
+    "size": 1438,
+    "sha256": "cc37222a83a6ad119abfbc97b4bf41a44fefe07d22d7ab54fa885e0bd52a7789",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Ytraining_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Ytraining_poly.csv",
+    "size": 433,
+    "sha256": "5778c8a9f3726b47016028091e960a7367460213d0698c9c36cb5a43a319fa7e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Yvalidation_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Yvalidation_car.csv",
+    "size": 231,
+    "sha256": "099223f4428102d406720601849cee359cd389a168fd351f7b46e6b290e96eb5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/canvas_ass1/Yvalidation_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/canvas_ass1/Yvalidation_poly.csv",
+    "size": 108,
+    "sha256": "aed80d8379fa4211d8e5a66cfa977adda72fd6b128986d58828234c503bc90c5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/1.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/1.pdf",
+    "size": 200969,
+    "sha256": "96fcbc6c11d60fbe3182ac297a06dc3cbf52a88e43b96e9ff3f03e3c02e7dd36",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/10.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/10.pdf",
+    "size": 84356,
+    "sha256": "e19f69707d5a8bcba133371a521ede3f22f050c0c64e056cacbb55da85f7ec10",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/1_merged.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/1_merged.pdf",
+    "size": 1994947,
+    "sha256": "20eafe7053975b4bbf4de2d62d434fb4694306e457cee964db8cdd47b907bf4e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/2.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/2.pdf",
+    "size": 168487,
+    "sha256": "6457f91c783888f91bb1c4e168a349897b15eedf8e36b0e245168cf81a0148bb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/3.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/3.pdf",
+    "size": 282462,
+    "sha256": "7c6df7af3438ac7e3510a2358aefc16778a97e8fe5ba8c92694771a5d6e8fa51",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/4.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/4.pdf",
+    "size": 362815,
+    "sha256": "2501f523da5ba24967928410a1da9225522cc312d878e855f93bd53182e8a070",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/5.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/5.pdf",
+    "size": 169028,
+    "sha256": "51274349b37b6213c9745a4b37ef885449c3d758a91655be69cac00b6c0eadac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/6.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/6.pdf",
+    "size": 214652,
+    "sha256": "c73fe11944425a1464f20e5a1c2ddb22019cf7335404502422bc90daaa50d50d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/7.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/7.pdf",
+    "size": 187078,
+    "sha256": "2fc59d70d24826d1374071ad4fb5703e777b1a255b7955e69f343d31320fd91e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/8.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/8.pdf",
+    "size": 251145,
+    "sha256": "6818422eed9e2f3490a78f87864c86514fcd42581e0d140740cf96633cc8742e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/9.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/9.pdf",
+    "size": 75572,
+    "sha256": "0103a80d59c5736b8bb26c38a65dc17df15eb5494b99c3f7d33fe0437c50eea7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/finalexamples.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/finalexamples.pdf",
+    "size": 1994947,
+    "sha256": "20eafe7053975b4bbf4de2d62d434fb4694306e457cee964db8cdd47b907bf4e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw1.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw1.pdf",
+    "size": 259481,
+    "sha256": "8a6236287854319109fbfc7591269cb31c3c58be2256e6345961bb937108a9f2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw1_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw1_solution.pdf",
+    "size": 395487,
+    "sha256": "0044ea2756b98d9e56c84f4aef0e9ca3ffecb8f7810811eb22e500e3c7f8eabe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/car.csv",
+    "size": 17867,
+    "sha256": "ea6302ae3ca3a847d41d3028607de52f370ded3e7c2b801f647ed88d839dcd30",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Hw2.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Hw2.docx",
+    "size": 63747,
+    "sha256": "5f61fb52035bab4b04f0f36a010bfebfab410781758b8400ed1b169c53344dbf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/poly.csv",
+    "size": 1457,
+    "sha256": "ced208fd1ecdffe01f4f3b2d7f26dea0e6bdb73ffa782146855a0f4bd447c2e1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Xtesting_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Xtesting_car.csv",
+    "size": 841,
+    "sha256": "5e1ba9c449e622770f7d92455a2046ee6f08bb3b6d936a104c21e1a41ea82f85",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Xtraining_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Xtraining_car.csv",
+    "size": 6163,
+    "sha256": "c474f3ae2fb74d8974b8e2a7b38ef9845e2da8cb0014ff83428c25bd42cbd506",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Xtraining_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Xtraining_poly.csv",
+    "size": 407,
+    "sha256": "b8a82bb36b9af060ae8a4a7ed03aacc6c183d30a49ab1f84e757ac305ccd86a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Xvalidation_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Xvalidation_car.csv",
+    "size": 231,
+    "sha256": "099223f4428102d406720601849cee359cd389a168fd351f7b46e6b290e96eb5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Xvalidation_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Xvalidation_poly.csv",
+    "size": 97,
+    "sha256": "2b6c3f781b352e4c8afeae5f50b353e3a77de82195b03db63e2f4ec9ab8619c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Ytesting_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Ytesting_car.csv",
+    "size": 185,
+    "sha256": "f149b1a4362ca223b0cc1058ce47f76710994ac5e875ed2c2888f276f12b0090",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Ytraining_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Ytraining_car.csv",
+    "size": 1438,
+    "sha256": "cc37222a83a6ad119abfbc97b4bf41a44fefe07d22d7ab54fa885e0bd52a7789",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Ytraining_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Ytraining_poly.csv",
+    "size": 433,
+    "sha256": "5778c8a9f3726b47016028091e960a7367460213d0698c9c36cb5a43a319fa7e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Yvalidation_car.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Yvalidation_car.csv",
+    "size": 231,
+    "sha256": "099223f4428102d406720601849cee359cd389a168fd351f7b46e6b290e96eb5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2.zip!/Hw2/Yvalidation_poly.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2__acilmis/Hw2/Yvalidation_poly.csv",
+    "size": 108,
+    "sha256": "aed80d8379fa4211d8e5a66cfa977adda72fd6b128986d58828234c503bc90c5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw2_solution.pdf",
+    "size": 777671,
+    "sha256": "ec498616c02fd24b8a18b5c77f2763dbe60d8a921978857f98c0644b825b90f5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3.zip!/Hw3/car_classification.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3__acilmis/Hw3/car_classification.csv",
+    "size": 8515,
+    "sha256": "87c02e265f32e82d740714d77031d509f6b703b9ae04bcbfbd3cab6adb2789c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3.zip!/Hw3/car_high_mileage.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3__acilmis/Hw3/car_high_mileage.csv",
+    "size": 4213,
+    "sha256": "c246eecdbec14ffdaf369575f3f73f1625c3a7cc908821ebfa381524aed14752",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3.zip!/Hw3/car_low_mileage.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3__acilmis/Hw3/car_low_mileage.csv",
+    "size": 4361,
+    "sha256": "5ac677d99fc12497f5f994be40fab3f2ac43e361681cfa125f99dad3c852efb9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3.zip!/Hw3/Hw3.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3__acilmis/Hw3/Hw3.docx",
+    "size": 328759,
+    "sha256": "79a4279f9aba5ab346c2d7ccae61305dd647be9ef8d4d77e049e55b50e47fbef",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3.zip!/Hw3/Test/car_high_mileage_test.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3__acilmis/Hw3/Test/car_high_mileage_test.csv",
+    "size": 922,
+    "sha256": "edbd6761af123afb875a741d2b1dde3656bc6ff4b62fb59d870614e807f9773b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3.zip!/Hw3/Test/car_low_mileage_test.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3__acilmis/Hw3/Test/car_low_mileage_test.csv",
+    "size": 963,
+    "sha256": "e0c871515a432235989f2fc0cbe8fbc84b569e89d9573ea680881e572b457719",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3.zip!/Hw3/Train/car_high_mileage_train.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3__acilmis/Hw3/Train/car_high_mileage_train.csv",
+    "size": 3350,
+    "sha256": "9400dcf5c083f9729db6716eee2129977ad107bf02291ff8dc054489ecb3a416",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3.zip!/Hw3/Train/car_low_mileage_train.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3__acilmis/Hw3/Train/car_low_mileage_train.csv",
+    "size": 3457,
+    "sha256": "7b8b4d6505e02094ddc1f37f6a0b938fac6ef1a3a53e9cd7e35ba936063db065",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw3_solution.pdf",
+    "size": 852582,
+    "sha256": "f9e54176f01837abc7029aa56a373c4f58893ee718a8ccd0db70499c6cd6f584",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/hw5.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/hw5.pdf",
+    "size": 541157,
+    "sha256": "e8c3a2290d47b3b3b337d86cb3b9ccf010166542d0053ffa27c1f3d876c0c4d8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/hw5.py",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/hw5.py",
+    "size": 6811,
+    "sha256": "783487bc83f48f653e6b51693934d4971db1b44014d23b52e620a2093b273e2d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/numpynet/function.py",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/numpynet/function.py",
+    "size": 147,
+    "sha256": "8610900c65a5b0ee5373d9f1f38ecfebb59ff59e9b86efbede4dba3712e870b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/numpynet/layer.py",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/numpynet/layer.py",
+    "size": 5994,
+    "sha256": "ad32afad7458b6c6704bc19fbe7de6f9ac944974f6a581f223767ff1d981a28f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/numpynet/utils.py",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/numpynet/utils.py",
+    "size": 4517,
+    "sha256": "a471d244586fe4787f6598d4b4ea68b4b3db8213e59161f0bde067f5e12055e9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/numpynet/__init__.py",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/numpynet/__init__.py",
+    "size": 267,
+    "sha256": "d1c08374ce304449f8153ea9982b16d89270258a794a80acd2b55abba9f6085e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/sample_submission.csv",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5/hw5_release/sample_submission.csv",
+    "size": 2500,
+    "sha256": "2bbad51c728a280a714b9b4ab6e516d6815f8d0e5174196d282a53ab44e9da32",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw5_solution.pdf",
+    "size": 1832351,
+    "sha256": "b7af9fd262f082226ad00a85947dd8dd07fd2a2becfb08f129d028593331740a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw6.zip!/Hw6/gmm_data.txt",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw6__acilmis/Hw6/gmm_data.txt",
+    "size": 227652,
+    "sha256": "79dd1492f66de1f6113a5cc4fb6f97318acd15465ca45fe918a01f42b7585811",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw6.zip!/Hw6/Hw6.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw6__acilmis/Hw6/Hw6.docx",
+    "size": 123811,
+    "sha256": "d346559b8d08e94207ddc7402bc582f50a1ddfc708c875d351051c6947b1a5d5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Hw6_solution.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Hw6_solution.pdf",
+    "size": 480344,
+    "sha256": "1b932abcde48d6e4c9c9b05dfd7574db68852e94a37a800ffadd7cb3b3eaf1e6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm_Fall23_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm_Fall23_sol.docx",
+    "size": 259636,
+    "sha256": "012ffe315a7fb798756236a986ad87d2728dd4722493ee0f4591de3bf7f8b6e7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm_Fall21.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm_Fall21.docx",
+    "size": 57030,
+    "sha256": "9c47cd22b9e7cb20779346521b3afbe88c3dac5b31705b80749437e203dde8c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm_Fall21_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm_Fall21_sol.docx",
+    "size": 273299,
+    "sha256": "d23c2cf98a78147b09d265e9897e27831cafbed52d537aa125e97aa5e1f54e6c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm_Fall22.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm_Fall22.docx",
+    "size": 72018,
+    "sha256": "a9438ca161910f823031e38eb4524bba531b99098e6a86b04ef228cb930d231b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm_Fall22_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm_Fall22_sol.docx",
+    "size": 259371,
+    "sha256": "3dcb959dea6f8319dd6e8aa4967bf69a52ee7fba0c4fa5a7f7bed14a7454dece",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm_Fall23.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm_Fall23.docx",
+    "size": 72130,
+    "sha256": "87891e63fa0b29388604f05382d406aa29c4b0e651f04dda41cfc139e246fb45",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm2_Spring23_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm2_Spring23_sol.docx",
+    "size": 134312,
+    "sha256": "ad942795539408044c395880a4290ea230b75dfbc4e7c7532c59ed9961d52971",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm1_Spring23.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm1_Spring23.docx",
+    "size": 62211,
+    "sha256": "49f6f85f2c4baa41e384fdc60f929765ab3c57c555bb1ec0494da9f5aff39867",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm1_Spring23_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm1_Spring23_sol.pdf",
+    "size": 101998,
+    "sha256": "e652108c846a43f762ab98bb51708e945086585ddff6bcc81eff8c879240d09b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions.zip!/Midterm2_Spring23.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Midterm exam with solutions__acilmis/Midterm2_Spring23.docx",
+    "size": 50518,
+    "sha256": "c7cfd33ce9110b0f0ab884480ff51b9f3c0a19af07b6be919d34b1d75522480d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Sample1.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Sample1.pdf",
+    "size": 1495644,
+    "sha256": "bb234f4226d07fb1ad7f2093fcf0398e950a6e29beed2fede04309a3ce17c36e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Sample2.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Sample2.pdf",
+    "size": 1311157,
+    "sha256": "9422be9a3a3bfed6a4820522f024107f608446058e67182020f72f84b0d74b69",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/10.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/10.pdf",
+    "size": 84356,
+    "sha256": "e19f69707d5a8bcba133371a521ede3f22f050c0c64e056cacbb55da85f7ec10",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/1.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/1.pdf",
+    "size": 200969,
+    "sha256": "96fcbc6c11d60fbe3182ac297a06dc3cbf52a88e43b96e9ff3f03e3c02e7dd36",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/2.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/2.pdf",
+    "size": 168487,
+    "sha256": "6457f91c783888f91bb1c4e168a349897b15eedf8e36b0e245168cf81a0148bb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/3.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/3.pdf",
+    "size": 282462,
+    "sha256": "7c6df7af3438ac7e3510a2358aefc16778a97e8fe5ba8c92694771a5d6e8fa51",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/4.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/4.pdf",
+    "size": 362815,
+    "sha256": "2501f523da5ba24967928410a1da9225522cc312d878e855f93bd53182e8a070",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/5.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/5.pdf",
+    "size": 169028,
+    "sha256": "51274349b37b6213c9745a4b37ef885449c3d758a91655be69cac00b6c0eadac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/6.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/6.pdf",
+    "size": 214652,
+    "sha256": "c73fe11944425a1464f20e5a1c2ddb22019cf7335404502422bc90daaa50d50d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/7.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/7.pdf",
+    "size": 187078,
+    "sha256": "2fc59d70d24826d1374071ad4fb5703e777b1a255b7955e69f343d31320fd91e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/8.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/8.pdf",
+    "size": 251145,
+    "sha256": "6818422eed9e2f3490a78f87864c86514fcd42581e0d140740cf96633cc8742e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular.zip!/9.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Son sınav için örnek sorular__acilmis/9.pdf",
+    "size": 75572,
+    "sha256": "0103a80d59c5736b8bb26c38a65dc17df15eb5494b99c3f7d33fe0437c50eea7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/syllabus.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/syllabus.docx",
+    "size": 24977,
+    "sha256": "f62c3ae8918cc1fc43cb0c8f7bd1799e8410a3cda1891431d6389e010c545994",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Understanding_LSTM_Networks.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Understanding_LSTM_Networks.pdf",
+    "size": 2061199,
+    "sha256": "b5668f939b9b74683a91cf80660b979cfb8c3a5f2243c3d7926f0805417c1bda",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week10_Neural_Networks.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week10_Neural_Networks.pdf",
+    "size": 12688672,
+    "sha256": "6d3c588d22020cb37138bc5c1b18d5e14688f3feb25863aadd049149d00c2216",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week10_Neural_Networks_Backpropogation.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week10_Neural_Networks_Backpropogation.pdf",
+    "size": 4438487,
+    "sha256": "6813e9fb0c86bc7761d0b26d88ba3bf381ade8b7525cdc682e600841b3a55d17",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week11_Convolutional_Neural_Networks.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week11_Convolutional_Neural_Networks.pdf",
+    "size": 5377850,
+    "sha256": "10a9a6791d10eaddd44822914761dfa06e1ad3f34aec38a97b8a380a4e3eed73",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week13_Recurrent_Neural_Networks.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week13_Recurrent_Neural_Networks.pdf",
+    "size": 4397041,
+    "sha256": "8da4dd678d23603052981ccc185b5a7941c7dc22036c5ffa98f8d5a6f688e771",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week14_Clustering_GMM.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week14_Clustering_GMM.pdf",
+    "size": 7428434,
+    "sha256": "0bb570c8ed58d14eb01660c81f256fd75e46c24a31bca03754b1d8ce6a966878",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week15_EM_PCA.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week15_EM_PCA.pdf",
+    "size": 2798125,
+    "sha256": "a4485499e93f30f32a0cc330b7adf2499197c941e52248599fc9ac3585d382c1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week16_Multi_Armed_Bandits.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week16_Multi_Armed_Bandits.pdf",
+    "size": 1596679,
+    "sha256": "c2c873ed2a959f610b3a926c96b754d76ec47ce8065e7af28a53f29562593a8a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week16_RL.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week16_RL.pdf",
+    "size": 4620992,
+    "sha256": "7a296405a9acbae81fc5dcf36a8e80f91fdab5218946f094b8648e20f0460b12",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week1_Introduction_Prob_Lin_Algebra.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week1_Introduction_Prob_Lin_Algebra.pdf",
+    "size": 2793421,
+    "sha256": "9629199c888e95cac3386e8604deb1150818198693fc7d66fc9dd45e514d3b7c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week2&3_Linear_Regression.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week2&3_Linear_Regression.pdf",
+    "size": 3638256,
+    "sha256": "928f7c0cbba09a7cb799a9fff9c0fe2a9bd3ae2d31604fa6fd3fa3e46105de2b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week4_Naive_Bayes_Logistic_Regression.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week4_Naive_Bayes_Logistic_Regression.pdf",
+    "size": 11896508,
+    "sha256": "40946c285aeda4c4bf09551b712d808795cd60248d70838951b6d54f487c7fa8",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week5&6_SVM.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week5&6_SVM.pdf",
+    "size": 2770295,
+    "sha256": "e73c6dff24624ec88e2134ee898e516d7c3d4680f6f38c680fe22e8b8a651a12",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Week7_NN_Decision_Trees.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Week7_NN_Decision_Trees.pdf",
+    "size": 5523410,
+    "sha256": "c4986e328ae7f944a6fd11b83414b33b17f90265c5b4c8758ab7c2a2d191870b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Çalışma Kağıdı.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Çalışma Kağıdı.docx",
+    "size": 2512433,
+    "sha256": "a155667adeeacab27716ff6d435ece05331c12bf1020b13561fb55efb9b328d8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/fund. of machine learning/Çalışma Kağıdı.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/fund. of machine learning/Çalışma Kağıdı.pdf",
+    "size": 1595930,
+    "sha256": "4aa614ea861ce75c2bd7506111261e1a9b5a7fa8bd1496c41146521e538c16eb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/büt_2024.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/büt_2024.pdf",
+    "size": 210150,
+    "sha256": "8c31d878422e1a245fd14e163a6b1e173245ead0dbfacd1dfb1558779c9b3e50",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/finals20.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/finals20.pdf",
+    "size": 416450,
+    "sha256": "8a1e7379f0080a99af395ff92e0a45d87178a65da340641977b8ee936eab11e8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/final_2025.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/final_2025.pdf",
+    "size": 256962,
+    "sha256": "d3cd958a8c071aec505e507336d0ba2e670d048170bd8b3db9b733ba77d480a6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/Final_solution (1).pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/Final_solution (1).pdf",
+    "size": 146394,
+    "sha256": "2217a0d68731c9a1e9401545bca985b108b458774939eab77fee93abf7606db7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/final_spring_23 (1).pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/Final/final_spring_23 (1).pdf",
+    "size": 201983,
+    "sha256": "fedc7caecc2906fac0ba1e90ded76b3c753f191130885422ad645aeac4e84362",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/hocanin sinavlardan once calisalim diye attigi sorular. ama yeniden soru atacak bence bunlara bakmayin/calisma kagidi.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/hocanin sinavlardan once calisalim diye attigi sorular. ama yeniden soru atacak bence bunlara bakmayin/calisma kagidi.pdf",
+    "size": 1595930,
+    "sha256": "4aa614ea861ce75c2bd7506111261e1a9b5a7fa8bd1496c41146521e538c16eb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/hocanin sinavlardan once calisalim diye attigi sorular. ama yeniden soru atacak bence bunlara bakmayin/finalexamples.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/hocanin sinavlardan once calisalim diye attigi sorular. ama yeniden soru atacak bence bunlara bakmayin/finalexamples.pdf",
+    "size": 2010651,
+    "sha256": "84c9796a3dd20da3056c27845e3472a69e4f1780c752d641fa7f73c2f995778f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/hocanin sinavlardan once calisalim diye attigi sorular. ama yeniden soru atacak bence bunlara bakmayin/Sample1.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/hocanin sinavlardan once calisalim diye attigi sorular. ama yeniden soru atacak bence bunlara bakmayin/Sample1.pdf",
+    "size": 1495644,
+    "sha256": "bb234f4226d07fb1ad7f2093fcf0398e950a6e29beed2fede04309a3ce17c36e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/hocanin sinavlardan once calisalim diye attigi sorular. ama yeniden soru atacak bence bunlara bakmayin/Sample2.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/hocanin sinavlardan once calisalim diye attigi sorular. ama yeniden soru atacak bence bunlara bakmayin/Sample2.pdf",
+    "size": 1311157,
+    "sha256": "9422be9a3a3bfed6a4820522f024107f608446058e67182020f72f84b0d74b69",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm1_Spring23.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm1_Spring23.docx",
+    "size": 62211,
+    "sha256": "49f6f85f2c4baa41e384fdc60f929765ab3c57c555bb1ec0494da9f5aff39867",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm1_Spring23_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm1_Spring23_sol.pdf",
+    "size": 101998,
+    "sha256": "e652108c846a43f762ab98bb51708e945086585ddff6bcc81eff8c879240d09b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm1_Spring24_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm1_Spring24_sol.pdf",
+    "size": 4436414,
+    "sha256": "b4dc0ace2acc3cc3fc5d4cc8be0b9213bc042e97f342a3cd98f545b1cc2159ac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm2_Spring23.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm2_Spring23.docx",
+    "size": 50518,
+    "sha256": "c7cfd33ce9110b0f0ab884480ff51b9f3c0a19af07b6be919d34b1d75522480d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm2_Spring23_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm2_Spring23_sol.docx",
+    "size": 134312,
+    "sha256": "ad942795539408044c395880a4290ea230b75dfbc4e7c7532c59ed9961d52971",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall21.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall21.docx",
+    "size": 57030,
+    "sha256": "9c47cd22b9e7cb20779346521b3afbe88c3dac5b31705b80749437e203dde8c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall21_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall21_sol.docx",
+    "size": 273299,
+    "sha256": "d23c2cf98a78147b09d265e9897e27831cafbed52d537aa125e97aa5e1f54e6c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall22.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall22.docx",
+    "size": 72018,
+    "sha256": "a9438ca161910f823031e38eb4524bba531b99098e6a86b04ef228cb930d231b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall22_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall22_sol.docx",
+    "size": 259371,
+    "sha256": "3dcb959dea6f8319dd6e8aa4967bf69a52ee7fba0c4fa5a7f7bed14a7454dece",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall23.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall23.docx",
+    "size": 72130,
+    "sha256": "87891e63fa0b29388604f05382d406aa29c4b0e651f04dda41cfc139e246fb45",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall23_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/midterm exam with solutions/Midterm_Fall23_sol.docx",
+    "size": 259636,
+    "sha256": "012ffe315a7fb798756236a986ad87d2728dd4722493ee0f4591de3bf7f8b6e7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/1.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/1.pdf",
+    "size": 200969,
+    "sha256": "96fcbc6c11d60fbe3182ac297a06dc3cbf52a88e43b96e9ff3f03e3c02e7dd36",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/10.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/10.pdf",
+    "size": 84356,
+    "sha256": "e19f69707d5a8bcba133371a521ede3f22f050c0c64e056cacbb55da85f7ec10",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/2.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/2.pdf",
+    "size": 168487,
+    "sha256": "6457f91c783888f91bb1c4e168a349897b15eedf8e36b0e245168cf81a0148bb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/3.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/3.pdf",
+    "size": 282462,
+    "sha256": "7c6df7af3438ac7e3510a2358aefc16778a97e8fe5ba8c92694771a5d6e8fa51",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/4.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/4.pdf",
+    "size": 362815,
+    "sha256": "2501f523da5ba24967928410a1da9225522cc312d878e855f93bd53182e8a070",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/5.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/5.pdf",
+    "size": 169028,
+    "sha256": "51274349b37b6213c9745a4b37ef885449c3d758a91655be69cac00b6c0eadac",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/6.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/6.pdf",
+    "size": 214652,
+    "sha256": "c73fe11944425a1464f20e5a1c2ddb22019cf7335404502422bc90daaa50d50d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/7.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/7.pdf",
+    "size": 187078,
+    "sha256": "2fc59d70d24826d1374071ad4fb5703e777b1a255b7955e69f343d31320fd91e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/8.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/8.pdf",
+    "size": 251145,
+    "sha256": "6818422eed9e2f3490a78f87864c86514fcd42581e0d140740cf96633cc8742e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/9.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/machine learning akif/machine learning soru ve sinavlar/son sinav icin ornek sorular/9.pdf",
+    "size": 75572,
+    "sha256": "0103a80d59c5736b8bb26c38a65dc17df15eb5494b99c3f7d33fe0437c50eea7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/Mehmet_Ali_Kamalak_EE4077_Midterm_Answer_Sheet.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/Mehmet_Ali_Kamalak_EE4077_Midterm_Answer_Sheet.pdf",
+    "size": 72057,
+    "sha256": "b7f812a52fae703351bb303b2dee2e09da709c47190d5e2937673c1a90cd2bc2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/Midterm1_Spring23.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/Midterm1_Spring23.pdf",
+    "size": 5315750,
+    "sha256": "011722a606019101179a303f3cfbe5d08ccc704b9d640bc299670cdf6d3883bd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ML.html",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ML.html",
+    "size": 38844,
+    "sha256": "51e96398b5f3687cc6b257e9a0b9d8ba587d639b81ee30906ad9c3d885c39c92",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml.md",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml.md",
+    "size": 27718,
+    "sha256": "7f856463ab51319537ef7dd6bb9874ceaf6f70d51d22ce9a41162dadfac8311c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml.pdf",
+    "size": 163105,
+    "sha256": "59b9a0f6dabe984bd0897392c5e9ca97ee51d61003211f807d24a6813e9b2aff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/büt_2024.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/büt_2024.pdf",
+    "size": 210150,
+    "sha256": "8c31d878422e1a245fd14e163a6b1e173245ead0dbfacd1dfb1558779c9b3e50",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/finals20.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/finals20.pdf",
+    "size": 416450,
+    "sha256": "8a1e7379f0080a99af395ff92e0a45d87178a65da340641977b8ee936eab11e8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/final_2025.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/final_2025.pdf",
+    "size": 256962,
+    "sha256": "d3cd958a8c071aec505e507336d0ba2e670d048170bd8b3db9b733ba77d480a6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Final_solution (1).pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Final_solution (1).pdf",
+    "size": 146394,
+    "sha256": "2217a0d68731c9a1e9401545bca985b108b458774939eab77fee93abf7606db7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/final_spring_23 (1).pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/final_spring_23 (1).pdf",
+    "size": 201983,
+    "sha256": "fedc7caecc2906fac0ba1e90ded76b3c753f191130885422ad645aeac4e84362",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Midterm1_Spring23.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Midterm1_Spring23.pdf",
+    "size": 173343,
+    "sha256": "f9460afc4c7452036130356374a80501565abac14368bc603998919b80ab492c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Midterm1_Spring23_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Midterm1_Spring23_sol.pdf",
+    "size": 101998,
+    "sha256": "e652108c846a43f762ab98bb51708e945086585ddff6bcc81eff8c879240d09b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Midterm1_Spring24.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Midterm1_Spring24.pdf",
+    "size": 176171,
+    "sha256": "11215a9e9dd1f15013e18c0388c6ee5918af6a32b03da04f4a4dc5f57c6f87f4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Midterm1_Spring24_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Midterm1_Spring24_sol.pdf",
+    "size": 281852,
+    "sha256": "6be9dcacbe47710ba7502055f36b9671e5268ea2000456b412db819bca83f708",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Midterm2_Spring23.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Midterm2_Spring23.docx",
+    "size": 50518,
+    "sha256": "c7cfd33ce9110b0f0ab884480ff51b9f3c0a19af07b6be919d34b1d75522480d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Midterm2_Spring23_sol.docx",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Midterm2_Spring23_sol.docx",
+    "size": 134312,
+    "sha256": "ad942795539408044c395880a4290ea230b75dfbc4e7c7532c59ed9961d52971",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Midterm_Spring25.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Midterm_Spring25.pdf",
+    "size": 157992,
+    "sha256": "0a0857d546ffe9a95894017112b105f0b84524c779408570dc3fb838c20332a1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/Midterm_Spring25_sol.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/Midterm_Spring25_sol.pdf",
+    "size": 133003,
+    "sha256": "9831829a2eda40d8ae96a757b8efcbadc41cb51d1771bc27106df4ab6dfa16ce",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/N_Final çalışma.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/N_Final çalışma.pdf",
+    "size": 13394992,
+    "sha256": "b25c24af3cf7af6a4b7ff5644a99b1875c22902d65ad04a808bab28e2077a18d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/ml_final/N_Final çalışma2.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/ml_final/N_Final çalışma2.pdf",
+    "size": 9424658,
+    "sha256": "cb4fcc99b619a6d1c5dd08fbc2366cfdce5f8ad1c4dcfa0e246c697a0a0298e0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/Week10_Neural_Networks_Backpropogation.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/Week10_Neural_Networks_Backpropogation.pdf",
+    "size": 4438487,
+    "sha256": "6813e9fb0c86bc7761d0b26d88ba3bf381ade8b7525cdc682e600841b3a55d17",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/Week11_Convolutional_Neural_Networks.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/Week11_Convolutional_Neural_Networks.pdf",
+    "size": 5377850,
+    "sha256": "10a9a6791d10eaddd44822914761dfa06e1ad3f34aec38a97b8a380a4e3eed73",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/Week12_Recurrent_Neural_Networks.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/Week12_Recurrent_Neural_Networks.pdf",
+    "size": 4397041,
+    "sha256": "8da4dd678d23603052981ccc185b5a7941c7dc22036c5ffa98f8d5a6f688e771",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/Week13_Clustering_GMM.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/Week13_Clustering_GMM.pdf",
+    "size": 7428434,
+    "sha256": "0bb570c8ed58d14eb01660c81f256fd75e46c24a31bca03754b1d8ce6a966878",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/Week5&6_SVM.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/Week5&6_SVM.pdf",
+    "size": 2770295,
+    "sha256": "e73c6dff24624ec88e2134ee898e516d7c3d4680f6f38c680fe22e8b8a651a12",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/Week7_NN_Decision_Trees.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/Week7_NN_Decision_Trees.pdf",
+    "size": 5523410,
+    "sha256": "c4986e328ae7f944a6fd11b83414b33b17f90265c5b4c8758ab7c2a2d191870b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/ML_Hoca attı/Week8_Ensemble_Methods.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/ML_Hoca attı/Week8_Ensemble_Methods.pdf",
+    "size": 4755703,
+    "sha256": "cc8c90f01440512e2be7ccb7e33fb23ceab2bf005f172414941a3d3da4d4b414",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1bwGsHRrGHuCLocbPjfg3wmehpJpHG8E1",
+    "source_member": "Machine learning 25-26/Mt 25 24.pdf",
+    "path": "3.sinif/6.donem/EE4077_Fundamentals-of-Machine-Learning/Machine-learning-25-26/Machine learning 25-26/Mt 25 24.pdf",
+    "size": 5180167,
+    "sha256": "5547930f5bd4a03a4e648d41bf83a180184a8b1fc87cc099736dbbc362881e59",
+    "storage": "git"
   }
 ]
