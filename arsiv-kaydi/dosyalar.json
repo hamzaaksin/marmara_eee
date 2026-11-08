@@ -30966,5 +30966,645 @@
     "size": 284,
     "sha256": "6a84b6fd03a8ea8a4760a0dc148887048c0e5c249ef59a301100f37a866815a3",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra, Kenneth C. Smith - Chegg Solutions for Microelectronic Circuits. 7th edition-Oxford University Press (2014).pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra, Kenneth C. Smith - Chegg Solutions for Microelectronic Circuits. 7th edition-Oxford University Press (2014).pdf",
+    "size": 8930861,
+    "sha256": "2013e9f4e058552358afe15fb09d9343cd66714b57cbe016b829c7b6360df5d5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra_ Kenneth C. Smith - Microelectronic Circuits-Oxford University Press (2014).pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra_ Kenneth C. Smith - Microelectronic Circuits-Oxford University Press (2014).pdf",
+    "size": 73507026,
+    "sha256": "0a9138d2c960e32c465647ac1afa701c6f0941bfe797f84dcf773da6408836e0",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/dokumen.pub_microelectronic-circuits-8enbsped-9780190853464-9780190853532.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/dokumen.pub_microelectronic-circuits-8enbsped-9780190853464-9780190853532.pdf",
+    "size": 62776110,
+    "sha256": "a4404cb4fdf83bdfb98697b0c597c309e70a8fc40317316c396d2cd1b7d5b111",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/syllabus.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/syllabus.pdf",
+    "size": 112104,
+    "sha256": "60cc4c52a24cd99a61e64c43a9bb2fd619bf33472770f1417b0866ef55dff463",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/ues_grades.xlsx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/ues_grades.xlsx",
+    "size": 10468,
+    "sha256": "924a4d0d3fa2e2cc910b510b6170e1641f5cb7dd6f0888f11e3bbcd632df574b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 1/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 1/1.mp4",
+    "size": 88967652,
+    "sha256": "89c83c226f4f649d0eaee4827b9dbc596800762e8b5eb2044c2ec2affc3b1fc9",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 1/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 1/2.mp4",
+    "size": 31281615,
+    "sha256": "03d45ff0b296da9c9aff1c2341c3bdb05b61da3d9ebf893839ef1fe7ce54dd04",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 1/3.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 1/3.mp4",
+    "size": 114013808,
+    "sha256": "a8446b1179a160872e53231b434602fa7ff666c5d77efdccf3f4c57072d8a3fe",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 10/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 10/1.mp4",
+    "size": 134483923,
+    "sha256": "15fba62fc5ccf4b2642da2826728f7d5597e88bed7b7cae81c8ad0d138e68a5d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 10/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 10/2.mp4",
+    "size": 71133809,
+    "sha256": "0307314a1be02023002bc5b0eafaacf79f40e8e2c9ea8173b297e1c7dbc229f4",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 10/3.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 10/3.mp4",
+    "size": 127346260,
+    "sha256": "af1773a71947b1012d0bbc1884fb14230f04380b37ed098b0a147afedec8afa1",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/1.mp4",
+    "size": 134285495,
+    "sha256": "e11e8801861b2bfddbde03f5eb05775db66d6af2c18a0b8185dfb754ff01e461",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/2.mp4",
+    "size": 55831160,
+    "sha256": "7b27ac05fefcb77f45f2a558d9c1ebf63d2a80697df16a0496a957464003a87f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/experiment_5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/experiment_5.pdf",
+    "size": 1747600,
+    "sha256": "ec18b61f15f0f30c3c95d52f70531bcd0be95077df8c16b9e139cd6359717ebc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/homework_7.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/homework_7.pdf",
+    "size": 737028,
+    "sha256": "d6107f6f467c74464317465824c9f4ccfc057dc6d267145fe4bd3ed6d658e786",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/homework_7_solutions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 11/homework_7_solutions.pdf",
+    "size": 1790156,
+    "sha256": "fbfad17a9cfa565b9ee189a725246bcf43b20742db190e712130941d9ba98b38",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/1.mp4",
+    "size": 93360018,
+    "sha256": "39770d708173ee666c9d8eae85ced07e8f1d3a23f78c26d4626a3ee4f65cb3cd",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/2.mp4",
+    "size": 120678461,
+    "sha256": "6deff4c7b20a409aed273a9caf0ee4477830a5d733e40795ccc5ab8f0d7aeebb",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/3.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/3.mp4",
+    "size": 120047265,
+    "sha256": "f865ab493b0017fbc5ff4a6a7e6332a8b5dd6cf7c5ab674f5c6ff05cd2b91667",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/EXP 6/EXP6_NurullahTüğmen_İlaydaKaya.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/EXP 6/EXP6_NurullahTüğmen_İlaydaKaya.pdf",
+    "size": 4009078,
+    "sha256": "f2ea9e90e48bac3143036bb62ae679dfc129ae35ecf929a3d4e99af00555709e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/EXP 6/experiment_6.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 12/EXP 6/experiment_6.pdf",
+    "size": 2328650,
+    "sha256": "9fd7569f2e33c69506667578ffd8d58d76032f51c9829639ac1ab79926802d53",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/1.mp4",
+    "size": 117576603,
+    "sha256": "686b1a789e5fec1bc8dca36f1709320280550b787abc55f01dac85f08a2a8246",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/2.mp4",
+    "size": 144312842,
+    "sha256": "9864ab4916b5c954c2b217c9ea81c1569d7dae39cc5ad5dbd06a97b86620ff21",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/3.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/3.mp4",
+    "size": 119715812,
+    "sha256": "f9067f9ce35c8fdcd481ad5893dbb6b00cdc4ebb1edfc0214084649f7eb50587",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/cvp1.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/cvp1.jpeg",
+    "size": 148504,
+    "sha256": "e7b36f4c358cd0036fa33ed5d41b92b41de7b487d06e77e700c2ef0b2aae7df1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/cvp2.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/cvp2.jpeg",
+    "size": 125390,
+    "sha256": "e3a668d077981c27180e3345778d7284563877663361c3af7bdb616b0a1a699f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/cvp3.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/cvp3.jpeg",
+    "size": 152503,
+    "sha256": "171ef4febcbc4f4bca41c8022ba82c93435a9eb9c7b4d5edda6cc65e1f7a6764",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/experiment_7.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/experiment_7.pdf",
+    "size": 374290,
+    "sha256": "2cf2d131ba072fe2693ebb05a65a587b7e3356a64ef6340967be4f641af0fc29",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/homework_8.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 13/homework_8.pdf",
+    "size": 368990,
+    "sha256": "09f5f546043dd2a9d9e77c282a844bbd010942f12c53c8ff7f0f46676cab6f4c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 14/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 14/1.mp4",
+    "size": 90621163,
+    "sha256": "848de40bb8d0ada7998182622fbf4e54d103c7a2df5d234758f00b20c8600408",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 14/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 14/2.mp4",
+    "size": 104308480,
+    "sha256": "0a8c2de727c2410194de66a61ba622ef40a719dcf68e9e7cbd71dae27a959113",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/homework_9.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/homework_9.pdf",
+    "size": 662052,
+    "sha256": "40cfda79bfb9370b74267b0d6fc81e289477978935bb92c304992628da375963",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/homework_9_solutions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/homework_9_solutions.pdf",
+    "size": 1948170,
+    "sha256": "9b28d4b50688c1521470d4bdab2d71f981d96c5b3e0d6a02d238a40c1323e609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/week_14_lecture_22_1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/week_14_lecture_22_1.mp4",
+    "size": 97010055,
+    "sha256": "0ba3dee79f3651ab8005a181cc1e1706f8ba35dd94f7e6919233947cb29d75e0",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/week_14_lecture_22_2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/week_14_lecture_22_2.mp4",
+    "size": 108382101,
+    "sha256": "9c8474347f89f615f4a292a97e52849937a428685fbf20a389fab605b2d9995a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/week_15_lecture_23.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 15/week_15_lecture_23.mp4",
+    "size": 102699083,
+    "sha256": "b9989ad1aa8828bd53e54b2e383fb5920deb69f1b6db285e6279f34ccce445df",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 16/homework_10_solutions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 16/homework_10_solutions.pdf",
+    "size": 4798615,
+    "sha256": "0bad2c60d2c7ddb97674e7ab7b33e3e2b49730dcd0aa68c9f3b076bb68d91831",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 16/homework_11.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 16/homework_11.pdf",
+    "size": 519454,
+    "sha256": "98fefceeb5e78ec36b5cca1940006dee004cb6e02337d5e8c20669e65422dde9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 16/Q1.jpeg",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 16/Q1.jpeg",
+    "size": 91646,
+    "sha256": "7c3cca1cb3f8df5c19c2b5d0275d23c1c58e49da15ad61478c79307b607d2ca4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 16/week_16_lecture_24.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 16/week_16_lecture_24.mp4",
+    "size": 129894680,
+    "sha256": "374c8103ca04c8e2ee64c1d0055585cd34668b070e3133067c90cb088f54fa1a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 2/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 2/1.mp4",
+    "size": 56033717,
+    "sha256": "630f3828b3e7b55e0714d8db3b3f44af0664da920ad1bee00d2b3a37066447b7",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 2/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 2/2.mp4",
+    "size": 61679614,
+    "sha256": "03ef9bc68044c919bee1a3f7929a6e540b8d55fae4c6c4cf9778040cc7d0423a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 2/3.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 2/3.mp4",
+    "size": 80261408,
+    "sha256": "51aa4a42b26a050ed6a56b0c99f6c381a9ffd3e2352195dc552121d27c997495",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 3/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 3/1.mp4",
+    "size": 147320844,
+    "sha256": "adad61824f310824e6c1797e185902d7453ed4d38b9efea41bed301f9eb63a6d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 3/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 3/2.mp4",
+    "size": 130583569,
+    "sha256": "8282b1a44ef39ac61577251b27e8d7df1516d68394ccaeaaca558e6a0144bda0",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 3/homework_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 3/homework_1.pdf",
+    "size": 426001,
+    "sha256": "2e09f326a76c5396110fd023b52417333230b3c52354e6270545b6bb9af11d1c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 3/homework_1_solutions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 3/homework_1_solutions.pdf",
+    "size": 1045988,
+    "sha256": "4a0e4e0a4bfb135193a1381d0148cb4c5d633e4b46325b3d3cf675f0c2d35419",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/1.mp4",
+    "size": 104568884,
+    "sha256": "928d64e9a629549317f1c4686affd7ee67c972d2b6604d4de2bf94b4ba1066f4",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/2.mp4",
+    "size": 97177738,
+    "sha256": "99fab25e5f8eead438ace62a70aa5dadb1afa64b8d391f4227d287599e959a19",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/experiment_1.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/experiment_1.pdf",
+    "size": 1750050,
+    "sha256": "6bab1f5ac91698d7cc26be4b33d0737e844ee87a3d8d91997ed21fa2116be9bb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/ltspice_n_lombardo.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/ltspice_n_lombardo.pdf",
+    "size": 1579726,
+    "sha256": "11ce9a904ed5a27f68e77e6b32f51d6a351607f73882b7f476915fed87984a5d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/regulations_and_safety_rules.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 4/regulations_and_safety_rules.pdf",
+    "size": 1420691,
+    "sha256": "0ea1c3f2242c4d5eaad82808e7e9aeb004c15c043c3b80899cec0024f8d5b27b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/homework_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/homework_2.pdf",
+    "size": 358410,
+    "sha256": "4de9c1632551289aca80b990fcb7a07ad2002f81098d7dbc3b4c49540be2b671",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/homework_2_solutions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/homework_2_solutions.pdf",
+    "size": 1309057,
+    "sha256": "5ac174598fcc73eb6615a53c8a08c45a841ff80b2d3f5de2aaedae24fc501c28",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/homework_3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/homework_3.pdf",
+    "size": 269622,
+    "sha256": "73ddeec5429a8eeaf1642a87da8f87edc8d0d030365753819247a07485d5fe84",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/homework_3_solutions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/homework_3_solutions.pdf",
+    "size": 953570,
+    "sha256": "fb158edd65311e83ecf5661479e0d651f8f2c5b7b4353ee51c5e0b2b01f19603",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/week_5_lecture_8.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/week_5_lecture_8.pdf",
+    "size": 1911430,
+    "sha256": "870673ce54fbc04085f6d95715ae5913f933803cc38ca1eee63719b9a965d767",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/week_5_lecture_8_1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/week_5_lecture_8_1.mp4",
+    "size": 145507574,
+    "sha256": "46969de748a3ce534a8590eacf35be42066c1b3d54000f70559e7e61c8c5ad2f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/week_5_lecture_8_2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/week_5_lecture_8_2.mp4",
+    "size": 76370565,
+    "sha256": "aae1a2c6aadf93ee4015d1f21ccf73cfbc09f09e4b308359b2f2e188899faf56",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/week_5_lecture_9.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 5/week_5_lecture_9.mp4",
+    "size": 119651156,
+    "sha256": "1753633271c3543dfa837ccbb58bdd839cc35ae80c25084f2acf4d17d0a32117",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 6/1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 6/1.mp4",
+    "size": 212245373,
+    "sha256": "17b194292ce2df8b764ae33ad1ce5c12e0020235d9b111e84d9d2e9a74a21039",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 6/2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 6/2.mp4",
+    "size": 128965797,
+    "sha256": "c3e42af4326bd3145c419479f275644ea4a6e1a8564a3dadfa0daec15f011a2d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 6/experiment_2.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 6/experiment_2.pdf",
+    "size": 1726238,
+    "sha256": "3780dbaab2d56dd54a0338eb098a4059e34c14e56ec37ad96cf22fd85fed1220",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 6/homework_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 6/homework_4.pdf",
+    "size": 745454,
+    "sha256": "e0507848ff8c37bfbd94d4232755792470f43dd8cc63f51d15658dde9c7ed312",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/homework_5.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/homework_5.pdf",
+    "size": 457624,
+    "sha256": "38f24e19dd1a1e50db1975d7800363f2678dc2f22e8f89f759a698f927392933",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/homework_5_solutions.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/homework_5_solutions.pdf",
+    "size": 2379604,
+    "sha256": "839e19396219efc10dbbba43e0c3d95fc3c36194860ced33a913a8e82abbc4c8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/CamScanner 11-24-2021 23.11.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/CamScanner 11-24-2021 23.11.pdf",
+    "size": 924610,
+    "sha256": "de6a75653da9e33c76d9d7b38340a0ec131a80500e680780d533b34444b22ac4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/EXP3 (NEW).pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/EXP3 (NEW).pdf",
+    "size": 5134413,
+    "sha256": "3a0de53f13a09bd2b328708c29b8c5c31d1d30dd727f688db13570fa803339f9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/EXP3 (SON).pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/EXP3 (SON).pdf",
+    "size": 5134413,
+    "sha256": "3a0de53f13a09bd2b328708c29b8c5c31d1d30dd727f688db13570fa803339f9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/EXP3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/EXP3.pdf",
+    "size": 5132542,
+    "sha256": "bc6414bc47f5cad5680feb990e6e80e593cbff0385bd4e2cc62c7fcd5d767f96",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/experiment_3.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/lab 3/experiment_3.pdf",
+    "size": 4201149,
+    "sha256": "a3a45e764e15ad2ba5f3a7f11890e2d47bfe2f26ebcff86aead759f1c3157b60",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/week_7_lecture_12_1.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/week_7_lecture_12_1.mp4",
+    "size": 130288211,
+    "sha256": "e4c45aca9325dbb6e41db096523cd15660bb108e877865cc4e23404646bf2200",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/week_7_lecture_12_2.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/week_7_lecture_12_2.mp4",
+    "size": 143377757,
+    "sha256": "656d9f13a0faf02d4712614945b5192ae72bd42c079f74bc04280d3f0d8fecfc",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/week_7_lecture_13.mp4",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 7/week_7_lecture_13.mp4",
+    "size": 92322843,
+    "sha256": "d91300e58ad6021b3fd7ecbaacb209c5679d363d10f272939ecef86df2a1d512",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 8 ------/exp 4/Draft3.asc",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 8 ------/exp 4/Draft3.asc",
+    "size": 1495,
+    "sha256": "3b5dae378c7f39dcdbcd3e5c140a91504b9031fe219aa54d219b6b4b69c0f682",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 8 ------/exp 4/experiment_4.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 8 ------/exp 4/experiment_4.pdf",
+    "size": 3222891,
+    "sha256": "04b3ee7550727fa3cc21eec44a9e575d893454ba9f1131679764fbac5e216bd6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 9 ------/answer of HW6.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 9 ------/answer of HW6.pdf",
+    "size": 1768358,
+    "sha256": "43807cf4281110e33561110742b90d77f91325eb1971e8e7c8ec29f2c2ab31fc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 9 ------/homework_6.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 9 ------/homework_6.pdf",
+    "size": 365906,
+    "sha256": "0dfa8e0efd47ed2c3dd298de7f1f4e62b86b5a36b9d5c58a6dd1934d29d8356b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 9 ------/lab 5/NurullahTugmen_İlaydaKay_MakeUp.pdf",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 9 ------/lab 5/NurullahTugmen_İlaydaKay_MakeUp.pdf",
+    "size": 2411102,
+    "sha256": "2cf16d9d0b6aafbaa04856fc386a987181d10944d27396062274f1b18ac97ec0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+    "source_member": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 9 ------/ues_grades (1).xlsx",
+    "path": "2.sinif/4.donem/EE3011_Electronics-I/2-Electronics-1-21-22-Ahmet-Unutulmaz/2-) Electronics 1 (21-22) - Ahmet Unutulmaz/week 9 ------/ues_grades (1).xlsx",
+    "size": 28357,
+    "sha256": "101e9f7afe9b73d3ebdbdc3d9b46751af8b4ac3009388325dbc696144dedc0de",
+    "storage": "git"
   }
 ]
