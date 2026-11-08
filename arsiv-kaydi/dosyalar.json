@@ -25094,5 +25094,461 @@
     "size": 939583,
     "sha256": "13e9e5177e6254be8b268d8323179322f75d36bf69e8edff38f56c89224f1316",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/Intuitive Probability and Random Processes Using MatLab - Steven M. Kay.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/Intuitive Probability and Random Processes Using MatLab - Steven M. Kay.pdf",
+    "size": 60252102,
+    "sha256": "83b2f4c913514383678abb8d321dd3771a9de3e54e151666b87597a1cae1e802",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_1.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_1.pdf",
+    "size": 66801,
+    "sha256": "29710297f76360f0d44542745741e24c7ba68738e4b47f2e98578b1f8678be30",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_2.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_2.pdf",
+    "size": 147889,
+    "sha256": "c659288bd9f79c46c62e8f913cf8d5568314428d1be1a23342db4cad311803b8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_3.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_3.pdf",
+    "size": 167485,
+    "sha256": "97f14b324a1228ea8d9278e3e41555da76f575876c91c6556cde0bd3a0357a31",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_4.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_4.pdf",
+    "size": 154353,
+    "sha256": "2ab3fc1c74de6230f6a8f7c014c40e30541e8c672d9c2c082033e3385f08698e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_5.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_5.pdf",
+    "size": 88726,
+    "sha256": "d150be3f18f680cb4b9951781aac1749dbb2aa26d6d2f4194bb5bd6c9736b04b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_6.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_6.pdf",
+    "size": 188558,
+    "sha256": "5a8585af6cf68b705ff06567febf63a20e046440b5d57df81a4ffc028a132e11",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_7.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_7.pdf",
+    "size": 115685,
+    "sha256": "d58ee8fde411908d8ad9250113d36a8a8c0cd27a13714765c95af6ff6058b0c1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_8.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_8.pdf",
+    "size": 115175,
+    "sha256": "6b3b155a36ab7e12bc92b42da498af20a1c960a8c4e3ab165c652fff9ed27d45",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/problem sets/psws_9.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/problem sets/psws_9.pdf",
+    "size": 149037,
+    "sha256": "d4ca2bb2dcd6b8fb172bf7390473a4c595bec024e95fa23a4a70db3e1877e98a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/solution manual of book.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/solution manual of book.pdf",
+    "size": 11433077,
+    "sha256": "3021c6ff435e5f46e822a586c96b69dc732d0063281337e202c2dd19d002fc72",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/syllabus (1).docx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/syllabus (1).docx",
+    "size": 21946,
+    "sha256": "343208fab8a50ec660be7ea6ddf6401d87cf3eb5902e057b0cef6cf1a93853ca",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 1/1.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 1/1.mp4",
+    "size": 60578748,
+    "sha256": "ca33dbd76930c89911c37b9f7b3065778eb6bb169b17961a894488c3b385ec2d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 1/2.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 1/2.mp4",
+    "size": 53613029,
+    "sha256": "cdd847700a98b060e39f84f60be1a3933b2e31901fdab446aa9237da1561117f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 1/3.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 1/3.mp4",
+    "size": 63065806,
+    "sha256": "01c142a4663627b02858e18fb2bb32770bbf0e49061eff19c65f935766fed4d2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 1/döküman.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 1/döküman.pdf",
+    "size": 688905,
+    "sha256": "d8bb0aa5afe6c04f110acb66bdbe2cfec75027fc49ec93fb8b6923bd2bde86c1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 1/week1.pptx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 1/week1.pptx",
+    "size": 1701754,
+    "sha256": "c37a8590d7c95e040f4b94f2e60cc196934d60a456ba64feb5a2a59944ddfd64",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 10/chapter8.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 10/chapter8.pdf",
+    "size": 2043920,
+    "sha256": "b14ed94d1114cc64c0e20daafff4f003f8bc8f4b2636aed0855f81958d3e8e1b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 11/chapter10.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 11/chapter10.pdf",
+    "size": 6384079,
+    "sha256": "a58110e2361e515cce20d6d1411d57a55bd809a01cd5d962eeda3057086977da",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 12/chapter11.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 12/chapter11.pdf",
+    "size": 2876920,
+    "sha256": "caf2285bc7ca5ee7e3bb627c73417f0b9ce5b8ed2b60876d57d984da7a24308b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 13/chapter12.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 13/chapter12.pdf",
+    "size": 6998930,
+    "sha256": "e39f2fe76e593342a50db2982b5ddb552b4d5a088e125afdab89e12eab8cb19c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 16 (final)/14.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 16 (final)/14.pdf",
+    "size": 920104,
+    "sha256": "c8e76bc768942f3c6522107f5e9baa04b377d017e8470c0eb6eff33ef3471e9e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 16 (final)/15.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 16 (final)/15.pdf",
+    "size": 642079,
+    "sha256": "6352f39895379cc54abcd0a21c2a9fd84a6f1e0be572c271d595e9df8892914e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 16 (final)/16.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 16 (final)/16.pdf",
+    "size": 554951,
+    "sha256": "dea2c6cb7991e77823a7b7cd7295891b4f02e5505276a12298ff26dce79ce4b1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 16 (final)/19.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 16 (final)/19.pdf",
+    "size": 174492,
+    "sha256": "71992be284b8918dd978c84537f257b5dece0cfbd3b15eda153152d9b853a2eb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 16 (final)/21.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 16 (final)/21.pdf",
+    "size": 214539,
+    "sha256": "d9bc2178d0c559ba2706047c1783091626e2f0e9847023f78341f61a62ef168a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 2/1.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 2/1.mp4",
+    "size": 63733029,
+    "sha256": "e233bbc33eacb568c70ebc248eb43592ab185a2c0a9fbdd8d0e7f6d1ebbbae8a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 2/2.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 2/2.mp4",
+    "size": 55864546,
+    "sha256": "8bd878dfb95e1756ce2c79aaeca7ff0b887800d5257b5f95c00430b337d1eae1",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 2/3.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 2/3.mp4",
+    "size": 62889636,
+    "sha256": "1d143184639413475bb896542916b3d1bc41865655203a4f7b2fefc067a2a573",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 2/döküman2.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 2/döküman2.pdf",
+    "size": 373633,
+    "sha256": "d6b775697220f43b24a82d4e94f67d2d3b24fb87767b4a91d3d1702e1197f157",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 2/week2.pptx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 2/week2.pptx",
+    "size": 1997906,
+    "sha256": "83444a03ddf997bc2ad5fbfac9ddd4bbdb630ec29c621f485fff411296fa083d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 3/1.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 3/1.mp4",
+    "size": 63852718,
+    "sha256": "b283580b95a2e1d66804c9cf812780d3bcec308554aaf97552ff8db7cefff075",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 3/2.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 3/2.mp4",
+    "size": 59961263,
+    "sha256": "866ace0f5e87cd6ad3663bb31c59eee196bba3613aafefc02eaea5fe0007b2b8",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 3/3.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 3/3.mp4",
+    "size": 61473769,
+    "sha256": "5eaaae3f1dcd2b2c494e36ac7752d69f722d2bb0e34f0c74ef52453daa6e9fbf",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 3/döküman 3.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 3/döküman 3.pdf",
+    "size": 459355,
+    "sha256": "03088d41e2fa0d00b617b486208364ae290255db0288d581b0c7415a9596b237",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 3/week3.pptx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 3/week3.pptx",
+    "size": 1772002,
+    "sha256": "e5f582339db6640df3db6ce1edde98ff1a70c88334526073fd465311b04e4cbf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 4/1.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 4/1.mp4",
+    "size": 61940517,
+    "sha256": "341d0ac1591f1a2c1f56e376ad5cadc56a25f77c566b7eb9e7eadd5144f7533b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 4/2.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 4/2.mp4",
+    "size": 58958202,
+    "sha256": "d8306c3e3e07232cdeb3006fe156790897c32ee7b9475c2ba83396ee0c5883cc",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 4/3.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 4/3.mp4",
+    "size": 59472462,
+    "sha256": "9c13a2b1e5812aef52b77e0fd5ea079f2e11244650c03b8baf65ada4fa1c9bdb",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 4/döküman 4.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 4/döküman 4.pdf",
+    "size": 423466,
+    "sha256": "3c2d2037bc447271ad0f3cc97dbd75bf75c8909597b2660493e2b3e4d81ea896",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 4/week4.pptx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 4/week4.pptx",
+    "size": 1425517,
+    "sha256": "b8653bdcc0816130e3f45293d41bcaa8a23e42aa477e12272672ad6d28e85519",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 5/1.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 5/1.mp4",
+    "size": 83255508,
+    "sha256": "51982fe3e03e228bcaaf383175398f0ff86b8af93f6c86d75b0de4d12259db73",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 5/2.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 5/2.mp4",
+    "size": 67987646,
+    "sha256": "b4b16794692847719f61922a4e48b1a70e86a3bdbfc7fdb31917dfaa1d0ada22",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 5/3.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 5/3.mp4",
+    "size": 82216218,
+    "sha256": "a633d4e1ead8ab68db2e586e0447af7d5ca8a2775b5d63be67950ac523b947c7",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 6/1.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 6/1.mp4",
+    "size": 7380219,
+    "sha256": "31e7fb258755d29cfe871d5295bcc21e529a3f1baf7bb57645a6cdbe5dbaa94e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 6/2.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 6/2.mp4",
+    "size": 80964987,
+    "sha256": "775ae579a513df78922fdd6dfa5726ccc54690ed142af3f6a71561c3c4c2b49c",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 6/3.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 6/3.mp4",
+    "size": 90590106,
+    "sha256": "52539bcc3afd926ce4a7df115be10ee386e5d6f37c67097dafd34cbf6e37812c",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 7/1.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 7/1.mp4",
+    "size": 75824769,
+    "sha256": "2ba2c8b11b8f2ea1cb9d3b2bc44ec97d0631f03f8de4ec87cc7a8fededcbb428",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 7/2.mp4",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 7/2.mp4",
+    "size": 65911760,
+    "sha256": "45bd7c110ce8deb049593bc3a1cb5747785146f5a84eb4069147c06288e7e577",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 8(midterm)/gokhan_kocmarli_150720821.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 8(midterm)/gokhan_kocmarli_150720821.pdf",
+    "size": 1006922,
+    "sha256": "e5cd04a61f6ad9f5e07a956ee83d55798aeb496a88b01ef4c26c8570c6bfe012",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 8(midterm)/mid_spring_14.docx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 8(midterm)/mid_spring_14.docx",
+    "size": 17254,
+    "sha256": "7dec1b1920d3e52e636bb4a1ff887f5a512fcc3eecf62fe79548f7b4a313394e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 8(midterm)/mid_spring_15.docx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 8(midterm)/mid_spring_15.docx",
+    "size": 17726,
+    "sha256": "2dbb1eb83ace79b09a1caec542ef00a4ce4ca1c7ba26ae76609d6135a5ab2246",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 8(midterm)/mid_spring_17.docx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 8(midterm)/mid_spring_17.docx",
+    "size": 29363,
+    "sha256": "0452c56d6cc60163a738477b1aa0fc887e33cd489a7d77de2d7ece9b0550a318",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 8(midterm)/mid_spring_21 (1).docx",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 8(midterm)/mid_spring_21 (1).docx",
+    "size": 17184,
+    "sha256": "46768f906ae0da0cc1de8f25700471d48b09efe078cacce30e5c30e18d30b2b5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 8(midterm)/mid_spring_21_sol.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 8(midterm)/mid_spring_21_sol.pdf",
+    "size": 108484,
+    "sha256": "1d1a9547a17e19ea76f77edecf8584dd09a7d06b0940f8b82a98a85cc60d6599",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 8(midterm)/vize_cozum.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 8(midterm)/vize_cozum.pdf",
+    "size": 301845,
+    "sha256": "fb42b6bbb316887bec87fbdce59989facd824b76595b83734fa29ef7da7580bd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18kr2yPqMQa60foFHP2xBSuSQzwetyzNv",
+    "source_member": "Probability and Random Variables/week 9/chapter7.pdf",
+    "path": "3.sinif/5.donem/STAT2056_Probability-and-Random-Variables/Probability-and-Random-Variables/Probability and Random Variables/week 9/chapter7.pdf",
+    "size": 2289866,
+    "sha256": "d18507cf473bccb32f54be02edbb0fe7e89bfbb57f49618da84eb44306a5ca6c",
+    "storage": "git"
   }
 ]
