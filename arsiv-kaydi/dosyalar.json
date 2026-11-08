@@ -1150,5 +1150,37 @@
     "size": 693325,
     "sha256": "ca8f455afa0ce2a638b3189e7bbd02e09fdf7fbd2ebad8bc115d5fce622b7314",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1MiCemKZPFRLcEKy7es5Eke6wGwwo78oe",
+    "source_member": "numerical methods/numerical methods/numerical methods/dersizlemeprogramimath259.115-07-2020-22-47-converted.pdf",
+    "path": "2.sinif/4.donem/MATH2059_Numerical-Methods/numerical-methods/numerical methods/numerical methods/numerical methods/dersizlemeprogramimath259.115-07-2020-22-47-converted.pdf",
+    "size": 166067,
+    "sha256": "e9126df53a1e490141d346542e0ab743b160d938b8333a82c43b899e693cd967",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1MiCemKZPFRLcEKy7es5Eke6wGwwo78oe",
+    "source_member": "numerical methods/numerical methods/numerical methods/math2059_final_exam_20.06.2023.pdf",
+    "path": "2.sinif/4.donem/MATH2059_Numerical-Methods/numerical-methods/numerical methods/numerical methods/numerical methods/math2059_final_exam_20.06.2023.pdf",
+    "size": 163641,
+    "sha256": "52d2f55c07510074de0dac96a14b41ef36252ea0a111eab0029b76ce306fc967",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1MiCemKZPFRLcEKy7es5Eke6wGwwo78oe",
+    "source_member": "numerical methods/numerical methods/numerical methods/Mehmet-Ali_Kamalak-150720062.pdf",
+    "path": "2.sinif/4.donem/MATH2059_Numerical-Methods/numerical-methods/numerical methods/numerical methods/numerical methods/Mehmet-Ali_Kamalak-150720062.pdf",
+    "size": 2062626,
+    "sha256": "2715bde8bfc889522a010761fd4c2bd734eb200a8c05fe76946a2704838278c1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1MiCemKZPFRLcEKy7es5Eke6wGwwo78oe",
+    "source_member": "numerical methods/numerical methods/numerical methods/numerical-methods.pdf",
+    "path": "2.sinif/4.donem/MATH2059_Numerical-Methods/numerical-methods/numerical methods/numerical methods/numerical methods/numerical-methods.pdf",
+    "size": 19980368,
+    "sha256": "f98c532bd687612f4b23304e27e331e3f17396bc36594b8605d011764df65f7a",
+    "storage": "git-lfs"
   }
 ]
