@@ -1510,5 +1510,189 @@
     "size": 242477,
     "sha256": "18d0d07e7f816970d8bca80b9de8d3e9ad4600ac7deac5c74a5f08c0f7051a67",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/ISG2 tüm slaytlar.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/ISG2 tüm slaytlar.pdf",
+    "size": 13749713,
+    "sha256": "001e28fffccc0c0b0ce2a5ce085c06ad83b128752cbd7f9a815463f49620bd51",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/01_is_hijyeni (WEEK 2).pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/01_is_hijyeni (WEEK 2).pdf",
+    "size": 699770,
+    "sha256": "99fa6e9da6f2f020837a3d42560ca6ccb3f7cb128fc5358ff14bba1941cda983",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/02_biyolojik_risk_etmenleri.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/02_biyolojik_risk_etmenleri.pdf",
+    "size": 560982,
+    "sha256": "e5f576ad678d16ec4570128107e6cf0e09c7e7f4263580e369f785c9588f6d07",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/03_saglik_gozetimi_ve_meslek_hastaliklari.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/03_saglik_gozetimi_ve_meslek_hastaliklari.pdf",
+    "size": 495761,
+    "sha256": "0ea4cc7e86af242be0c2c28787a9d80d326148c481faf15a8a191849843bd0c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/04_psikososyal_risk_etmenleri.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/04_psikososyal_risk_etmenleri.pdf",
+    "size": 321982,
+    "sha256": "042b2d0eaecd10f65a44be91bbbe0555c6487b3430b622f9de52dab15ab510cf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/05_is_kazalari.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/05_is_kazalari.pdf",
+    "size": 404456,
+    "sha256": "4dfda19be7a9276664aa2b9d47b55ed1421da1786c7327ef96390e0b164abb78",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/06_saglik_ve_guvenlik_isaretleri.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/06_saglik_ve_guvenlik_isaretleri.pdf",
+    "size": 1020636,
+    "sha256": "671adee8b8b35ff2a9e019eb814cb63fa8bdf3eba4ca195a379bfb51496d2c72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/07_kapali_alanlarda_calismalarda_is_sagligi_ve_guvenligi.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/07_kapali_alanlarda_calismalarda_is_sagligi_ve_guvenligi.pdf",
+    "size": 484088,
+    "sha256": "9c9347c542b06f3221a3dc00919dca5d84849a8cdf8b48a965da6a09c1595446",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/08_ekranli_araclarla_calismalarda_isg.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/08_ekranli_araclarla_calismalarda_isg.pdf",
+    "size": 212694,
+    "sha256": "6cb7c37df15248bff9806359ba9e2fab24f199d285a2df2c566db7c6d7c5f5f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/09_kisisel_koruyucu_donanimlar.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/09_kisisel_koruyucu_donanimlar.pdf",
+    "size": 1383324,
+    "sha256": "89298d4f5267e138c3012edf395852fd197497646f241c6b04704986782f928f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/10_havalandirma_ve_iklimlendirme_prensipleri.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/10_havalandirma_ve_iklimlendirme_prensipleri.pdf",
+    "size": 1316315,
+    "sha256": "f45e2ea0870d74e8082e6af29304486fc71c503eb7fb8903b7b83c6d615aee2b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/11_basincli_kaplarla_calismalarda_isg.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/11_basincli_kaplarla_calismalarda_isg.pdf",
+    "size": 1014156,
+    "sha256": "cc58a710c97d2f8a0825c8c7a73de7dc92232fb8432889130ae19376be672805",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/12_isyeri_bina_ve_eklentileri.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/12_isyeri_bina_ve_eklentileri.pdf",
+    "size": 248977,
+    "sha256": "a7c1b4c5009120963367d40fdac3dea7eff2143ca9c5db7444611710343eae0c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/14_insaat_isyerlerinde_isg.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/14_insaat_isyerlerinde_isg.pdf",
+    "size": 217880,
+    "sha256": "964fd6efc5fc8c46812cd103e5ff5e7364c6e2e2d2630ef59b8613d7da269733",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/calisma_hayatinda_etik.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/calisma_hayatinda_etik.pdf",
+    "size": 275517,
+    "sha256": "a59ece3a5deb7d1c553ad4f055bd4b174827a48983cb1b980d0ece561eb4e719",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/calisma_yasaminda_ozel_politika_gerektiren_gruplar.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/calisma_yasaminda_ozel_politika_gerektiren_gruplar.pdf",
+    "size": 369132,
+    "sha256": "7dd4fb602d461e9e94673cf3668a28ee55759d82af0dc02119594194a2558291",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/is_guvenligi_kontroller_ve_duzenlenecek_belgeler.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/is_guvenligi_kontroller_ve_duzenlenecek_belgeler.pdf",
+    "size": 437397,
+    "sha256": "a128491de7b078a695ebcdc9f45e2bef409296191af3b47e8e8cee91240ec403",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/kaynak_islerinde_isg.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/kaynak_islerinde_isg.pdf",
+    "size": 4529692,
+    "sha256": "19e039f997782fdd1c593549c6ccc56a6e3a642c92bb3183f1a9c599af02ac25",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/maden_isyerlerinde_isg.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/maden_isyerlerinde_isg.pdf",
+    "size": 415651,
+    "sha256": "ea43f00e362b482eb6b6ea81d81d199f876eabc444bc5501666ae6e335f5b02e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/vardiyali_calisma_ve_gece_calismasi.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/vardiyali_calisma_ve_gece_calismasi.pdf",
+    "size": 228760,
+    "sha256": "7e4e6ba84ef5a8235d6360fb3f8f8e78ef886eb2b63411c5a2ddec3bf7e4d082",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/slaytlar/yetiskin_egitimi.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/slaytlar/yetiskin_egitimi.pdf",
+    "size": 1487325,
+    "sha256": "648d2b87f75b1b22ca66392d8d46a7274940475ac7d3b84e323467bf82452ac3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/örnek sınav/ISG Vize (1).docx",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/örnek sınav/ISG Vize (1).docx",
+    "size": 3591311,
+    "sha256": "7c4246d91c800fe86f63e87929f3aa86fdd1e6a906f356d648ab658592e96bb2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ORydy_VmDNyORDeYR2zrSu8LDQvUIG9b",
+    "source_member": "İSG - 2/örnek sınav/isg2-vize.pdf",
+    "path": "1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/örnek sınav/isg2-vize.pdf",
+    "size": 382743,
+    "sha256": "4ef96cdce00602e8ed1ec5ca6c9a7a3aec5df77786bcd7009fc4e664ca748daf",
+    "storage": "git"
   }
 ]
