@@ -678,5 +678,317 @@
     "size": 93752,
     "sha256": "30b1020ee2f78cbc97f54aaee53262b99420428d2f84f07889611f0d4cce8b81",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/BIOE4072 Planning 04 03 2025.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/BIOE4072 Planning 04 03 2025.pdf",
+    "size": 1086397,
+    "sha256": "734f75028f9ca4e1c28eece3a5845ad9441bc213ea50bd02709ef4f912ea182d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/BIOE4072 Planning 25 03 2025.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/BIOE4072 Planning 25 03 2025.pdf",
+    "size": 3180380,
+    "sha256": "3ceac39b60631d5ac099964447fe11d856d5d1d59c91945719d96f62ad2afc74",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/ek-1_2209-arastirma_onerisi_formu_28.09.2022 (2).docx",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/ek-1_2209-arastirma_onerisi_formu_28.09.2022 (2).docx",
+    "size": 116256,
+    "sha256": "963b5a41934eb0508a547806499c0669ace820840bcadc64a4661cde99613cf4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/Agile, kanban, hybrid, waterfall, scrum, frascati, oslo.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/Agile, kanban, hybrid, waterfall, scrum, frascati, oslo.pdf",
+    "size": 67875,
+    "sha256": "d66649db04d537b9f4097e9459d69f45894b8012b638b6c0356e8eff7b65df00",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/bio örnek sorular gpt.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/bio örnek sorular gpt.pdf",
+    "size": 71966,
+    "sha256": "1f6a7df0ab11071ae048b7d1ff8898045a266e1154abd46066cf38a239b6cf49",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250513-WA0002.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250513-WA0002.jpg",
+    "size": 80938,
+    "sha256": "390b10fb8bf429c77216ebc437051f819bbfddf1be88766644b80a1fbc6c2531",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250520-WA0003.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250520-WA0003.jpg",
+    "size": 84242,
+    "sha256": "7029e67affe461e9b62254ca74314f8551a5b9c67c6f537d0dd2070f8f1d4b7b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0039.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0039.jpg",
+    "size": 144768,
+    "sha256": "f47de2063d4debe100e5cc067c29f990a1e9034d24afcc5e74f0012a335c04c8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0040.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0040.jpg",
+    "size": 156941,
+    "sha256": "41910933ff0e727ef9ebd4517892a2186a08c9500d96b6c421051f913e47ea11",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0042.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0042.jpg",
+    "size": 239757,
+    "sha256": "57b6d1e1478c680206eff5d94e81c38735ffea401950239e86800b46c1d0f95d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0043.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0043.jpg",
+    "size": 225114,
+    "sha256": "8dfa152ebd682cb6bf1d180938d27ebc330bb9298104d2aee7c00fae82af33c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0044.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0044.jpg",
+    "size": 147060,
+    "sha256": "698a02801230eab687f3cb650a22c77b5214646de954c45f481197cdcff1a38d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0045.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0045.jpg",
+    "size": 179802,
+    "sha256": "3c169cde02ffd5f7d94f86223cd774a0b140f8244271255954b62de9ac53b57b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0046.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0046.jpg",
+    "size": 172702,
+    "sha256": "2925cdd58d1c52751bbc766ba18dd5abe0a17bfcf6822b39ddffbdcd68d37611",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0047.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0047.jpg",
+    "size": 198887,
+    "sha256": "545d62459a57ca55a035a8aa9eb83eb8356d5d631d21e48fb3acd9d9af43fb6d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0048.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0048.jpg",
+    "size": 217300,
+    "sha256": "00ad483b09d31d4fc3f54bd860db65d38a25ee0161d23a312796e38a0b2aecd9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0049.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0049.jpg",
+    "size": 38190,
+    "sha256": "b7254353647bb91828960dc7ba6f2cdc5cd9bf2a66522eed26631cf63ab4d9a9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0050.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0050.jpg",
+    "size": 170605,
+    "sha256": "44642861de7a7fe8abfbd32a3f823476ac346eef4b9c38b0f1c8bc64ce07f30f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0051.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0051.jpg",
+    "size": 167847,
+    "sha256": "1d5c167a079dc219b2641bcabaaffeeaf7eec40fe72ac5c4edbf86bf7eb11d01",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0052.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0052.jpg",
+    "size": 190830,
+    "sha256": "6f576d26017b38d2857fca7dd5eb5dcb494b0f4c51f612ed57af132771e4e26c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0053.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0053.jpg",
+    "size": 404376,
+    "sha256": "55420f1382922f1da200f979e3599c6b734c67298b167a19e6ef6b8625ab2ad5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0054.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0054.jpg",
+    "size": 186400,
+    "sha256": "75f0bd3a8b7741a7ec1b0d30d2fb59d386deccd344873476fe86dd718a62b40d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0055.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0055.jpg",
+    "size": 181908,
+    "sha256": "b2da32dce1982e0cb1270669b2b794d4bf01e1d491dd9637145656b9eafef844",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0056.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0056.jpg",
+    "size": 164965,
+    "sha256": "3d3997138a3f7f88574eb3ae2eb6fab6d32636992dd57889ecad43a12ec045c2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0057.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0057.jpg",
+    "size": 169620,
+    "sha256": "07fa668acf16402bc46cc4f16446196792c5bb1b3ce7da1ad3c90df1d36c60c6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0058.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0058.jpg",
+    "size": 153463,
+    "sha256": "97373385283a0521df4c743e22b37b09fe5decc84376184cda6bb9a60475b00f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0059.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0059.jpg",
+    "size": 203362,
+    "sha256": "b9821120ce8f8f1154fe9c28bd5f17840ff204bc0d635f85ae86f1429a025ccf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0060.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0060.jpg",
+    "size": 186331,
+    "sha256": "e54ab993511aec6d1dd9335afb87bce9bbb855bb2849b6ebb6103cac2988fb75",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0061.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0061.jpg",
+    "size": 202753,
+    "sha256": "67bd1a8b1e1286b7300bc391708d4c6a6839d89de514caeef89a277e007aa86e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0062.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0062.jpg",
+    "size": 205318,
+    "sha256": "95702b329e19086c1866f665c1ce0d49ac233f94fbed967c93bf31e113b3f069",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/IMG-20250621-WA0063.jpg",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/IMG-20250621-WA0063.jpg",
+    "size": 226409,
+    "sha256": "1f47c533cc641393baaacee5ffc17e2a10feb9d1f600fc52769de0d655785593",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/PMI_Questions_With_Explanations.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/PMI_Questions_With_Explanations.pdf",
+    "size": 60669,
+    "sha256": "0a77de96866c338e367cbc962f0c5e7cda638b175ddba0c969de3eb76dd20f22",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/final/Scrum_Guide_Summary_and_Questions.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/final/Scrum_Guide_Summary_and_Questions.pdf",
+    "size": 94067,
+    "sha256": "905c5e10ddd16fded3118e2309ad2e6da2ea8532c2340566a00788ebeca8696c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/Frascati_Presentation.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/Frascati_Presentation.pdf",
+    "size": 340612,
+    "sha256": "b1e482918edff7c976334370be4e3806f1ead138545bceaa41e13b32a3df7af5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/how to prepare proposal.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/how to prepare proposal.pdf",
+    "size": 1076985,
+    "sha256": "eeb304de38a459af2a790f0ceeb9a17589b7c331fea80922e187e336bdc545e3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/Oslo_Presentation.pdf",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/Oslo_Presentation.pdf",
+    "size": 310334,
+    "sha256": "2908d65dbb7f99835a12812971dffb3ad91310c71e85a58f440e206d7407d194",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/PP Template.pptx",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/PP Template.pptx",
+    "size": 157831,
+    "sha256": "e148a9f1070f7c22814bb9954dc0829788895fbf202c43df5cad4966fae68e70",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/Proposal Form.doc",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/Proposal Form.doc",
+    "size": 95744,
+    "sha256": "5b49fa3676eed5e36651387d362f3b7eca3f4185e52a3646342d08f21b0c7af0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1ut-lVgTQtpsyruEGyfxLY1ho_8l1m-M5",
+    "source_member": "bio/v1 BIOE4072 Planning Proje Ekip Listesi_2025.XLS",
+    "path": "Secmeli/Fakulte-Teknik/BIOE4072_Planning-and-Management-of-Research/Planning-Management/bio/v1 BIOE4072 Planning Proje Ekip Listesi_2025.XLS",
+    "size": 50688,
+    "sha256": "a921578dfa954ba241ddc4fb3b521fd6212ec51f9ef0df7906b5bdcbec49236d",
+    "storage": "git"
   }
 ]
