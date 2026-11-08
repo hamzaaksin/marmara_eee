@@ -6,5 +6,37 @@
     "size": 66006,
     "sha256": "96e683387fd72ac286ae2a08f6ebd726c6df12a239dc13098e665e17a7bf8763",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1IBsJW-9ion8mRfGvIpOvQ5f4Umls8gDo",
+    "source_member": "digital electornic/quizler/IMG-20250412-WA0007.jpg",
+    "path": "Secmeli/Teknik/EE4012_Digital-Electronics/digital-electornic-Ahmet-unutulmaz/digital electornic/quizler/IMG-20250412-WA0007.jpg",
+    "size": 80172,
+    "sha256": "595060ffd3db7acd596dd5793d712d5a8399f98ef1b37f11156d56a4ef96bb30",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1IBsJW-9ion8mRfGvIpOvQ5f4Umls8gDo",
+    "source_member": "digital electornic/quizler/IMG-20250412-WA0008.jpg",
+    "path": "Secmeli/Teknik/EE4012_Digital-Electronics/digital-electornic-Ahmet-unutulmaz/digital electornic/quizler/IMG-20250412-WA0008.jpg",
+    "size": 506974,
+    "sha256": "54977b0575b53062fd6acfa6aefd225a4a2dbee2baa89e5666423f82fbee5350",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1IBsJW-9ion8mRfGvIpOvQ5f4Umls8gDo",
+    "source_member": "digital electornic/quizler/IMG-20250412-WA0009.jpg",
+    "path": "Secmeli/Teknik/EE4012_Digital-Electronics/digital-electornic-Ahmet-unutulmaz/digital electornic/quizler/IMG-20250412-WA0009.jpg",
+    "size": 487193,
+    "sha256": "a1ca14d686e6037d114065123af1e1280d72fb533f03d355a745d86dd00d9aec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1IBsJW-9ion8mRfGvIpOvQ5f4Umls8gDo",
+    "source_member": "digital electornic/quizler/IMG-20250412-WA0010.jpg",
+    "path": "Secmeli/Teknik/EE4012_Digital-Electronics/digital-electornic-Ahmet-unutulmaz/digital electornic/quizler/IMG-20250412-WA0010.jpg",
+    "size": 297016,
+    "sha256": "0966473a2d59876d4ec0ac37b893d747a03e2bd17a4eecd959d1eaec849413fb",
+    "storage": "git"
   }
 ]
