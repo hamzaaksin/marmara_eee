@@ -254,5 +254,61 @@
     "size": 131193,
     "sha256": "05ddd300cc3bf950cee60f13a07fa00746d0fb2587b30baab8c780661b357804",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1drKqQ0EfLZohhm56V6yZw0XnuGmfH4p3",
+    "source_member": "linear algebra/2014_midterm.pdf",
+    "path": "1.sinif/2.donem/MATH2056_Linear-Algebra/linear-algebra/linear algebra/2014_midterm.pdf",
+    "size": 435375,
+    "sha256": "05124848d0ff9d4d1cd8d7c797b746560174cdfa06d6899ec0eb5ec5a8de1017",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1drKqQ0EfLZohhm56V6yZw0XnuGmfH4p3",
+    "source_member": "linear algebra/2019_midterm_solutions.pdf",
+    "path": "1.sinif/2.donem/MATH2056_Linear-Algebra/linear-algebra/linear algebra/2019_midterm_solutions.pdf",
+    "size": 969702,
+    "sha256": "85690c6cdd855f215b243035f913ca8bc7cbf506ad8fccaf380620a2d663b00c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1drKqQ0EfLZohhm56V6yZw0XnuGmfH4p3",
+    "source_member": "linear algebra/final exam.pdf",
+    "path": "1.sinif/2.donem/MATH2056_Linear-Algebra/linear-algebra/linear algebra/final exam.pdf",
+    "size": 296783,
+    "sha256": "e807037c56d9cdac8d7254fb10479e5f60a1a34b6c2526985cf07eceb16da741",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1drKqQ0EfLZohhm56V6yZw0XnuGmfH4p3",
+    "source_member": "linear algebra/Final Solutions.pdf",
+    "path": "1.sinif/2.donem/MATH2056_Linear-Algebra/linear-algebra/linear algebra/Final Solutions.pdf",
+    "size": 6243055,
+    "sha256": "0d3903ca4dd8ea7bf95ab128be32a168d55af2c00fdae0bfd9a5172a7c11613c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1drKqQ0EfLZohhm56V6yZw0XnuGmfH4p3",
+    "source_member": "linear algebra/MATH256-2020-Final.pdf",
+    "path": "1.sinif/2.donem/MATH2056_Linear-Algebra/linear-algebra/linear algebra/MATH256-2020-Final.pdf",
+    "size": 228186,
+    "sha256": "db38fc7636646ca25422de59de9f1572101ead30e6429c1e3e270b2eb41fce94",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1drKqQ0EfLZohhm56V6yZw0XnuGmfH4p3",
+    "source_member": "linear algebra/WhatsApp Image 2022-06-07 at 11.54.21 PM (1).jpeg",
+    "path": "1.sinif/2.donem/MATH2056_Linear-Algebra/linear-algebra/linear algebra/WhatsApp Image 2022-06-07 at 11.54.21 PM (1).jpeg",
+    "size": 46805,
+    "sha256": "009a986e214b020a526a7d588942475184d600bcd8842ecb87226b4c27b68447",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1drKqQ0EfLZohhm56V6yZw0XnuGmfH4p3",
+    "source_member": "linear algebra/WhatsApp Image 2022-06-07 at 11.54.21 PM.jpeg",
+    "path": "1.sinif/2.donem/MATH2056_Linear-Algebra/linear-algebra/linear algebra/WhatsApp Image 2022-06-07 at 11.54.21 PM.jpeg",
+    "size": 46145,
+    "sha256": "e48cfd5f323121bbc061cc3735f32dcc5cd1bfabab5c4973632f6c0e618771cc",
+    "storage": "git"
   }
 ]
