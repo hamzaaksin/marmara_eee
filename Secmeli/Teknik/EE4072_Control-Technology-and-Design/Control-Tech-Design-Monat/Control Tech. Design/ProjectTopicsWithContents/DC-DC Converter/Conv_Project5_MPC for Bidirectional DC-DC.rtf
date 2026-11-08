@@ -1,0 +1,78 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica-Bold;\f1\fswiss\fcharset0 Helvetica;\f2\fswiss\fcharset0 Helvetica-BoldOblique;
+\f3\fswiss\fcharset0 Helvetica-Oblique;\f4\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red13\green14\blue17;\red0\green0\blue0;\red13\green14\blue17;
+\red255\green255\blue255;}
+{\*\expandedcolortbl;;\cssrgb\c5882\c6667\c8235;\cssrgb\c0\c0\c0;\cssrgb\c5882\c6667\c8235;
+\cssrgb\c100000\c100000\c100000;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww17300\viewh10660\viewkind0
+\deftab720
+\pard\pardeftab720\sa320\partightenfactor0
+
+\f0\b\fs36 \cf2 \expnd0\expndtw0\kerning0
+Model Predictive Control (MPC) for Bidirectional DC-DC Converter (Simulink)
+\f1\b0\fs32 \
+\pard\pardeftab720\sl264\slmult1\partightenfactor0
+
+\f0\b \cf2 1. Problem: \
+
+\f1\b0 Design and implement a Finite Control Set Model Predictive Control (FCS-MPC) strategy for a Bidirectional DC-DC Converter (e.g., a two-quadrant chopper) used to manage power flow between a 400\'a0V DC bus and a 48\'a0V battery energy storage system (BESS).\
+\pard\pardeftab720\sa320\partightenfactor0
+\cf2 \
+\pard\pardeftab720\sl264\slmult1\partightenfactor0
+
+\f0\b \cf2 2. Tasks:
+\f1\b0 \
+\pard\pardeftab720\sl264\slmult1\partightenfactor0
+
+\f2\i\b\fs28 \cf2 Bidirectional Current Tracking:
+\f0\i0\fs32  
+\f1\b0 Implement a single MPC algorithm that successfully regulates the inductor current (IL) to track a fast-changing reference in both charging (Buck mode) and discharging (Boost mode) directions.\
+\
+\pard\pardeftab720\sa320\partightenfactor0
+
+\f2\i\b\fs28 \cf2 Constraint Management
+\f3\b0 :
+\f1\i0  
+\fs32 Incorporate a cost function to minimize the difference between the predicted current and the reference, while simultaneously penalizing overshoots on the inductor current and managing the switching frequency within acceptable limits.\
+
+\f2\i\b\fs28 Real-Time Simulation:
+\f1\i0\b0  
+\fs32 Model the converter and the MPC algorithm in Simulink/Simscape to demonstrate fast dynamic response, robust mode transition, and stable operation under sudden changes in reference current.\
+\pard\pardeftab720\partightenfactor0
+
+\f2\i\b\fs28 \cf0 Control Comparison:
+\f1\i0\b0\fs32  Compare the MPC's transient performance (overshoot, settling time) against a standard \ul Cascaded PI Controlle\ulnone r for the same current reversal test.\
+\
+\pard\pardeftab720\sa320\partightenfactor0
+
+\f0\b \cf4 \cb5 \outl0\strokewidth0 \strokec4 3. Importance:
+\f1\b0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf4 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Enables optimal power management in modern energy storage systems\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Provides superior dynamic response compared to traditional control methods\cb1 \
+\ls1\ilvl0\cb5 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Ensures safe and efficient bidirectional power flow operation\
+\pard\tx720\pardeftab720\partightenfactor0
+\cf4 \cb1 \
+\pard\pardeftab720\sa320\partightenfactor0
+
+\f0\b \cf4 \cb5 4. Market Relevance:
+\f1\b0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf4 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Critical for electric vehicle powertrains and renewable energy integration\cb1 \
+\ls2\ilvl0\cb5 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Addresses growing demand for fast-charging infrastructure and grid-scale storage\cb1 \
+\ls2\ilvl0\cb5 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Supports development of next-generation smart grid and microgrid systems
+\f4 \cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\f1 \cf2 \outl0\strokewidth0 \
+}

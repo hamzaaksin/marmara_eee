@@ -1,0 +1,48 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red109\green109\blue109;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c50196\c50196\c50196;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid1\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww16680\viewh9500\viewkind0
+\deftab720
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Symbolic Control Problem: Rotary Hammer Safety Logic
+\f1\b0\fs32 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf0 Objective:
+\f1\b0  Design the 
+\f0\b Symbolic Control Strategy
+\f1\b0  (Finite State Machine) for the BLDC-driven rotary hammer to ensure operational safety by synthesizing logic that guarantees thermal and anti-bind protection.\
+\pard\pardeftab720\partightenfactor0
+\cf3 \strokec3 \
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf0 \strokec2 (a) Symbolic State Abstraction:
+\f1\b0  Define the finite operating state space X using the following states based on the motor's health and operational status:\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 X=\{NOMINAL_RUN,WARNING_HOT/DERATE,TRIP_BIND,COOLDOWN\}\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f0\b \cf0 \strokec2 \
+(b) Safety and Transition Synthesis:
+\f1\b0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls1\ilvl0
+\f0\b \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Anti-Bind Guarantee:
+\f1\b0  Determine the immediate symbolic control action (e.g., Va \uc0\u8594 OFF) and transition rule to enter the TRIP_BIND state upon detecting an instantaneous 
+\f0\b overcurrent
+\f1\b0  spike (jamming).\
+\ls1\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Thermal Derating Logic:
+\f1\b0  Define the threshold-based rules (Tw >Twarn ) that force a transition to the WARNING_HOT/DERATE state, triggering a discrete reduction in the maximum allowed motor current.\
+\ls1\ilvl0
+\f0\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Cooldown Enforceability:
+\f1\b0  Synthesize the logic required to hold the system in the COOLDOWN state until the estimated winding temperature drops to a safe level, ensuring the controller prevents immediate restart after a thermal fault.\
+}

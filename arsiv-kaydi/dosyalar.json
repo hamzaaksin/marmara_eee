@@ -1694,5 +1694,1021 @@
     "size": 382743,
     "sha256": "4ef96cdce00602e8ed1ec5ca6c9a7a3aec5df77786bcd7009fc4e664ca748daf",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Demo_Video/Demo_video.mp4",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Demo_Video/Demo_video.mp4",
+    "size": 104072592,
+    "sha256": "b28bc4d5ffc3c713934d9c9c7dafa54d240ff10696721b44b67884c886e4ca20",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Report/bode_open_loop.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Report/bode_open_loop.png",
+    "size": 33907,
+    "sha256": "a9ea3ccb4688d09c78fd9260db056236f04c724c5f212a907201ad62ec55c053",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Report/load_step_scope.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Report/load_step_scope.png",
+    "size": 55420,
+    "sha256": "9c5a27a4d7a703cbcc818f5b7d1c20ef5be6dd95e3e271698ed2364ab54383ab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Report/Report.pptx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Report/Report.pptx",
+    "size": 526136,
+    "sha256": "630f348f159ea0c1ad7b4bd80613f7f66002ceebd4069d419df2df73191a4b83",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Report/step_closed_loop.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Report/step_closed_loop.png",
+    "size": 23759,
+    "sha256": "174e473c4439627bfa7eec9ed3958a5c1792744d55970976fa526684a7ab9b9a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/buck_avg_state.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/buck_avg_state.slx",
+    "size": 84045,
+    "sha256": "9cc0905f299f07a1a71dc15c05641b88c3d98a264f1a892b9ebe397e8f5ba91d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/functions/design_pi_controller.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/functions/design_pi_controller.m",
+    "size": 229,
+    "sha256": "468362228548e10ab5bc970126f76893f608c727376e24163a3b3e33dbea9453",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/functions/get_buck_params.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/functions/get_buck_params.m",
+    "size": 454,
+    "sha256": "0978afa87a76f2ad30d500518e16cb9099b7107ea3916f53e611d5da4db329fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/main_script.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/main_script.m",
+    "size": 1431,
+    "sha256": "488cc8819be93ff05604e00a5176d9715f1c27d5348fd08b94ab88cf7c8a40b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/simulink_model.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/simulink_model.slx",
+    "size": 76092,
+    "sha256": "e2584a27967c3ee4304bac91750e4f1fd060649ed8baea56ba5e955edcd3b64a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/simulink_model.slxc",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/simulink_model.slxc",
+    "size": 5561,
+    "sha256": "73499707e3396a85a67581daee7b6ded2710623a07a5d3bebfc4bcc14cd8dad5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/slprj/sim/varcache/simulink_model/checksumOfCache.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/slprj/sim/varcache/simulink_model/checksumOfCache.mat",
+    "size": 392,
+    "sha256": "e584b5fda78280a4eb433fa2eeef63f24f01762b5bcfde3fb783131095a43561",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/slprj/sim/varcache/simulink_model/tmwinternal/simulink_cache.xml",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/slprj/sim/varcache/simulink_model/tmwinternal/simulink_cache.xml",
+    "size": 376,
+    "sha256": "4d48c314a483213516f10fb0c7f8bf2eb84568d540bf35208f517cad070a3609",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/slprj/sim/varcache/simulink_model/varInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/ASSIGNMENT_Group10_MehmetAliKamalak150720062_AtahanKaraoğluol150722057/Source Code/slprj/sim/varcache/simulink_model/varInfo.mat",
+    "size": 320,
+    "sha256": "8ee885d0228e07cca9048e58efdc6549d7cf1a51bed9bcd1b0143147470578e7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/buck_avg_state.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/buck_avg_state.slx",
+    "size": 84045,
+    "sha256": "9cc0905f299f07a1a71dc15c05641b88c3d98a264f1a892b9ebe397e8f5ba91d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/Conv_Project4_BuckConverterLEDDriver.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/Conv_Project4_BuckConverterLEDDriver.rtf",
+    "size": 3998,
+    "sha256": "5a4d32948c0ffcaf9ea6a4acb852efcc9472aabe0acfe4408b062ef839d130f0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/functions/design_pi_controller.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/functions/design_pi_controller.m",
+    "size": 229,
+    "sha256": "468362228548e10ab5bc970126f76893f608c727376e24163a3b3e33dbea9453",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/functions/get_buck_params.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/functions/get_buck_params.m",
+    "size": 454,
+    "sha256": "0978afa87a76f2ad30d500518e16cb9099b7107ea3916f53e611d5da4db329fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/main_script.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/main_script.m",
+    "size": 1431,
+    "sha256": "488cc8819be93ff05604e00a5176d9715f1c27d5348fd08b94ab88cf7c8a40b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/REPORT FORMAT AND EVALUATION.pdf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/REPORT FORMAT AND EVALUATION.pdf",
+    "size": 170414,
+    "sha256": "bb252e9aa54b9ffa903cbe329e6a0fc5ca7392522a4d35a8bc7027a4f144e8bd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/simulink_model.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/simulink_model.slx",
+    "size": 76092,
+    "sha256": "e2584a27967c3ee4304bac91750e4f1fd060649ed8baea56ba5e955edcd3b64a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/simulink_model.slxc",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/simulink_model.slxc",
+    "size": 5198,
+    "sha256": "923ee300cb03f205803de343db91ac997078ae1574be53b133dfafe237e21fd1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/slprj/sim/varcache/simulink_model/checksumOfCache.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/slprj/sim/varcache/simulink_model/checksumOfCache.mat",
+    "size": 392,
+    "sha256": "5802e1f0259e6982331adb6e05f2c3883f89a4f813c476e763b4bd24d81f3318",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/slprj/sim/varcache/simulink_model/tmwinternal/simulink_cache.xml",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/slprj/sim/varcache/simulink_model/tmwinternal/simulink_cache.xml",
+    "size": 376,
+    "sha256": "7036a93377449f0afff2fc070736451ba70cc5e2cf582e00269abb026b9635a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/control proje_vize/slprj/sim/varcache/simulink_model/varInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/control proje_vize/slprj/sim/varcache/simulink_model/varInfo.mat",
+    "size": 2744,
+    "sha256": "e7477e6e4ae802cfe370ef34863f970662029725f86a501489edf3f2fdca2d25",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/Q1a_VF_PI.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/Q1a_VF_PI.slx",
+    "size": 98147,
+    "sha256": "3ade25f49e955d5772e13185d9b96494a076e20a5d6e092299471042dc078ee7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/Q1c_VF_PI.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/Q1c_VF_PI.slx",
+    "size": 107385,
+    "sha256": "a1579a0f05c9a07eaa88561f8de238fcd916cb6aaac875174ce5fbc6cc105406",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/Q1c_VF_PI.slxc",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/Q1c_VF_PI.slxc",
+    "size": 5666,
+    "sha256": "49331dc8d6f39899a9ec3d1d7ebf462aed053b2276814251f2df1e4270ecff12",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/Q1_TL_sweep.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/Q1_TL_sweep.m",
+    "size": 4354,
+    "sha256": "b6d279598beffdd44e4cb65dc71ba4a2a832e5814b170936c03aab430b2ed4a3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/simulink.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/simulink.png",
+    "size": 62805,
+    "sha256": "7ca0d1468801e15cb1fcfc95d58b67144a8e5ce64612a0cd4d77dcaeb87ac2ba",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1a_IM_openloop/checksumOfCache.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1a_IM_openloop/checksumOfCache.mat",
+    "size": 392,
+    "sha256": "d81ef8a956b8254c44737cfc27eb8b52ce814deb3d3ed88cb06cedf2bf711d40",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1a_IM_openloop/tmwinternal/simulink_cache.xml",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1a_IM_openloop/tmwinternal/simulink_cache.xml",
+    "size": 376,
+    "sha256": "ce227c3c1dd28df2aae36f3558d15128fae2bc3cd26914225053721960817d72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1a_IM_openloop/varInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1a_IM_openloop/varInfo.mat",
+    "size": 664,
+    "sha256": "46dc5e7ab5057ee6917894505a1f4f0544859bc145b515fe76e09a49dcf97e7d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1c_VF_PI/checksumOfCache.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1c_VF_PI/checksumOfCache.mat",
+    "size": 392,
+    "sha256": "0aab2b911fa3c1e967b003bac5ccc2025f6baf9ae831408c0dc4efcef4aae111",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1c_VF_PI/tmwinternal/simulink_cache.xml",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1c_VF_PI/tmwinternal/simulink_cache.xml",
+    "size": 376,
+    "sha256": "605ade81bedbdd19548e4e29f330222381e9372e2345aba29dd137ee0aa0a962",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1c_VF_PI/varInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/sim/varcache/Q1c_VF_PI/varInfo.mat",
+    "size": 664,
+    "sha256": "c96461250a577b983777bef7ace921d1720cf4a053dcb17c6f2ad8aed6ab8607",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/_sfprj/EMLReport/emlReportAccessInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/_sfprj/EMLReport/emlReportAccessInfo.mat",
+    "size": 753,
+    "sha256": "ecb1ed9fc470e4f934c246cbe1fc87b24591269df0fdb545ff9e74853def3a59",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/_sfprj/EMLReport/slqRgWX14dYh6btSoWNkpwB.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/_sfprj/EMLReport/slqRgWX14dYh6btSoWNkpwB.mat",
+    "size": 92933,
+    "sha256": "4aec6b7a625984b53f3c7c424e8c515b491619923ea37178c35b5957cb9e3b2e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/_sfprj/Q1c_VF_PI/amsi_serial.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/_sfprj/Q1c_VF_PI/amsi_serial.mat",
+    "size": 228,
+    "sha256": "bce09612a64e8a6ea440025165f68086d477da26b6d1ee5efa9ee1cac8027182",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/_sfprj/Q1c_VF_PI/_self/sfun/info/binfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/slprj/_sfprj/Q1c_VF_PI/_self/sfun/info/binfo.mat",
+    "size": 676,
+    "sha256": "e77eef08975f98c0a9a4fa1b6821f59a4211f074832d8f128abcd316cc72a603",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/untitled1.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q1/untitled1.m",
+    "size": 731,
+    "sha256": "36c33eed63a2aa02aa4913afe091b24962ca38362b6cb56fdd6de3d699590401",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/bldc_6step_speed.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/bldc_6step_speed.slx",
+    "size": 164053,
+    "sha256": "a2d0a5ef4aa8e116ff87ded375f80f1a576fb69053c6f561e43f8ea6d6846a8d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/current_scope.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/current_scope.png",
+    "size": 27212,
+    "sha256": "0e350463213c338aa1c93f94b59b6d1b9e6896b748a9a3390b95d2d3cf69da55",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/current_scope2.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/current_scope2.png",
+    "size": 22277,
+    "sha256": "a236ec5f762acb900c312b6aafe788dda613b17da6ff54c09099c6c3d93ba202",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/jitEngineAccessInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/jitEngineAccessInfo.mat",
+    "size": 793,
+    "sha256": "9884bb5f07d96fdf4ccf190a4a8659802468a52514c16fcd3478c8f9cd9ff5b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/sAtS2j9gGqUc6Jb1WNvkEYB.l",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/sAtS2j9gGqUc6Jb1WNvkEYB.l",
+    "size": 10164,
+    "sha256": "91e476b1f3cfb33ee3c5a6f287ec83da529eddc1bf965322835b2bef2b560606",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/sAtS2j9gGqUc6Jb1WNvkEYB.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/sAtS2j9gGqUc6Jb1WNvkEYB.mat",
+    "size": 1273,
+    "sha256": "0dee4f3ca6d30a350d2a682d6cfceecebc9bd50621c6f801b0273ff5770dfb50",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/sbX4tIhuOBwMpMqPXxCDdmG.l",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/sbX4tIhuOBwMpMqPXxCDdmG.l",
+    "size": 7864,
+    "sha256": "e585f045d45f7cc04242b21206f62eac222d5b4f4618e8b4439822fbe6d8d6d7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/sbX4tIhuOBwMpMqPXxCDdmG.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_jitprj/sbX4tIhuOBwMpMqPXxCDdmG.mat",
+    "size": 1244,
+    "sha256": "1f62a4e826b22df68d101b3ea791007c62f8ececc7096b429c0177a16fa8af0f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/bldc_6step_speed/amsi_serial.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/bldc_6step_speed/amsi_serial.mat",
+    "size": 238,
+    "sha256": "ad1a081569c02535715f34ae6c63fa58922e1a6840050377293fed749aa66357",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/bldc_6step_speed/_self/sfun/info/binfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/bldc_6step_speed/_self/sfun/info/binfo.mat",
+    "size": 819,
+    "sha256": "72359b2c6fb51deec6a970fb08f2719ffdbfb27434d190e769aa210aa21e3426",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/EMLReport/emlReportAccessInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/EMLReport/emlReportAccessInfo.mat",
+    "size": 794,
+    "sha256": "d3c0ebb051ed30d8eeb5438f7555719a0cc7d56624788ad551dd7a86c859e7a4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/EMLReport/sAtS2j9gGqUc6Jb1WNvkEYB.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/EMLReport/sAtS2j9gGqUc6Jb1WNvkEYB.mat",
+    "size": 42671,
+    "sha256": "9902314cf65b63f06a27aaf807ba177c6683e731e03011592fc219fd368609a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/EMLReport/sbX4tIhuOBwMpMqPXxCDdmG.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/EMLReport/sbX4tIhuOBwMpMqPXxCDdmG.mat",
+    "size": 2111,
+    "sha256": "87cfc2bc94847518e90bf81b4c5f1224cc62e44d3b1f9a82744e2618c671ee74",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/precompile/autoInferAccessInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/precompile/autoInferAccessInfo.mat",
+    "size": 825,
+    "sha256": "b5dde852835d22d3c66f328b98bbdcbd726089838bb2ce770560f19d19f06656",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/precompile/hQPpKNcvWllvyaSFL1VrlD.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/precompile/hQPpKNcvWllvyaSFL1VrlD.mat",
+    "size": 655,
+    "sha256": "2e49937b63b6f9d63ae2dc135647b1ca453dfb90a39893824083ff3e9021e972",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/precompile/VKOb65noJefbVTyWePn2VG.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/precompile/VKOb65noJefbVTyWePn2VG.mat",
+    "size": 677,
+    "sha256": "ac13867fdade45cf3df279a7eafebda9c608accac0634b1a395bf7024c5876d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/precompile/z5qwGYDPaZPmb6i5pEPdAH.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/slprj/_sfprj/precompile/z5qwGYDPaZPmb6i5pEPdAH.mat",
+    "size": 701,
+    "sha256": "67eebfa1dfce5ac9356648e074cb5c593da206d72b193d4f66878603dda91726",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/speed_scope.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/speed_scope.png",
+    "size": 16943,
+    "sha256": "5ebf705468463d61a5c5424a8ccbeaadc076b34cc96904f83b50a8f0d110190c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/speed_scope2.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/speed_scope2.png",
+    "size": 17697,
+    "sha256": "db8f7edc205a963f34f0bbddb177502fef925eec3e79afe39c8c5e3c0e7053b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/torque_scope.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/torque_scope.png",
+    "size": 19688,
+    "sha256": "75504333c444f21d2914eab1fba41d44c47d0e1491597ae3bd13435d854e326b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/torque_scope2.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q2/torque_scope2.png",
+    "size": 17113,
+    "sha256": "8fae7c227cb721920c86e03ffbbe34615048ebb8193bbf5813c51d104c3e4f03",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/1_I-V.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/1_I-V.png",
+    "size": 26771,
+    "sha256": "f174a41c942b631af395cf6cd273580df45037d34055667888e1dcdb413032de",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/2_P-V.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/2_P-V.png",
+    "size": 27053,
+    "sha256": "a0f7434091f211b4baf40a67ac9dcc736926cce51074111ce56f1b771e164c0e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Bypass part2.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Bypass part2.png",
+    "size": 2379667,
+    "sha256": "41378efb143ad79936c2852a526fbf7e9b83ef378e0ca9bb776e0a87a9f94807",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Partial I–V part2.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Partial I–V part2.png",
+    "size": 1763046,
+    "sha256": "61ac170946195cd7c1cef5a617408ce4b96c08655c88324b7d2cc1420ecd5fc2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Partial P–V part2.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Partial P–V part2.png",
+    "size": 2046712,
+    "sha256": "10f1805c3cadaee20aa7016ed48419e09865fce21758244fadb76c77464bc506",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Q3_Partial.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Q3_Partial.slx",
+    "size": 102407,
+    "sha256": "c109dc038c82a287b11bab680bab88afebf5cdd4f0538fe9dcd06920f7fb5290",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Q3_Uniform.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q3/Q3_Uniform.slx",
+    "size": 94175,
+    "sha256": "0ec332ae8e3fc161af1e8999ebeca20367558f06d59c109aa809b73d72d831a8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/export_Q4_figs.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/export_Q4_figs.m",
+    "size": 1345,
+    "sha256": "5e43cebc02c1e28c6c2d1910792d988b282d54cdd0c08e1e3cf9b9361d3ff118",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/distrubancedhat.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/distrubancedhat.png",
+    "size": 23392,
+    "sha256": "3e327ac99ce721f42740d993ece34f8a6db18c5eef4acbc1128358bba6dc669f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/distrubanceheaterpower.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/distrubanceheaterpower.png",
+    "size": 19609,
+    "sha256": "8b855decbb8f4a2d61ea97a665b97b52a305f18c2f56640e226724acbd6c2a3e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/distrubancetemperature.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/distrubancetemperature.png",
+    "size": 25314,
+    "sha256": "e0211dd575c819cc5306476e191a2095c51253609eb20bcc9378be356012f7ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/setpointdhat.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/setpointdhat.png",
+    "size": 35205,
+    "sha256": "d97f1b443488cedf2f078efce81f3564dc72e6960f2267d8f092209aec79c5f5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/setpointheaterpower.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/setpointheaterpower.png",
+    "size": 17404,
+    "sha256": "8607f6e80a7e50563b3885d0a7859e15fe7ec4b0e8817ef9b4e2e48a608c8038",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/setpointtemperature.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/figs_Q4/setpointtemperature.png",
+    "size": 23307,
+    "sha256": "7033edddca32adc3cbe824252be7a373bf4453f296ca1bf2345c8575ec4da751",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/Q4_disturb_out.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/Q4_disturb_out.mat",
+    "size": 47739,
+    "sha256": "eb4ec3f2d779f9b3f31e3a4d56f8e461461a9781e8f17c3fdc739ba9f6a0f0c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/Q4_ObserverTank.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/Q4_ObserverTank.slx",
+    "size": 85907,
+    "sha256": "a7f160ff5a93c94655abab048e5d2b8a307b98cc07de3f6961684e9e97fc88bc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/Q4_ObserverTank.slxc",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/Q4_ObserverTank.slxc",
+    "size": 5204,
+    "sha256": "a514b915fdfd97f08f0eaf726122acb08ebb0673e0ffe62d3d3b11a465665820",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/Q4_setpoint_out.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/Q4_setpoint_out.mat",
+    "size": 50223,
+    "sha256": "9f789316adc2235407ae418362cc0c7c84755ac95acbb820776afdcba6bdbb27",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/run_all.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/run_all.m",
+    "size": 203,
+    "sha256": "56b1823efe82d61f11c60e7bab1ccf38723f6d28e8200097457a62b53d6034f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/slprj/sim/varcache/Q4_ObserverTank/checksumOfCache.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/slprj/sim/varcache/Q4_ObserverTank/checksumOfCache.mat",
+    "size": 392,
+    "sha256": "f9bb744f9d4d96badd79741e9346912b18cd8f04432bcc1f1a63d9af5962bdce",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/slprj/sim/varcache/Q4_ObserverTank/tmwinternal/simulink_cache.xml",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/slprj/sim/varcache/Q4_ObserverTank/tmwinternal/simulink_cache.xml",
+    "size": 376,
+    "sha256": "3c4a0ec92d697b5f86ce30ad91e2741ab57c126483c7ab3f00018c575c2b046a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/slprj/sim/varcache/Q4_ObserverTank/varInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/slprj/sim/varcache/Q4_ObserverTank/varInfo.mat",
+    "size": 4104,
+    "sha256": "9f88c22e83f54edf9dcc435ab24b5da56fcb05593b6694d368515526cfd18d71",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/tank_design.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q4/tank_design.m",
+    "size": 1717,
+    "sha256": "3cc5b4da416ddb6f26c9f1c10db8cdf2c99b03e450e704e81cea24c3f77bd7ab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/PV power vs time.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/PV power vs time.png",
+    "size": 22998,
+    "sha256": "b134e5ef095b4e556b0e491e59dc4614c9b57b7dfa22facef48f7b82eb38aee0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/PV voltage vs time.png",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/PV voltage vs time.png",
+    "size": 18679,
+    "sha256": "ca6966e37456bbee081233939007058d4a3defab9066a1a5d2cc4d94fe39827f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/Q5.slxc",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/Q5.slxc",
+    "size": 5087,
+    "sha256": "1cee4d8d5255d7b7f264ead81d05f1ccbe4fab9b97292c02be1a8d4a7a3c4646",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/Q5_MPPT.slx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/Q5_MPPT.slx",
+    "size": 140903,
+    "sha256": "4e7bad9537eb32a87fa0c0f1ee6610b2adc13254e5b84407867c5484ec52be99",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/Q5_MPPT.slxc",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/Q5_MPPT.slxc",
+    "size": 5778,
+    "sha256": "42f6fa7b036099129b9240c5d00ab25d6836d49d0a51b2d089223a7e28657fd7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/run_Q5.m",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/run_Q5.m",
+    "size": 2406,
+    "sha256": "8ad4c15d6769a1bfca4143ad207c7a8982b86055611fcbfc32abc4d7010a976b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5/checksumOfCache.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5/checksumOfCache.mat",
+    "size": 392,
+    "sha256": "4e78c793a72952442d4351035eccce31753e5a0da2090193f9391f0ec9d9c297",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5/tmwinternal/simulink_cache.xml",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5/tmwinternal/simulink_cache.xml",
+    "size": 376,
+    "sha256": "43ef5057bb2923b1662d1c2cf2d065b224a2de028f51e4e19f0f12b377a59778",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5/varInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5/varInfo.mat",
+    "size": 1024,
+    "sha256": "f3bfc60d6d16c333188cb8b0df47f44e19894784030b210d82c194bec8b13f59",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5_MPPT/checksumOfCache.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5_MPPT/checksumOfCache.mat",
+    "size": 392,
+    "sha256": "3a82578fbc9af064277e5bfea75ec93e35e5a153744153ed03c12dce59b7ca9d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5_MPPT/tmwinternal/simulink_cache.xml",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5_MPPT/tmwinternal/simulink_cache.xml",
+    "size": 376,
+    "sha256": "fe1877b50a562714df8a17e762197140fb7dfa8b333252874290416c46426167",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5_MPPT/varInfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/sim/varcache/Q5_MPPT/varInfo.mat",
+    "size": 2784,
+    "sha256": "ae8f40ce86c507f8116b023a1da779c2368d78d80a32a667880ca05643f792f0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_jitprj/s47a4L0fsaaKbcBKzc7xtxB.l",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_jitprj/s47a4L0fsaaKbcBKzc7xtxB.l",
+    "size": 14744,
+    "sha256": "a7ec766ac26cdcf897ffe7c30ab353e28d5cb131cc622df8b275f14db9a130c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_jitprj/s47a4L0fsaaKbcBKzc7xtxB.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_jitprj/s47a4L0fsaaKbcBKzc7xtxB.mat",
+    "size": 1352,
+    "sha256": "978c7c4c01daec852ac36fc5b39cf08d3915e0e4e449f3852360149c5a64df66",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/EMLReport/s47a4L0fsaaKbcBKzc7xtxB.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/EMLReport/s47a4L0fsaaKbcBKzc7xtxB.mat",
+    "size": 15981,
+    "sha256": "2e87fa693b131c5e3d29e167b57564661ac8f997e298a145eff7747f5d6e8a76",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/precompile/9eqAC39mz1aImyosplZKOF.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/precompile/9eqAC39mz1aImyosplZKOF.mat",
+    "size": 679,
+    "sha256": "a39e6a73ade9542d79891573f6264dbb597c2a70f5b4b2f66f693d371fd7f0a9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/precompile/obZkjxRcZS6DuniuGFaQHF.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/precompile/obZkjxRcZS6DuniuGFaQHF.mat",
+    "size": 703,
+    "sha256": "fd028b75e7f1b20086f037b9486122044c6db3526c14a2ee2e1231b33cf410b2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/Q5/amsi_serial.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/Q5/amsi_serial.mat",
+    "size": 225,
+    "sha256": "14627d6265f369610c6dbd17c3ff1d66dd0424f5e503405fe1f515c078130f74",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/Q5/_self/sfun/info/binfo.mat",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/final_project_matlab/Q5/slprj/_sfprj/Q5/_self/sfun/info/binfo.mat",
+    "size": 762,
+    "sha256": "63a76f5ee9752d4a8e36a5cfe55f6edb87252e68d6a43feefbd9a71c0b48af62",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/MehmetAli_Kamalak_150720062_Final_project_report.docx",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/MehmetAli_Kamalak_150720062_Final_project_report.docx",
+    "size": 7768304,
+    "sha256": "f03cec26aca1c0cd10396824072563d6c47c0e4f6e5f1147b75b64354db1f93c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/MehmetAli_Kamalak_150720062_Final_project_report.pdf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/MehmetAli_Kamalak_150720062_Final_project/MehmetAli_Kamalak_150720062_Final_project_report.pdf",
+    "size": 1622129,
+    "sha256": "a5ba5f3380eaef8fcda56151576603d3d1a74c4d2c7442277916f27e32302213",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/AC-DC Converter/A Single Stage Flyback Power Supply Unit for LED lighting Applications.pdf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/AC-DC Converter/A Single Stage Flyback Power Supply Unit for LED lighting Applications.pdf",
+    "size": 635605,
+    "sha256": "cc101c5f4c9eb445cec2ae8ed7a113a9fd65919093233497cb4a269e848ea83b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/AC-DC Converter/AC-DC_Project1_Flyback_Converter.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/AC-DC Converter/AC-DC_Project1_Flyback_Converter.rtf",
+    "size": 6216,
+    "sha256": "56b6a5862dccc304ce2a6fbaef143ff5f31a0a8eaec7c67810f769f9bcc17f36",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/BIN/DC_Project6_Rotary Hammer Safety Logic.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/BIN/DC_Project6_Rotary Hammer Safety Logic.rtf",
+    "size": 2858,
+    "sha256": "505f1b5fdf2db823efed179d5bdff0b12df723ac4f7273a09eafc0dab1f805c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/BIN/DC_Project7_ Symbolic Control Synthesis for DC Motor Drive Safety.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/BIN/DC_Project7_ Symbolic Control Synthesis for DC Motor Drive Safety.rtf",
+    "size": 7666,
+    "sha256": "f228acdb5b23265bafdc77c471125c7648b68b992bd6214da229e24c742ad487",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project1_Armature_vs_FieldControl.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project1_Armature_vs_FieldControl.rtf",
+    "size": 1338,
+    "sha256": "bf564b989e6cb1a3d0d6bc06d4a44d219f007634a3834e7616967f2ebc580973",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project2_ThermalProtection.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project2_ThermalProtection.rtf",
+    "size": 1218,
+    "sha256": "e9b4606c6b208554eb608d401b727ae92a2e191638aff0ff5c28c798268464cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project3_DC Motor_SpeedPos.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project3_DC Motor_SpeedPos.rtf",
+    "size": 3494,
+    "sha256": "f21cdb4f5f41eef7051ade568d0c7a3d395a577f3b0a43873c645425c7c5fbfd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project4_DC Motor_SimthPredictor.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project4_DC Motor_SimthPredictor.rtf",
+    "size": 4101,
+    "sha256": "a44f1d9c14887ea2df5794ae63169af078adebf7f04baeecb2c7d4678fec4025",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project5_Hilti Rotary Hammer Safety.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC Motor Control/DC_Project5_Hilti Rotary Hammer Safety.rtf",
+    "size": 3656,
+    "sha256": "25eedcc122ec5e84548b635b26ab9a068c57d0fc053cb04810a12b12d4ae2158",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project1_BoostConverter.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project1_BoostConverter.rtf",
+    "size": 2815,
+    "sha256": "ad721ee6918ae0a33e70fe0477b1d157fd016dfea85ce327adec751ae98036cc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project2_Bidirectional_BatteryStorage.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project2_Bidirectional_BatteryStorage.rtf",
+    "size": 2788,
+    "sha256": "e820e27179d2b89aa24da2a626d00e695a5683f2ad1c51b78b8f449b8b32b10b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project3_Optimal Flyback Converter.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project3_Optimal Flyback Converter.rtf",
+    "size": 1933,
+    "sha256": "ee9b6d3a38fbe4b7b69356f7804525177ba0766aa4b4c993086704a3afa6eba4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project4_BuckConverterLEDDriver.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project4_BuckConverterLEDDriver.rtf",
+    "size": 3998,
+    "sha256": "5a4d32948c0ffcaf9ea6a4acb852efcc9472aabe0acfe4408b062ef839d130f0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project5_MPC for Bidirectional DC-DC.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/DC-DC Converter/Conv_Project5_MPC for Bidirectional DC-DC.rtf",
+    "size": 4853,
+    "sha256": "c89b7db19e44341e664776147626b253294f706077b599419191506f23fdd683",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/SolarPanel/SP_Project1_ Two-Stage Solar Battery Charger.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/SolarPanel/SP_Project1_ Two-Stage Solar Battery Charger.rtf",
+    "size": 5266,
+    "sha256": "08e09d8a459118b6c7821183810f8468526f4d2461e3bce374199cfc498fa99f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/SolarPanel/SP_Project2_PV_Temperature-Based Efficiency.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/SolarPanel/SP_Project2_PV_Temperature-Based Efficiency.rtf",
+    "size": 4690,
+    "sha256": "fbe48409f1639fde82128a5955f4138a088bbaeefd64affc581bbba115352a2d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/ProjectTopicsWithContents/SolarPanel/SP_Project3_PV_MPPT-Integrated Solar Charge Controller with Adaptive Battery Management.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/ProjectTopicsWithContents/SolarPanel/SP_Project3_PV_MPPT-Integrated Solar Charge Controller with Adaptive Battery Management.rtf",
+    "size": 4830,
+    "sha256": "e51bb564d9ee92bfd0ef2f7732a2467c76ceb7ea10b4574a2864a8b73f7bad6e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/YeniKonuİçerikleri/Conv_Project6_ Interleaved Buck Converter for High-Current LED Driving.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/YeniKonuİçerikleri/Conv_Project6_ Interleaved Buck Converter for High-Current LED Driving.rtf",
+    "size": 5301,
+    "sha256": "26a2e4f82deb518196414fbb50ff582374a605aa58339ef806595ed8fed4dff5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/YeniKonuİçerikleri/DC_DRIVE_Project1_Four-Quadrant DC Drive System for Industrial Hoist Application.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/YeniKonuİçerikleri/DC_DRIVE_Project1_Four-Quadrant DC Drive System for Industrial Hoist Application.rtf",
+    "size": 5568,
+    "sha256": "769077519b17df0190180b8ba9d01385f45965942601ea61a282dc5a0b03dcd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/YeniKonuİçerikleri/DC_Project6_Adaptive Field Weakening Control for High-Speed DC Motor Applications.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/YeniKonuİçerikleri/DC_Project6_Adaptive Field Weakening Control for High-Speed DC Motor Applications.rtf",
+    "size": 5359,
+    "sha256": "e29df48aae3ca4fa25e50b51e02a412c396b177bc372d1b212ac6334427e10f9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1fpwnQBVSy734ROqBF2J9WxP1-PI8ePmk",
+    "source_member": "Control Tech. Design/YeniKonuİçerikleri/SP_Project3_PV_MPPT-Integrated Solar Charge Controller with Adaptive Battery Management.rtf",
+    "path": "Secmeli/Teknik/EE4072_Control-Technology-and-Design/Control-Tech-Design-Monat/Control Tech. Design/YeniKonuİçerikleri/SP_Project3_PV_MPPT-Integrated Solar Charge Controller with Adaptive Battery Management.rtf",
+    "size": 4830,
+    "sha256": "e51bb564d9ee92bfd0ef2f7732a2467c76ceb7ea10b4574a2864a8b73f7bad6e",
+    "storage": "git"
   }
 ]
