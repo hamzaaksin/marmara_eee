@@ -222,5 +222,37 @@
     "size": 110111,
     "sha256": "f97802ff3b85320ae9c69e1ee8c345bad1da4853ec140962091e452b1c2c9e00",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1S0Av-M_rGgXhdK3t9htGmWrMPOSewkGO",
+    "source_member": "entrepreneurship/BUS1003.2 GROUP 4.pdf",
+    "path": "Secmeli/Teknik-Olmayan/BUS1003_Entrepreneurship-and-Innovation/Entrepreneurship-Inovation-Hulya-Aslanoglu/entrepreneurship/BUS1003.2 GROUP 4.pdf",
+    "size": 1670498,
+    "sha256": "926e848dfd58e89dc83e4dd2b9d4d35a46606cf1b56ecf85ab6ea01963828574",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1S0Av-M_rGgXhdK3t9htGmWrMPOSewkGO",
+    "source_member": "entrepreneurship/son bus1003.2 group4 rapor[1].pdf",
+    "path": "Secmeli/Teknik-Olmayan/BUS1003_Entrepreneurship-and-Innovation/Entrepreneurship-Inovation-Hulya-Aslanoglu/entrepreneurship/son bus1003.2 group4 rapor[1].pdf",
+    "size": 1088040,
+    "sha256": "fd0b3139c5b18892fdcae522eaa054aef442356a9e4e3cf4ec43fb909b2250c1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1S0Av-M_rGgXhdK3t9htGmWrMPOSewkGO",
+    "source_member": "entrepreneurship/sunum.txt",
+    "path": "Secmeli/Teknik-Olmayan/BUS1003_Entrepreneurship-and-Innovation/Entrepreneurship-Inovation-Hulya-Aslanoglu/entrepreneurship/sunum.txt",
+    "size": 1778,
+    "sha256": "2cab200065332db8e1df36774b6ffbc55e14b37a78c3196f397c546e2b4d7f03",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1S0Av-M_rGgXhdK3t9htGmWrMPOSewkGO",
+    "source_member": "entrepreneurship/WhatsApp Görsel 2023-09-07 saat 20.19.50.jpg",
+    "path": "Secmeli/Teknik-Olmayan/BUS1003_Entrepreneurship-and-Innovation/Entrepreneurship-Inovation-Hulya-Aslanoglu/entrepreneurship/WhatsApp Görsel 2023-09-07 saat 20.19.50.jpg",
+    "size": 131193,
+    "sha256": "05ddd300cc3bf950cee60f13a07fa00746d0fb2587b30baab8c780661b357804",
+    "storage": "git"
   }
 ]
