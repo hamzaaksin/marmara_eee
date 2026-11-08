@@ -13710,5 +13710,85 @@
     "size": 8995982,
     "sha256": "20edabda4986396bbb171de9abb5e7361fe6ae0a1a779f31532a4464ba858c33",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/Alan V. Oppenheim, Alan S. Willsky, with S. Hamid-Signals and Systems-Prentice Hall (1996).pdf",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/Alan V. Oppenheim, Alan S. Willsky, with S. Hamid-Signals and Systems-Prentice Hall (1996).pdf",
+    "size": 36066870,
+    "sha256": "74599fa17719c41cd5a4f75cbee23cbabae758909c77e575fcacebf6c45ccdb2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/mehmet_ali_kamalak_150720062_HW_1.pdf",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/mehmet_ali_kamalak_150720062_HW_1.pdf",
+    "size": 3161521,
+    "sha256": "dc027441df47a81d208126bdab30f3bdba4f7ae212df89d5d43343428ebd35ed",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/mehmet_ali_kamalak_150720062_HW_2.pdf",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/mehmet_ali_kamalak_150720062_HW_2.pdf",
+    "size": 1975849,
+    "sha256": "b8aef8ca9806f98c4e86ad74643800cdf2e869231d2f735a80882370b1dbd393",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/mehmet_ali_kamalak_150720062_HW_3.pdf",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/mehmet_ali_kamalak_150720062_HW_3.pdf",
+    "size": 2459604,
+    "sha256": "c54c90bc34930245e0f9e9f8b0d5363fdd3f7910dc065a1e6532260619f6f239",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/mehmet_ali_kamalak_HW4.pdf",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/mehmet_ali_kamalak_HW4.pdf",
+    "size": 2225232,
+    "sha256": "752752fc7b10bf18f261869bfa508d98373b0c981809fe63c70216f12bea4844",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/pdfcoffee.com_oppenheim-signal-and-systems-manual-solution-2-pdf-free.pdf",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/pdfcoffee.com_oppenheim-signal-and-systems-manual-solution-2-pdf-free.pdf",
+    "size": 85530029,
+    "sha256": "860932333b19875b4490d10bae28add389e85a035530c6fa180341363ffee1fe",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/Yeni WinRAR ZIP archive.zip!/Mehmet_ali_kamalak_150720062/boats.jpg",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/Yeni WinRAR ZIP archive__acilmis/Mehmet_ali_kamalak_150720062/boats.jpg",
+    "size": 55168,
+    "sha256": "ba2b5aef5ff9967dde03372860d4701f0497ebf69e6bcd96d68e2d7a965e1f24",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/Yeni WinRAR ZIP archive.zip!/Mehmet_ali_kamalak_150720062/lena.jpg",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/Yeni WinRAR ZIP archive__acilmis/Mehmet_ali_kamalak_150720062/lena.jpg",
+    "size": 46130,
+    "sha256": "3479441c2979cd9cf21cec9e15462b01a8f65bb07b555932bff23c1f4f3fc67a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/Yeni WinRAR ZIP archive.zip!/Mehmet_ali_kamalak_150720062/Mehmet_Ali_Kamalak_150720062.docx",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/Yeni WinRAR ZIP archive__acilmis/Mehmet_ali_kamalak_150720062/Mehmet_Ali_Kamalak_150720062.docx",
+    "size": 360692,
+    "sha256": "8a02426f8e360cc7c5b060f93b6d213c16fa590562af1d147d21aab9192bc244",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1614HHJr8HqTw8l0ndcmhXMr2WJB1bRnB",
+    "source_member": "signal system/Yeni WinRAR ZIP archive.zip!/Mehmet_ali_kamalak_150720062/untitled5.m",
+    "path": "3.sinif/5.donem/EE3061_Signals-and-Systems/signal-system/signal system/Yeni WinRAR ZIP archive__acilmis/Mehmet_ali_kamalak_150720062/untitled5.m",
+    "size": 1247,
+    "sha256": "3e43d347b190870a44dbd5271a1891fe9be5897117ff750be21e27e58658e9db",
+    "storage": "git"
   }
 ]
