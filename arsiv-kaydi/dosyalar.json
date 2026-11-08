@@ -10942,5 +10942,261 @@
     "size": 1102924,
     "sha256": "47e2888f0bb0368611bb3fd4c2810f8ef9e8c323cc5655bad0ec7be82b4f39ec",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/A light wave is incident from air on a thick glass... - Chegg.com.url",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/A light wave is incident from air on a thick glass... - Chegg.com.url",
+    "size": 184,
+    "sha256": "720d98079adc932bad1bbd5aa8b2d08f5ebf2811e61f2b8b34b4b4395658db8e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/asg 2 with answer.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/asg 2 with answer.pdf",
+    "size": 10586290,
+    "sha256": "e4176158f4b5b1c08bb0b24c47425849e4bc04e15dbcaeafcda9c779c947c6c7",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Assignment_1.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Assignment_1.pdf",
+    "size": 67148,
+    "sha256": "505b960bacb8e3198286ad57bed1d1dbac4bc0cff3a6949cfe9705b8aa81bcc2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Experiment_1_Group11.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Experiment_1_Group11.pdf",
+    "size": 382116,
+    "sha256": "0e3a0029f4ef22a432c748d7758fd6f84175ecf52631683678a44e43dc5b91b7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Midterm_Grades (1).pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Midterm_Grades (1).pdf",
+    "size": 101991,
+    "sha256": "730d2245bdd2b5a3918870248700f7f1c04c1abfd795b21e64024f189779977e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Midterm_solution.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Midterm_solution.pdf",
+    "size": 516477,
+    "sha256": "281c544f6bf5e83359f0a137827644e17cf5f52ee869f91a694e86630776a7fd",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Nurullah_Tüğmen_150720823_Assignment1.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Nurullah_Tüğmen_150720823_Assignment1.pdf",
+    "size": 828930,
+    "sha256": "bbc490f64803c2a7ba74e54872d1d9d5198b114ceb82f506148dbe152ce16271",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/opto assignment 2/2.jpeg",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/opto assignment 2/2.jpeg",
+    "size": 670959,
+    "sha256": "94ae2f10ed32c7e75cc706a1a3c53476a81ef9ff96eddbb191f3b293e4324f38",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/opto assignment 2/assignment.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/opto assignment 2/assignment.pdf",
+    "size": 12973297,
+    "sha256": "fd7561478137ab2df11bb5a6a8f674ccac870a9c1fa35bd63e58f2b9f1703dee",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/opto assignment 2/Assignment_2 (1).pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/opto assignment 2/Assignment_2 (1).pdf",
+    "size": 211280,
+    "sha256": "eb090a2659bd4977cb9e1e428f7620a46ffb12ccd23cf5ea540f60861fb74a10",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/opto assignment 2/opto1-4.png",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/opto assignment 2/opto1-4.png",
+    "size": 181744,
+    "sha256": "8cafc5632d9ca02c34fc642ba79eb3e69387285bb94d3b5393c0f0c7adc9c66e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/opto assignment 2/Part1-1.png",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/opto assignment 2/Part1-1.png",
+    "size": 100012,
+    "sha256": "de1120d3daf81038e6a3965863745a4d0b9c3a38161d82fb1cfcf2e4bf3c1953",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/opto assignment 2/Part1-3.png",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/opto assignment 2/Part1-3.png",
+    "size": 100322,
+    "sha256": "dd4e7f6d6406f2f8c3fd8b9c19d2601b5b6ef63259b755b954d1040f07722f5f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/opto assignment 2/WhatsApp Image 2023-12-15 at 17.40.17.jpeg",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/opto assignment 2/WhatsApp Image 2023-12-15 at 17.40.17.jpeg",
+    "size": 485776,
+    "sha256": "73da184124c3d0ea598a4bdaff6484259669dccc77456ac1dd461daff51223df",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/opto assignment 2/WhatsApp Image 2023-12-15 at 17.40.21.jpeg",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/opto assignment 2/WhatsApp Image 2023-12-15 at 17.40.21.jpeg",
+    "size": 464595,
+    "sha256": "61475622c97e909c7957e846ed5cd4faa412429ad8802c7cf0a4a6177c569496",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Review_questions.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Review_questions.pdf",
+    "size": 55231,
+    "sha256": "5452f77974e7dd0a4b7d12096d01d5bcc0e998aab0b800130e1dcb3d1636f28c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Review_questions2.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Review_questions2.pdf",
+    "size": 417045,
+    "sha256": "72bd532aa3ab111effe074ed79e85f46c37affe84349749edfca39d554accd40",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Safa O. Kasap - Optoelectronics & Photonics_ Principles & Practices (2012, Pearson) - libgen.li.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Safa O. Kasap - Optoelectronics & Photonics_ Principles & Practices (2012, Pearson) - libgen.li.pdf",
+    "size": 11550414,
+    "sha256": "ddefde445312586190378ea9a22924786b2b151bec579759a7c0cb8028e8b5b8",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Syllabus_Optoelectronics.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Syllabus_Optoelectronics.pdf",
+    "size": 120478,
+    "sha256": "11de72d7660819e4e336e5f960ba357851d22ee19a919c00baa8d9de1e60cf6b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Term_Project.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Term_Project.pdf",
+    "size": 186644,
+    "sha256": "b58c7fc3aea032997d8bf22717f55471f1ca4e07e2a632443782919198626b06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Tüm slaytlar (MT).pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Tüm slaytlar (MT).pdf",
+    "size": 8645711,
+    "sha256": "8f035131072c9395062fd30d6d5040ed21cf6a18c67834d41fd1cad3b6c80fb3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_1.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_1.pdf",
+    "size": 1329820,
+    "sha256": "71b9346ee6987ee50e95460aadaea228a861cd8094aa3c0e5991fc715826e631",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_10.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_10.pdf",
+    "size": 3210321,
+    "sha256": "be143425230c78576a83f989db26d979fdc395814b1b12d1bb73c0f32251986f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_11.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_11.pdf",
+    "size": 2214973,
+    "sha256": "c3222a5491884af54a2fba5d3e6ac2d1de79a3ab8b655d9b2b7bc9f15f54eed4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_12.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_12.pdf",
+    "size": 888600,
+    "sha256": "1b7fccde5705bf569645d865959ada228f7cfc6b21bd7cb0c6466a341caed345",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_2 .pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_2 .pdf",
+    "size": 752930,
+    "sha256": "d2cc1a41cf745676b9b29cd578e075f815c93041111a45bdaf7f95ead71c2a4e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_3.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_3.pdf",
+    "size": 1206492,
+    "sha256": "dc0e4943fc65259b925299ce0413a0640db88d247ac31d8e715c37f2e3096d3f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_4 .pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_4 .pdf",
+    "size": 1419416,
+    "sha256": "85346983917c67045a0393d125720cbed8e6f50ae8e814d6dd07cf2e212979fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_5.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_5.pdf",
+    "size": 4130901,
+    "sha256": "ab405460991f5fc81ead48320c50954687ceea59c98bec07b2d9c62737405c20",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_6.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_6.pdf",
+    "size": 3280467,
+    "sha256": "64f240d20de030b4abb6e34f7906ae029f2660cfcd02b41411f7974d6896f1eb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_7.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_7.pdf",
+    "size": 1582507,
+    "sha256": "98cf60d7ef2bd8966626783bbd3fdc7e305106e20eae1023d2a4d749636c7f4e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1WGPJOe9KrwOc4aR8dN3PPbTR-e1J1GYP",
+    "source_member": "selected topics/Week_9.pdf",
+    "path": "Secmeli/Teknik/EE4092_Selected-Topics-in-Electrical-and-Electronics-Engineering/selected-topics/selected topics/Week_9.pdf",
+    "size": 1845552,
+    "sha256": "2289b11dbc26202cad98935ed35db5ae6d9b2dc237dd5ea8f0ebd3500ae7631c",
+    "storage": "git"
   }
 ]
