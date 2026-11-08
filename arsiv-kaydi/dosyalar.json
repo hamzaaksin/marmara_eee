@@ -11574,5 +11574,517 @@
     "size": 46907,
     "sha256": "baf8301afaaf7a5c4ebd2e3b9e6a3da24e83bae8a94c6f619e45b968d2866ee5",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/digital design final 2024.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/digital design final 2024.pdf",
+    "size": 307019,
+    "sha256": "288930e50afbf271fbb7aeeb22edf2a45bf042a1b708b23fd40f770a6179cd80",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Digital System Design with FPGA - Implementation Using Verilog and VHDL.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Digital System Design with FPGA - Implementation Using Verilog and VHDL.pdf",
+    "size": 58511302,
+    "sha256": "d6884cb5ada58cfa50b5305375111f701eba2dcbcd40c70facf64c10a5c35dfe",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/IMG20240121001044.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/IMG20240121001044.jpg",
+    "size": 2204842,
+    "sha256": "c040024f602fefbecd4d65304fe7e2d4b3d2302b258aa739fc9b1ea1e082aee6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/IMG20240121001117.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/IMG20240121001117.jpg",
+    "size": 2334580,
+    "sha256": "6330c91aa2188d349512c57843d0249b4524e6b91e0ca3fdcae11cbdeeba6cfb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/IMG20240121001149.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/IMG20240121001149.jpg",
+    "size": 2364092,
+    "sha256": "14c61716782e0cc70b4803ba6c9d441447dce8dfb7d5112c9801626c3ddf4635",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/IMG20240121001213.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/IMG20240121001213.jpg",
+    "size": 2254136,
+    "sha256": "2efdbbb3cdf90e2ca68fc9eddda32e87573912828c9dd6ad9944dc615ee25c4f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab yeni/LAB2.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab yeni/LAB2.pdf",
+    "size": 135752,
+    "sha256": "789b378539f250e698037908f62550bd6ea94a9612dd0feb623dbf1f37d456a7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab yeni/Lab3.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab yeni/Lab3.pdf",
+    "size": 225772,
+    "sha256": "3902b3a3d95b0110e22ed17b5e68f2a456de4364f4c0608b90b253360647e653",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab yeni/LAB4.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab yeni/LAB4.pdf",
+    "size": 148174,
+    "sha256": "b9e8d5ccb21fe32073365f4206b358f08298ec92fff39ec432aa218bb74e20c8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week10.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week10.docx",
+    "size": 16266,
+    "sha256": "be38278513e2352eac457c985a37fde7362024f1235b3c2e00175f4c3cf83f87",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week11.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week11.docx",
+    "size": 14576,
+    "sha256": "6ded4ab2c3b9184fe5303f0bebf68146816255ca490dd83f0400e3725d40496f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week12.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week12.docx",
+    "size": 15544,
+    "sha256": "79ca57af69a64c9ed236e688e434579c77ac9b1f117b2d3fb41c8393e20f75b9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week2.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week2.docx",
+    "size": 69164,
+    "sha256": "0d29a94d792f9aa48cbd95f2fe8cb1fc7f3934943d897ae4555bccb385b58f7e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week3.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week3.docx",
+    "size": 64102,
+    "sha256": "7e3fb9c1d0984d9431d09a6fe9705e4cd7c80a464b5dc3704a582f8ec19f45fc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week4_7.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week4_7.docx",
+    "size": 66972,
+    "sha256": "66cdeced6eae1316c4cae8763f15b0b786f3defcda5c7e5710d60072d24d87ff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week6.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week6.docx",
+    "size": 183831,
+    "sha256": "25b7a2ae29b1a5a41e2f442637e818e84c411068671c68c8e8f224b4b61bdcc6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week8.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week8.docx",
+    "size": 84901,
+    "sha256": "e426ee01208ccf43208a4544d7ca890007d28aa6879335284f78fe2ffb8e0b5a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/lab_eski/_week9.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/lab_eski/_week9.docx",
+    "size": 15481,
+    "sha256": "5b2272931c4369d05cc49407195ee824b539a8bbab04e19bffe0fabeebfbed28",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/mt2023.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/mt2023.pdf",
+    "size": 468286,
+    "sha256": "4bf7dd29676ebfe3ae875724d6aa763df7b8a7ad028ba29a3d416647c42e1220",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/EE2003 and CSE 3017 final - Soln Manual.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/EE2003 and CSE 3017 final - Soln Manual.pdf",
+    "size": 231959,
+    "sha256": "3aa12e91bcc23f7342e6c9283305d7f26c836aff4f24b9535954c6276847aad6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/EE2003 and CSE 3017 final make up23.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/EE2003 and CSE 3017 final make up23.pdf",
+    "size": 224102,
+    "sha256": "e8e71b9490574a5909c7110aa624b15ac2c9eea9422e0587f06d177455e008c8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Ek3 bütünleme çözüm.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Ek3 bütünleme çözüm.pdf",
+    "size": 167647,
+    "sha256": "894cd72dc7fa6aaa3ea0b97a0c1c065ce0d2fa424a1b14e4d7b3b5d2d879476c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Ek3 final çözüm.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Ek3 final çözüm.pdf",
+    "size": 169682,
+    "sha256": "60bb4e809d5f91f9d0d8c0c5ae31e96f1145d30a0eb843dd0b08bc2463143014",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/final exam solution.zip!/IMG20240121001044.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/final exam solution__acilmis/IMG20240121001044.jpg",
+    "size": 2204842,
+    "sha256": "c040024f602fefbecd4d65304fe7e2d4b3d2302b258aa739fc9b1ea1e082aee6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/final exam solution.zip!/IMG20240121001117.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/final exam solution__acilmis/IMG20240121001117.jpg",
+    "size": 2368968,
+    "sha256": "47a355861503f85d73a242fbab4fe89b1b26d4d7c717f015a2e1e5338d790c82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/final exam solution.zip!/IMG20240121001149.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/final exam solution__acilmis/IMG20240121001149.jpg",
+    "size": 2398016,
+    "sha256": "f78a6b1465b8c7a7eb638c62506afa80656efee465d5b43923ffb4f2b441c851",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/final exam solution.zip!/IMG20240121001213.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/final exam solution__acilmis/IMG20240121001213.jpg",
+    "size": 2288500,
+    "sha256": "e501d8c92d3992bbcdb28c9cb628154d0e3554e63fa646bd89b9f6cad2e40b78",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/others.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/others.pdf",
+    "size": 476012,
+    "sha256": "43ceb490413862188f6a52fb4bdde7700622e1fdc41f88d7579d6c8a643e13a0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/Final_2016_2017_1 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/Final_2016_2017_1 SM.pdf",
+    "size": 630971,
+    "sha256": "89e8ecc4fda9e8af9850f3bf0cd4c42ccdb069ddca7db21a63a4da2a1a7a2614",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/Final_2016_2017_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/Final_2016_2017_2 SM.pdf",
+    "size": 556432,
+    "sha256": "c82765a8befd300021ffb55dad6a03003a7afaf2839dfce4f4420c446932f433",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/Final_2017_2018_1.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/Final_2017_2018_1.pdf",
+    "size": 562702,
+    "sha256": "6e94d74dd3aa79873b2a93173fd19506747f53a6d2912d58ddbfc0577f1fe789",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/Final_2017_2018_2.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/Final_2017_2018_2.pdf",
+    "size": 560463,
+    "sha256": "2ecd67dd1929aa875cd42da293bf4d088c81eada36e04af77264b7009b008130",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/Final_2018_2019_1.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/Final_2018_2019_1.pdf",
+    "size": 246183,
+    "sha256": "c757fd6203d6004d0e345ccc4cae77f60db73d4b2fcdd777c2c8059cf5d81b25",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/Final_2018_2019_2.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/Final_2018_2019_2.pdf",
+    "size": 178974,
+    "sha256": "e083ca1057f5c50e42abdf8a039d9553b34f43b70be4455160e5418aa72b2068",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_1_2018_2019_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_1_2018_2019_2 SM.pdf",
+    "size": 91199,
+    "sha256": "ceafd827fe9b9f069568c5daf6072f06aaec7e3239d2af5116e3d53667e7ea55",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_1_2018_2019_2.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_1_2018_2019_2.pdf",
+    "size": 129707,
+    "sha256": "af13fc4273397ece02b3eb9b63cba784b626cacfacf8446527fab62ff2df9e61",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_2016_2017_1 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_2016_2017_1 SM.pdf",
+    "size": 658080,
+    "sha256": "8293aa119317e3d83aac5523b6911690da160c0fb7ae8845e11510531698d174",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_2016_2017_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_2016_2017_2 SM.pdf",
+    "size": 674869,
+    "sha256": "3c782b1d50481809a1fa99d9048dac0fd34782db12aab563538f1d7e007f9c19",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_2017_2018_1 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_2017_2018_1 SM.pdf",
+    "size": 64205,
+    "sha256": "129a350a14d1ec64c84a2d37e03d23c29e0f4d347969fb6d1976218400049ca0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_2017_2018_1.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_2017_2018_1.pdf",
+    "size": 561621,
+    "sha256": "c3a9e02d5c97782254d5fa5390087e43a1fa154c4b622e41c6c3b5f498e5bfd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_2017_2018_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_2017_2018_2 SM.pdf",
+    "size": 467147,
+    "sha256": "7a90ca90b71db8518b6ec064be93383d343890fef5fe79748a8e29f0805ffc72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_2018_2019_1.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_2018_2019_1.pdf",
+    "size": 479906,
+    "sha256": "5d7511560a8ed9274523dcff54330256b3e138145f4b0376fec99bd3e732bf9e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/Previous Exams/MT_2_2018_2019_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/Previous Exams/MT_2_2018_2019_2 SM.pdf",
+    "size": 167865,
+    "sha256": "de29c3f0e4f1ef72294c16f6bd0900951903edb58b2174f532faf2a76dc5c7f0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/project task.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/project task.pdf",
+    "size": 242317,
+    "sha256": "7ee7f35e08b54e18f749b7e201bca830086246b6c779283f92392d3318c5c081",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/new_digital_tofinal/questions.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/new_digital_tofinal/questions.pdf",
+    "size": 619369,
+    "sha256": "2891e8245a11726c33a0487dad24a933d1228c52be745482f988655a77abf69b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/Final_2016_2017_1 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/Final_2016_2017_1 SM.pdf",
+    "size": 630971,
+    "sha256": "89e8ecc4fda9e8af9850f3bf0cd4c42ccdb069ddca7db21a63a4da2a1a7a2614",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/Final_2016_2017_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/Final_2016_2017_2 SM.pdf",
+    "size": 556432,
+    "sha256": "c82765a8befd300021ffb55dad6a03003a7afaf2839dfce4f4420c446932f433",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/Final_2017_2018_1.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/Final_2017_2018_1.pdf",
+    "size": 562702,
+    "sha256": "6e94d74dd3aa79873b2a93173fd19506747f53a6d2912d58ddbfc0577f1fe789",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/Final_2017_2018_2.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/Final_2017_2018_2.pdf",
+    "size": 560463,
+    "sha256": "2ecd67dd1929aa875cd42da293bf4d088c81eada36e04af77264b7009b008130",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/Final_2018_2019_1.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/Final_2018_2019_1.pdf",
+    "size": 246183,
+    "sha256": "c757fd6203d6004d0e345ccc4cae77f60db73d4b2fcdd777c2c8059cf5d81b25",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/Final_2018_2019_2.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/Final_2018_2019_2.pdf",
+    "size": 178974,
+    "sha256": "e083ca1057f5c50e42abdf8a039d9553b34f43b70be4455160e5418aa72b2068",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_1_2018_2019_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_1_2018_2019_2 SM.pdf",
+    "size": 91199,
+    "sha256": "ceafd827fe9b9f069568c5daf6072f06aaec7e3239d2af5116e3d53667e7ea55",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_1_2018_2019_2.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_1_2018_2019_2.pdf",
+    "size": 129707,
+    "sha256": "af13fc4273397ece02b3eb9b63cba784b626cacfacf8446527fab62ff2df9e61",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_2016_2017_1 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_2016_2017_1 SM.pdf",
+    "size": 658080,
+    "sha256": "8293aa119317e3d83aac5523b6911690da160c0fb7ae8845e11510531698d174",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_2016_2017_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_2016_2017_2 SM.pdf",
+    "size": 674869,
+    "sha256": "3c782b1d50481809a1fa99d9048dac0fd34782db12aab563538f1d7e007f9c19",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_2017_2018_1 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_2017_2018_1 SM.pdf",
+    "size": 64205,
+    "sha256": "129a350a14d1ec64c84a2d37e03d23c29e0f4d347969fb6d1976218400049ca0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_2017_2018_1.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_2017_2018_1.pdf",
+    "size": 561621,
+    "sha256": "c3a9e02d5c97782254d5fa5390087e43a1fa154c4b622e41c6c3b5f498e5bfd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_2017_2018_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_2017_2018_2 SM.pdf",
+    "size": 467147,
+    "sha256": "7a90ca90b71db8518b6ec064be93383d343890fef5fe79748a8e29f0805ffc72",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_2018_2019_1.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_2018_2019_1.pdf",
+    "size": 479906,
+    "sha256": "5d7511560a8ed9274523dcff54330256b3e138145f4b0376fec99bd3e732bf9e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/Previous Exams-digital.zip!/Previous Exams/MT_2_2018_2019_2 SM.pdf",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Previous Exams-digital__acilmis/Previous Exams/MT_2_2018_2019_2 SM.pdf",
+    "size": 167865,
+    "sha256": "de29c3f0e4f1ef72294c16f6bd0900951903edb58b2174f532faf2a76dc5c7f0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/week5sol.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/week5sol.docx",
+    "size": 69164,
+    "sha256": "0d29a94d792f9aa48cbd95f2fe8cb1fc7f3934943d897ae4555bccb385b58f7e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/week6sol.docx",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/week6sol.docx",
+    "size": 38549,
+    "sha256": "64d8185c4a5ceb3009a8d8327b722c9fca91e48ea402e1de767cc9c09197588c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/WhatsApp Görsel 2024-05-13 saat 19.31.50_c7b1335a.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/WhatsApp Görsel 2024-05-13 saat 19.31.50_c7b1335a.jpg",
+    "size": 62492,
+    "sha256": "9dc3bdfef37c4c1e3ce7e0facbc19c6b2470c483013adb0fbdaab4ecf56edd54",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1a-gjhjkwLBZ4Yn8xc-M__g8uAJr1bsD2",
+    "source_member": "digital design/WhatsApp Görsel 2024-05-13 saat 19.32.22_c1872950.jpg",
+    "path": "2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/WhatsApp Görsel 2024-05-13 saat 19.32.22_c1872950.jpg",
+    "size": 52186,
+    "sha256": "fd2f604babf28072e3d2b2c8540bb7d705973caa7111c016c06b7a8d82a43c23",
+    "storage": "git"
   }
 ]

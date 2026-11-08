@@ -3,6 +3,7 @@
 "/1.sinif/1.donem/PHYS1101_Physics-I/physics-1/physics1/alsunaidi - physics 1/fundamentals-of-physics-textbook.pdf" filter=lfs diff=lfs merge=lfs -text
 "/1.sinif/2.donem/ISG122_Is-Sagligi-ve-Guvenligi-II/ISG-2/İSG - 2/ISG2 tüm slaytlar.pdf" filter=lfs diff=lfs merge=lfs -text
 "/1.sinif/2.donem/PHYS1102_Physics-II/physics-2/physics 2/fundamentals-of-physics-textbook-1.pdf" filter=lfs diff=lfs merge=lfs -text
+"/2.sinif/3.donem/EE2003_Digital-Design/digital-design/digital design/Digital System Design with FPGA - Implementation Using Verilog and VHDL.pdf" filter=lfs diff=lfs merge=lfs -text
 "/2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/Embedded System Design.pdf" filter=lfs diff=lfs merge=lfs -text
 "/2.sinif/4.donem/EE2004_Microprocessor-Systems/microprocessor24-25/micro24-25/micro kemal-akif/micro kemal/tümslaytlar.pdf" filter=lfs diff=lfs merge=lfs -text
 "/2.sinif/4.donem/MATH2052_Engineering-Mathematics/enginering-math-yunus-dursun/enginering math-yunus dursun/Hw3— part1.pdf" filter=lfs diff=lfs merge=lfs -text
