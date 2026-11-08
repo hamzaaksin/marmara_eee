@@ -13206,5 +13206,509 @@
     "size": 488212,
     "sha256": "5d4d1415d468ad2ced9a3ba79ff78d2a37683a955d40e69571e8dd7767e386e9",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/1.1_Final_Review_questions.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/1.1_Final_Review_questions.pdf",
+    "size": 369936,
+    "sha256": "aa798987b8cbc1506b72e8c83dc32f37d87586af1b4eb0bcdaa0258daf114935",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Elements of Electromagnetics -Sadiku Matthew.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Elements of Electromagnetics -Sadiku Matthew.pdf",
+    "size": 78301778,
+    "sha256": "6757c7141975422d23bacd87d8eec8738716df814d47155f07e5e2481094d31b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Elements of Electromagnetics 7th Edition - SOLUTION MANUAL - Matthew Sadiku.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Elements of Electromagnetics 7th Edition - SOLUTION MANUAL - Matthew Sadiku.pdf",
+    "size": 13943250,
+    "sha256": "c1769b0c4dca7b7f2c7e8d35f6cd77401211a9c6f16a172ecc6e2c3e7a04ad26",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Elements_of_Electromagnetics,_Seventh_Edition,_by_Matthew_Sadiku.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Elements_of_Electromagnetics,_Seventh_Edition,_by_Matthew_Sadiku.pdf",
+    "size": 28960126,
+    "sha256": "8f46fe46410e4b774d2c18c5200ae83b02cbf8a04b94d8f6b590b35c3f0ffe26",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/em soru/IMG-20241114-WA0001.jpg",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/em soru/IMG-20241114-WA0001.jpg",
+    "size": 208207,
+    "sha256": "abdd5a226a545f6395e41a45b91b3f317cd89fe5b723acf7771c35ac7901f659",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/em soru/IMG-20241114-WA0002.jpg",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/em soru/IMG-20241114-WA0002.jpg",
+    "size": 177904,
+    "sha256": "2d1164fa496d28505bbcad70dfcef5ea97e03c02545a66b49158fe4e882d01f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/em soru/IMG-20241114-WA0003.jpg",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/em soru/IMG-20241114-WA0003.jpg",
+    "size": 243908,
+    "sha256": "91f1a3770df43a6b19008f952c369804848ced4807abf5792239c8ed8b08fa52",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/em soru/IMG-20241114-WA0004.jpg",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/em soru/IMG-20241114-WA0004.jpg",
+    "size": 224896,
+    "sha256": "8b500fce9290619d9e9abe7442d7c359169462de2a6a94cf05d9857734790b18",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/em soru/IMG-20241114-WA0005.jpg",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/em soru/IMG-20241114-WA0005.jpg",
+    "size": 145821,
+    "sha256": "a095089188bca8027223065ab2dc5ac489f37a57e2e57a0fe4dafeb735e2067c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Final_soln.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Final_soln.pdf",
+    "size": 604859,
+    "sha256": "1ecfce7f9e51f9fb18344bd6d57d8ba7ee11f5b1266a7ca052459a95fa3524d5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/formula sheet-new-1.1.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/formula sheet-new-1.1.pdf",
+    "size": 1131627,
+    "sha256": "6305d896454a1b3ed842ff4df2a85a9bb0f170a37da0242f319dfbe4c1dd40c3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/formula_sheet.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/formula_sheet.pdf",
+    "size": 213684,
+    "sha256": "933acdc29e7d5004d0102cceda827b86760da8d7c2ec154001d875ebab4f9527",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Midterm_Review_questions_new.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Midterm_Review_questions_new.pdf",
+    "size": 155699,
+    "sha256": "a9ad39f4c3364b76c34f1adea69b7a9272bdd98e7c9bb0f16d7d5a7b87181e2a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project/MagneticSimulationProject.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project/MagneticSimulationProject.pdf",
+    "size": 767289,
+    "sha256": "a188a53398dd92f81ec1e2c8481047ef4b4e40c25b93bac8fc11aa4314117a63",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project/magnetic_son.docx",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project/magnetic_son.docx",
+    "size": 834185,
+    "sha256": "e8d2bc4aa0c4c7d6ef74bbabad4dd4239bbd763cb87938bd69e540df54294668",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project/Simulation_Project.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project/Simulation_Project.pdf",
+    "size": 152994,
+    "sha256": "3e6e337d0bf60d31a1302e98fa8cf7d25772494a0568849979443ef3f3503678",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/Created_by_BS.rar!/DesignGrid025.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/Created_by_BS__acilmis/DesignGrid025.m",
+    "size": 2728,
+    "sha256": "56100210fd9a9bd3909ef445a2f5321ca946a231bdeaa4032a78d611474b3549",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/Created_by_BS.rar!/DesignGrid05.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/Created_by_BS__acilmis/DesignGrid05.m",
+    "size": 2726,
+    "sha256": "2077c9dde5d95a497c5756b3bb27d4826f8481b4e44c9c6ad8f2880f4f423062",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/Created_by_BS.rar!/DesignGrid1.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/Created_by_BS__acilmis/DesignGrid1.m",
+    "size": 2722,
+    "sha256": "3fee163a7dd587529ede4be9047e4f839856922fedf6f6ddb9fe67d6b21d121f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/Created_by_BS.rar!/DesignGrid2.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/Created_by_BS__acilmis/DesignGrid2.m",
+    "size": 2722,
+    "sha256": "43aad4e7e73401e47554f05214c8a31c510aa256cf73f161fe07bee6132de31b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/EE3016_150721015_150720062_150721033_150723825_Project1.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/EE3016_150721015_150720062_150721033_150723825_Project1.pdf",
+    "size": 1744824,
+    "sha256": "fe432dc69fd7eee8ebac0c509483cef103f5f68abc971afaa9d3bf0172cf7869",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje/step0.25cm/Ekran görüntüsü 2024-12-20 151230.png",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje/step0.25cm/Ekran görüntüsü 2024-12-20 151230.png",
+    "size": 63583,
+    "sha256": "d48619342115211350fb854361b268d20fb4a11b7d3c91f390441a1a5fc5dd9c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje/step0.25cm/Ekran görüntüsü 2024-12-20 151245.png",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje/step0.25cm/Ekran görüntüsü 2024-12-20 151245.png",
+    "size": 102480,
+    "sha256": "b8c7b699a992ff68a01c107c0ee00f5b7bef0418dfcf4bbcf04f58710564f453",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje/step0.5cm/Ekran görüntüsü 2024-12-20 151142.png",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje/step0.5cm/Ekran görüntüsü 2024-12-20 151142.png",
+    "size": 64534,
+    "sha256": "fca369fe7d2382fc48ffa3019bbffb0b35dbf64bb5b4925ebaa539972642c94e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje/step0.5cm/Ekran görüntüsü 2024-12-20 151200.png",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje/step0.5cm/Ekran görüntüsü 2024-12-20 151200.png",
+    "size": 76841,
+    "sha256": "d22ca2da3a8b6bfdd3e04a72ff2d10dc6e4f080e81aa8c4b5ec9bbb38ae037c0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje/step1cm/Ekran görüntüsü 2024-12-20 150938.png",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje/step1cm/Ekran görüntüsü 2024-12-20 150938.png",
+    "size": 57985,
+    "sha256": "e490aeb2699441f985514de4d819ef8affba4145752fdf52ab58a052789f44c9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje/step1cm/Ekran görüntüsü 2024-12-20 150957.png",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje/step1cm/Ekran görüntüsü 2024-12-20 150957.png",
+    "size": 64682,
+    "sha256": "c2da42fde8ac8f27e45666452663eec151a208b204faf41108aac636884e8967",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje/step2cm/Ekran görüntüsü 2024-12-20 151051.png",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje/step2cm/Ekran görüntüsü 2024-12-20 151051.png",
+    "size": 46036,
+    "sha256": "1697ea952b835624e4744ac82f73f669b985e5c35a0e5d6cb824b486d8e73a7a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje/step2cm/Ekran görüntüsü 2024-12-20 151106.png",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje/step2cm/Ekran görüntüsü 2024-12-20 151106.png",
+    "size": 65402,
+    "sha256": "79643e53da3b75a67d38edaa073ddb4372b5f83a9ad028fed73b5444700f59e0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje kodları/project_025.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje kodları/project_025.m",
+    "size": 2695,
+    "sha256": "46d67655dc91ac43edc6e20afb0179a04af60a6626777d6df2974d3db49c74e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje kodları/project_05.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje kodları/project_05.m",
+    "size": 2693,
+    "sha256": "00454fcc45cabbc33052cf4fce48d006db55c5684f84eda4097d344200bac601",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje kodları/project_1.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje kodları/project_1.m",
+    "size": 2689,
+    "sha256": "53d535fdcc3681637887c10f58af260d86fb55a4186e1d5ccc763892de8a5b27",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/proje kodları/project_2.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/proje kodları/project_2.m",
+    "size": 2689,
+    "sha256": "5d6bcb027933279222b3d863f11ac1f2498735f73a158a73254a2785f8584a9a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/rapor_deneme.docx",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/rapor_deneme.docx",
+    "size": 268203,
+    "sha256": "d38fc3f9bfc75778ddd799de11a7c8fc8cb5d957a4b61ac6f45565e9323e2a37",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/Simulation_Project.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/Simulation_Project.pdf",
+    "size": 158884,
+    "sha256": "5f2db4b2b61e17bb4cddafa503251fb30eea15793f6e9b1c964b826584529a94",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/untitled.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/untitled.m",
+    "size": 1497,
+    "sha256": "995f09ae90b5b3724b30cff01b8338db19ea4497e2c259c934263ce0ebe89506",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/untitled2.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/untitled2.m",
+    "size": 1529,
+    "sha256": "5b7ff01ec4353d539bbb248542af334c8175c2c2b691b6ddc8f17d71989de097",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/untitled3.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/untitled3.m",
+    "size": 1075,
+    "sha256": "60569911907e9bdda95a4e027bf248ad144dde48089a7c044e561a536cfee40d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/untitled4.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/untitled4.m",
+    "size": 4195,
+    "sha256": "b2d4303e98636150c7d59e980ab2acb4aae3228067b045a5c83e9b3cb32e33f8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/project new/untitled5.m",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/project new/untitled5.m",
+    "size": 2283,
+    "sha256": "b66535d4310f5c6a40bcc949eb7f2b16a61108d19086e5f8585d3c33cd0795e7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Q1.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Q1.pdf",
+    "size": 177976,
+    "sha256": "0020e5dcea26ce64e51372485ef8ae55c458494f12b8f2a06fcf4a5709d93d9e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Q1_Solution.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Q1_Solution.pdf",
+    "size": 501861,
+    "sha256": "969e5f47ab46ba54c1e8df16d91a6a1d584a5d934f66f8b0aaa9f540975fcdd5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Q2_Soln.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Q2_Soln.pdf",
+    "size": 198347,
+    "sha256": "8505bcd9a10cae1103a5804841d189907db95e60e12b6cd08bd74ac8cb0444db",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Review_questions 2.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Review_questions 2.pdf",
+    "size": 173174,
+    "sha256": "210c833fb519b041bc5e1833e5d9b7c9a66dc9b58ae65876267c9dc1bf2bc2a7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Review_questions 3.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Review_questions 3.pdf",
+    "size": 316623,
+    "sha256": "1eed6725c803b4e14f64785fbb1738f35a83c92d946caec3d762086d441f9142",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Review_questions.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Review_questions.pdf",
+    "size": 121327,
+    "sha256": "389321a60fe5b9cbe267a15ce6b602c2f07ae1fa1421487d4132f95f59d11593",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Extra_session.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Extra_session.pdf",
+    "size": 551165,
+    "sha256": "8223f1265da38ed9ef20861fb36c835b65f8126e8766e5cb9894b023ceed7da5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Syllabus_EM.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Syllabus_EM.pdf",
+    "size": 122081,
+    "sha256": "5d1167c6e88cc14fa37ef71115d9913697564d5728243af283c87f36ae559361",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_1.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_1.pdf",
+    "size": 3076886,
+    "sha256": "c2c65c096328386c035ef74d124948ca30efe3de689afc936d85078a6a085f14",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_10.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_10.pdf",
+    "size": 373341,
+    "sha256": "8d3ec35ce0a53cc93692286988902bfab799945088a71209c751cd93283fd1c8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_11.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_11.pdf",
+    "size": 972854,
+    "sha256": "45fd901aa2a58c26f2ffe255359d8dbc8ebda8bf527db04eefe8139ae38c5552",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_12.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_12.pdf",
+    "size": 460534,
+    "sha256": "5b97b38f788bbfe13f6f5821a76ee51ed3f19140d650a473bed2b42748115575",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_13.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_13.pdf",
+    "size": 522247,
+    "sha256": "f50db2a07aa8acc56ea5d1b84e66e5f2a7c69cbb01261d3b77d0704d80c5c23d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_14.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_14.pdf",
+    "size": 2320345,
+    "sha256": "d27e47da43bda1d3c92289cbae990c9b90c5d493abba0d85af2d3899c9880514",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_15.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_15.pdf",
+    "size": 676753,
+    "sha256": "2b4717b5bf1d25f17393da5c4e2d8fef22adf713e8f11e7f96a5b81d19f95a5d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_2.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_2.pdf",
+    "size": 1622294,
+    "sha256": "afef6cc17bde8496c58879f5e8c71daab3c770cd82324d8122868207246bfef8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_3.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_3.pdf",
+    "size": 1212038,
+    "sha256": "1237cff5f784a51e815d648ac13e36f2bfbe5fa1bb72040938352ff3955e4096",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_4.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_4.pdf",
+    "size": 319752,
+    "sha256": "bcda826c01193bedbae33d65cc958cf018bb125f846a99919db7c725cda725a7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_5.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_5.pdf",
+    "size": 404426,
+    "sha256": "f68f25dbd47ab7653597db00f8ddabe947a7e8c8eebd48d1db3f9f23f596e485",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_6.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_6.pdf",
+    "size": 479163,
+    "sha256": "4b87673f068288392ad6c5a75a3d7e9c4271b1d60585a75df63b8b736bcd57d8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_7.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_7.pdf",
+    "size": 685947,
+    "sha256": "6936061b7edf09fd928f362432a52dec6867c39b1fa277764ee58054b1289887",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/slaytlar/Week_9.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/slaytlar/Week_9.pdf",
+    "size": 689959,
+    "sha256": "431d1e1b5f8556b0f99423ae5d9522131d1128a99d67f742444446ca5e28e336",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
+    "source_member": "electromagnetics/Solutions_Manual_Elements_of_Electromagn.pdf",
+    "path": "3.sinif/5.donem/EE3016_Fundamentals-of-Electromagnetics/electromagnetics/electromagnetics/Solutions_Manual_Elements_of_Electromagn.pdf",
+    "size": 8995982,
+    "sha256": "20edabda4986396bbb171de9abb5e7361fe6ae0a1a779f31532a4464ba858c33",
+    "storage": "git"
   }
 ]
