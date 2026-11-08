@@ -7574,5 +7574,229 @@
     "size": 87077,
     "sha256": "cb2aa8277c96731739ea18d59970746306207bd7189449cd9509eab8ebb0567a",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/Distr_24_pdf.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/Distr_24_pdf.pdf",
+    "size": 1767810,
+    "sha256": "e8f6e359a3e2c9efe41d374292ae2b3505c6a6621fe48d0b1236ce87d448822c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/Distr_Final.sdocx",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/Distr_Final.sdocx",
+    "size": 26896902,
+    "sha256": "2134306e80ee475a409af079d902378a9f02b2385744d909ab4bb4ff5b7daa0a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/dist_çıkmış__merged.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/dist_çıkmış__merged.pdf",
+    "size": 549470,
+    "sha256": "ffaf9bec06c35eaaec21c3fb5e0b800145e2fc623d7c3c79dd0599e7aa1da77a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/memili/Final-eski.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/memili/Final-eski.pdf",
+    "size": 2148157,
+    "sha256": "66fca0f3e3edd7cb0bfcfe10103600a55730da88e0865596ee6f1de93ea419a0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/Mt2026.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/Mt2026.pdf",
+    "size": 62547,
+    "sha256": "ddb74f94b2d1004eb3790f7b02f73cb3f438ae9f632725a727424d30f548e8e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/Multiple Choice Questions.docx",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/Multiple Choice Questions.docx",
+    "size": 22535,
+    "sha256": "25f4569c0dd6028a7ce4e7c945ed58aa316b0336559dc660d187b6d2d4617176",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/Multiple Choice Questions.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/Multiple Choice Questions.pdf",
+    "size": 147488,
+    "sha256": "c2fb43b364f7eeeef5e72195d74dee4561829fcaf7ce7ad53012cb70423f7f99",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/not_Final.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/not_Final.pdf",
+    "size": 9780283,
+    "sha256": "0acf3249e9cd6b8a960ef4ad9b7f744264b7c7a1728cd412c0c05e1324b8ed08",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/slaytlar.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/slaytlar.pdf",
+    "size": 1767810,
+    "sha256": "4009615455440561052cf727625030efe934d22b7d26c4099681fd2572817ac7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/final/son_hafta_Section 8 System Protection.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/final/son_hafta_Section 8 System Protection.pdf",
+    "size": 1758459,
+    "sha256": "ab6f90e7061f7f59b8e52a3ad3d339f985549a738306e06aa6448e8fe64c60f1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/1.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/1.jpg",
+    "size": 115646,
+    "sha256": "96ee7c91b7e36be58a54408ed9be665c9f6eea84dca13a98c30b5a841874e7a4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/10.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/10.jpg",
+    "size": 95249,
+    "sha256": "466a309d3bf12aea1dd3d66ca4a79b84d2af48109832cdf9a79c82a4f9149e39",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/11.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/11.jpg",
+    "size": 102465,
+    "sha256": "6e2ffd3656c88042f9197c184725e8197eea802e288f069190db2be754df30f1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/12.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/12.jpg",
+    "size": 94379,
+    "sha256": "a2e60439f0dcc1138ce05e440e3e6a4531945536fa7e9fd9b9c36c78a9fc2181",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/13.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/13.jpg",
+    "size": 101454,
+    "sha256": "f048c049de14b585a5ae2f5fdc54d7cf65cdb8bea0dc56e9a75b9a843768434a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/14.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/14.jpg",
+    "size": 109624,
+    "sha256": "98618ee6450550c0ea8394ad4f19c51218d34aef0e2943413387dbb038324083",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/15.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/15.jpg",
+    "size": 110346,
+    "sha256": "031bb295cc0ebeb7de4011ae3d921134f22d3b06eca5385ba80e7a9e497d587d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/16.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/16.jpg",
+    "size": 101813,
+    "sha256": "4626b48b8bc6dc613a36d4c42d30343e396b0d91baaff279cc0ae33ef3266960",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/17.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/17.jpg",
+    "size": 116017,
+    "sha256": "3251f7d7bd94c779fbc6ad9fd1a403b6847bb2fc1250f81bf00416bfde9d2ea2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/2.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/2.jpg",
+    "size": 148876,
+    "sha256": "9baf6c6fdbe50295382f879e015502e571ac6d77851cb811ce0acb48df27eb02",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/3.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/3.jpg",
+    "size": 101739,
+    "sha256": "81285f96bd2d3520f753cd4fd47cc71777e6045961cfce328ab12bdc2a0603ae",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/4.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/4.jpg",
+    "size": 75799,
+    "sha256": "cd68022075caa6486a21ff16742287c7a2eef62e55137029a9c616d713362e03",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/5.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/5.jpg",
+    "size": 117513,
+    "sha256": "67c0c8df616348a7082f53267554d3e29e6eedef7ab02dac2098d78fe9ddd6ff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/6.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/6.jpg",
+    "size": 129767,
+    "sha256": "d9f1dae5ed37b77f10cff340601848a86f7ea31a4391b33fa4d62876def11468",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/7.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/7.jpg",
+    "size": 104129,
+    "sha256": "70ed7ea2e229dd6a07f96f5f800f10ff8ba0e9f6f99e1057790987dc60dc4139",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/8.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/8.jpg",
+    "size": 115480,
+    "sha256": "6d6cbaaabf7bd7c7a7c53455d0fe346909a96bef16c5abf50995f29cfd1bcd3e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/mt/9.jpg",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/mt/9.jpg",
+    "size": 113781,
+    "sha256": "8f8c14d8a7f0f7755dfeaf4d62fc909d3794a2c83d67de791aa41d865f098d49",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1nLvwEnJPg1yMuY-w2H9_ILsUK1Q2FI-k",
+    "source_member": "Electrical Distrubitons/Section 2 Three Phase Power Fundamentals.pdf",
+    "path": "Secmeli/Teknik/EE4046_Electrical-Distribution-Systems/Electrical-Distrubitons-Osman-TE/Electrical Distrubitons/Section 2 Three Phase Power Fundamentals.pdf",
+    "size": 1119071,
+    "sha256": "9b7bae99741997fbf5fd71a5feede413667bb1c01821c4653cf76141fedfcd03",
+    "storage": "git"
   }
 ]
