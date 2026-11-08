@@ -310,5 +310,109 @@
     "size": 46145,
     "sha256": "e48cfd5f323121bbc061cc3735f32dcc5cd1bfabab5c4973632f6c0e618771cc",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/diode_questions (1).pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/diode_questions (1).pdf",
+    "size": 1045287,
+    "sha256": "6783964670b4313a41b558a83052243637235ae57e1e9c13fd00ac560df03589",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100_lecture_notes-10.pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100_lecture_notes-10.pdf",
+    "size": 657800,
+    "sha256": "d6c0b9000aaccfe08385d829143584b23aeec72ce5119c5bf41839e9d4678943",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100_lecture_notes-11.pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100_lecture_notes-11.pdf",
+    "size": 759750,
+    "sha256": "0cb85ff530f2753dfb89b17d3eb0e677e22c7c001fd58174af0a79dfb066379a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100_lecture_notes-4 (1).pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100_lecture_notes-4 (1).pdf",
+    "size": 345689,
+    "sha256": "dd7af31b7765a84b9ebeb2cb901559257f3a7d6d011a61f675024cf780a8be3e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100_lecture_notes-5 (1).pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100_lecture_notes-5 (1).pdf",
+    "size": 606166,
+    "sha256": "887ea055becd49f819e6983f641b13582db237576aff18e227d454e54777d939",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100_lecture_notes-6 (2).pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100_lecture_notes-6 (2).pdf",
+    "size": 382579,
+    "sha256": "7f012a8d7c8a227398352b6ea731a5b317be2d725e1b757dd87b98b42570c952",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100_lecture_notes-7 (1).pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100_lecture_notes-7 (1).pdf",
+    "size": 357448,
+    "sha256": "5b850d2eb168acca6dbaa85c3ecc3e504123579e7004df6dae0bb03a7da786b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100_lecture_notes-8.pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100_lecture_notes-8.pdf",
+    "size": 335064,
+    "sha256": "7f99fb3a745126fd64652c8693d87b0ae82e3e3a428eb37bfbd79142991befab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100_lecture_notes-9.pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100_lecture_notes-9.pdf",
+    "size": 619760,
+    "sha256": "c888d82968c014610c2957eb8a420442cb7bfc4a89f401bb6e9635636e004c43",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100-lecture_1.pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100-lecture_1.pdf",
+    "size": 1081758,
+    "sha256": "76c3e981df58b65a2febc256b23215059bd62515add6d98523cf8834bb6c2ea0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100-lecture_2.pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100-lecture_2.pdf",
+    "size": 221798,
+    "sha256": "f0853b82d5749c162cb9977a163ef43c209b9afcfde9a309648af5d6f10f14f9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/ee1100-lecture_3 (1).pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/ee1100-lecture_3 (1).pdf",
+    "size": 200527,
+    "sha256": "682eb7e8c464464e4675d3650789b13b45161eed6b79aa3479c979224f738df4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1c0-dzV1Y74dKVUqLfM53xuwoqsHSjzVQ",
+    "source_member": "intr. ee/opamp_questions.pdf",
+    "path": "1.sinif/2.donem/EE1100_Introduction-to-Electrical-Engineering/introduction-ee/intr. ee/opamp_questions.pdf",
+    "size": 407300,
+    "sha256": "998b1070726efabe6577801703b4e1137a737d14a1db3e8acf012bb4631b0fff",
+    "storage": "git"
   }
 ]
