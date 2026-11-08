@@ -19510,5 +19510,2101 @@
     "size": 73413651,
     "sha256": "42b2567056eca1d26028ec259aa90bd794ad3ce517a99d25b315c23c86219998",
     "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Chapter_1_v9.0.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Chapter_1_v9.0.pptx",
+    "size": 18567870,
+    "sha256": "50899141718ab6c08a3a9a60763816dfe98e8b7e713bdc38d0d2700ed6686d2d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Chapter_2_v9.0.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Chapter_2_v9.0.pptx",
+    "size": 12282667,
+    "sha256": "bb7a1d499c598268224c08944475c832af145e754e88d35cfdea8d1af82ab011",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Chapter_3_v9.0.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Chapter_3_v9.0.pptx",
+    "size": 8276047,
+    "sha256": "5ee56edaaba5d4d742166b269ae5ed71c7014e3e6e49643b89542330a8a34c2c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Chapter_4_v9.0.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Chapter_4_v9.0.pptx",
+    "size": 4303068,
+    "sha256": "fc81c64b2990b11d85a8537d741d59c90f1aad9f669bdbd3d3d575886bf954a9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter 3 questions, TCP and Wireshark labs.zip!/Ch3_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter 3 questions, TCP and Wireshark labs__acilmis/Ch3_questions.pdf",
+    "size": 117596,
+    "sha256": "2c7752cb742c89a9689504e49a04f40d578b28e4b712147b8865c0d2b52aed22",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter 3 questions, TCP and Wireshark labs.zip!/Ch3_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter 3 questions, TCP and Wireshark labs__acilmis/Ch3_solutions.pdf",
+    "size": 353528,
+    "sha256": "3aacddf241cb95771ae4813998178f20b330f62a63d7071b636fead7c8475958",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter 3 questions, TCP and Wireshark labs.zip!/Lab4_TCP_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter 3 questions, TCP and Wireshark labs__acilmis/Lab4_TCP_v8.1.docx",
+    "size": 2606092,
+    "sha256": "3e33755b3574781aa03e511fc58a62f3d3cb616dc08cec5fdb031a4ec0cebe27",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter 3 questions, TCP and Wireshark labs.zip!/Lab5_UDP_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter 3 questions, TCP and Wireshark labs__acilmis/Lab5_UDP_v8.1.docx",
+    "size": 188061,
+    "sha256": "0be37614b0dd70155bdeb95526c30c6abde0269e89634a22a08b4ce5eacfd58e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/chapter345.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/chapter345.pdf",
+    "size": 11599869,
+    "sha256": "5be32305d85e2a4cbf2ad7989aab48d6797fc0be0b265bfca5d23072b6de5462",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/IPv6_Tunneling_Encapsulation.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/IPv6_Tunneling_Encapsulation.pdf",
+    "size": 880032,
+    "sha256": "17d52802ddd117054bebc81843a738684a75b3f9c65998a45642af9da53dc3f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Longest_Prefix_Matching.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Longest_Prefix_Matching.pdf",
+    "size": 348276,
+    "sha256": "a04d42ff399608d0bcaf787d1306405f48bb3262af42f95a7d0eced9d82eb9f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Network_address_translation.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Network_address_translation.pdf",
+    "size": 510303,
+    "sha256": "e6deb8fa3f02ad7c1c6127330efae7ec164fa2d153b8cfaa0679bcb889fda0cc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Openflow_flow_tables.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Openflow_flow_tables.pdf",
+    "size": 865931,
+    "sha256": "2ebeb9500cb96a026acfaff0c0f137c633abb14c22e013907e74146c83a4c530",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Packet_Scheduling_FIFO.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Packet_Scheduling_FIFO.pdf",
+    "size": 557778,
+    "sha256": "3fea3bb51cd7c2f60b0a3519d9b68edc9c4683d2ecb7506e3383e01d3f5fa061",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Packet_Scheduling_Priority.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Packet_Scheduling_Priority.pdf",
+    "size": 572330,
+    "sha256": "9369c7ef391bafe9dacda0f526ba9a09b77136af90ceb2ef3a35175309346e62",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Packet_Scheduling_Round_Robin.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Packet_Scheduling_Round_Robin.pdf",
+    "size": 522862,
+    "sha256": "0bdd50cd82fbe80b5cb279eddc65f4a76a00eb4da4dfe7f05cbbd64d48fc7b45",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Packet_Scheduling_WFQ.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Packet_Scheduling_WFQ.pdf",
+    "size": 591209,
+    "sha256": "aae4e4631e902200b975e97945edad39d1cfcdb1a7289b3192743940bb4a887a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Subnet_Addressing.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter4/Subnet_Addressing.pdf",
+    "size": 647017,
+    "sha256": "6d01a42ba87446db30fae1ae17d7576ea5e5e7a72ac4c9c9cf99b08dd430af0a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter5/Bellman_Ford_Distance_Vector_Algorithm.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter5/Bellman_Ford_Distance_Vector_Algorithm.pdf",
+    "size": 298506,
+    "sha256": "b92838fe5b30fae9153b2ca38b01612fe950286b067d5b73f30c0eaa180254be",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter5/Dijiktra_Link_State_Algorithm.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter5/Dijiktra_Link_State_Algorithm.pdf",
+    "size": 365232,
+    "sha256": "a8824e5b5906f9fe56d0ebd050d368232ddaaaba1a3c97cae098defd9c79bcd3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter5/Dijiktra_Link_State_Algorithm_Advanced.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter5/Dijiktra_Link_State_Algorithm_Advanced.pdf",
+    "size": 346369,
+    "sha256": "76e2bdc8666ee9887c3cd08b03662176bd9cc91fd828711eb66d412f31ec52d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter7.zip!/Chapter7/4G_Wireless_Handover.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter7__acilmis/Chapter7/4G_Wireless_Handover.pdf",
+    "size": 729105,
+    "sha256": "b87aa21fe028c107c1d61e6e9f9e66846946399563953b36f1c1d7a21a0d9334",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter7.zip!/Chapter7/4G_Wireless_Tunneling.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter7__acilmis/Chapter7/4G_Wireless_Tunneling.pdf",
+    "size": 818384,
+    "sha256": "bb6f9f997c79a9e83a6db81810c230fa7bbd6cd57461aade2c7f89821c61007b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter7.zip!/Chapter7/CDMA_Advanced.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter7__acilmis/Chapter7/CDMA_Advanced.pdf",
+    "size": 146011,
+    "sha256": "8b1b712f6e8da64c489d403a7a2ad97b82be249514538efbb58718d3e97fca7a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter7.zip!/Chapter7/CDMA_Basic.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter7__acilmis/Chapter7/CDMA_Basic.pdf",
+    "size": 112308,
+    "sha256": "eac7f26e578ddfb1db0b440881648589eea1510b4b1466cb33ba1d7b1a7ed791",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter_1_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter_1_v8.2.pptx",
+    "size": 14406266,
+    "sha256": "5bc01d6bf95ba1868df87f6b5d04313f04a44a01c699006ffbbd36974e9cec8f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter_2_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Chapter_2_v8.2.pptx",
+    "size": 10278393,
+    "sha256": "feab2c94f3c7f2e8d21429241d18effc9a23d92688064a780737808be5eacd09",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Computer Networking _ A Top Down Approach, 7th, converted.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Computer Networking _ A Top Down Approach, 7th, converted.pdf",
+    "size": 18304347,
+    "sha256": "391502fcaa82936b49f154b61013774bb6ad861c042cebc3a06a45b2835c0588",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Ch7_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Ch7_questions.pdf",
+    "size": 102612,
+    "sha256": "985cdef805badef522bec5b7ec89a0f524430376cba2bccb0469bf00c7e3dce4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Ch7_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Ch7_solutions.pdf",
+    "size": 162396,
+    "sha256": "2f113e8396fa784ea674efb0beac5bb1e38ee30c02877af6e99a0b61cb64acaa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Ch8_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Ch8_questions.pdf",
+    "size": 320149,
+    "sha256": "e897d85f1ac0644e39109dc28e9f4d63a349837e9e954387c3cd24db9af6b75b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Ch8_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Ch8_solutions.pdf",
+    "size": 153991,
+    "sha256": "6df4574f64d897930057b1ad68c83d5e42ac5dc0d2442a53dc46c4158449781d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter7/4G_Wireless_Handover.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter7/4G_Wireless_Handover.pdf",
+    "size": 729105,
+    "sha256": "b87aa21fe028c107c1d61e6e9f9e66846946399563953b36f1c1d7a21a0d9334",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter7/4G_Wireless_Tunneling.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter7/4G_Wireless_Tunneling.pdf",
+    "size": 818384,
+    "sha256": "bb6f9f997c79a9e83a6db81810c230fa7bbd6cd57461aade2c7f89821c61007b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter7/CDMA_Advanced.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter7/CDMA_Advanced.pdf",
+    "size": 146011,
+    "sha256": "8b1b712f6e8da64c489d403a7a2ad97b82be249514538efbb58718d3e97fca7a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter7/CDMA_Basic.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter7/CDMA_Basic.pdf",
+    "size": 112308,
+    "sha256": "eac7f26e578ddfb1db0b440881648589eea1510b4b1466cb33ba1d7b1a7ed791",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter_7_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter_7_v8.2.pptx",
+    "size": 3602220,
+    "sha256": "0ca7ba0b9ca863f818490747fd1a6d1927f591e0122cdea8da0878aad0e3a9f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter_8_v8.1.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks/Chapter_8_v8.1.pptx",
+    "size": 2217609,
+    "sha256": "1cd7f3cd2afe55e1867e4885f751c5b8b005ea0d902c78aa74c0c71c175cc5d3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks.zip!/Chapter_7_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks__acilmis/Chapter_7_v8.2.pptx",
+    "size": 3602220,
+    "sha256": "0ca7ba0b9ca863f818490747fd1a6d1927f591e0122cdea8da0878aad0e3a9f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks.zip!/Chapter_8_v8.1.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks__acilmis/Chapter_8_v8.1.pptx",
+    "size": 2217609,
+    "sha256": "1cd7f3cd2afe55e1867e4885f751c5b8b005ea0d902c78aa74c0c71c175cc5d3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks.zip!/Ch7_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks__acilmis/Ch7_questions.pdf",
+    "size": 102612,
+    "sha256": "985cdef805badef522bec5b7ec89a0f524430376cba2bccb0469bf00c7e3dce4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks.zip!/Ch7_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks__acilmis/Ch7_solutions.pdf",
+    "size": 162396,
+    "sha256": "2f113e8396fa784ea674efb0beac5bb1e38ee30c02877af6e99a0b61cb64acaa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks.zip!/Ch8_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks__acilmis/Ch8_questions.pdf",
+    "size": 320149,
+    "sha256": "e897d85f1ac0644e39109dc28e9f4d63a349837e9e954387c3cd24db9af6b75b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks.zip!/Ch8_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Course materials for the last two weeks__acilmis/Ch8_solutions.pdf",
+    "size": 153991,
+    "sha256": "6df4574f64d897930057b1ad68c83d5e42ac5dc0d2442a53dc46c4158449781d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/hıcanın takip ettiği yer.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/hıcanın takip ettiği yer.docx",
+    "size": 12153,
+    "sha256": "57a101d733765a057235d7ff098c92dc42c97f2f09c48ab761cc42e28213ebb0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/Car_caravan_analogy.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/Car_caravan_analogy.pdf",
+    "size": 367480,
+    "sha256": "f3a9e58fd948b4be23dfbfba719fa997f83148b52e22a15c73e8821054d2d051",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/Circuit_switching.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/Circuit_switching.pdf",
+    "size": 162843,
+    "sha256": "84d6b33039a4fc2df09e210b3ed51eacc30d9ac41bc47ccf1251a5d3ecb38ea4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/End_to_end_delay.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/End_to_end_delay.pdf",
+    "size": 352397,
+    "sha256": "cc64d42ca7e944826e40edb07280dd07a6e9d6929f5a0dd438b429ebe72adca7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/End_to_end_throughput.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/End_to_end_throughput.pdf",
+    "size": 669007,
+    "sha256": "2b91f09761e00a392249ffbb6904e46f0fc3b375e0173a21aa3eace198b6a1b7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/IMPORTANT Packet_switching_circuit_swirching.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/IMPORTANT Packet_switching_circuit_swirching.pdf",
+    "size": 147959,
+    "sha256": "66c5b6e62caa02194ac802fdb1f7d4634d9207a9b32d2da72301b70579dd760b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/IP_stack_protocol_layering.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/IP_stack_protocol_layering.pdf",
+    "size": 438783,
+    "sha256": "bfa3f74e3952e5c0e358ec46463cbac4d1915b507939646c10e23dba4f505c48",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/One_hop_transmission_delay.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/One_hop_transmission_delay.pdf",
+    "size": 283043,
+    "sha256": "a17234402ad0ac8720ecde2319929e435ba4f27ce387a79f8a19a75d101d2cd1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/Queuing_delay.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter1/Queuing_delay.pdf",
+    "size": 297597,
+    "sha256": "df119778801687092f00c5e478223c85ca0088af7bc1376c9b53bb84a96c4e3b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/Browser_caching.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/Browser_caching.pdf",
+    "size": 264257,
+    "sha256": "5d99428f45679fa90bff42363b631a90a50ea565f3228ab1a515a0f802e00a7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/DNS_Basics.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/DNS_Basics.pdf",
+    "size": 503174,
+    "sha256": "29a872e685968082f0981e333b3a23df85157ad2930a5de09728433b3caa8ac4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/DNS_HTTP_Delays.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/DNS_HTTP_Delays.pdf",
+    "size": 669724,
+    "sha256": "e06a1d61eb1d8bfdcdb58f987eefbab6a262332637788ca47290b8266d9078d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/DNS_Iterative_Query.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/DNS_Iterative_Query.pdf",
+    "size": 397930,
+    "sha256": "c01e1e8073dbe093ce22f7e5062bdc5d798f9ca2112d3da456fedaafcbccfa94",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/DNS_Recursive_Query.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/DNS_Recursive_Query.pdf",
+    "size": 396072,
+    "sha256": "6f049f4b72a55ca4077ed079f94f8e8372cf006b114e750f88bec3b3034f7da8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/Electronic_Mail_SMTP.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/Electronic_Mail_SMTP.pdf",
+    "size": 289044,
+    "sha256": "0d8b027f894a2fd9ff81262d145c96515aa3fc769e7564b7c86b2b7daa488426",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/HTTP_Get.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/HTTP_Get.pdf",
+    "size": 361730,
+    "sha256": "de91f9d47d5cacf36acc08113eede5f543aa742de18b67a5612b250a28ad50d0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/HTTP_Response.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/HTTP_Response.pdf",
+    "size": 334959,
+    "sha256": "0c56f1e69d0918a0dcd1e1e6c0b9fe6ddf81b2c065bb4e4a3f107fd268241aae",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/Sever_Client_vs_P2P.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter2/Sever_Client_vs_P2P.pdf",
+    "size": 306204,
+    "sha256": "5586cdd17ff03ae5280360e2d7f9a76de087f0337ab11f88bf06c7ae7e82be97",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/Internet_Checksum.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/Internet_Checksum.pdf",
+    "size": 156896,
+    "sha256": "c037a7aea5e3eeade93a6c327a92d3038b9047ba56ee10cf45469a4fc7b2aaa8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/RTD2.2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/RTD2.2.pdf",
+    "size": 913850,
+    "sha256": "ced5bcf916defebb5bf00a96154129bd9f4d386a287b67a97f2dfe926752ade0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/RTD3.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/RTD3.pdf",
+    "size": 451699,
+    "sha256": "43d0f9eec403886bf29647309b30744441e82b6a39bccf157e0c115a4a475a27",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_Congestion_Window.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_Congestion_Window.pdf",
+    "size": 1189372,
+    "sha256": "221f46b639ef6010cda43eb6a1743437bc71f775403cd2907f69f97865d0683d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_Mux_Demux.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_Mux_Demux.pdf",
+    "size": 664006,
+    "sha256": "d42e603137ef79520032bd9c24d6e09606d956cd33238649c3908d81779a372c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_Retransmissions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_Retransmissions.pdf",
+    "size": 501316,
+    "sha256": "0ca295529c68ae7ab372393605c9d11b7137d47fcd6716b47ef016b72af3024e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_RTT_Timeout.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_RTT_Timeout.pdf",
+    "size": 358007,
+    "sha256": "d0dd5dfd5c367855228827b9482031074a2a40f8e24efccce399aa368eb518f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_Sequence_ACK_Numbers_with_segment_loss.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/TCP_Sequence_ACK_Numbers_with_segment_loss.pdf",
+    "size": 409353,
+    "sha256": "d26bc457635550c21db3ce710ff89ed56a53e6b68fced8a3ae8959d2cb60022b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/UDP_Mux_Demux.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Review_Midterm/Chapter3/UDP_Mux_Demux.pdf",
+    "size": 466590,
+    "sha256": "2c3da62f664a00a1d83ed33159f2cf339be884b5d01b5652290a89600b2feb55",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/syllabus.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/syllabus.docx",
+    "size": 22869,
+    "sha256": "655ce5eaa686744ad6a936c7f1bcaf06c39bfe1c168d05f6d3ee4d3645d9f792",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Ch5_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Ch5_questions.pdf",
+    "size": 113498,
+    "sha256": "aeb58378705dbfa4d86551561e5987d385047c7d07785fb9250c35c5b8732bff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Ch5_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Ch5_solutions.pdf",
+    "size": 214379,
+    "sha256": "da6fa807be8580ceb0fb18d93e461c2bdf74f89d6f2051cf73f2ba5da21bfb87",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Chapter_5_v8.2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Chapter_5_v8.2.pdf",
+    "size": 4593132,
+    "sha256": "6cb2f7534edd61d898ac267895636ddc8d4ffac497dcd228d27a7192c2ec953d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Week 10 Lecture Notes.zip!/Chapter_5_v8.2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Week 10 Lecture Notes__acilmis/Chapter_5_v8.2.pdf",
+    "size": 4593132,
+    "sha256": "6cb2f7534edd61d898ac267895636ddc8d4ffac497dcd228d27a7192c2ec953d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Week 10 Lecture Notes.zip!/Ch5_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Week 10 Lecture Notes__acilmis/Ch5_questions.pdf",
+    "size": 113498,
+    "sha256": "aeb58378705dbfa4d86551561e5987d385047c7d07785fb9250c35c5b8732bff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Week 10 Lecture Notes.zip!/Ch5_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/WEEK10_CH5/Week 10 Lecture Notes__acilmis/Ch5_solutions.pdf",
+    "size": 214379,
+    "sha256": "da6fa807be8580ceb0fb18d93e461c2bdf74f89d6f2051cf73f2ba5da21bfb87",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects.zip!/Chapter_3_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects__acilmis/Chapter_3_v8.2.pptx",
+    "size": 6654597,
+    "sha256": "68b1e06f63b3ba01c364cf3ad1459945f7f84cc03f3f9da562f6a47163374bd6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects.zip!/Ch1_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects__acilmis/Ch1_questions.pdf",
+    "size": 118271,
+    "sha256": "da7162743bb6d93ff816ffb1b4671010320111a074e4d7fb973adf5f4a268d78",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects.zip!/Ch1_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects__acilmis/Ch1_solutions.pdf",
+    "size": 567690,
+    "sha256": "af2f6d6621392b4ccfbe8eeaaa6e8cdd25ddc4d12094acce37e998ffd12af24c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects.zip!/Ch2_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects__acilmis/Ch2_questions.pdf",
+    "size": 87565,
+    "sha256": "003b3e0deaa5c91d82da6d5d405a188ba52d4145b386747a8f58c9a159b68365",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects.zip!/Ch2_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects__acilmis/Ch2_solutions.pdf",
+    "size": 192413,
+    "sha256": "f98fc83fbf387074dbe5bde34d339ce2963f21e333580d092d39281d5ac82ec4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects.zip!/Lab1_Intro_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects__acilmis/Lab1_Intro_v8.1.docx",
+    "size": 1788236,
+    "sha256": "55c9e80df2bbb97c5c8e2f792dd2caf2b00e0e3a59f5ba4e91842c09dc46667e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects.zip!/Lab2_HTTP_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects__acilmis/Lab2_HTTP_v8.1.docx",
+    "size": 543825,
+    "sha256": "0fe7ef4a6090e989fa89bfa2e5b15e14909305131008cfe4d4f459230e082d59",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects.zip!/Lab3_DNS_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/COMP. NETWORK_feyz/COMP. NETWORK/Weeks 4 & 5 lecture notes, end of chapter questions with their solutions, Wireshark projects__acilmis/Lab3_DNS_v8.1.docx",
+    "size": 415355,
+    "sha256": "e4f0990ae62db2a95cd86c726cb224f6b30386faa0ef48c765f8ee9dc78d55af",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/1Computer_Networks_Link_Layer_COMPLETE_45_Questions.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/1Computer_Networks_Link_Layer_COMPLETE_45_Questions.docx",
+    "size": 66532,
+    "sha256": "de28a918255e4da702d3b7579e5146657be4f59380453e3ccade0670c7018aca",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/1Computer_Networks_Link_Layer_COMPLETE_45_Questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/1Computer_Networks_Link_Layer_COMPLETE_45_Questions.pdf",
+    "size": 4382136,
+    "sha256": "2b8e54c438d417d0bc056d99ca9dd0098956fb9b92b75ecf1ab5fd9e2197f732",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/2Wireless_Networks_Final_Exam.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/2Wireless_Networks_Final_Exam.docx",
+    "size": 66486,
+    "sha256": "2aba5292a0c6f8227c0e98f487e90532d44597bda4ffd02fc945fcf0246d2f6c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/2Wireless_Networks_Final_Exam.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/2Wireless_Networks_Final_Exam.pdf",
+    "size": 544034,
+    "sha256": "7eac673663de77135b564d3d5e323293ef61801130ceb1dae9f1e1426bd9616c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/3Network_Security_Final_Exam_Complete_50Q.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/3Network_Security_Final_Exam_Complete_50Q.docx",
+    "size": 42131,
+    "sha256": "3a38117c6851da1c30e8fbf77d05c4d771fbebf1b4ad90579bc35ce04e25148d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/3Network_Security_Final_Exam_Complete_50Q.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/3Network_Security_Final_Exam_Complete_50Q.pdf",
+    "size": 406461,
+    "sha256": "4bd1ddf2bd1a18369c2e89e77f3e9a1c1c1488d8699078e8d555e6eb2834efb0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/gemini/1-Link_Layer.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/gemini/1-Link_Layer.docx",
+    "size": 29307,
+    "sha256": "aefd80f5fc65189b64062428db540a843bfe73290a3a5302cd81012883c40d86",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/gemini/1-Link_Layer.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/gemini/1-Link_Layer.pdf",
+    "size": 220697,
+    "sha256": "4e61e74dfad4c29370e520c3bab839fc64c83fbbe1434db305fed0dd0d10908e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/gemini/2-Wireless_Network.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/gemini/2-Wireless_Network.docx",
+    "size": 28961,
+    "sha256": "7d2f6faad14a73984a5d0d8e72d4f354a751ed91050bc31ad1c92e7e45599f2d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/gemini/2-Wireless_Network.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/gemini/2-Wireless_Network.pdf",
+    "size": 213231,
+    "sha256": "53e0d85df6aee9ca1a6119b285b90db36a3f57aa8bc3013ed72328a46218ec15",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/gemini/3-Network_Security.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/gemini/3-Network_Security.docx",
+    "size": 28716,
+    "sha256": "f672a1b6086ec524a97b7098ae8a148e271069e6b86455c367c0878320a6a01d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/final_hazırlık_2025/gemini/3-Network_Security.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/final_hazırlık_2025/gemini/3-Network_Security.pdf",
+    "size": 192049,
+    "sha256": "ad19ac4c58aa90a7f39e3eb533a6f25c21fe1b958b374e37e3a212c8cb4711a2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/Final_solution.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/Final_solution.pdf",
+    "size": 85568,
+    "sha256": "4728020e71c5b017b2a927034a72ef5bcffe7175d9c7cde37e8cb5a7d8ef19b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach.pdf",
+    "size": 244429,
+    "sha256": "aa43dc7e0070c1cb5ae182885bc76f0c62d045ef289dfc8aa938b5384c74f1a7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_2.pdf",
+    "size": 227591,
+    "sha256": "80772b12f173d9d1a5b12ee709a8c3490c0e40ad7941142d693a3d0b63632b6d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_3.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_3.pdf",
+    "size": 178326,
+    "sha256": "9abb4d7f04f7e0027bcdb74f9e4f714eaac877caa8e59800ed425a3ecad51f29",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_4.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_4.pdf",
+    "size": 218049,
+    "sha256": "ed62b50c75b7ae551bf7415bde85c6704b46714e2408032493cc8dc8908393b4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_5.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_5.pdf",
+    "size": 173367,
+    "sha256": "f671dc0de93bae6c94a8b205e7cea8681cb2180e8f699430913c62d6d819f662",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_6.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_6.pdf",
+    "size": 188250,
+    "sha256": "915b996dbd29e7cf9e5f31cf2c144c4980bee6f52117437a5ced97ea2a54cec2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_7.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_7.pdf",
+    "size": 394801,
+    "sha256": "c904ff6c0fd98cd9e495747b15f84e58760a631edbcfd3d7fb9e52d534a38f56",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_8.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 1/Interactive Problems, Computer Networking_ A Top Down Approach_8.pdf",
+    "size": 333084,
+    "sha256": "cbc3c54924090eb9e1c6d6a3413697c1e8edf70303981545e909af29fb0ed812",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach.pdf",
+    "size": 259310,
+    "sha256": "49a4a402dd3ba873f16718c33dc22d99eaa9f937d6337310e74f46fc02411d82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_2.pdf",
+    "size": 442886,
+    "sha256": "d3dbc8acafd0d5f0c08ea060b999cc8972a74ccc6c38c11d1ed39e520c49a0d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_3.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_3.pdf",
+    "size": 292746,
+    "sha256": "b99aac13a3e66cca583b2cf9115ca85166ffdb4d905f079d73201f7b5b7f317c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_4.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_4.pdf",
+    "size": 249551,
+    "sha256": "25acfaa3078156b5ab4a117a1bec2af203fec04cbab711a32fab47a1665eafda",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_5.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_5.pdf",
+    "size": 250909,
+    "sha256": "8cf9a6fb66cb41e6858ed5ed9b6823a544e550781b69aff17fe240cf2c86d200",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_6.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_6.pdf",
+    "size": 238624,
+    "sha256": "e478a8938b300b121ba658a713e6f51ce44e606b889a804c45dd418d46bdfc80",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_7.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_7.pdf",
+    "size": 259061,
+    "sha256": "20c40866c0e784b451cd0a813e17a55ce223a05b6d109f46200910bbbdd78977",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_8.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 2/Interactive Problems, Computer Networking_ A Top Down Approach_8.pdf",
+    "size": 320172,
+    "sha256": "15df5b51a2e2384a21dbdae7bc773ef0e8adda7cce00a3d6d6f047a3225c4002",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach.pdf",
+    "size": 165514,
+    "sha256": "fc5891631223fc3a499ec7c41cfa905c84079eb1604e69333516af6320449f83",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_2.pdf",
+    "size": 662347,
+    "sha256": "219410db0e31752442cd95f275d936b68295adb0560f482636c9c50102e4a4be",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_3.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_3.pdf",
+    "size": 1310048,
+    "sha256": "038bdbc5be881049faddb505aa3cd96a03a3685c9b5653f955da1cb085c6798c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_4.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_4.pdf",
+    "size": 254524,
+    "sha256": "10fbe259320522078cd08a56c099fcac974aaaf6601611ace46575ea9efef200",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_5.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_5.pdf",
+    "size": 245920,
+    "sha256": "1777ab2b0f2de0ffa1b7dd1f63ab02fe01f159524cb36d990850947bef5fb024",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_6.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_6.pdf",
+    "size": 591138,
+    "sha256": "0a612e9aca0a79a67e8c22fbec578c0f8baab62440d36d7fc74d4a7ca93614a7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_7.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_7.pdf",
+    "size": 287417,
+    "sha256": "9953557ed4125a64391900a976b6e5531ccd427637c59079b10f9737d4e4ec80",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_8.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_8.pdf",
+    "size": 261971,
+    "sha256": "7462e28f043326d12fad4f2ce5296a00d936886f6714110c52dfc862d23bf4e1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_9.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/gia.cs questions/Chapter 3/Interactive Problems, Computer Networking_ A Top Down Approach_9.pdf",
+    "size": 286842,
+    "sha256": "e129fe235e3c206c3d3d93855c6e9671b92dc167134b1d22dc9593fcd9142253",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/Midterm1_solution.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/Midterm1_solution.pdf",
+    "size": 131819,
+    "sha256": "fdfeecd3d77f07543bbb96f611736a154aaca0ebb3cf80780a55c2c3d80d9144",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/for exams/Midterm2_solution.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/for exams/Midterm2_solution.pdf",
+    "size": 125145,
+    "sha256": "665e76dba08efd42eb901e9085da13e316d0265e9b55e12e29ef06250328e09f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Lab5_UDP_Protocol.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Lab5_UDP_Protocol.docx",
+    "size": 76303,
+    "sha256": "b0fed480e5e7c47e3fec08e33712ac73f4fde69a56a6dee02d7e3eec73ffe3f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Lab6_wireshark_trace_files/ip-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Lab6_wireshark_trace_files/ip-wireshark-trace1-1.pcapng",
+    "size": 180900,
+    "sha256": "39926b4c97da7cb672be64a65e7b4c4f178df47a1515786ef0fb1a0edd658c8c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Lab6_wireshark_trace_files/ip-wireshark-trace2-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Lab6_wireshark_trace_files/ip-wireshark-trace2-1.pcapng",
+    "size": 144164,
+    "sha256": "d31ca0d21d4c91375b7c424c5c005820606c25de3a302f73714e9f9ff2aefaf2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Lab7_wireshark_trace_files/nat-inside-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Lab7_wireshark_trace_files/nat-inside-wireshark-trace1-1.pcapng",
+    "size": 3828,
+    "sha256": "95822f36e99ac1b477e5e7fc493b79a6dbcbb4b964cba9d69d1febce83ffa105",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Lab7_wireshark_trace_files/nat-outside-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Lab7_wireshark_trace_files/nat-outside-wireshark-trace1-1.pcapng",
+    "size": 3828,
+    "sha256": "cd18afedcce84dcbe1b17b1f3025eb5b9c4044a859df6ce28766f009cd03e095",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Lab8_wireshark_trace_file.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Lab8_wireshark_trace_file.pcapng",
+    "size": 329664,
+    "sha256": "611169bdfdffc567d47eea2ff97d43538ec56cc516f92f2e4a468bb6f5f4419e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Lab9_ARP_Protocol.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Lab9_ARP_Protocol.docx",
+    "size": 2005691,
+    "sha256": "5bba5014745062ee99c8afc85defc082a26b7fc4f1c49748106a33147769c277",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Lab9_wireshark_trace_file.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Lab9_wireshark_trace_file.pcapng",
+    "size": 52636,
+    "sha256": "4f357ccd0712b76fe8a62bfc616622f43193db8018041520710955b668bd9421",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/S_Wireshark_ TCP_Solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/S_Wireshark_ TCP_Solutions.pdf",
+    "size": 2092613,
+    "sha256": "e7a475eceb7b7e512f684d020166039643dfa075e5f4ae30aaa6d8a18e164189",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/S_Wireshark_DNS_SOLUTION_V7.0.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/S_Wireshark_DNS_SOLUTION_V7.0.pdf",
+    "size": 1678963,
+    "sha256": "17028fc96560a3398666b5928020892f6f9683c0c1c55383f4c70c292538e353",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/S_Wireshark_HTTP_SOLUTION_v7.0.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/S_Wireshark_HTTP_SOLUTION_v7.0.pdf",
+    "size": 3844413,
+    "sha256": "ec8c4f3b4d196447223b96d192ead6f9095e2d870162ce9cf46e4f246934ca21",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/dhcp-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/dhcp-wireshark-trace1-1.pcapng",
+    "size": 329664,
+    "sha256": "611169bdfdffc567d47eea2ff97d43538ec56cc516f92f2e4a468bb6f5f4419e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace1-1.pcapng",
+    "size": 433212,
+    "sha256": "997a53430be06a486c07b2ae913446f23935f77a2ead9793b495ee8349244e79",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace1-2.pcap",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace1-2.pcap",
+    "size": 420213,
+    "sha256": "273f3e53d950c2780b5a7ff7031563929055617a881eb7169c6817ce64b2105d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace2-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace2-1.pcapng",
+    "size": 9476,
+    "sha256": "db58155f6efd672cd9e8baca054d448146b686ba2b44efa331c9a1460f0d7d98",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace2-2.pcap",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace2-2.pcap",
+    "size": 1101,
+    "sha256": "effabf08bddb6a1bab1888b5db64f4aa223d878f150562c12922321b4446ba95",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace3-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace3-1.pcapng",
+    "size": 6256,
+    "sha256": "6d71e5bcaafac909d5689c56a0d40130728ba3609e4b9013e6cd0294930888e9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace3-2.pcap",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/dns-wireshark-trace3-2.pcap",
+    "size": 852,
+    "sha256": "77ab44ba7671196622b44a258a73f2f9b857b432069a1a112bddc34d5857a95f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/ethernet-wireshark-trace1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/ethernet-wireshark-trace1.pcapng",
+    "size": 52636,
+    "sha256": "4f357ccd0712b76fe8a62bfc616622f43193db8018041520710955b668bd9421",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george.zip!/http-wireshark-trace1-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george__acilmis/http-wireshark-trace1-2.pcapng",
+    "size": 160784,
+    "sha256": "bbc3f24397c1b96adeaefc4779c478d0dbdd9a4bbb7289c5ad3889140c5a25ff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george.zip!/http-wireshark-trace2-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george__acilmis/http-wireshark-trace2-2.pcapng",
+    "size": 42452,
+    "sha256": "9479c28653296cdcdd7d3be77093358a34944f09365c073b6e39cb11873b7970",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george.zip!/http-wireshark-trace3-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george__acilmis/http-wireshark-trace3-2.pcapng",
+    "size": 1510412,
+    "sha256": "e3b125356353e18933b7d3834c1885019e6490dd10878ed03a17a4f4a1b50296",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george.zip!/http-wireshark-trace4-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george__acilmis/http-wireshark-trace4-2.pcapng",
+    "size": 554992,
+    "sha256": "de53c0f57de4ab1f1dbd5e7ec255a857b12cfacfb2d44fbb23c26c8d9a3a2162",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george.zip!/http-wireshark-trace5-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace-from-george__acilmis/http-wireshark-trace5-2.pcapng",
+    "size": 66568,
+    "sha256": "cf79d692cdc8eac39e8c256d99c5fb64a65acdff7d478f1b8fb8feaeb57f7bc8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace1-1.pcapng",
+    "size": 61728,
+    "sha256": "97c5edb91736d77a8f0d1a6fc3bf011740b85d7d967ce466b8ef80e4043287fc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace1-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace1-2.pcapng",
+    "size": 160784,
+    "sha256": "bbc3f24397c1b96adeaefc4779c478d0dbdd9a4bbb7289c5ad3889140c5a25ff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace2-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace2-1.pcapng",
+    "size": 538224,
+    "sha256": "3e14151abc75c797cf9600d59221e0f453c7d15d24a3da0d1466f6ce62741d27",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace2-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace2-2.pcapng",
+    "size": 42452,
+    "sha256": "9479c28653296cdcdd7d3be77093358a34944f09365c073b6e39cb11873b7970",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace3-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace3-1.pcapng",
+    "size": 14148,
+    "sha256": "9484044ebdedaa2dfb87a1fea4dba63ac0faead84caf45da30695f11b19e3166",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace3-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace3-2.pcapng",
+    "size": 1510412,
+    "sha256": "e3b125356353e18933b7d3834c1885019e6490dd10878ed03a17a4f4a1b50296",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace4-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace4-1.pcapng",
+    "size": 89576,
+    "sha256": "ce490ef74925c45151a5a750f24fd5f59c57b8d557240b44829e83e9c1de744a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace4-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace4-2.pcapng",
+    "size": 554992,
+    "sha256": "de53c0f57de4ab1f1dbd5e7ec255a857b12cfacfb2d44fbb23c26c8d9a3a2162",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace5-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace5-1.pcapng",
+    "size": 156668,
+    "sha256": "41936812ec4653abec0d489e44223fd29f9407eca127d92a2031b169593cc64f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace5-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/http-wireshark-trace5-2.pcapng",
+    "size": 66568,
+    "sha256": "cf79d692cdc8eac39e8c256d99c5fb64a65acdff7d478f1b8fb8feaeb57f7bc8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/intro-wireshark-trace1.pcap",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/intro-wireshark-trace1.pcap",
+    "size": 456172,
+    "sha256": "af71d58bd0d300e2b8dc7a87f6c2026056ce98b17f920a768b30f796803e23ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/ip-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/ip-wireshark-trace1-1.pcapng",
+    "size": 180900,
+    "sha256": "39926b4c97da7cb672be64a65e7b4c4f178df47a1515786ef0fb1a0edd658c8c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/ip-wireshark-trace2-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/ip-wireshark-trace2-1.pcapng",
+    "size": 144164,
+    "sha256": "d31ca0d21d4c91375b7c424c5c005820606c25de3a302f73714e9f9ff2aefaf2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/nat-inside-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/nat-inside-wireshark-trace1-1.pcapng",
+    "size": 3828,
+    "sha256": "95822f36e99ac1b477e5e7fc493b79a6dbcbb4b964cba9d69d1febce83ffa105",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/nat-outside-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/nat-outside-wireshark-trace1-1.pcapng",
+    "size": 3828,
+    "sha256": "cd18afedcce84dcbe1b17b1f3025eb5b9c4044a859df6ce28766f009cd03e095",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/tcp-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/tcp-wireshark-trace1-1.pcapng",
+    "size": 172632,
+    "sha256": "164d5e3b3d2a25edb2ab6c57292e883c9c29123d4c18b2f5872a929f724559b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/tcp-wireshark-trace1-2.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/tcp-wireshark-trace1-2.pcapng",
+    "size": 179900,
+    "sha256": "b856fe575837861f8bae3cf1b3fb7763a88d41a7881e25b82c1511301077dfb6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/tls-wireshark-trace1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/tls-wireshark-trace1.pcapng",
+    "size": 650932,
+    "sha256": "b9759c06c40a2c17ea469bd60587a78aed4e04a97195f8616a01e3f0301a6d92",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/wireshark-traces-8.1/Wireshark_801_11.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/wireshark-traces-8.1/Wireshark_801_11.pcapng",
+    "size": 679436,
+    "sha256": "6ceba2e58b7dd71213834c4f0b4a3e618a3d57b3311d684c401548b6e957ec64",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_DNS_v8.1.doc",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_DNS_v8.1.doc",
+    "size": 496128,
+    "sha256": "9750a7b3ac70a91fc3a645b845ab1cff69edd1089ba4a07364b1dc57f1a6afe2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_HTTP_v8.1.doc",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_HTTP_v8.1.doc",
+    "size": 702976,
+    "sha256": "85de7d3234378ffed6002c4419663792e15d97031195ab38ae83f2d1468ef325",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Intro_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Intro_v8.1.docx",
+    "size": 2023970,
+    "sha256": "978408268af61a7b1f0dc21fbba3f9755deaa0688238a76cebb32b9806f49b0d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_TCP_v8.1.doc",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_TCP_v8.1.doc",
+    "size": 2673664,
+    "sha256": "1a739dacb5f45d4ae486109a3f19b586da98a937a96ee10622bd2f73225916d4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab1_wireshark_trace_file.pcap",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab1_wireshark_trace_file.pcap",
+    "size": 456172,
+    "sha256": "af71d58bd0d300e2b8dc7a87f6c2026056ce98b17f920a768b30f796803e23ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files.zip!/HTTP/http-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files__acilmis/HTTP/http-wireshark-trace1-1.pcapng",
+    "size": 61728,
+    "sha256": "97c5edb91736d77a8f0d1a6fc3bf011740b85d7d967ce466b8ef80e4043287fc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files.zip!/HTTP/http-wireshark-trace2-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files__acilmis/HTTP/http-wireshark-trace2-1.pcapng",
+    "size": 538224,
+    "sha256": "3e14151abc75c797cf9600d59221e0f453c7d15d24a3da0d1466f6ce62741d27",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files.zip!/HTTP/http-wireshark-trace3-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files__acilmis/HTTP/http-wireshark-trace3-1.pcapng",
+    "size": 14148,
+    "sha256": "9484044ebdedaa2dfb87a1fea4dba63ac0faead84caf45da30695f11b19e3166",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files.zip!/HTTP/http-wireshark-trace4-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files__acilmis/HTTP/http-wireshark-trace4-1.pcapng",
+    "size": 89576,
+    "sha256": "ce490ef74925c45151a5a750f24fd5f59c57b8d557240b44829e83e9c1de744a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files.zip!/HTTP/http-wireshark-trace5-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab2_Wireshark_trace_files__acilmis/HTTP/http-wireshark-trace5-1.pcapng",
+    "size": 156668,
+    "sha256": "41936812ec4653abec0d489e44223fd29f9407eca127d92a2031b169593cc64f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab3_Wireshark_trace_files/DNS/dns-wireshark-trace1-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab3_Wireshark_trace_files/DNS/dns-wireshark-trace1-1.pcapng",
+    "size": 433212,
+    "sha256": "997a53430be06a486c07b2ae913446f23935f77a2ead9793b495ee8349244e79",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab3_Wireshark_trace_files/DNS/dns-wireshark-trace2-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab3_Wireshark_trace_files/DNS/dns-wireshark-trace2-1.pcapng",
+    "size": 9476,
+    "sha256": "db58155f6efd672cd9e8baca054d448146b686ba2b44efa331c9a1460f0d7d98",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab3_Wireshark_trace_files/DNS/dns-wireshark-trace3-1.pcapng",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab3_Wireshark_trace_files/DNS/dns-wireshark-trace3-1.pcapng",
+    "size": 6256,
+    "sha256": "6d71e5bcaafac909d5689c56a0d40130728ba3609e4b9013e6cd0294930888e9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab4_wireshark_trace_file.pcap",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab4_wireshark_trace_file.pcap",
+    "size": 172632,
+    "sha256": "164d5e3b3d2a25edb2ab6c57292e883c9c29123d4c18b2f5872a929f724559b3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Labs/Wireshark_Trace_Files_export/Lab5_wireshark_trace_file.pcap",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Labs/Wireshark_Trace_Files_export/Lab5_wireshark_trace_file.pcap",
+    "size": 433212,
+    "sha256": "997a53430be06a486c07b2ae913446f23935f77a2ead9793b495ee8349244e79",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch1_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch1_questions.pdf",
+    "size": 118271,
+    "sha256": "da7162743bb6d93ff816ffb1b4671010320111a074e4d7fb973adf5f4a268d78",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch1_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch1_solutions.pdf",
+    "size": 567690,
+    "sha256": "af2f6d6621392b4ccfbe8eeaaa6e8cdd25ddc4d12094acce37e998ffd12af24c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch2_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch2_questions.pdf",
+    "size": 87565,
+    "sha256": "003b3e0deaa5c91d82da6d5d405a188ba52d4145b386747a8f58c9a159b68365",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch2_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch2_solutions.pdf",
+    "size": 192413,
+    "sha256": "f98fc83fbf387074dbe5bde34d339ce2963f21e333580d092d39281d5ac82ec4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch3_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch3_questions.pdf",
+    "size": 117596,
+    "sha256": "2c7752cb742c89a9689504e49a04f40d578b28e4b712147b8865c0d2b52aed22",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch3_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch3_solutions.pdf",
+    "size": 353528,
+    "sha256": "3aacddf241cb95771ae4813998178f20b330f62a63d7071b636fead7c8475958",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch5_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch5_questions.pdf",
+    "size": 113498,
+    "sha256": "aeb58378705dbfa4d86551561e5987d385047c7d07785fb9250c35c5b8732bff",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch5_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch5_solutions.pdf",
+    "size": 214379,
+    "sha256": "da6fa807be8580ceb0fb18d93e461c2bdf74f89d6f2051cf73f2ba5da21bfb87",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch7_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch7_questions.pdf",
+    "size": 102612,
+    "sha256": "985cdef805badef522bec5b7ec89a0f524430376cba2bccb0469bf00c7e3dce4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch7_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch7_solutions.pdf",
+    "size": 162396,
+    "sha256": "2f113e8396fa784ea674efb0beac5bb1e38ee30c02877af6e99a0b61cb64acaa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch8_questions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch8_questions.pdf",
+    "size": 320149,
+    "sha256": "e897d85f1ac0644e39109dc28e9f4d63a349837e9e954387c3cd24db9af6b75b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Ch8_solutions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Ch8_solutions.pdf",
+    "size": 153991,
+    "sha256": "6df4574f64d897930057b1ad68c83d5e42ac5dc0d2442a53dc46c4158449781d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter7/4G_Wireless_Handover.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter7/4G_Wireless_Handover.pdf",
+    "size": 729105,
+    "sha256": "b87aa21fe028c107c1d61e6e9f9e66846946399563953b36f1c1d7a21a0d9334",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter7/4G_Wireless_Tunneling.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter7/4G_Wireless_Tunneling.pdf",
+    "size": 818384,
+    "sha256": "bb6f9f997c79a9e83a6db81810c230fa7bbd6cd57461aade2c7f89821c61007b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter7/CDMA_Advanced.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter7/CDMA_Advanced.pdf",
+    "size": 146011,
+    "sha256": "8b1b712f6e8da64c489d403a7a2ad97b82be249514538efbb58718d3e97fca7a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter7/CDMA_Basic.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter7/CDMA_Basic.pdf",
+    "size": 112308,
+    "sha256": "eac7f26e578ddfb1db0b440881648589eea1510b4b1466cb33ba1d7b1a7ed791",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter_1_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter_1_v8.2.pptx",
+    "size": 14406266,
+    "sha256": "5bc01d6bf95ba1868df87f6b5d04313f04a44a01c699006ffbbd36974e9cec8f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter_2_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter_2_v8.2.pptx",
+    "size": 10278393,
+    "sha256": "feab2c94f3c7f2e8d21429241d18effc9a23d92688064a780737808be5eacd09",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter_3_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter_3_v8.2.pptx",
+    "size": 6654597,
+    "sha256": "68b1e06f63b3ba01c364cf3ad1459945f7f84cc03f3f9da562f6a47163374bd6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter_4_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter_4_v8.2.pptx",
+    "size": 4537625,
+    "sha256": "d37efcdc95fc678a7f7f76ea1c9a4af84b0184942c62bb9a24ac10b5a4fd4012",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter_5_v8.2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter_5_v8.2.pdf",
+    "size": 4593132,
+    "sha256": "6cb2f7534edd61d898ac267895636ddc8d4ffac497dcd228d27a7192c2ec953d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter_6_v8.2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter_6_v8.2.pdf",
+    "size": 3609562,
+    "sha256": "f98218e8b8f1342e533c9494815a0a33b69397728c22b5fcd481ae7b0691f431",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter_7_v8.2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter_7_v8.2.pptx",
+    "size": 3602220,
+    "sha256": "0ca7ba0b9ca863f818490747fd1a6d1927f591e0122cdea8da0878aad0e3a9f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Chapter_8_v8.1.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Chapter_8_v8.1.pptx",
+    "size": 2217609,
+    "sha256": "1cd7f3cd2afe55e1867e4885f751c5b8b005ea0d902c78aa74c0c71c175cc5d3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Lab1_Intro_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Lab1_Intro_v8.1.docx",
+    "size": 1788236,
+    "sha256": "55c9e80df2bbb97c5c8e2f792dd2caf2b00e0e3a59f5ba4e91842c09dc46667e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Lab2_HTTP_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Lab2_HTTP_v8.1.docx",
+    "size": 543825,
+    "sha256": "0fe7ef4a6090e989fa89bfa2e5b15e14909305131008cfe4d4f459230e082d59",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Lab3_DNS_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Lab3_DNS_v8.1.docx",
+    "size": 415355,
+    "sha256": "e4f0990ae62db2a95cd86c726cb224f6b30386faa0ef48c765f8ee9dc78d55af",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Lab4_TCP_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Lab4_TCP_v8.1.docx",
+    "size": 2606092,
+    "sha256": "3e33755b3574781aa03e511fc58a62f3d3cb616dc08cec5fdb031a4ec0cebe27",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Lab5_UDP_v8.1.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Lab5_UDP_v8.1.docx",
+    "size": 188061,
+    "sha256": "0be37614b0dd70155bdeb95526c30c6abde0269e89634a22a08b4ce5eacfd58e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Midterm1_solution.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Midterm1_solution.pdf",
+    "size": 131819,
+    "sha256": "fdfeecd3d77f07543bbb96f611736a154aaca0ebb3cf80780a55c2c3d80d9144",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Midterm2_solution (1).pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Midterm2_solution (1).pdf",
+    "size": 125145,
+    "sha256": "665e76dba08efd42eb901e9085da13e316d0265e9b55e12e29ef06250328e09f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/network_5_6_7.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/network_5_6_7.pdf",
+    "size": 1789502,
+    "sha256": "0483df647b1f09fa82a78da6c3f2525716d94460064ad2dff06efe512f3a1ae0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter1/Car_caravan_analogy.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter1/Car_caravan_analogy.pdf",
+    "size": 367480,
+    "sha256": "f3a9e58fd948b4be23dfbfba719fa997f83148b52e22a15c73e8821054d2d051",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter1/Circuit_switching.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter1/Circuit_switching.pdf",
+    "size": 162843,
+    "sha256": "84d6b33039a4fc2df09e210b3ed51eacc30d9ac41bc47ccf1251a5d3ecb38ea4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter1/End_to_end_delay.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter1/End_to_end_delay.pdf",
+    "size": 352397,
+    "sha256": "cc64d42ca7e944826e40edb07280dd07a6e9d6929f5a0dd438b429ebe72adca7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter1/End_to_end_throughput.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter1/End_to_end_throughput.pdf",
+    "size": 669007,
+    "sha256": "2b91f09761e00a392249ffbb6904e46f0fc3b375e0173a21aa3eace198b6a1b7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter1/IP_stack_protocol_layering.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter1/IP_stack_protocol_layering.pdf",
+    "size": 438783,
+    "sha256": "bfa3f74e3952e5c0e358ec46463cbac4d1915b507939646c10e23dba4f505c48",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter1/One_hop_transmission_delay.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter1/One_hop_transmission_delay.pdf",
+    "size": 283043,
+    "sha256": "a17234402ad0ac8720ecde2319929e435ba4f27ce387a79f8a19a75d101d2cd1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter1/Packet_switching_circuit_swirching.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter1/Packet_switching_circuit_swirching.pdf",
+    "size": 139075,
+    "sha256": "99eb05f779eb7d92e9c330ca4981add3c5cb293dad1d200c7e6302ab9ca31181",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter1/Queuing_delay.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter1/Queuing_delay.pdf",
+    "size": 297597,
+    "sha256": "df119778801687092f00c5e478223c85ca0088af7bc1376c9b53bb84a96c4e3b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/Browser_caching.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/Browser_caching.pdf",
+    "size": 264257,
+    "sha256": "5d99428f45679fa90bff42363b631a90a50ea565f3228ab1a515a0f802e00a7f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/DNS_Basics.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/DNS_Basics.pdf",
+    "size": 503174,
+    "sha256": "29a872e685968082f0981e333b3a23df85157ad2930a5de09728433b3caa8ac4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/DNS_HTTP_Delays.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/DNS_HTTP_Delays.pdf",
+    "size": 669724,
+    "sha256": "e06a1d61eb1d8bfdcdb58f987eefbab6a262332637788ca47290b8266d9078d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/DNS_Iterative_Query.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/DNS_Iterative_Query.pdf",
+    "size": 397930,
+    "sha256": "c01e1e8073dbe093ce22f7e5062bdc5d798f9ca2112d3da456fedaafcbccfa94",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/DNS_Recursive_Query.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/DNS_Recursive_Query.pdf",
+    "size": 396072,
+    "sha256": "6f049f4b72a55ca4077ed079f94f8e8372cf006b114e750f88bec3b3034f7da8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/Electronic_Mail_SMTP.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/Electronic_Mail_SMTP.pdf",
+    "size": 294217,
+    "sha256": "ad09c03a18dde1fd59c8743cce140ca79fb91a3277b099939a053d3e66818fdc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/HTTP_Get.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/HTTP_Get.pdf",
+    "size": 361730,
+    "sha256": "de91f9d47d5cacf36acc08113eede5f543aa742de18b67a5612b250a28ad50d0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/HTTP_Response.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/HTTP_Response.pdf",
+    "size": 341373,
+    "sha256": "823cdf122db4d9ef40b638956d1448d723ea396f2d7328cb30eb509bac8b322b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter2/Sever_Client_vs_P2P.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter2/Sever_Client_vs_P2P.pdf",
+    "size": 306204,
+    "sha256": "5586cdd17ff03ae5280360e2d7f9a76de087f0337ab11f88bf06c7ae7e82be97",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/Internet_Checksum.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/Internet_Checksum.pdf",
+    "size": 156896,
+    "sha256": "c037a7aea5e3eeade93a6c327a92d3038b9047ba56ee10cf45469a4fc7b2aaa8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/RTD2.2.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/RTD2.2.pdf",
+    "size": 913850,
+    "sha256": "ced5bcf916defebb5bf00a96154129bd9f4d386a287b67a97f2dfe926752ade0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/RTD3.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/RTD3.pdf",
+    "size": 451699,
+    "sha256": "43d0f9eec403886bf29647309b30744441e82b6a39bccf157e0c115a4a475a27",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/TCP_Congestion_Window.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/TCP_Congestion_Window.pdf",
+    "size": 1189372,
+    "sha256": "221f46b639ef6010cda43eb6a1743437bc71f775403cd2907f69f97865d0683d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/TCP_Mux_Demux.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/TCP_Mux_Demux.pdf",
+    "size": 664006,
+    "sha256": "d42e603137ef79520032bd9c24d6e09606d956cd33238649c3908d81779a372c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/TCP_Retransmissions.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/TCP_Retransmissions.pdf",
+    "size": 501316,
+    "sha256": "0ca295529c68ae7ab372393605c9d11b7137d47fcd6716b47ef016b72af3024e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/TCP_RTT_Timeout.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/TCP_RTT_Timeout.pdf",
+    "size": 358007,
+    "sha256": "d0dd5dfd5c367855228827b9482031074a2a40f8e24efccce399aa368eb518f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/TCP_Sequence_ACK_Numbers_with_segment_loss.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/TCP_Sequence_ACK_Numbers_with_segment_loss.pdf",
+    "size": 409353,
+    "sha256": "d26bc457635550c21db3ce710ff89ed56a53e6b68fced8a3ae8959d2cb60022b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter3/UDP_Mux_Demux.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter3/UDP_Mux_Demux.pdf",
+    "size": 466590,
+    "sha256": "2c3da62f664a00a1d83ed33159f2cf339be884b5d01b5652290a89600b2feb55",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/chapter345.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/chapter345.pdf",
+    "size": 11599869,
+    "sha256": "5be32305d85e2a4cbf2ad7989aab48d6797fc0be0b265bfca5d23072b6de5462",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/IPv6_Tunneling_Encapsulation.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/IPv6_Tunneling_Encapsulation.pdf",
+    "size": 880032,
+    "sha256": "17d52802ddd117054bebc81843a738684a75b3f9c65998a45642af9da53dc3f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/Longest_Prefix_Matching.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/Longest_Prefix_Matching.pdf",
+    "size": 348276,
+    "sha256": "a04d42ff399608d0bcaf787d1306405f48bb3262af42f95a7d0eced9d82eb9f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/Network_address_translation.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/Network_address_translation.pdf",
+    "size": 510303,
+    "sha256": "e6deb8fa3f02ad7c1c6127330efae7ec164fa2d153b8cfaa0679bcb889fda0cc",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/Openflow_flow_tables.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/Openflow_flow_tables.pdf",
+    "size": 865931,
+    "sha256": "2ebeb9500cb96a026acfaff0c0f137c633abb14c22e013907e74146c83a4c530",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/Packet_Scheduling_FIFO.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/Packet_Scheduling_FIFO.pdf",
+    "size": 557778,
+    "sha256": "3fea3bb51cd7c2f60b0a3519d9b68edc9c4683d2ecb7506e3383e01d3f5fa061",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/Packet_Scheduling_Priority.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/Packet_Scheduling_Priority.pdf",
+    "size": 572330,
+    "sha256": "9369c7ef391bafe9dacda0f526ba9a09b77136af90ceb2ef3a35175309346e62",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/Packet_Scheduling_Round_Robin.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/Packet_Scheduling_Round_Robin.pdf",
+    "size": 522862,
+    "sha256": "0bdd50cd82fbe80b5cb279eddc65f4a76a00eb4da4dfe7f05cbbd64d48fc7b45",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/Packet_Scheduling_WFQ.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/Packet_Scheduling_WFQ.pdf",
+    "size": 591209,
+    "sha256": "aae4e4631e902200b975e97945edad39d1cfcdb1a7289b3192743940bb4a887a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter4/Subnet_Addressing.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter4/Subnet_Addressing.pdf",
+    "size": 647017,
+    "sha256": "6d01a42ba87446db30fae1ae17d7576ea5e5e7a72ac4c9c9cf99b08dd430af0a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter5/Bellman_Ford_Distance_Vector_Algorithm.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter5/Bellman_Ford_Distance_Vector_Algorithm.pdf",
+    "size": 298506,
+    "sha256": "b92838fe5b30fae9153b2ca38b01612fe950286b067d5b73f30c0eaa180254be",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter5/Dijiktra_Link_State_Algorithm.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter5/Dijiktra_Link_State_Algorithm.pdf",
+    "size": 365232,
+    "sha256": "a8824e5b5906f9fe56d0ebd050d368232ddaaaba1a3c97cae098defd9c79bcd3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/Review_Midterm/Chapter5/Dijiktra_Link_State_Algorithm_Advanced.pdf",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/Review_Midterm/Chapter5/Dijiktra_Link_State_Algorithm_Advanced.pdf",
+    "size": 346369,
+    "sha256": "76e2bdc8666ee9887c3cd08b03662176bd9cc91fd828711eb66d412f31ec52d6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/network-akif/syllabus.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/network-akif/syllabus.docx",
+    "size": 22869,
+    "sha256": "655ce5eaa686744ad6a936c7f1bcaf06c39bfe1c168d05f6d3ee4d3645d9f792",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/syllabus.docx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/syllabus.docx",
+    "size": 22954,
+    "sha256": "4ed9c3ffd65fc504e3dc32ece0e7cc287e7dbe5f3d35e02182a589eaa7acca48",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Weeks 11 and 12 Link Layer.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Weeks 11 and 12 Link Layer.pptx",
+    "size": 7455326,
+    "sha256": "54dff47a2e3436be7980e126587f270ca6634a2f4f69be2a1af3c3374256f249",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Weeks 13 and Wireless_Networks.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Weeks 13 and Wireless_Networks.pptx",
+    "size": 35712449,
+    "sha256": "a54aa3ca0b04392e547ad45d573ec868d0c5a7944721b167693f6b1dbd609f5f",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/Weeks 14 and 15 Network_Security.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/Weeks 14 and 15 Network_Security.pptx",
+    "size": 10511048,
+    "sha256": "edda545694ca81053d5998e172a5d723f49ec032b8b90e17d5c3a90dd8ff7a8a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/wireless_network_1.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/wireless_network_1.pptx",
+    "size": 20088694,
+    "sha256": "6725a11b0768d9b6895a58ae701ddd8084d7e5f2af7d6c06da1b67fb0c1e1030",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1jJ6GClpv6-3UfpbMArYic28OMT2naII_",
+    "source_member": "Computer Network/wireless_network_2.pptx",
+    "path": "Secmeli/Teknik/EE4078_Fundamentals-of-Computer-Networks/Computer-Network-Cabir/Computer Network/wireless_network_2.pptx",
+    "size": 15000132,
+    "sha256": "0c6a2c78d6cffebb886f5f44375b1a131ec4fda8d378099c81e3c2ad93d1b062",
+    "storage": "git-lfs"
   }
 ]
