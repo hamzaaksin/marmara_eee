@@ -12494,5 +12494,237 @@
     "size": 699886,
     "sha256": "74107300db6a941789420f3e1968f764b83b7976e4365a7126e07138c65a1cf7",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/__Chemistry The Central Science 12th Edition.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/__Chemistry The Central Science 12th Edition.pdf",
+    "size": 58774834,
+    "sha256": "08086e6041a46e41b79488edd7420ea5cf9a5480169a271a6f5b6236591daf09",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/0kimya defterim 1.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/0kimya defterim 1.pdf",
+    "size": 12497126,
+    "sha256": "24b7660bec6ae059e73bf780cf108f75e7387a0637b0bedd104a98dedbe7883a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/0kimya defterim 2.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/0kimya defterim 2.pdf",
+    "size": 5600247,
+    "sha256": "deb563f8b5b0c04dde626b832a3a002c3dea9256f27daf06281e1a96b2b544ba",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/ch02_oxidation_number.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/ch02_oxidation_number.pdf",
+    "size": 648661,
+    "sha256": "643384209ae28c36467e178d9a049905c7d5ee3374ff062a07ef988acfa57265",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chapter_3_examples.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chapter_3_examples.pdf",
+    "size": 679162,
+    "sha256": "29698a5650c72bed59c4b649e200299be7ed245afade77d69bd415aa62fc88b2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch01_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch01_.pdf",
+    "size": 2463045,
+    "sha256": "a3d4782928b6e57ce8af2a629935daf44dafa4f9270cd755cd11e2fead840f50",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch02_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch02_.pdf",
+    "size": 3419114,
+    "sha256": "06edfb459bf49015d67304dbf6f129de2cd297bfe105a972719928e8aafaea90",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch03_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch03_.pdf",
+    "size": 1594154,
+    "sha256": "50544180bcb2f481098d6181d407b9ef6e014af2bc5d149b2f993737844846f4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch04_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch04_.pdf",
+    "size": 2291541,
+    "sha256": "a4756b68c8bafd167fb9484b98afd269618cbd79fc8416a66ae3e5357e372a2d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch05_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch05_.pdf",
+    "size": 2940761,
+    "sha256": "c4c41c4a197f03fc50307e0ff42f06bcc54cf97914f84dc9077b6c58b3fa38e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch06_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch06_.pdf",
+    "size": 3003800,
+    "sha256": "a254a2a10eb0fafd972621ca813a4719731e7b3693b0e6c66df99c1b1295cb3f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch07_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch07_.pdf",
+    "size": 3150381,
+    "sha256": "f3b1c8183a8fe06332a6e6eae7160212a2034f1c52a053c16c28b5db4182822f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch08_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch08_.pdf",
+    "size": 2118110,
+    "sha256": "91515abb6091e4f24a050c77a87c1ab1cdd5c97cc1c5e0609244c58e1d5b7735",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch10_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch10_.pdf",
+    "size": 2449046,
+    "sha256": "6bd26b9a54263b58f1a724945113d16f66a5da1b079ea26c30be7d9c54bc4ef0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch11_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch11_.pdf",
+    "size": 3086943,
+    "sha256": "71d9f084f0550e2e6ac6453fa8b91f0292cef4db5a081bbba7a415e6617945e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch12_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch12_.pdf",
+    "size": 3320254,
+    "sha256": "377c88a3186e3a7a08e38d0ad0569b1fd985d7ae1195f24189128890991d6c16",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch13_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch13_.pdf",
+    "size": 3815293,
+    "sha256": "053069aab0d3e450e2a6e8e90d906e60837ec269a72f3d5f8e128642e4190f0d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch14_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch14_.pdf",
+    "size": 2497710,
+    "sha256": "903d68f4cc66a57496a5f0661db5d09c61273311f8f9adb3a660b028c6a0b222",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch15_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch15_.pdf",
+    "size": 1736606,
+    "sha256": "a1aa67401b66fb764cbdc4d2e1895b5b0fb207b0f165829b1d026169345fc603",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch16_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch16_.pdf",
+    "size": 1942177,
+    "sha256": "27036c1630b967f52f09bb1682b9aa775bd2a312829ef5a705fc12e4ce4bc11e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/chemistry_the_central_science_ch17_.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/chemistry_the_central_science_ch17_.pdf",
+    "size": 2338274,
+    "sha256": "5bf7daf1adafa28934f23d4bd6a3b5cf4e0c70e911a3d6a92650438749ce7ccf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/exercises_ch_4_04.11.2021.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/exercises_ch_4_04.11.2021.pdf",
+    "size": 882543,
+    "sha256": "009a3cfa5a1e06f8b49882534d425fe1d973f7663697296f44aadcbbeba0922f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/exercises_ch10.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/exercises_ch10.pdf",
+    "size": 467941,
+    "sha256": "93cf23f4a5be7584f911fe967f956492f953ec3dc42cf91b05603f92623ac4aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/exercises_ch13.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/exercises_ch13.pdf",
+    "size": 606065,
+    "sha256": "75848f535b09fe40c9a4dd7184f6c8b520c705c9a0be17273522f2890575de2c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/exercises_ch14.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/exercises_ch14.pdf",
+    "size": 728335,
+    "sha256": "adc4b1f7fc1332bb888d6ac0be289f452dad952cc9eb0e28c950bde0c74617e3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/exercises_ch15-16.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/exercises_ch15-16.pdf",
+    "size": 1083791,
+    "sha256": "390ed05a5ab349c2b132f6b1a86a8aa058700903619b783138e2ddf43a8a2632",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/exercises_ch6-8.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/exercises_ch6-8.pdf",
+    "size": 1212878,
+    "sha256": "f7c9d09b64655172fd2208ca83c1ea4dc7a736443bf9075b1e9a551afe0a448b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/exercises_ch7.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/exercises_ch7.pdf",
+    "size": 1096963,
+    "sha256": "ce6bd7f7401bd9483eeb3f864ab1b459ebc93938440a6f3862a06e5bf1a5d3c9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "18voLR88NghuP5xT0_Bkw9PC9N-4D1mK2",
+    "source_member": "basic chemistry/syllabus_basic_chemistry_2021-2022.pdf",
+    "path": "1.sinif/1.donem/CHEM1007_Basic-Chemistry/basic-chemistry/basic chemistry/syllabus_basic_chemistry_2021-2022.pdf",
+    "size": 242439,
+    "sha256": "40d9a315a1b1883b2395aedd41399b580cd7df6ec6e81ee62f05f54c8a57c078",
+    "storage": "git"
   }
 ]
