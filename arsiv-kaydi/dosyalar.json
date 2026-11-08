@@ -25550,5 +25550,325 @@
     "size": 2289866,
     "sha256": "d18507cf473bccb32f54be02edbb0fe7e89bfbb57f49618da84eb44306a5ca6c",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/final/2022 final.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/final/2022 final.pdf",
+    "size": 374524,
+    "sha256": "972a04ab297d51d178e89bc26ca93e8a67cad95603e978cbc637e0fcbf673d12",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/final/Examples.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/final/Examples.pdf",
+    "size": 255954,
+    "sha256": "f2a56834ffeabbb7c646905e225ef54d9e5b15dde72eba4588cac07f15131702",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/Modern Control Engineering.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/Modern Control Engineering.pdf",
+    "size": 4758057,
+    "sha256": "f01dce9e7aa5cffd2d26d812d76bf94c003bee431f81bd0dfe16cdbd34875ac1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/MT/22/2022_midterm_solutions .pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/MT/22/2022_midterm_solutions .pdf",
+    "size": 460595,
+    "sha256": "32d09a5763942318d19402ad1121ae4bba9caab90eae32ee63579ba83b6ffee1",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/MT/23/1.jfif",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/MT/23/1.jfif",
+    "size": 391831,
+    "sha256": "dc1a5959ced93431d4831432d9247f6227c322cdad7323d55bf750cdaeaa7f25",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/MT/23/2.jfif",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/MT/23/2.jfif",
+    "size": 355915,
+    "sha256": "15909262636dc46558a75c32f4d6818434d5a5bddb65e24bc942ea3691b2ca0d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/MT/23/3.jfif",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/MT/23/3.jfif",
+    "size": 458636,
+    "sha256": "b71d9c9e60c3818ea1b9ddcbdb129b69f042227a58dc4e52b341c063e57caf50",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/MT/23/ee3072_midterm_exam.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/MT/23/ee3072_midterm_exam.pdf",
+    "size": 219605,
+    "sha256": "d996970e2ad393cc6f8fe082b778b1aed061324551a881a229d72c7c41605373",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/MT/23/ee3072_midterm_solutions.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/MT/23/ee3072_midterm_solutions.pdf",
+    "size": 288908,
+    "sha256": "777145de1229ab7ac53fcedcab0937b483ca112772497864bbd46b8b1cf85cbf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/MT/23/Nurullah_Said_Tüğmen.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/MT/23/Nurullah_Said_Tüğmen.pdf",
+    "size": 922950,
+    "sha256": "dc73d8326cb39ea53a0e3ad17f5ec6960af274706256b9dfceda20a198e336a0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/Contol bütün slaytlar.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/Contol bütün slaytlar.pdf",
+    "size": 11994735,
+    "sha256": "05bfb8cc212df0d97a7b42866bf06b26f3f202447a653ea7e7a45f680c880f60",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072.zip!/ee3072_lecture_1.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072__acilmis/ee3072_lecture_1.pdf",
+    "size": 798142,
+    "sha256": "1ace04547895c6101f1afbb3f532bb2452350ea38d0ea2e1b87c4a96ebe8ab3b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072.zip!/ee3072_lecture_2.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072__acilmis/ee3072_lecture_2.pdf",
+    "size": 1155724,
+    "sha256": "c05938c8ce6f38327da9d752df586c2b59415e6737783a51c76421401310b3e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072.zip!/ee3072_lecture_3.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072__acilmis/ee3072_lecture_3.pdf",
+    "size": 1448597,
+    "sha256": "c39cb98f9158fd738ecece129e975b06204407b1bdb8f3efa1540e3f5e79cbae",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072.zip!/ee3072_lecture_4.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072__acilmis/ee3072_lecture_4.pdf",
+    "size": 1814407,
+    "sha256": "c4948f8b74724013731cfd5192d842999646785e99165fcb2fb9bcab0fac7a8b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072.zip!/ee3072_lecture_5.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072__acilmis/ee3072_lecture_5.pdf",
+    "size": 1035642,
+    "sha256": "3b4d51f85c6e277858332edf615dc4ae64a855bb8a37db79aad9d22559838675",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072.zip!/ee3072_lecture_6.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072__acilmis/ee3072_lecture_6.pdf",
+    "size": 5789009,
+    "sha256": "07da990ee100affe77923640b2eb5b368b8070908933f3eaa89e2c0d9ce5c60b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072.zip!/ee3072_lecture_7.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072__acilmis/ee3072_lecture_7.pdf",
+    "size": 853558,
+    "sha256": "0652baabc3c1d2e4f01774d8b933d81c47bbb6882feb47f543f3aa5b8436b93d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072.zip!/ee3072_lecture_8.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072__acilmis/ee3072_lecture_8.pdf",
+    "size": 1050018,
+    "sha256": "95d6682932e93891119f7f3632dea1bf7f83a42d7a228e5500948bee3f1cd3a5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_1.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_1.pdf",
+    "size": 798142,
+    "sha256": "1ace04547895c6101f1afbb3f532bb2452350ea38d0ea2e1b87c4a96ebe8ab3b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_2.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_2.pdf",
+    "size": 1155724,
+    "sha256": "c05938c8ce6f38327da9d752df586c2b59415e6737783a51c76421401310b3e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_3.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_3.pdf",
+    "size": 1448597,
+    "sha256": "c39cb98f9158fd738ecece129e975b06204407b1bdb8f3efa1540e3f5e79cbae",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_4.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_4.pdf",
+    "size": 1814407,
+    "sha256": "c4948f8b74724013731cfd5192d842999646785e99165fcb2fb9bcab0fac7a8b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_5.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_5.pdf",
+    "size": 1035642,
+    "sha256": "3b4d51f85c6e277858332edf615dc4ae64a855bb8a37db79aad9d22559838675",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_6.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_6.pdf",
+    "size": 5789009,
+    "sha256": "07da990ee100affe77923640b2eb5b368b8070908933f3eaa89e2c0d9ce5c60b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_7.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_7.pdf",
+    "size": 853558,
+    "sha256": "0652baabc3c1d2e4f01774d8b933d81c47bbb6882feb47f543f3aa5b8436b93d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_8.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/slayts/ee3072_lecture_8.pdf",
+    "size": 1050018,
+    "sha256": "95d6682932e93891119f7f3632dea1bf7f83a42d7a228e5500948bee3f1cd3a5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/Solution Manual for Modern Control Engineering.pdf",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/Solution Manual for Modern Control Engineering.pdf",
+    "size": 8402231,
+    "sha256": "ffbabf29dd46d358d1480eac184df67a7f98acdedb2f24cdab889e84b70fa280",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W1/part1-9.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W1/part1-9.mp4",
+    "size": 121916401,
+    "sha256": "465076aa30957a704919867110cce9f885c0df9e2a3123cb0a72cc9f70ad6abf",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W1/part2-9.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W1/part2-9.mp4",
+    "size": 126825270,
+    "sha256": "9e6467a2614e6c4e10ecafd29902fb505dce05e0e311bc88fbb136481b1e152e",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W2/part1-10.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W2/part1-10.mp4",
+    "size": 136005717,
+    "sha256": "b9016384f3f2ae08e1d4043ca153cf3d33e3b805f66aa60d66ad37b4dbe2195b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W2/part2-10.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W2/part2-10.mp4",
+    "size": 153500679,
+    "sha256": "ef92f48db7ac66c3132ac37b59128e1e4aa8b94b4b00a3833dbabda2bb301669",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W3/part1.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W3/part1.mp4",
+    "size": 137791164,
+    "sha256": "517f5d2781385a36d1dbb523d0de13382e46e676a4bf427daee03fdab237baa1",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W3/part2.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W3/part2.mp4",
+    "size": 167104742,
+    "sha256": "61d29a5f7a1a07ff73d071996b9159847f9a068f20b1859fe7acab83b00c5a7e",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W4/part1.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W4/part1.mp4",
+    "size": 132542706,
+    "sha256": "762df9db018341065f39dc9275f3a377e9604ae26d46dfdaa9f1bbf12dbe20b6",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W4/part2.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W4/part2.mp4",
+    "size": 150534560,
+    "sha256": "c9d287ab9393d1b40f500df5dbefad3e70dcf8ff9f276f64c9afd543ebe7596d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W8/1.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W8/1.mp4",
+    "size": 133755352,
+    "sha256": "d476dae04b0d04620c55578e93503e975870124400c4e3e63bcce96e644b1822",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W8/2.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W8/2.mp4",
+    "size": 137094924,
+    "sha256": "ccaf3c7147a9bac0bb8d8c6f305ef1f2e30f5db8dec8a1f9a0c447df9f4bec84",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W9/1.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W9/1.mp4",
+    "size": 117676291,
+    "sha256": "764a796f450782eca3a3c3a9de930bd8abfcde9fa9e5e6fce4b7b96bcaa25163",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1DN8ijT6biRq_Uw_pUtm3xUL7yAql3bSd",
+    "source_member": "7-) EE3072 (Control) - Onur Cihan)/W9/2.mp4",
+    "path": "3.sinif/6.donem/EE3072_Dynamic-Systems-and-Control/7-EE3072-Control-Onur-Cihan/7-) EE3072 (Control) - Onur Cihan)/W9/2.mp4",
+    "size": 114288316,
+    "sha256": "3d3ec7bb68326c08ab81057b6cbc227978eeb63d58a7cd1b7b0b53f5ec185a32",
+    "storage": "git-lfs"
   }
 ]
