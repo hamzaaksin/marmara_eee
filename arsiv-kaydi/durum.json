@@ -59,6 +59,11 @@
       "drive_file_id": "1u3cZ1DwBNCc5crYyt8XlxiSf6X8w6Sl8",
       "archive": "electromagnetics.zip",
       "error": "Command '['git', 'push', 'origin', 'HEAD:main']' returned non-zero exit status 1."
+    },
+    {
+      "drive_file_id": "15cnMCyqfa_6QYpwsXWd92TWHpoLZDc6e",
+      "archive": "2-) Electronics 1 (21-22) - Ahmet Unutulmaz.zip",
+      "error": "Command '['git', 'push', 'origin', 'HEAD:main']' died with <Signals.SIGPIPE: 13>."
     }
   ]
 }
