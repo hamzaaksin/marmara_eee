@@ -31606,5 +31606,2125 @@
     "size": 28357,
     "sha256": "101e9f7afe9b73d3ebdbdc3d9b46751af8b4ac3009388325dbc696144dedc0de",
     "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra, Kenneth C. Smith - Chegg Solutions for Microelectronic Circuits. 7th edition-Oxford University Press (2014).pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra, Kenneth C. Smith - Chegg Solutions for Microelectronic Circuits. 7th edition-Oxford University Press (2014).pdf",
+    "size": 8930861,
+    "sha256": "2013e9f4e058552358afe15fb09d9343cd66714b57cbe016b829c7b6360df5d5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra_ Kenneth C. Smith - Microelectronic Circuits-Oxford University Press (2014).pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/(The Oxford Series in Electrical and Computer Engineering) Adel S. Sedra_ Kenneth C. Smith - Microelectronic Circuits-Oxford University Press (2014).pdf",
+    "size": 73399910,
+    "sha256": "a302835a6ec954853ba0b927372c676e6f84582a71ea36dda40387e53a234158",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 1/week_1_lecture_2_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 1/week_1_lecture_2_2.mp4",
+    "size": 82102075,
+    "sha256": "8c55bd082a4b8f5acf10bb5ec1c6c486bf7310644082c73fc1c40cf0850d301a",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 10/week_10_lecture_17.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 10/week_10_lecture_17.mp4",
+    "size": 98173391,
+    "sha256": "1c6308a9ba71aef24045f6df5bcc1240ddaf0b36f13c759801c6d5fff3560fd6",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 10/week_10_lecture_18_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 10/week_10_lecture_18_1.mp4",
+    "size": 88971228,
+    "sha256": "7a6423c24c1222add4e2f78af057c7a67a4d8258e252be10976c18ea4dfd350e",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 10/week_10_lecture_18_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 10/week_10_lecture_18_2.mp4",
+    "size": 91559473,
+    "sha256": "5028984d12e3b66f0acce777aff05d6f1e4380a1bfa6b476eab99b8520346250",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 11/week_11_lecture_19_1_.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 11/week_11_lecture_19_1_.mp4",
+    "size": 102872532,
+    "sha256": "2aa6794042e8dc20d7ca0cc02b634aa9a61f896bd76d15248275f112df33f02d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 11/week_11_lecture_20_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 11/week_11_lecture_20_1.mp4",
+    "size": 93487919,
+    "sha256": "2f033efb2ab5fd41fd77c4b827137b9260485d3802bb0c5b5bce2a6be8af72d3",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 11/week_11_lecture_20_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 11/week_11_lecture_20_2.mp4",
+    "size": 102651680,
+    "sha256": "0109b8b09d17b0a6ce29757783803ed351320651b40635f7c7f94d0c2797e882",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 12/week_12_lecture_21.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 12/week_12_lecture_21.mp4",
+    "size": 104123648,
+    "sha256": "6a4b812912d71a597e02486f980639a6e2e8615813149b9d06d50d4ed5f6e1e5",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 12/week_12_lecture_22_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 12/week_12_lecture_22_1.mp4",
+    "size": 113307504,
+    "sha256": "7e5fa16fb2a3bb1ddc3e8d264245ee8b7b1d9b24813d61251906cc0df84c47a0",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 12/week_12_lecture_22_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 12/week_12_lecture_22_2.mp4",
+    "size": 94662492,
+    "sha256": "73034898e27a2b4390f7a8843c566e16a8f6fbd90371a5f3da81c112a69ffaa4",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 13/week_13_lecture_23.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 13/week_13_lecture_23.mp4",
+    "size": 113114925,
+    "sha256": "ca9f57fafb5445bdb3a4c56b2b7ac1930c36517b543ee77c3b8a91b1abe5d7e4",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 13/week_13_lecture_24_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 13/week_13_lecture_24_1.mp4",
+    "size": 89220445,
+    "sha256": "547016df3efd01d09e3fe5f46e92cc0bc2bea4c83727dcdcd616bf887ac9723b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 13/week_13_lecture_24_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 13/week_13_lecture_24_2.mp4",
+    "size": 116350971,
+    "sha256": "ce74f3856fbe972d534b2abd28a43f625ad2be21a5b0bf20c2ef382d71a8a4bb",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 14/week_14_lecture_25.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 14/week_14_lecture_25.mp4",
+    "size": 94000494,
+    "sha256": "40c41464313d4909005b8eebb62d7ec8a0b9661ae719a4f12442468ebcf956d3",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 14/week_14_lecture_26.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 14/week_14_lecture_26.mp4",
+    "size": 80506362,
+    "sha256": "bd52569afde870b51a088cb32d4bc3773a073e9bbfe314c8f4bd5559305a2088",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15/week_15_lecture_27.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15/week_15_lecture_27.mp4",
+    "size": 100613303,
+    "sha256": "70068552f31f469a463ec1bbe438de5ecd6650848826296c003efe8bf4589d35",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15/week_15_lecture_28_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15/week_15_lecture_28_1.mp4",
+    "size": 89876446,
+    "sha256": "4a96eb7721161be99327f696754c9d415459091308f1d208c536302e9f8a68bf",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15/week_15_lecture_28_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15/week_15_lecture_28_2.mp4",
+    "size": 97602393,
+    "sha256": "0be56502ab82ca0324ab4df17fbb726d0440675bb6fee9245226c44b29e24094",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15.zip!/Week 15/week_15_lecture_27.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15__acilmis/Week 15/week_15_lecture_27.mp4",
+    "size": 100613303,
+    "sha256": "70068552f31f469a463ec1bbe438de5ecd6650848826296c003efe8bf4589d35",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15.zip!/Week 15/week_15_lecture_28_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15__acilmis/Week 15/week_15_lecture_28_1.mp4",
+    "size": 89876446,
+    "sha256": "4a96eb7721161be99327f696754c9d415459091308f1d208c536302e9f8a68bf",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15.zip!/Week 15/week_15_lecture_28_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 15__acilmis/Week 15/week_15_lecture_28_2.mp4",
+    "size": 97602393,
+    "sha256": "0be56502ab82ca0324ab4df17fbb726d0440675bb6fee9245226c44b29e24094",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_3.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_3.mp4",
+    "size": 111070534,
+    "sha256": "ad4f224103f58c9a3103a84a2361fe12b17fd07ece73e184f16760a156c77d5d",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_3_220228_112359.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_3_220228_112359.pdf",
+    "size": 3807828,
+    "sha256": "c3250568ba825d224161259dd6eb1fd3c28245bb7bf350dda2905c498d8bcf5e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_4_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_4_1.mp4",
+    "size": 93671436,
+    "sha256": "659b55efec131e9324a1e151ab34ace898992111f0290a5e44b3abf960a49042",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_4_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_4_2.mp4",
+    "size": 86628105,
+    "sha256": "24e485f02caa8d0ee9b4d83c8289114900eafbd056070d953dba0f496fc804b8",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_4_220301_111955.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 2/week_2_lecture_4_220301_111955.pdf",
+    "size": 7681814,
+    "sha256": "910b3d31fe81ad24ea5b10cd5a48938a2bd3b51078022fdaabc516c420136d82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_5.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_5.mp4",
+    "size": 133492644,
+    "sha256": "5213791fc97bbf4f874a6593627ced603165c1d4a25ad1833b53198e5ca7e580",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_5_220307_112144.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_5_220307_112144.pdf",
+    "size": 3567856,
+    "sha256": "e51f1cefe64e839da378c5dcfd7352ac1bc95a6e23844a942b2a9f81949e2748",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_6_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_6_1.mp4",
+    "size": 124772475,
+    "sha256": "728a9b52f9b544f3df5b3fa36b291e8683c34cb64471222125db0bef68496175",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_6_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_6_2.mp4",
+    "size": 83734436,
+    "sha256": "b3f2bbab220aae6445b2a646193e6de6bb0a759edb8b8889deded40be7e8a4c4",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_6_220308_142133.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 3/week_3_lecture_6_220308_142133.pdf",
+    "size": 5378634,
+    "sha256": "e06d56444ebcbe82f2940362cbee580e32acd108c60d7e54243f5c6c3bdf5953",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_7.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_7.mp4",
+    "size": 110561980,
+    "sha256": "d7a87bc9e12d84955e4733eea8429581ab6f9407db215dd0f383b46a10838399",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_7_220314_113317.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_7_220314_113317.pdf",
+    "size": 1600426,
+    "sha256": "7833f7d6019caeed2ebc5154c856bcab7b470fa57cd61f69a0bb420f3139312d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_8_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_8_1.mp4",
+    "size": 92301812,
+    "sha256": "417325632dfe6f03d9a1a60ea9a1334a840ad3644f9f54483c10b5537b865ad2",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_8_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_8_2.mp4",
+    "size": 127081537,
+    "sha256": "2ee28607eb977829841d1519ce1c6ae27b6c1014a1d9e4d169cda735158dc448",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_8_220315_112155.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 4/week_4_lecture_8_220315_112155.pdf",
+    "size": 6193331,
+    "sha256": "249288e3bce19fa38a0e46b135257bd53b6e7f9a9a6db6e4079a097b6790ed33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_10_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_10_1.mp4",
+    "size": 99936817,
+    "sha256": "7704ff7a98cbe4ef2992d5c885a85763023e6759d2ee0355a528a2910ef81fec",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_10_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_10_2.mp4",
+    "size": 101981456,
+    "sha256": "2e769663bceb4ab1b05d308652208f72a79a6d1e6e5f383b8f184849dabffc0b",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_10_220322_112137.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_10_220322_112137.pdf",
+    "size": 5588967,
+    "sha256": "18d6e7e8db30f69ad10ab394a4541b44e24ac57045ef23d4980254d5c852f802",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_9.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_9.mp4",
+    "size": 154282720,
+    "sha256": "6637ab14b46572a4af7c317f9cde3997e9f6ae2c0ed5d8dc2ef184ca20ba672c",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_9_220321_112339.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 5/week_5_lecture_9_220321_112339.pdf",
+    "size": 3136082,
+    "sha256": "ca5d070d0ce7339d6a55bdab6553dadfbffb99697d508edafa68a919a8566c3f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 6/week_6_lecture_11_ee3012.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 6/week_6_lecture_11_ee3012.mp4",
+    "size": 100383181,
+    "sha256": "50e339455c3d2861b2cf2de9d2bbeda7d60afc3b3c89f98206310fd405a70b32",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 6/week_6_lecture_12_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 6/week_6_lecture_12_1.mp4",
+    "size": 87869549,
+    "sha256": "be2f66bee15d9c4ce530882b37c5ff1b9777a7ca05656f7a08952885085f6913",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 6/week_6_lecture_12_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 6/week_6_lecture_12_2.mp4",
+    "size": 92852024,
+    "sha256": "43029e82b8d9459e0aef55cc11207dc5b9e9a6c54ce459acc986271eb9f6f5e8",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 7/week_7_lecture_13.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 7/week_7_lecture_13.mp4",
+    "size": 152678310,
+    "sha256": "d2e0f129ffdf172e33d9c710e2d64d5d06d5102470617ef954d554939aadaa57",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 7/week_7_lecture_14_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 7/week_7_lecture_14_1.mp4",
+    "size": 92437606,
+    "sha256": "e828b3baf3878526dd76afded899fa23e2a9dfc796b8d6468de24628cd225dd7",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 7/week_7_lecture_14_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 7/week_7_lecture_14_2.mp4",
+    "size": 80938509,
+    "sha256": "637509a71cf01870659ebbce143da19d9bc15c96b62fb383ac89dcb5eb1c76d0",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 9/week_9_lecture_15.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 9/week_9_lecture_15.mp4",
+    "size": 100681402,
+    "sha256": "2acb199094d5e1bf3cefa2398f25016df6f1440a0f200952a5dbd70a6b606538",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 9/week_9_lecture_16_1.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 9/week_9_lecture_16_1.mp4",
+    "size": 70661480,
+    "sha256": "d22cfdfaf4780834a78af6e545fd211441966eaf203e62bca43590833355df35",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 9/week_9_lecture_16_2.mp4",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/2022 videolar/Week 9/week_9_lecture_16_2.mp4",
+    "size": 73864728,
+    "sha256": "ff4628fe40931902f3251e4bf69bae34627e7d5704248cba439e4160842864ff",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar.zip!/Ders Notlar/week_2_lecture_3_220228_112359.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar__acilmis/Ders Notlar/week_2_lecture_3_220228_112359.pdf",
+    "size": 3807828,
+    "sha256": "c3250568ba825d224161259dd6eb1fd3c28245bb7bf350dda2905c498d8bcf5e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar.zip!/Ders Notlar/week_2_lecture_4_220301_111955.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar__acilmis/Ders Notlar/week_2_lecture_4_220301_111955.pdf",
+    "size": 7681814,
+    "sha256": "910b3d31fe81ad24ea5b10cd5a48938a2bd3b51078022fdaabc516c420136d82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar.zip!/Ders Notlar/week_3_lecture_5_220307_112144.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar__acilmis/Ders Notlar/week_3_lecture_5_220307_112144.pdf",
+    "size": 3567856,
+    "sha256": "e51f1cefe64e839da378c5dcfd7352ac1bc95a6e23844a942b2a9f81949e2748",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar.zip!/Ders Notlar/week_3_lecture_6_220308_142133.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar__acilmis/Ders Notlar/week_3_lecture_6_220308_142133.pdf",
+    "size": 5378634,
+    "sha256": "e06d56444ebcbe82f2940362cbee580e32acd108c60d7e54243f5c6c3bdf5953",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar.zip!/Ders Notlar/week_4_lecture_7_220314_113317.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar__acilmis/Ders Notlar/week_4_lecture_7_220314_113317.pdf",
+    "size": 1600426,
+    "sha256": "7833f7d6019caeed2ebc5154c856bcab7b470fa57cd61f69a0bb420f3139312d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar.zip!/Ders Notlar/week_4_lecture_8_220315_112155.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar__acilmis/Ders Notlar/week_4_lecture_8_220315_112155.pdf",
+    "size": 6193331,
+    "sha256": "249288e3bce19fa38a0e46b135257bd53b6e7f9a9a6db6e4079a097b6790ed33",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar.zip!/Ders Notlar/week_5_lecture_10_220322_112137.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar__acilmis/Ders Notlar/week_5_lecture_10_220322_112137.pdf",
+    "size": 5588967,
+    "sha256": "18d6e7e8db30f69ad10ab394a4541b44e24ac57045ef23d4980254d5c852f802",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar.zip!/Ders Notlar/week_5_lecture_9_220321_112339.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Ders Notlar__acilmis/Ders Notlar/week_5_lecture_9_220321_112339.pdf",
+    "size": 3136082,
+    "sha256": "ca5d070d0ce7339d6a55bdab6553dadfbffb99697d508edafa68a919a8566c3f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/dokumen.pub_microelectronic-circuits-8enbsped-9780190853464-9780190853532.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/dokumen.pub_microelectronic-circuits-8enbsped-9780190853464-9780190853532.pdf",
+    "size": 62776110,
+    "sha256": "a4404cb4fdf83bdfb98697b0c597c309e70a8fc40317316c396d2cd1b7d5b111",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/electronics 2.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/electronics 2.pdf",
+    "size": 13750591,
+    "sha256": "38ea7964e4936bb78eb02e2f080ca7c59aafcd37491058b08495ffea197bc554",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Electronics_4[1].pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Electronics_4[1].pdf",
+    "size": 328616995,
+    "sha256": "1fa58e3d4388e87f8606cf3d7d4e3a5a3232a185bf739b22a57f72bad4f77304",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/grades (1).xlsx",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/grades (1).xlsx",
+    "size": 17570,
+    "sha256": "e5232e64c4ec6a4846bccd1d20dcb35748a97a9e5234a13eb31dd3adf68c0b14",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/grades (3).xlsx",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/grades (3).xlsx",
+    "size": 20664,
+    "sha256": "1cbc2f06169c2d371419f533bc43355876f48b5e500d3b01933d938756baa01c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Experiment1_Section3_Group_T (1).pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Experiment1_Section3_Group_T (1).pdf",
+    "size": 698576,
+    "sha256": "2925c20c3b6d6a360cfdd6e8c317e14ea492595a05969f54abac71d0c907d746",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Experiment_1.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Experiment_1.pdf",
+    "size": 438001,
+    "sha256": "43739a4aafa7489468b174cb5d33c3523c491e5695aa99037ba22d8c8ad602e2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Exp1_B2.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Exp1_B2.pdf",
+    "size": 2900971,
+    "sha256": "fe0b655b9e6c47e5d96f23db4569071e5bb738018050e10eacfcc379e14ab0ca",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Exp2_B2.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Exp2_B2.pdf",
+    "size": 1032900,
+    "sha256": "bb9a9473e045d81789eb571a06f56dbeec6a5100590fa3969eb48b70002db372",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Experiment_2.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Experiment_2.pdf",
+    "size": 407319,
+    "sha256": "91f2c4857a42da08eb766b573b06f8d2ceef9e25f06232a2106c406102591d2b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Draft1.asc",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Draft1.asc",
+    "size": 1889,
+    "sha256": "b4ce7ea9263defca5e6059293b00db1a6000e5c5245e79ae8d0746af6088db95",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Draft1.log",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Draft1.log",
+    "size": 1743,
+    "sha256": "f91d4dc0c2efaf5a27fcdc8fad004a50e158d970a4d92607e1bfff4ece44e212",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Draft1.raw",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Draft1.raw",
+    "size": 2878,
+    "sha256": "9013b4cd6574fd9581f7e4cc4f4588fd0bdf99ab3a0a642f6e7ebf34db0dcbe5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Draft3.asc",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Draft3.asc",
+    "size": 2094,
+    "sha256": "11e11716c6060e783856590f12a1e54e0aa8c2b2973dbd54658eb913f2244be2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Draft3.log",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Draft3.log",
+    "size": 475,
+    "sha256": "9567472ad75c3fad820d5187c98c15a2b280f609809e254fb060db78e6f8549f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Draft3.op.raw",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Draft3.op.raw",
+    "size": 2312,
+    "sha256": "6ffba216cacff7f7d44366dac419a6834dce15ec558816e8cea03bc0f7c91edf",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Draft3.raw",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Draft3.raw",
+    "size": 338926,
+    "sha256": "c5d6885ad8986ca205c3d2ce94fe58ab26f5720d974d5d30a9aa1d74f915cb69",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Exp1_B2.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Exp1_B2.pdf",
+    "size": 2646774,
+    "sha256": "c60333794b60ea3a0e7114ac7c18f9fd6c2401d809a61c89388379080cf39353",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Exp2_B2.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Exp2_B2.pdf",
+    "size": 513051,
+    "sha256": "ead3256257ff17bc864ad6ba347a5b5105c48b6bc4a2153d83ac4be7b78ceaf0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/Exp3_B3.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/Exp3_B3.pdf",
+    "size": 8840094,
+    "sha256": "ce80aea34c4fa438968fbce53abfbd4edce6eda17785ac9c9ae9bd9534909eb0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4.zip!/Draft1.asc",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4__acilmis/Draft1.asc",
+    "size": 2237,
+    "sha256": "ce14d16ace989fb7a5aa9db8aba6ffaec1501106893c3c46db869d1b3e9633ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4.zip!/Draft2.asc",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4__acilmis/Draft2.asc",
+    "size": 2580,
+    "sha256": "ab67e1a088f5e55f57192cb5b24c4ca9382459d0d7e57e0133915d5179d82a45",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4.zip!/ptm_130nm.model",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4__acilmis/ptm_130nm.model",
+    "size": 10080,
+    "sha256": "2bb9e1b906fb94344709aff313513c7c4ea10ee86d6a12e65fa209557d302257",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/Draft1.asc",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/Draft1.asc",
+    "size": 2237,
+    "sha256": "ce14d16ace989fb7a5aa9db8aba6ffaec1501106893c3c46db869d1b3e9633ec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/Draft1.log",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/Draft1.log",
+    "size": 447,
+    "sha256": "05e954d97e5448474aa92766ead6617701af6a678580b4e06717910552a24ae7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/Draft1.op.raw",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/Draft1.op.raw",
+    "size": 1892,
+    "sha256": "48fe48b9cbd95a740a66fee48a10de72eac7e4c7605aeba56e4c51242fa6d1b8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/Draft1.raw",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/Draft1.raw",
+    "size": 31394,
+    "sha256": "136c02eb585d05c1847745d93731488647ba9537ef726544fc644ab7eaa5226f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/Draft2.asc",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/Draft2.asc",
+    "size": 2580,
+    "sha256": "ab67e1a088f5e55f57192cb5b24c4ca9382459d0d7e57e0133915d5179d82a45",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/Draft2.log",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/Draft2.log",
+    "size": 447,
+    "sha256": "1b874ff5be47b9ae57e4749f68ee5f4ac8ac61b3b4234b2a99fc6da5007ec5e0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/Draft2.op.raw",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/Draft2.op.raw",
+    "size": 2202,
+    "sha256": "9cef17a9155709ec286feec21ddd251facb7d21e184a49403ebec697edd72402",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/Draft2.raw",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/Draft2.raw",
+    "size": 38496,
+    "sha256": "dad6c6dea96b1be5ebd8cd23776803eb6b38af78f6fc51849957ed4e47f2940b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments.zip!/Homeworks & Lab Assignments/exp4/ptm_130nm.model",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/ilayda lab/Homeworks & Lab Assignments__acilmis/Homeworks & Lab Assignments/exp4/ptm_130nm.model",
+    "size": 10080,
+    "sha256": "2bb9e1b906fb94344709aff313513c7c4ea10ee86d6a12e65fa209557d302257",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Exp1_M group.odt",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Exp1_M group.odt",
+    "size": 261355,
+    "sha256": "486561ac9c55a25ce4baff6059933de4c7ff6b4f1317b43d79018938b21b0448",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Exp1_M_group_vol1.odt",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Exp1_M_group_vol1.odt",
+    "size": 319756,
+    "sha256": "ce98aac2bcb6d1d10c95bd74214f3e5c4594451e9d2d9f8248fa5ed8d9e729a8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran Görüntüsü (822).png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran Görüntüsü (822).png",
+    "size": 233645,
+    "sha256": "1ce7c88fef54ea59f155fab991a0c1914ffd06028fb4a941657fd32cc24c13a5",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran Görüntüsü (822)c1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran Görüntüsü (822)c1.png",
+    "size": 28960,
+    "sha256": "419ce636b02e16922ec22890eb22857132638e69408300225edacbe60be802de",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran Görüntüsü (823).png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran Görüntüsü (823).png",
+    "size": 234627,
+    "sha256": "59bb309d6e90b1675242a9e73cf4d2f0b92c6250a0826ab743e79a8463df26cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran Görüntüsü (824).png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran Görüntüsü (824).png",
+    "size": 234160,
+    "sha256": "609201bd13e36854dfae47e1d95edba112a26f5a72553f6216510887fc81db07",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran Görüntüsü (825).png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran Görüntüsü (825).png",
+    "size": 234022,
+    "sha256": "ee6715bf883eb6d9946d9dd93c3ad5468a745b94b68d447d55c75bcc1d690488",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran Görüntüsü (826).png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran Görüntüsü (826).png",
+    "size": 234224,
+    "sha256": "3bc053a7f29edc8885b8a8fb2ddd3292812a794d641184f601dec535d75a9395",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran Görüntüsü (827).png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran Görüntüsü (827).png",
+    "size": 155360,
+    "sha256": "4cbb5d7b32bf05b7175e02d7f820cb468b4485132db05222737e806ae094bd89",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran görüntüsü 2022-03-19 134107.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran görüntüsü 2022-03-19 134107.png",
+    "size": 37066,
+    "sha256": "81ee0a3ec34ad40165a19aacb6cc51d7b2ead418c95a6eb9cbab49fa017df73b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/Ekran görüntüsü 2022-03-19 140241.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/Ekran görüntüsü 2022-03-19 140241.png",
+    "size": 38408,
+    "sha256": "6592668da7255407d7192a19fc83f95e019e4cf8894b4d542a42d6064464fb44",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/Photos/InkedEkran Görüntüsü (856)_LI.jpg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/Photos/InkedEkran Görüntüsü (856)_LI.jpg",
+    "size": 974005,
+    "sha256": "2c108e506b35c963b00f83f57f1e5fa8c1afff3c1ae73d96df4bfbb7dbbd695d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/experiment_1.doc",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/experiment_1.doc",
+    "size": 92672,
+    "sha256": "0221f740767bdf2b6b31c1ce9de6819972f989534abfd52a0cb7194842a6fc7b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_1/experiment_1.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_1/experiment_1.pdf",
+    "size": 184155,
+    "sha256": "4bffc4a9d417fb4b3f3f51689f985f376537f91b0266401b3c0c5b38b98cc233",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.22.jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.22.jpeg",
+    "size": 152886,
+    "sha256": "2dca93230ce4f046f72749a84af1216594bd3d7b5579ff2cb1c2a829e2b6059e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23.jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23.jpeg",
+    "size": 155229,
+    "sha256": "e790b91b8ec42b71d9e570f34ea3417ee10fdc6f2f42af6340d7b54f814d17f0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (1).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (1).jpeg",
+    "size": 90497,
+    "sha256": "f65620536ab9214f752239ce79644e59ca697091f34b8ae574ede5ffc8486cb9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (2).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (2).jpeg",
+    "size": 92157,
+    "sha256": "3423c138ecf18d516b4c6dd1d6b54fb0aa15f4525c0727c32268f0dcb6a871f6",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (3).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (3).jpeg",
+    "size": 89790,
+    "sha256": "7a83cb0a27f4c416b7f87ab52423f726d5c14b22e8199a8e0148757c3429ba29",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (4).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (4).jpeg",
+    "size": 83939,
+    "sha256": "264fe0a713a66e045bf82bb1812d2857f4e615f4d315921c2171607d1705d037",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (5).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (5).jpeg",
+    "size": 86905,
+    "sha256": "a29b2bebcaa3a281e8701cc77005e2a3f7d36d539b036a8faa20fb9f0ce03bce",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (6).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (6).jpeg",
+    "size": 88548,
+    "sha256": "0b6cc990f03303ed51f99989734004f1bba05c5a3ca6436a97913a8922bd0640",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (7).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (7).jpeg",
+    "size": 86963,
+    "sha256": "5ac1270283917d059fabb78de897c4db6bd487e7caf11ed2166d969eeef29f92",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (8).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (8).jpeg",
+    "size": 82311,
+    "sha256": "9eb77c4e781c6895c510c2136843509c31f8c6d732ba151dab428c972630d126",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (9).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (9).jpeg",
+    "size": 89312,
+    "sha256": "4e43a952932f08fee9cb0ab7119d569ddfb50f0b28eaf1fa8ad039ab7315e0aa",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (10).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (10).jpeg",
+    "size": 85680,
+    "sha256": "e640b0ccabe64a2e20253b275be6133d293669ff6c9efc3f5cca50156bfc1917",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17.zip!/WhatsApp Image 2022-04-02 at 18.04.23 (11).jpeg",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/WhatsApp Unknown 2022-04-02 at 18.05.17__acilmis/WhatsApp Image 2022-04-02 at 18.04.23 (11).jpeg",
+    "size": 84502,
+    "sha256": "59f90816696c62664712a63a0f0c1bd0ece93d6fd219d73e7e2d3e49220de598",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs.rar!/Exp_2/experiment_2.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 1/Labs__acilmis/Exp_2/experiment_2.pdf",
+    "size": 146363,
+    "sha256": "f5ab6fc1502ffc616562ba350117ea02b027457194ca1a357690ec913a16294d",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 3/Experiment_3.docx",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 3/Experiment_3.docx",
+    "size": 1996057,
+    "sha256": "6eb305c700122fe478e6492e1dfcbff9b95a134d962b98ba3ddc0c4e131527c8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 3/Experiment_3_NST.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 3/Experiment_3_NST.pdf",
+    "size": 1323295,
+    "sha256": "8a27908ba3dcf67fbbb2b4680e5865fe9d6b1597b75f2b331c4fccf485bc3847",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 3/Lab4_W_group.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/lab/lab 3/Lab4_W_group.pdf",
+    "size": 1823057,
+    "sha256": "e02afafcd5dbf32a4402bbc881783a77fcae7beb3fd97a653d58d758bf395560",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/microelectronic-circuits-8.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/microelectronic-circuits-8.pdf",
+    "size": 62776110,
+    "sha256": "a4404cb4fdf83bdfb98697b0c597c309e70a8fc40317316c396d2cd1b7d5b111",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/microelectronics-sedra8th-solution.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/microelectronics-sedra8th-solution.pdf",
+    "size": 44783348,
+    "sha256": "ff3b9dc2315cba7df1972ef160f3f6347c8c67bf1065726f9779d3f2ad0067ef",
+    "storage": "git-lfs"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.15  answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.15  answer.png",
+    "size": 365575,
+    "sha256": "a6516c2c2a00a1d593e09ba2c2093b049f7abedf03eac6c55edd560acd0d3bb7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.15.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.15.png",
+    "size": 115939,
+    "sha256": "94c303ba9cd4499cf88600c5d90ce218983997ad2e02ab7f0bf5156ec4f91a02",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.44 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.44 answer a.png",
+    "size": 99209,
+    "sha256": "cd1cf3b6ac39a55a36d4785d3942fda8a81fb875db388425a5e0dd920561946f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.44 answer b1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.44 answer b1.png",
+    "size": 74817,
+    "sha256": "7277cd82fc39cad3d5192bc937415b58de5e3cc68ea1ed8792af1ec04a647b82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.44 answer b2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.44 answer b2.png",
+    "size": 113667,
+    "sha256": "701c237b3a3e784c04501864695b68eee388d26542608e764631aaed6a5bb473",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.44 answer b3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.44 answer b3.png",
+    "size": 124163,
+    "sha256": "bc1d5ec342ee32dae0e532b1f6cab40de1537d68b773c39b474b62e91bdf3402",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.44.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.44.png",
+    "size": 89998,
+    "sha256": "f0476bfe941c69370e338fdbff066e664308b08e2054ae7dfa2ef1595c811aec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.54 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.54 answer.png",
+    "size": 174896,
+    "sha256": "25ae917718cbc18bfd1bed2bcddfb9d56aa73c2046cfde9b768d89068135616f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.54.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.54.png",
+    "size": 72483,
+    "sha256": "086ac5bd22bd9394b7149b349a44d9c13110df7522b92901ef9ec271b457f621",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.7 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.7 answer.png",
+    "size": 308924,
+    "sha256": "43bea4bfed801ad9c8997a6e4c7bd1bee330fa1ccda0306be3c9144210fc29fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/8.7.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/8.7.png",
+    "size": 116148,
+    "sha256": "9c6be553960804b9ebfd6614a144b039183a04288c9a6c3e22e04b5b9496cef0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.105 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.105 answer1.png",
+    "size": 50136,
+    "sha256": "6b00fe58097527d6495c06947831e54307ec53b199d0a1644c3dfaae0bb6468a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.105 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.105 answer2.png",
+    "size": 54633,
+    "sha256": "06de558201d07b83f574cf5b8b7f30ad214ef5b866add9e0271c1c7a81d73fd2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.105 answer3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.105 answer3.png",
+    "size": 59050,
+    "sha256": "f2c02df65204a6dc55d53ef2f7886f2697c1282d5f90e1c38b50d79738c8ed81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.105 answer4.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.105 answer4.png",
+    "size": 13737,
+    "sha256": "a3507ca8688acccf03c8bba09f24ce7f9b20ab80550554120b3b6137312dc901",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.105.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.105.png",
+    "size": 122522,
+    "sha256": "03bc0247ecfe897043ce6a94c6bc7e740a19000a37fcb312c8120a106ba7f62e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.110 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.110 answer a.png",
+    "size": 150427,
+    "sha256": "586487940d4469914d6e33c063a9caadcd15fd7ef95c1c51e4a2ef53751138b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.110 answer b.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.110 answer b.png",
+    "size": 80148,
+    "sha256": "d24ed51764296949c6a378ab983512d2622f34168a2e35ee794276e54437a440",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.110.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.110.png",
+    "size": 107520,
+    "sha256": "d4db8da2f6f93742e472f4c012f8277bd57272336844d43a22d7c5dd8109dee8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.115 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.115 answer a.png",
+    "size": 483174,
+    "sha256": "884181157ba014090aa963293137d73d6a165db2ea8d8dfd2cbdfd8a4b7ac6f2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.115 answer b.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.115 answer b.png",
+    "size": 120912,
+    "sha256": "e430d765b5cfa573574686cf740d1b82f910bd9c2b89f24dc8389afb1fe475cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.115 answer c.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.115 answer c.png",
+    "size": 202231,
+    "sha256": "f872e837b0e51b032eaae2241e09e37de0c578e87de212e2ed75888b5def3b91",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.115.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.115.png",
+    "size": 100820,
+    "sha256": "b203f328bd97e39787dcd28523af5b38845c597261d56f1683ed5d4938c5e41f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.19 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.19 answer 1.png",
+    "size": 688778,
+    "sha256": "dac998b48e3d7e1cb32985adb92f60e8a9dc7da0ac007774a39851abba2edd1c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.19 answer 2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.19 answer 2.png",
+    "size": 519907,
+    "sha256": "af9761442f19997d8bb90df77f351ccd62c361b3aae8e57759705839fb735050",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.19.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.19.png",
+    "size": 86175,
+    "sha256": "eb3327b253680c574d5ac9df4283c416e57b485ea03b740d1dd1671b9f880f0b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.20 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.20 answer 1.png",
+    "size": 214014,
+    "sha256": "002e01772ea89e9596649a4d9d3fbedb408bf01d8aa60eaf67c01e49d0785923",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.20 answer 12.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.20 answer 12.png",
+    "size": 249618,
+    "sha256": "a7474f719fd086e81cf39e29145ea5f89e3bd74d7dafe87fd53730ed38c60163",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.20.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.20.png",
+    "size": 75170,
+    "sha256": "75a5c4c25f925968f596dc9cdbfbf34adfbd422cae9a63800754d1186150a420",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.23 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.23 answer1.png",
+    "size": 76363,
+    "sha256": "dbf47197f1a1aa569c89e112c33c4fc15991ee714d5f5ca52c78278c0210ec56",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.23 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.23 answer2.png",
+    "size": 76789,
+    "sha256": "5eff00afc08b071ad3aafc986ce0ef9935f466370ff8d7aa56de864ef26cacab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.23 answer3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.23 answer3.png",
+    "size": 82475,
+    "sha256": "6ce13c9afddf1f1c4b91e84d8717b54e698aa3b6affa0ca8f20e9aa0722457f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.23 answer4.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.23 answer4.png",
+    "size": 39740,
+    "sha256": "f743c9bd22d5fa3cfdcd65bd23346bd653b00e43aea76c7d9099fd394caac7b7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.23.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.23.png",
+    "size": 104493,
+    "sha256": "6660630f907d49af01736bf5d63fc62d4da4e65729495d478a78d8f236b52f06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.47 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.47 answer.png",
+    "size": 65655,
+    "sha256": "e39fde9cb2c3b559ad188fd82bf9208a5754101a9e230ab606a9c443d30fb1fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.47.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.47.png",
+    "size": 87295,
+    "sha256": "4a273d25218022560ca92626eff30de8db4aebb85209c7631569bfcf25e87d90",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.53 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.53 answer.png",
+    "size": 96435,
+    "sha256": "5702d72f8df73de0b43dd5e10d30b1459ee06126d1169e47b7f83de22efa94cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.53.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.53.png",
+    "size": 61487,
+    "sha256": "7beae25d6352533aeb0eb13f1415746f906288ae070398c775aa1612ee8a56fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.6 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.6 answer 1.png",
+    "size": 432439,
+    "sha256": "365ae7deec18ffae744cae610de4b0174d59570246880c4dcf73b8173dc57801",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.6 answer 2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.6 answer 2.png",
+    "size": 281813,
+    "sha256": "a506f867c7374096f1ff07b3a1e92a6815a34fbb75b37970c9dd0e64d961bea9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.6.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.6.png",
+    "size": 88658,
+    "sha256": "faf1d63cc68224d0bf37202e89bb8ffb3e073205de38461f07ec7c0ca288f021",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.61 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.61 answer.png",
+    "size": 296654,
+    "sha256": "164b82b0ffb60f9b9493c2d006c0c75e65ddd45ebdad1ebd9e73a47061d5e985",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.61.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.61.png",
+    "size": 53808,
+    "sha256": "b2e83c99269bdd68fd278107c2639bcfed0138af2c9817c28f6bb2568604ccfe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.97 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.97 answer1.png",
+    "size": 396141,
+    "sha256": "dd65f39e6e55b634918b491d4508f659f54388172929eb7c09166ad5310240e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.97 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.97 answer2.png",
+    "size": 369363,
+    "sha256": "ebca7ec5f97a3988eec7eb03d1ee881aa9738918049e89f3d60bcdfb01b28489",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru.zip!/midterm ├╢rnek soru/9.97.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/midterm örnek soru__acilmis/midterm ├╢rnek soru/9.97.png",
+    "size": 111401,
+    "sha256": "e399db2d4869a33dd237090a7c7ca137e8b05ee0d4bacc0debe4ba7230926009",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Sedra8e_Summary_Tables_Supplement.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Sedra8e_Summary_Tables_Supplement.pdf",
+    "size": 1662844,
+    "sha256": "92e671bef5f78bd70ef30d485a4ac1182baf693bdcf70efff0e739dbbe758ca9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/syllabus.pdf",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/syllabus.pdf",
+    "size": 128820,
+    "sha256": "c157f7ebb64ed522df505462cd8a43773211cb48a7691fbb5c6d1a2375a92ad0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.15  answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.15  answer.png",
+    "size": 365575,
+    "sha256": "a6516c2c2a00a1d593e09ba2c2093b049f7abedf03eac6c55edd560acd0d3bb7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.15.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.15.png",
+    "size": 115939,
+    "sha256": "94c303ba9cd4499cf88600c5d90ce218983997ad2e02ab7f0bf5156ec4f91a02",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44 answer a.png",
+    "size": 99209,
+    "sha256": "cd1cf3b6ac39a55a36d4785d3942fda8a81fb875db388425a5e0dd920561946f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44 answer b1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44 answer b1.png",
+    "size": 74817,
+    "sha256": "7277cd82fc39cad3d5192bc937415b58de5e3cc68ea1ed8792af1ec04a647b82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44 answer b2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44 answer b2.png",
+    "size": 113667,
+    "sha256": "701c237b3a3e784c04501864695b68eee388d26542608e764631aaed6a5bb473",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44 answer b3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44 answer b3.png",
+    "size": 124163,
+    "sha256": "bc1d5ec342ee32dae0e532b1f6cab40de1537d68b773c39b474b62e91bdf3402",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.44.png",
+    "size": 89998,
+    "sha256": "f0476bfe941c69370e338fdbff066e664308b08e2054ae7dfa2ef1595c811aec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.54 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.54 answer.png",
+    "size": 174896,
+    "sha256": "25ae917718cbc18bfd1bed2bcddfb9d56aa73c2046cfde9b768d89068135616f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.54.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.54.png",
+    "size": 72483,
+    "sha256": "086ac5bd22bd9394b7149b349a44d9c13110df7522b92901ef9ec271b457f621",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.7 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.7 answer.png",
+    "size": 308924,
+    "sha256": "43bea4bfed801ad9c8997a6e4c7bd1bee330fa1ccda0306be3c9144210fc29fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.7.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/8.7.png",
+    "size": 116148,
+    "sha256": "9c6be553960804b9ebfd6614a144b039183a04288c9a6c3e22e04b5b9496cef0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105 answer1.png",
+    "size": 50136,
+    "sha256": "6b00fe58097527d6495c06947831e54307ec53b199d0a1644c3dfaae0bb6468a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105 answer2.png",
+    "size": 54633,
+    "sha256": "06de558201d07b83f574cf5b8b7f30ad214ef5b866add9e0271c1c7a81d73fd2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105 answer3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105 answer3.png",
+    "size": 59050,
+    "sha256": "f2c02df65204a6dc55d53ef2f7886f2697c1282d5f90e1c38b50d79738c8ed81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105 answer4.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105 answer4.png",
+    "size": 13737,
+    "sha256": "a3507ca8688acccf03c8bba09f24ce7f9b20ab80550554120b3b6137312dc901",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.105.png",
+    "size": 122522,
+    "sha256": "03bc0247ecfe897043ce6a94c6bc7e740a19000a37fcb312c8120a106ba7f62e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.110 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.110 answer a.png",
+    "size": 150427,
+    "sha256": "586487940d4469914d6e33c063a9caadcd15fd7ef95c1c51e4a2ef53751138b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.110 answer b.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.110 answer b.png",
+    "size": 80148,
+    "sha256": "d24ed51764296949c6a378ab983512d2622f34168a2e35ee794276e54437a440",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.110.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.110.png",
+    "size": 107520,
+    "sha256": "d4db8da2f6f93742e472f4c012f8277bd57272336844d43a22d7c5dd8109dee8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.115 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.115 answer a.png",
+    "size": 483174,
+    "sha256": "884181157ba014090aa963293137d73d6a165db2ea8d8dfd2cbdfd8a4b7ac6f2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.115 answer b.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.115 answer b.png",
+    "size": 120912,
+    "sha256": "e430d765b5cfa573574686cf740d1b82f910bd9c2b89f24dc8389afb1fe475cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.115 answer c.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.115 answer c.png",
+    "size": 202231,
+    "sha256": "f872e837b0e51b032eaae2241e09e37de0c578e87de212e2ed75888b5def3b91",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.115.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.115.png",
+    "size": 100820,
+    "sha256": "b203f328bd97e39787dcd28523af5b38845c597261d56f1683ed5d4938c5e41f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.19 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.19 answer 1.png",
+    "size": 688778,
+    "sha256": "dac998b48e3d7e1cb32985adb92f60e8a9dc7da0ac007774a39851abba2edd1c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.19 answer 2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.19 answer 2.png",
+    "size": 519907,
+    "sha256": "af9761442f19997d8bb90df77f351ccd62c361b3aae8e57759705839fb735050",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.19.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.19.png",
+    "size": 86175,
+    "sha256": "eb3327b253680c574d5ac9df4283c416e57b485ea03b740d1dd1671b9f880f0b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.20 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.20 answer 1.png",
+    "size": 214014,
+    "sha256": "002e01772ea89e9596649a4d9d3fbedb408bf01d8aa60eaf67c01e49d0785923",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.20 answer 12.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.20 answer 12.png",
+    "size": 249618,
+    "sha256": "a7474f719fd086e81cf39e29145ea5f89e3bd74d7dafe87fd53730ed38c60163",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.20.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.20.png",
+    "size": 75170,
+    "sha256": "75a5c4c25f925968f596dc9cdbfbf34adfbd422cae9a63800754d1186150a420",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23 answer1.png",
+    "size": 76363,
+    "sha256": "dbf47197f1a1aa569c89e112c33c4fc15991ee714d5f5ca52c78278c0210ec56",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23 answer2.png",
+    "size": 76789,
+    "sha256": "5eff00afc08b071ad3aafc986ce0ef9935f466370ff8d7aa56de864ef26cacab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23 answer3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23 answer3.png",
+    "size": 82475,
+    "sha256": "6ce13c9afddf1f1c4b91e84d8717b54e698aa3b6affa0ca8f20e9aa0722457f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23 answer4.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23 answer4.png",
+    "size": 39740,
+    "sha256": "f743c9bd22d5fa3cfdcd65bd23346bd653b00e43aea76c7d9099fd394caac7b7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.23.png",
+    "size": 104493,
+    "sha256": "6660630f907d49af01736bf5d63fc62d4da4e65729495d478a78d8f236b52f06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.47 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.47 answer.png",
+    "size": 65655,
+    "sha256": "e39fde9cb2c3b559ad188fd82bf9208a5754101a9e230ab606a9c443d30fb1fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.47.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.47.png",
+    "size": 87295,
+    "sha256": "4a273d25218022560ca92626eff30de8db4aebb85209c7631569bfcf25e87d90",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.53 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.53 answer.png",
+    "size": 96435,
+    "sha256": "5702d72f8df73de0b43dd5e10d30b1459ee06126d1169e47b7f83de22efa94cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.53.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.53.png",
+    "size": 61487,
+    "sha256": "7beae25d6352533aeb0eb13f1415746f906288ae070398c775aa1612ee8a56fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.6 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.6 answer 1.png",
+    "size": 432439,
+    "sha256": "365ae7deec18ffae744cae610de4b0174d59570246880c4dcf73b8173dc57801",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.6 answer 2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.6 answer 2.png",
+    "size": 281813,
+    "sha256": "a506f867c7374096f1ff07b3a1e92a6815a34fbb75b37970c9dd0e64d961bea9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.6.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.6.png",
+    "size": 88658,
+    "sha256": "faf1d63cc68224d0bf37202e89bb8ffb3e073205de38461f07ec7c0ca288f021",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.61 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.61 answer.png",
+    "size": 296654,
+    "sha256": "164b82b0ffb60f9b9493c2d006c0c75e65ddd45ebdad1ebd9e73a47061d5e985",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.61.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.61.png",
+    "size": 53808,
+    "sha256": "b2e83c99269bdd68fd278107c2639bcfed0138af2c9817c28f6bb2568604ccfe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.97 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.97 answer1.png",
+    "size": 396141,
+    "sha256": "dd65f39e6e55b634918b491d4508f659f54388172929eb7c09166ad5310240e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.97 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.97 answer2.png",
+    "size": 369363,
+    "sha256": "ebca7ec5f97a3988eec7eb03d1ee881aa9738918049e89f3d60bcdfb01b28489",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.97.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/9.97.png",
+    "size": 111401,
+    "sha256": "e399db2d4869a33dd237090a7c7ca137e8b05ee0d4bacc0debe4ba7230926009",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.15  answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.15  answer.png",
+    "size": 365575,
+    "sha256": "a6516c2c2a00a1d593e09ba2c2093b049f7abedf03eac6c55edd560acd0d3bb7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.15.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.15.png",
+    "size": 115939,
+    "sha256": "94c303ba9cd4499cf88600c5d90ce218983997ad2e02ab7f0bf5156ec4f91a02",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.44 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.44 answer a.png",
+    "size": 99209,
+    "sha256": "cd1cf3b6ac39a55a36d4785d3942fda8a81fb875db388425a5e0dd920561946f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.44 answer b1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.44 answer b1.png",
+    "size": 74817,
+    "sha256": "7277cd82fc39cad3d5192bc937415b58de5e3cc68ea1ed8792af1ec04a647b82",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.44 answer b2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.44 answer b2.png",
+    "size": 113667,
+    "sha256": "701c237b3a3e784c04501864695b68eee388d26542608e764631aaed6a5bb473",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.44 answer b3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.44 answer b3.png",
+    "size": 124163,
+    "sha256": "bc1d5ec342ee32dae0e532b1f6cab40de1537d68b773c39b474b62e91bdf3402",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.44.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.44.png",
+    "size": 89998,
+    "sha256": "f0476bfe941c69370e338fdbff066e664308b08e2054ae7dfa2ef1595c811aec",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.54 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.54 answer.png",
+    "size": 174896,
+    "sha256": "25ae917718cbc18bfd1bed2bcddfb9d56aa73c2046cfde9b768d89068135616f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.54.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.54.png",
+    "size": 72483,
+    "sha256": "086ac5bd22bd9394b7149b349a44d9c13110df7522b92901ef9ec271b457f621",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.7 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.7 answer.png",
+    "size": 308924,
+    "sha256": "43bea4bfed801ad9c8997a6e4c7bd1bee330fa1ccda0306be3c9144210fc29fe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/8.7.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/8.7.png",
+    "size": 116148,
+    "sha256": "9c6be553960804b9ebfd6614a144b039183a04288c9a6c3e22e04b5b9496cef0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.105 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.105 answer1.png",
+    "size": 50136,
+    "sha256": "6b00fe58097527d6495c06947831e54307ec53b199d0a1644c3dfaae0bb6468a",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.105 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.105 answer2.png",
+    "size": 54633,
+    "sha256": "06de558201d07b83f574cf5b8b7f30ad214ef5b866add9e0271c1c7a81d73fd2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.105 answer3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.105 answer3.png",
+    "size": 59050,
+    "sha256": "f2c02df65204a6dc55d53ef2f7886f2697c1282d5f90e1c38b50d79738c8ed81",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.105 answer4.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.105 answer4.png",
+    "size": 13737,
+    "sha256": "a3507ca8688acccf03c8bba09f24ce7f9b20ab80550554120b3b6137312dc901",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.105.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.105.png",
+    "size": 122522,
+    "sha256": "03bc0247ecfe897043ce6a94c6bc7e740a19000a37fcb312c8120a106ba7f62e",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.110 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.110 answer a.png",
+    "size": 150427,
+    "sha256": "586487940d4469914d6e33c063a9caadcd15fd7ef95c1c51e4a2ef53751138b0",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.110 answer b.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.110 answer b.png",
+    "size": 80148,
+    "sha256": "d24ed51764296949c6a378ab983512d2622f34168a2e35ee794276e54437a440",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.110.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.110.png",
+    "size": 107520,
+    "sha256": "d4db8da2f6f93742e472f4c012f8277bd57272336844d43a22d7c5dd8109dee8",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.115 answer a.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.115 answer a.png",
+    "size": 483174,
+    "sha256": "884181157ba014090aa963293137d73d6a165db2ea8d8dfd2cbdfd8a4b7ac6f2",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.115 answer b.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.115 answer b.png",
+    "size": 120912,
+    "sha256": "e430d765b5cfa573574686cf740d1b82f910bd9c2b89f24dc8389afb1fe475cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.115 answer c.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.115 answer c.png",
+    "size": 202231,
+    "sha256": "f872e837b0e51b032eaae2241e09e37de0c578e87de212e2ed75888b5def3b91",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.115.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.115.png",
+    "size": 100820,
+    "sha256": "b203f328bd97e39787dcd28523af5b38845c597261d56f1683ed5d4938c5e41f",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.19 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.19 answer 1.png",
+    "size": 688778,
+    "sha256": "dac998b48e3d7e1cb32985adb92f60e8a9dc7da0ac007774a39851abba2edd1c",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.19 answer 2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.19 answer 2.png",
+    "size": 519907,
+    "sha256": "af9761442f19997d8bb90df77f351ccd62c361b3aae8e57759705839fb735050",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.19.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.19.png",
+    "size": 86175,
+    "sha256": "eb3327b253680c574d5ac9df4283c416e57b485ea03b740d1dd1671b9f880f0b",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.20 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.20 answer 1.png",
+    "size": 214014,
+    "sha256": "002e01772ea89e9596649a4d9d3fbedb408bf01d8aa60eaf67c01e49d0785923",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.20 answer 12.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.20 answer 12.png",
+    "size": 249618,
+    "sha256": "a7474f719fd086e81cf39e29145ea5f89e3bd74d7dafe87fd53730ed38c60163",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.20.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.20.png",
+    "size": 75170,
+    "sha256": "75a5c4c25f925968f596dc9cdbfbf34adfbd422cae9a63800754d1186150a420",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.23 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.23 answer1.png",
+    "size": 76363,
+    "sha256": "dbf47197f1a1aa569c89e112c33c4fc15991ee714d5f5ca52c78278c0210ec56",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.23 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.23 answer2.png",
+    "size": 76789,
+    "sha256": "5eff00afc08b071ad3aafc986ce0ef9935f466370ff8d7aa56de864ef26cacab",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.23 answer3.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.23 answer3.png",
+    "size": 82475,
+    "sha256": "6ce13c9afddf1f1c4b91e84d8717b54e698aa3b6affa0ca8f20e9aa0722457f3",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.23 answer4.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.23 answer4.png",
+    "size": 39740,
+    "sha256": "f743c9bd22d5fa3cfdcd65bd23346bd653b00e43aea76c7d9099fd394caac7b7",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.23.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.23.png",
+    "size": 104493,
+    "sha256": "6660630f907d49af01736bf5d63fc62d4da4e65729495d478a78d8f236b52f06",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.47 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.47 answer.png",
+    "size": 65655,
+    "sha256": "e39fde9cb2c3b559ad188fd82bf9208a5754101a9e230ab606a9c443d30fb1fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.47.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.47.png",
+    "size": 87295,
+    "sha256": "4a273d25218022560ca92626eff30de8db4aebb85209c7631569bfcf25e87d90",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.53 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.53 answer.png",
+    "size": 96435,
+    "sha256": "5702d72f8df73de0b43dd5e10d30b1459ee06126d1169e47b7f83de22efa94cb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.53.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.53.png",
+    "size": 61487,
+    "sha256": "7beae25d6352533aeb0eb13f1415746f906288ae070398c775aa1612ee8a56fb",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.6 answer 1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.6 answer 1.png",
+    "size": 432439,
+    "sha256": "365ae7deec18ffae744cae610de4b0174d59570246880c4dcf73b8173dc57801",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.6 answer 2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.6 answer 2.png",
+    "size": 281813,
+    "sha256": "a506f867c7374096f1ff07b3a1e92a6815a34fbb75b37970c9dd0e64d961bea9",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.6.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.6.png",
+    "size": 88658,
+    "sha256": "faf1d63cc68224d0bf37202e89bb8ffb3e073205de38461f07ec7c0ca288f021",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.61 answer.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.61 answer.png",
+    "size": 296654,
+    "sha256": "164b82b0ffb60f9b9493c2d006c0c75e65ddd45ebdad1ebd9e73a47061d5e985",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.61.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.61.png",
+    "size": 53808,
+    "sha256": "b2e83c99269bdd68fd278107c2639bcfed0138af2c9817c28f6bb2568604ccfe",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.97 answer1.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.97 answer1.png",
+    "size": 396141,
+    "sha256": "dd65f39e6e55b634918b491d4508f659f54388172929eb7c09166ad5310240e4",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.97 answer2.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.97 answer2.png",
+    "size": 369363,
+    "sha256": "ebca7ec5f97a3988eec7eb03d1ee881aa9738918049e89f3d60bcdfb01b28489",
+    "storage": "git"
+  },
+  {
+    "drive_file_id": "1UpUuKLxiQPyYO16Ap1mVgc6v-0DYoOAF",
+    "source_member": "3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics.rar!/9.97.png",
+    "path": "3.sinif/5.donem/EE3012_Electronics-II/3-Electronics-2-22-23-guz-Ahmet-Unutulmaz/3-) Electronics 2 (22-23 güz) -  Ahmet Unutulmaz/Yeni klasör/electronics__acilmis/9.97.png",
+    "size": 111401,
+    "sha256": "e399db2d4869a33dd237090a7c7ca137e8b05ee0d4bacc0debe4ba7230926009",
+    "storage": "git"
   }
 ]
