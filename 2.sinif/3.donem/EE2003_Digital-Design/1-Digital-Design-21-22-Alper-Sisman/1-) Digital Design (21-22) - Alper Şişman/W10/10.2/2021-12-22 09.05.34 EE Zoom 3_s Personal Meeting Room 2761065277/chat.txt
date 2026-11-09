@@ -1,0 +1,51 @@
+09:05:56	 From Ahmet Talha Yıldırım : Merhaba hocam
+09:06:11	 From Ahmet Talha Yıldırım : Hocam dün bakmaya fırsatım olmadı da
+09:06:20	 From Ahmet Talha Yıldırım : Bu gün yazdım açıklayıcı şekilde
+09:16:09	 From Necati Şenel : yes
+09:19:28	 From Necati Şenel : yes
+09:19:29	 From Necati Şenel : clear
+09:19:38	 From Sude Gürbüz : Yes
+09:19:39	 From İbrahim Halil ŞAHİN : yes
+09:22:55	 From Necati Şenel : clear
+09:23:16	 From Sude Gürbüz : Clear
+09:23:41	 From İbrahim Halil ŞAHİN : clear sir
+09:30:59	 From Sude Gürbüz : Yes
+09:31:01	 From İbrahim Halil ŞAHİN : yes we see
+09:37:29	 From Ataberk_Gedik : clear
+09:37:30	 From Necati Şenel : yes
+09:39:39	 From Ataberk_Gedik : yes
+09:39:41	 From İbrahim Halil ŞAHİN : yes
+09:39:43	 From Sude Gürbüz : Yes
+09:42:07	 From İbrahim Halil ŞAHİN : clock outta mı oluyor hocam bunda
+09:42:28	 From İbrahim Halil ŞAHİN : tamamdır hocam e
+09:44:07	 From Ataberk_Gedik : yes
+09:47:36	 From Necati Şenel : yes
+09:47:38	 From Ataberk_Gedik : yes
+10:05:13	 From Necati Şenel : başka bir tip daha göstermiştiniz hocam universaldan once onu bunun içinde mi anlatacaksınız?
+10:08:15	 From Ataberk_Gedik : yes
+10:11:26	 From Necati Şenel : yes
+10:11:26	 From Ataberk_Gedik : yes
+10:11:36	 From Necati Şenel : tamamdır hocam
+10:18:30	 From İbrahim Halil ŞAHİN : yes
+10:18:34	 From Ataberk_Gedik : evet
+10:18:40	 From Sude Gürbüz : Yes
+10:19:56	 From Ataberk_Gedik : evet
+10:19:58	 From İbrahim Halil ŞAHİN : evet
+10:22:17	 From Necati Şenel : yes
+10:26:55	 From Ataberk_Gedik : micro controller
+10:26:56	 From Necati Şenel : Mcu
+10:28:39	 From Necati Şenel : clear
+10:29:15	 From Ataberk_Gedik : clear
+10:29:31	 From İbrahim Halil ŞAHİN : clear
+10:29:33	 From Sude Gürbüz : get it
+10:29:52	 From Necati Şenel : azcık bahsetmiştiniz
+10:30:14	 From Necati Şenel : en sevdiğime geldik hocam :D
+10:31:31	 From Necati Şenel : üzdü biraz
+10:35:07	 From Necati Şenel : evet
+10:35:35	 From Ataberk_Gedik : register
+10:36:14	 From Ataberk_Gedik : net
+10:36:36	 From Necati Şenel : çıktıyı da başka shift registera mı atayacağız hocam istersek
+10:37:15	 From Sude Gürbüz : Clear
+10:37:17	 From Necati Şenel : anlaşıldı hocam
+10:38:10	 From Sude Gürbüz : Teşekkürler hocam, iyi günler
+10:38:15	 From Necati Şenel : iyi günler hocam

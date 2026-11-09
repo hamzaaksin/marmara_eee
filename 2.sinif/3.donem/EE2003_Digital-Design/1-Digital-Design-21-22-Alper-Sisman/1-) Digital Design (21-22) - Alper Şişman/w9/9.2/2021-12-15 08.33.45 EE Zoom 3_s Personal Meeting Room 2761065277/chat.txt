@@ -1,0 +1,123 @@
+08:48:15	 From Ataberk_Gedik : clear
+08:53:27	 From Ataberk_Gedik : clear
+08:53:33	 From Ömer Emeksiz : yes sir
+08:53:36	 From Mehtap Arda : evet
+09:07:51	 From Necati Şenel : yes
+09:07:52	 From Ataberk_Gedik : clear
+09:07:56	 From Sude Gürbüz : Clear
+09:09:37	 From Anıl Koluaçık : 1
+09:09:38	 From Necati Şenel : 1
+09:10:03	 From Necati Şenel : 2
+09:10:09	 From Necati Şenel : odd or even
+09:11:16	 From Anıl Koluaçık : 2
+09:11:16	 From Sude Gürbüz : 2
+09:11:49	 From Necati Şenel : clear
+09:11:52	 From Ataberk_Gedik : clear
+09:13:07	 From Ömer Emeksiz : yes
+09:13:41	 From Ataberk_Gedik : 3 e bölünürmü bölünmezmi 2
+09:13:44	 From Necati Şenel : 3?
+09:13:56	 From Ataberk_Gedik : 2
+09:14:11	 From Ataberk_Gedik : bölünür bölünmez
+09:14:11	 From Necati Şenel : 3'ün katları ve katları değil deriz 2 olur
+09:14:46	 From Ataberk_Gedik : o zaman tam bölünür 1 kalır 2 kalır
+09:14:59	 From Necati Şenel : her 3 elmada 1 togglelasak?
+09:15:22	 From Necati Şenel : 2
+09:15:46	 From Necati Şenel : düşündümde olmuyor hocam 3 state oluyor sanırsam
+09:16:08	 From Necati Şenel : 1 elma 2 elma 3 elma diye
+09:16:31	 From Necati Şenel : evet
+09:17:21	 From Necati Şenel : hocam 2 kişi olunca akla ilk gelen matematiksel ifade sisteme de güzel oturduğundan olsa gerek
+09:17:28	 From Necati Şenel : 3 kişi olunca matematiksel düşününce olmuyor direct :D
+09:19:05	 From Necati Şenel : S3
+09:19:14	 From Necati Şenel : 3'ün katı olunca durabiliriz
+09:19:37	 From Necati Şenel : 1 tane daha atarsak o statete tekrar 3'ün katı olana kadar low olacak stop sinyali
+09:20:24	 From Necati Şenel : clear
+09:20:30	 From Ataberk_Gedik : clear
+09:24:24	 From Necati Şenel : current floor
+09:24:38	 From Necati Şenel : 2
+09:24:40	 From Ömer Emeksiz : 2
+09:24:43	 From Sude Gürbüz : 2
+09:24:53	 From Necati Şenel : 2 olunca kolay oldu hocam yine :D
+09:26:34	 From Necati Şenel : yes
+09:26:37	 From Ataberk_Gedik : clear
+09:30:42	 From Ataberk_Gedik : clear
+09:30:44	 From Sude Gürbüz : Clear
+09:33:30	 From Necati Şenel : yes
+09:35:58	 From Necati Şenel : yes
+09:36:00	 From Ataberk_Gedik : yes
+09:36:01	 From Ömer Emeksiz : yes
+09:36:01	 From Ömer Buminhan Çay : yes
+09:37:14	 From Necati Şenel : 3 olsa yeter sanırsam hocam
+09:37:16	 From Duhan Cengizer : 3
+09:37:18	 From Necati Şenel : son 3 biti tutsak kafada yetiyor
+09:37:38	 From Necati Şenel : eet
+09:37:41	 From Necati Şenel : evet*
+09:41:42	 From Ataberk_Gedik : 1
+09:41:48	 From Anıl Koluaçık : 1
+09:42:54	 From Necati Şenel : bir state daha olması gerekmiyor mu hocam
+09:44:38	 From Ataberk_Gedik : anladım
+09:44:52	 From Necati Şenel : S2 state'inde döndüremez miydik 1 geldiğinde kendi içinde
+09:45:13	 From Necati Şenel : evet
+09:45:19	 From Necati Şenel : S0'a gitmesin
+09:45:40	 From Necati Şenel : evet
+09:45:48	 From Necati Şenel : benim state yetmez dediğim hocam şeydi
+09:45:54	 From Necati Şenel : başta hiç 1 yokken hangi stated olacağız
+09:46:00	 From Necati Şenel : S0'da olamayız
+09:46:07	 From Necati Şenel : 1 tane 1 Kabul ediyoruz s0'da
+09:48:16	 From Ömer Emeksiz : net hocam
+09:48:16	 From Ataberk_Gedik : net
+09:48:17	 From Necati Şenel : anlaşıldı hocam
+10:08:57	 From Ömer Emeksiz : hocam inputlar 0 ken outputlar neden 1 oldu ?
+10:09:14	 From Ömer Emeksiz : s1 den s0 a
+10:09:21	 From Ömer Emeksiz : yok hocam diyagramda
+10:09:23	 From Necati Şenel : state diagramda hocam onu kastediyor
+10:09:32	 From Necati Şenel : s2'den s0'a geçişte te 0 olacak sanırsam
+10:09:41	 From Ömer Emeksiz : evet
+10:11:06	 From Necati Şenel : 2 tane 1 varken bile s2 oluyor hocam
+10:11:39	 From Necati Şenel : anladım
+10:11:48	 From Necati Şenel : evet s2'den s2'ye geçişte 1 olacak
+10:11:54	 From Necati Şenel : anladım hocam
+10:12:06	 From Necati Şenel : yok
+10:14:09	 From Necati Şenel : 2
+10:15:00	 From Ataberk_Gedik : 2
+10:15:01	 From Necati Şenel : 2 tane yeterli
+10:18:00	 From Ataberk_Gedik : 00
+10:18:01	 From Ömer Emeksiz : S0
+10:18:24	 From Ömer Emeksiz : yes
+10:19:23	 From Necati Şenel : clear
+10:19:29	 From Ataberk_Gedik : clear
+10:20:43	 From Necati Şenel : 0
+10:20:43	 From Ömer Emeksiz : clk 0
+10:20:47	 From Ataberk_Gedik : 0
+10:22:33	 From Ataberk_Gedik : 1
+10:22:34	 From Necati Şenel : 1
+10:23:26	 From Sude Gürbüz : Yes
+10:25:03	 From Necati Şenel : !B0*A0*I+B0*!A0*I
+10:25:49	 From Necati Şenel : yes
+10:25:51	 From Ataberk_Gedik : clear
+10:28:52	 From Necati Şenel : don't care?
+10:28:57	 From Ataberk_Gedik : dont care
+10:30:17	 From Necati Şenel : I*A0 olmayacak mı hocam o da
+10:31:00	 From Ataberk_Gedik : clear
+10:31:01	 From Necati Şenel : anlaşıldı
+10:32:05	 From Necati Şenel : direkt 1'i almak gerekiyor galiba
+10:32:08	 From Ömer Emeksiz : evet
+10:32:37	 From Ataberk_Gedik : evet
+10:32:39	 From Necati Şenel : anlaşılıyor hocam
+10:33:04	 From Necati Şenel : hocam 0 1'i alacağız
+10:33:06	 From Necati Şenel : A0 ile b0 ters
+10:33:10	 From Necati Şenel : k-mapte
+10:33:26	 From Necati Şenel : 011 kısmına yazmalıyız
+10:33:31	 From Necati Şenel : yok hocam
+10:33:34	 From Necati Şenel : truth table da
+10:33:38	 From Necati Şenel : B0A0 şeklinde inpt
+10:33:54	 From Necati Şenel : 0 1 1'e 1 yazmalıyız
+10:36:24	 From Necati Şenel : anlaşıldı hocam
+10:36:27	 From Ataberk_Gedik : net
+10:36:38	 From Ömer Emeksiz : evet hocam
+10:36:38	 From Necati Şenel : güzel dersti hocam
+10:36:43	 From Ömer Emeksiz : tesekkurler
+10:36:43	 From Ataberk_Gedik : güzeldi
+10:36:43	 From Mehtap Arda  To  EE Zoom 3(privately) : evet
+10:36:59	 From Mehtap Arda : iyi günler hocam
+10:37:06	 From Necati Şenel : kaç assignment var hocam, final ödeviyle birlikte
+10:37:19	 From Necati Şenel : tamamdır hocam iyi günler

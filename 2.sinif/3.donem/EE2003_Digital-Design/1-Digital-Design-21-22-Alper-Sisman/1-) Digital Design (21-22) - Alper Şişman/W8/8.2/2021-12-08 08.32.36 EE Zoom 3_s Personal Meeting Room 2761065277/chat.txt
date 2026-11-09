@@ -1,0 +1,87 @@
+08:34:04	 From Seyhun : günaydın hocam
+08:34:43	 From Necati Şenel : hocam ne söylemiştiniz kaçırdım da
+08:35:35	 From Necati Şenel : bizden 1 arkadaş dersi bıraktı, 2 kişi raporları hazırlıyoruz bir sıkıntı yok ama hocam.
+08:35:43	 From Necati Şenel : halledebiliyoruz 2 kişi
+08:35:56	 From Mehtap Arda : hocam ben dersi anlıyorum sizin anlattığınız kısmı
+08:36:03	 From Mehtap Arda : lab kısmı zorluyor
+08:36:21	 From Mehtap Arda : çok rahat anlayamıyorum pratik kısmı
+08:38:17	 From Sude Gürbüz : Lablarda test için anydesk ile bağlanmak zor oluyor hocam
+08:39:00	 From Sude Gürbüz : Çok donuyor
+08:39:29	 From Seyhun : eskiden donuyordu hocam biraz daha iyi şuan son labda sıkıntı yaşamadım ben pek
+08:39:29	 From Necati Şenel : bir de hocam arada hyperterminal kitleniyor komutları algılamıyor. Bazen 1-2 kere kapatıp açılınca düzeliyor fakat bazen hiç düzelmiyor.
+08:40:06	 From Sude Gürbüz : Teşekkürler hocam
+08:42:27	 From Necati Şenel : hocam ilk derslerde işlemcilerdeki registerların flip-floplarla veri kaydettiğini söylemiştiniz. 8 bit register için 8 adet flip flop mu görev yapıyor?
+08:47:01	 From Necati Şenel : 1?
+08:47:02	 From Mehtap Arda  To  EE Zoom 3(privately) : 1
+08:47:06	 From Sude Gürbüz : 1
+08:47:18	 From Mert Eren Ağcabay : Q 1
+08:47:50	 From Necati Şenel : 1
+08:47:51	 From Seyhun : 1
+08:47:54	 From Sude Gürbüz : 1
+08:48:52	 From Necati Şenel : evet hocam sürekli değişmeyecek mi
+08:48:53	 From Necati Şenel : bu durumda
+08:50:39	 From Necati Şenel : 1
+08:50:43	 From Sude Gürbüz : 1
+08:50:52	 From Necati Şenel : 0
+08:51:14	 From Necati Şenel : ben ilk durum için demiştim hocam
+08:51:15	 From Necati Şenel : şimdi stabile
+08:52:00	 From Necati Şenel : bu sefer yer değişterecekler
+08:52:07	 From Sude Ilayda Ozkara : 0
+08:52:15	 From Necati Şenel : 1
+08:55:33	 From Sude Gürbüz : no
+08:56:43	 From Sude Gürbüz : Clear
+08:57:31	 From Necati Şenel : 1
+08:58:54	 From Necati Şenel : 1
+09:05:04	 From Necati Şenel : yes
+09:13:55	 From Ataberk Gedik : c = 0
+09:19:09	 From Sude Gürbüz : keep
+09:19:48	 From Necati Şenel : keep
+09:19:49	 From Sude Ilayda Ozkara : keep
+09:20:11	 From Necati Şenel : still keep
+09:20:28	 From Necati Şenel : reset
+09:20:58	 From Sude Gürbüz : set
+09:24:41	 From Necati Şenel : falling edge mi oluyor o da
+09:25:22	 From Necati Şenel : tamamdır hocam
+09:25:23	 From Sude Gürbüz : Okay
+09:49:49	 From Ataberk Gedik : hi
+10:05:58	 From Necati Şenel : keep
+10:10:19	 From Ataberk Gedik : clear
+10:10:19	 From Necati Şenel : yess
+10:10:21	 From Atabey Aydı : yess
+10:10:21	 From Mhd Tareq_Zain : yes
+10:19:34	 From Necati Şenel : next rising edge?
+10:19:50	 From Necati Şenel : clear
+10:20:56	 From Seyhun : data
+10:25:20	 From Necati Şenel : Q
+10:26:09	 From Sude Gürbüz : Yes
+10:26:13	 From Necati Şenel : yes
+10:26:16	 From Ataberk Gedik : clear
+10:27:37	 From Necati Şenel : reset oluyor bu da sanırsam
+10:28:54	 From Ataberk Gedik : 1
+10:28:56	 From Seyhun : 1
+10:28:57	 From Sude Gürbüz : 1
+10:29:08	 From Necati Şenel : set
+10:30:04	 From Necati Şenel : Qcomp
+10:30:05	 From Sude Gürbüz : Q'
+10:31:15	 From Necati Şenel : yes
+10:31:17	 From Ataberk Gedik : Clear
+10:31:18	 From Sude Gürbüz : Clear
+10:34:55	 From Sude Gürbüz  To  EE Zoom 3(privately) : Hocam diğer dersim başladı, izninizle çıkabilir miyim?
+10:36:39	 From Ataberk Gedik : j
+10:37:18	 From Ataberk Gedik : j'k'Q0+jk'Q0+jkQ0'
+10:37:51	 From Ataberk Gedik : yanlış yazdım
+10:38:01	 From Ataberk Gedik : j'k'Q0+jk'+jkQ0'
+10:43:41	 From Necati Şenel : Bazı flipfloplarda daha fazla gate olduğundan dolayı hız farkı olmuyor mu hocam?
+10:44:25	 From Necati Şenel : Depolama olarak bakarsak fark ediyor sanırsam
+10:44:28	 From Necati Şenel : bilgisayarlarda*
+10:48:08	 From Necati Şenel : 1
+10:48:51	 From Necati Şenel : toggles
+10:51:00	 From Necati Şenel : clear
+10:51:02	 From İbrahim Halil ŞAHİN : yes
+10:51:06	 From Mehtap Arda  To  EE Zoom 3(privately) : evet
+10:51:09	 From Ataberk Gedik : anlaşıldı
+10:53:02	 From Necati Şenel : hocam pazartesi günündeki dersin notlarını drive'a ekler misiniz?
+10:53:33	 From Necati Şenel : ders sonrası deftere not çıkarırken lazım oluyor hocam derste dinlemiş olsam bile
+10:54:06	 From Necati Şenel : iyi günler hocam
+10:54:07	 From Ömer Buminhan Çay : iyi gümler hocam
+10:54:12	 From Ataberk Gedik : iyi günler

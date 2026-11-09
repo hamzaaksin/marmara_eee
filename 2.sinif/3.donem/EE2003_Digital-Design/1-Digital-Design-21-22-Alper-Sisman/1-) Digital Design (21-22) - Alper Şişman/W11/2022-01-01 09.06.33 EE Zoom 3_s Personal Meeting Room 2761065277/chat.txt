@@ -1,0 +1,49 @@
+09:08:07	 From Duhan Cengizer : günaydın hocam
+09:08:16	 From Aykut Büyükkaya : günaydın
+09:15:21	 From SERTAN AYGÜN : hocam bence defter kitap açık iyi ama siz bilirsiniz
+09:46:43	 From Necati Şenel : clear
+10:22:03	 From Necati Şenel : clear
+10:23:16	 From Necati Şenel : evet hocam
+10:23:18	 From Duhan Cengizer : yes
+10:27:02	 From Necati Şenel : yok hocam
+10:27:09	 From SERTAN AYGÜN : yok hocam
+10:33:57	 From Necati Şenel : clear
+10:33:59	 From Sude Gürbüz : Yes
+10:36:47	 From Necati Şenel : yes
+10:37:30	 From Necati Şenel : yes
+10:37:31	 From SERTAN AYGÜN : yes
+10:38:36	 From Necati Şenel : anlaşıldı hocam
+10:44:37	 From Necati Şenel : anlaşıldı
+10:44:40	 From Sude Gürbüz : Okay
+11:07:23	 From Necati Şenel : high empedance?
+11:08:31	 From Necati Şenel : yes
+11:09:24	 From Necati Şenel : birden fazla ram kullanırken mi kullanıyoruz? veya birden fazla output device
+11:10:02	 From Necati Şenel : clear
+11:11:36	 From Sude Gürbüz : Yes
+11:19:24	 From Necati Şenel : yes
+11:20:28	 From Necati Şenel : anlaşılıyor hocam
+11:20:30	 From Mert Terzi : evet hocam
+11:22:08	 From Mert Terzi : yes
+11:26:01	 From Necati Şenel : clear
+11:28:35	 From Necati Şenel : 2^10
+11:28:36	 From Duhan Cengizer : 2^10=1024
+11:30:10	 From Sude Gürbüz : Clear
+11:32:08	 From Necati Şenel : 8*8
+11:32:21	 From Necati Şenel : decoder ikide 9 vardı doğru
+11:32:29	 From Necati Şenel : 255
+11:32:31	 From Necati Şenel : 255*255
+11:32:34	 From Necati Şenel : tamamdır hocam :D
+11:32:34	 From Sude Gürbüz : 256*256
+11:33:14	 From Necati Şenel : anladım hocam
+11:36:40	 From Necati Şenel : anlaşıldı hocam
+11:36:47	 From Sude Gürbüz : Get it
+11:45:16	 From Sude Gürbüz : Yes
+11:45:19	 From Necati Şenel : anlaşıldı hocam
+11:45:22	 From Mhd Tareq_Zain : evet hocam
+11:45:24	 From Mert Terzi : evet hocam
+11:46:47	 From Necati Şenel : faydalıydı hocam
+11:46:48	 From Mert Terzi : oldu hocam
+11:46:48	 From Sude Gürbüz : Evet hocam, teşekkürler
+11:47:59	 From Mhd Tareq_Zain : Hocam finaldan once bir kaç final sorular çozebilir miyiz?
+11:48:05	 From Necati Şenel : iyi günler hocam
+11:48:15	 From Necati Şenel : evet hocam

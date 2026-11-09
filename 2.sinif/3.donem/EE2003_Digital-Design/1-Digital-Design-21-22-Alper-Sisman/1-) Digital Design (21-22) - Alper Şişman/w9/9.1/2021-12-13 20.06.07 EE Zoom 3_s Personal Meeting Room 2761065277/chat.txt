@@ -1,0 +1,153 @@
+20:17:33	 From Mahsum Aslan : evet hocam
+20:17:36	 From Ömer Emeksiz : :) gordum hocam
+20:17:36	 From Duhan Cengizer : evet hocam
+20:17:40	 From Sude Gürbüz : Buradayız hocam
+20:18:02	 From Ahmet Talha Yıldırım : yanlış sınıf şakası güzeldi hocam
+20:30:24	 From Ömer Emeksiz : no sir clear
+20:35:27	 From Ömer Emeksiz : will the presentation online or face to face ?
+20:39:12	 From Ahmet Talha Yıldırım : yes
+20:39:12	 From Ataberk_Gedik : clear
+20:39:13	 From Mehtap Arda : clear
+20:39:21	 From Mahsum Aslan : hocam a ve b floating point mi olacak?
+20:39:22	 From Ahmet Talha Yıldırım : basit
+20:39:24	 From Ataberk_Gedik : değil
+20:39:56	 From Ahmet Talha Yıldırım : ahahahahaha
+20:39:57	 From Ezgi Süne : :D
+20:39:57	 From Mahsum Aslan : yok yok hocam
+20:40:11	 From Mahsum Aslan : basit düşünmedim
+20:41:06	 From Ahmet Talha Yıldırım : register?
+20:42:15	 From Ahmet Talha Yıldırım : right
+20:42:15	 From Mahsum Aslan : evet
+20:42:18	 From Ataberk_Gedik : evet
+20:42:20	 From Eren Türk : evet
+20:42:20	 From Koray_Can_KAYA : evet
+20:42:36	 From Ataberk_Gedik : evet
+20:42:43	 From Ataberk_Gedik : gördük
+20:44:34	 From Ataberk_Gedik : clear
+20:45:48	 From Ege Okan KALI : no
+20:46:50	 From Ataberk_Gedik : clocksuz yapsak olmaz mı
+20:46:59	 From Ataberk_Gedik : async
+20:47:50	 From Ataberk_Gedik : anladım hocam
+20:49:33	 From Ege Okan KALI : clear
+20:49:34	 From Necati Şenel : clear
+20:49:34	 From Eren Türk : clear
+20:54:32	 From Ataberk_Gedik : clear
+20:54:33	 From Necati Şenel : yes
+20:59:20	 From Mahsum Aslan : hocam add sub or … microcode mu oluyor?
+20:59:27	 From Ahmet Talha Yıldırım : Hocam right shift ya da left shift de alu da olmuyor muydu
+21:00:24	 From Mahsum Aslan : yes
+21:01:35	 From Ezgi Süne : yes
+21:01:42	 From Ege Okan KALI : clear
+21:04:48	 From Ahmet Talha Yıldırım : 12?
+21:04:51	 From Ege Okan KALI : 8
+21:04:59	 From Ahmet Talha Yıldırım : adres 2 bit
+21:05:07	 From Ahmet Talha Yıldırım : geri dönmek için belki
+21:05:15	 From Necati Şenel : 10
+21:05:15	 From Mehtap Arda : 10
+21:05:17	 From Sude Gürbüz : 10
+21:05:42	 From Ahmet Talha Yıldırım : :D pekala
+21:06:13	 From Sude Gürbüz : 1100000101
+21:06:21	 From Ezgi Süne : evet
+21:06:24	 From Ataberk_Gedik : clear
+21:09:20	 From Ahmet Talha Yıldırım : Hocam hala 8 bit registerın store una dokunmadık ama
+21:09:27	 From Ataberk_Gedik : Rom mu niye direk bağlayamıyoruz
+21:09:45	 From Ahmet Talha Yıldırım : okay okay sorry
+21:11:26	 From Ataberk_Gedik : clear
+21:15:08	 From Mahsum Aslan : counter
+21:15:32	 From Necati Şenel : bu sayede süreklilik oluyor değil mi hocam? Sürekli looptaymış gibi dönüyor
+21:15:46	 From Necati Şenel : evet
+21:17:09	 From Necati Şenel : clear
+21:18:55	 From Mahsum Aslan : yes
+21:20:08	 From Ataberk_Gedik : evet
+21:20:09	 From İbrahim Halil ŞAHİN : yes
+21:20:09	 From Mahsum Aslan : evet
+21:20:12	 From Fatih_KOYUNCU : evet
+21:20:35	 From Necati Şenel : Çok fazla akım çeker
+21:20:38	 From Necati Şenel : Yanar motor
+21:22:28	 From Mahsum Aslan : yuk devire baglı olarak degişir sanırım
+21:22:52	 From Melih Can Polat : yes
+21:22:56	 From Ömer Emeksiz : evet uretir
+21:22:56	 From İbrahim Halil ŞAHİN : üretir
+21:22:56	 From Melih Can Polat : uretir
+21:22:57	 From Ataberk_Gedik : elektriok olur
+21:23:17	 From Ataberk_Gedik : i kadar
+21:23:17	 From Necati Şenel : direnç olmadığından neredeyse sonsuz?
+21:23:46	 From Ömer Emeksiz : guc kanysgindan
+21:24:06	 From Necati Şenel : evet
+21:24:07	 From İbrahim Halil ŞAHİN : çok fark yok
+21:24:07	 From Sude Gürbüz : Aynı şey
+21:24:17	 From Necati Şenel : sonsuz akımlık güç sağlayamayacağından aynı şey
+21:24:49	 From Necati Şenel : direnç koyarsak akımı sınırlarız
+21:24:50	 From Sude Gürbüz : Evet
+21:25:16	 From Necati Şenel : evet
+21:25:18	 From İbrahim Halil ŞAHİN : evet
+21:25:34	 From Necati Şenel : anladım
+21:25:36	 From Ataberk_Gedik : clear
+21:25:37	 From İbrahim Halil ŞAHİN : yes
+21:25:37	 From Ömer Emeksiz : evet
+21:25:41	 From Sude Gürbüz : Anlaşıldı
+21:26:21	 From İbrahim Halil ŞAHİN : evet
+21:26:43	 From Ömer Emeksiz : hocam potansiyometre nedir acaba ?
+21:26:54	 From Ömer Emeksiz : hayir
+21:26:55	 From Ömer Emeksiz : hocam
+21:26:57	 From Ataberk_Gedik : ayarlı direnç
+21:27:03	 From Ömer Emeksiz : ben ustten aliyorum digitali
+21:27:27	 From Ömer Emeksiz : hocam ben 2. sinfiim
+21:27:42	 From Ömer Emeksiz : hocam ben yatay gecis yaptim
+21:27:50	 From Ömer Emeksiz : evet hocam
+21:28:35	 From Ataberk_Gedik : evet
+21:28:35	 From İbrahim Halil ŞAHİN : yes
+21:28:37	 From Sude Gürbüz : Artar
+21:28:43	 From Ömer Emeksiz : evet
+21:28:44	 From İbrahim Halil ŞAHİN : artar
+21:28:44	 From Ataberk_Gedik : evet
+21:28:50	 From Ataberk_Gedik : evet
+21:28:51	 From İbrahim Halil ŞAHİN : evet
+21:28:58	 From Ataberk_Gedik : evet
+21:28:59	 From Necati Şenel : kırışır
+21:29:00	 From İbrahim Halil ŞAHİN : evet
+21:29:05	 From Necati Şenel : hayır
+21:29:13	 From İbrahim Halil ŞAHİN : sabit
+21:29:14	 From Ömer Emeksiz : sabit
+21:29:15	 From Aykut Büyükkaya : sabit
+21:29:31	 From Ege Okan KALI : voltaj artmali
+21:29:32	 From İbrahim Halil ŞAHİN : direnç bağlamamız gerekir
+21:29:34	 From Necati Şenel : gücü arttırmalıyım
+21:29:35	 From Melih Can Polat : gerilimi arttirmak
+21:30:21	 From Necati Şenel : evet
+21:30:43	 From Sude Gürbüz : Evet
+21:30:50	 From Ezgi Süne : evet hocam
+21:31:00	 From Necati Şenel : 3*0.75
+21:31:53	 From Necati Şenel : evet
+21:32:44	 From Necati Şenel : yükle
+21:32:51	 From Necati Şenel : voltaj bölücü devreyle mi okuyacağız orayıda
+21:33:00	 From Necati Şenel : anladım hocam
+21:33:17	 From Ataberk_Gedik : anlaşıldı
+21:33:19	 From Sude Gürbüz : Clear
+21:33:57	 From Ataberk_Gedik : evet
+21:33:58	 From İbrahim Halil ŞAHİN : yes
+21:33:58	 From Sude Gürbüz : Evet
+21:34:05	 From Fatih_KOYUNCU : evet hocam
+21:34:21	 From Fatih_KOYUNCU : hocam düşük frekansları geçirir
+21:36:46	 From Ataberk_Gedik : net
+21:38:53	 From Mehtap Arda : almadık
+21:38:59	 From İbrahim Halil ŞAHİN : alıyoruz
+21:39:02	 From Mehtap Arda : 2
+21:39:02	 From Sude Gürbüz : Bu dönem alıyorum
+21:39:05	 From Fatih_KOYUNCU : alıyoruz ve görmedik
+21:39:06	 From Mehtap Arda : hocam ben
+21:40:21	 From Ataberk_Gedik : clear
+21:41:15	 From İbrahim Halil ŞAHİN : yes
+21:41:25	 From Ataberk_Gedik : cos
+21:41:28	 From Sude Gürbüz : cos(w/2)
+21:42:50	 From Ataberk_Gedik : gördük derste
+21:43:21	 From Ataberk_Gedik : digitalde en yüksek frekans pi
+21:43:40	 From Ataberk_Gedik : sampling
+21:45:24	 From Ahmet Talha Yıldırım : güzeldi
+21:45:24	 From Mahsum Aslan : evet
+21:45:26	 From Necati Şenel : oldu hocam
+21:45:28	 From Ataberk_Gedik : iyi oldu
+21:45:30	 From Sude Gürbüz : Evet, teşekkürler hocam
+21:45:31	 From İbrahim Halil ŞAHİN : evet hocam güzeldi
+21:45:58	 From Mehtap Arda : iyi akşamlar
+21:46:00	 From Sude Gürbüz : İyi akşamlar

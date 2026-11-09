@@ -1,0 +1,44 @@
+19:42:41	 From ataberk gedik : 150719058
+19:42:47	 From Timur Er : 150718034
+19:50:24	 From Seyhun : 3
+19:50:25	 From Necati Şenel : 3
+19:51:45	 From Başak Öztoprak : 150718058
+19:52:19	 From Necati Şenel : anlaşıldı hocam
+19:52:21	 From Aykut Büyükkaya : Evet hocam
+19:52:22	 From Mehtap Arda : evet
+19:52:23	 From Sude Gürbüz : Yes
+19:52:34	 From Timur Er : evet
+19:52:41	 From ataberk gedik : yes
+19:55:12	 From Necati Şenel : two's complement için xor koyuyorduk sanırsam B ve cin için
+19:55:13	 From Duhan Cengizer : 2.sayunın 2's complementini alıyorduk galiba hocam?
+19:55:59	 From Necati Şenel : not'ını alıp cin'den 1 ekleriz
+20:01:53	 From Mehtap Arda : hocam MOV'da niye A'yı 0 B'yi 1 yapmıştık complement kısmında
+20:04:33	 From Mehtap Arda : evet hocm
+20:14:04	 From Sude Gürbüz : Clear
+20:14:05	 From Necati Şenel : clear
+20:18:45	 From Necati Şenel : complerine
+20:19:08	 From Necati Şenel : complementlerine bağlayabiliriz hocam
+20:20:20	 From Necati Şenel : anlaşılıyor hocam
+20:20:30	 From Sude Gürbüz : Neden complementleri kullandık hocam
+20:20:34	 From Sude Gürbüz : Tam anlayamadım
+20:20:56	 From Sude Gürbüz : Evet
+20:21:00	 From Sude Gürbüz : 0
+20:21:24	 From Sude Gürbüz : Yes
+20:21:26	 From Mehtap Arda : clear
+20:21:43	 From Sude Gürbüz : Okay
+20:22:28	 From Sude Gürbüz : I get it now, thank you
+20:27:06	 From Necati Şenel : 1 eklesek
+20:27:13	 From Necati Şenel : 1 çıkaralım pardon hocam :D
+20:27:41	 From Necati Şenel : olmaz :D
+20:28:20	 From Necati Şenel : sürekli yapsak bunu hocam diğeri oranında
+20:29:04	 From Necati Şenel : anlıyorum hocam
+20:31:16	 From Sude Gürbüz : Evet
+20:31:19	 From Necati Şenel : uğraşmak isteyen biri için mantıklı :D
+20:32:45	 From Necati Şenel : evet hocam
+20:36:46	 From Necati Şenel : aynı anda farklı işlemleri yapmayı?
+20:37:46	 From Necati Şenel : queue mantığı
+20:38:23	 From Mehtap Arda : evet
+20:39:26	 From Necati Şenel : threading için 2. olan daha mantıklı yanı hocam
+20:41:25	 From Necati Şenel : hayır hocam :D
+20:41:42	 From Sude Bulut  To  EE Zoom 3(privately) : hocam ben biraz geciktim internet bağlantım zayıftı konum değiştirdim
+20:42:00	 From Sude Gürbüz : İyi akşamlar

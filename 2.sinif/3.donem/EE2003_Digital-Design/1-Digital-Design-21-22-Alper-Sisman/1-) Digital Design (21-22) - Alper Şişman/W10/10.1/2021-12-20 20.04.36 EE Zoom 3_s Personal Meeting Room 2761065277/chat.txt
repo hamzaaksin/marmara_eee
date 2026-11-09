@@ -1,0 +1,94 @@
+20:05:20	 From Ataberk_Gedik : merhaba hocam
+20:05:29	 From Sude Gürbüz : Merhaba hocam
+20:05:32	 From Fatih_KOYUNCU : merhabalar hocam
+20:05:35	 From Fatih_KOYUNCU : iyi akşamlar
+20:13:05	 From Ömer Emeksiz : reset
+20:14:44	 From Necati Şenel : Ka doesn't care?
+20:15:06	 From Ataberk_Gedik : clear
+20:15:07	 From Necati Şenel : yes
+20:16:20	 From Necati Şenel : clear
+20:16:21	 From Ataberk_Gedik : yes
+20:16:24	 From Koray_Can_KAYA : yes
+20:16:40	 From Necati Şenel : reset or toggle
+20:17:18	 From Sude Gürbüz : Clear
+20:17:19	 From Necati Şenel : yes
+20:17:20	 From Ataberk_Gedik : yes
+20:18:41	 From Anıl Koluaçık : Hocam Ka'nın don't care olduğu kısmı bir daha anlatır mısınız?
+20:19:39	 From Anıl Koluaçık : evet
+20:20:10	 From Anıl Koluaçık : keep durumu
+20:20:11	 From Anıl Koluaçık : 00
+20:20:22	 From Anıl Koluaçık : olabilir
+20:20:58	 From Anıl Koluaçık : Anladım hocam teşekkürler
+20:26:28	 From Necati Şenel : clear
+20:26:31	 From Ataberk_Gedik : clear
+20:26:39	 From Sude Gürbüz : Clear
+20:26:41	 From Saltuk Mehmet Şahin : clear
+20:31:02	 From Necati Şenel : clear
+20:31:06	 From Ataberk_Gedik : clear
+20:31:06	 From Mustafa Öztürk : clear
+20:41:52	 From Necati Şenel : yes
+20:41:56	 From Ataberk_Gedik : yes
+20:42:01	 From Sude Gürbüz : Yes
+20:45:11	 From Necati Şenel : yes
+20:45:15	 From Fatih_KOYUNCU : yes
+20:45:22	 From Ataberk_Gedik : clear
+20:48:55	 From Necati Şenel : 01
+20:49:13	 From Necati Şenel : clear
+20:49:18	 From Ataberk_Gedik : clear
+20:50:32	 From Sude Gürbüz : 11
+20:51:19	 From Sude Gürbüz : Clear
+20:51:20	 From Ataberk_Gedik : clear
+20:52:12	 From Necati Şenel : set
+20:53:27	 From Necati Şenel : clear
+20:53:29	 From Sude Gürbüz : Sondan üçüncünün 01 olması gerekmez mi
+20:53:32	 From Ataberk_Gedik : clear
+20:53:33	 From Koray_Can_KAYA : clear
+20:53:34	 From Mustafa Öztürk : biraz karışık geliyor
+20:53:57	 From Sude Gürbüz : Current state 10, I = 1
+20:54:14	 From Sude Gürbüz : Output için 01
+20:54:27	 From Sude Gürbüz : 11
+20:55:15	 From Sude Gürbüz : Anladım hocam, teşekkür ederim
+20:55:21	 From Ataberk_Gedik : anlaşıldı
+20:56:46	 From Sude Gürbüz : 1
+20:57:46	 From Necati Şenel : en soldaki 1'i tek alırız, diğer 1'i 2li alırız
+20:58:35	 From Necati Şenel : Db yok hocam :D
+20:59:25	 From Fatih_KOYUNCU : teşekkürler hocam
+21:01:50	 From Mahsum Aslan : 2^3
+21:01:51	 From Ömer Buminhan Çay : 8
+21:01:52	 From Necati Şenel : 8
+21:02:31	 From Necati Şenel : 4
+21:03:16	 From Necati Şenel : Da, Tb, O1, O0
+21:03:27	 From Sude Gürbüz : 4
+21:04:19	 From Necati Şenel : 1 0 0 1
+21:04:40	 From Ataberk_Gedik : net
+21:04:42	 From Necati Şenel : o1 ile o0 yerini değiştirebiliriz hocam
+21:04:45	 From Necati Şenel : oralar ters oldu
+21:06:31	 From Necati Şenel : anlaşıldı hocam
+21:06:33	 From Saltuk Mehmet Şahin : evet hocam
+21:06:33	 From Sude Gürbüz : Anlaşıldı
+21:06:35	 From Saltuk Mehmet Şahin : iyi akşamlar
+21:07:07	 From Koray_Can_KAYA : hocam cmts teslim tarihi olmaz mı 1 hafta süremiz olsa :(
+21:07:12	 From Ataberk_Gedik : outputu nasıl high impedence yapıcaz verilogda
+21:08:40	 From Necati Şenel : evet hocam
+21:08:40	 From Ataberk_Gedik : görülüyor
+21:08:41	 From Sude Gürbüz : Görünüyor
+21:11:18	 From Sude Gürbüz : Evet
+21:12:32	 From Necati Şenel : ya da hocam direkt kendisine eşitleyince de oluyor sanırsam.
+21:12:32	 From Ataberk_Gedik : net
+21:12:37	 From Necati Şenel : deneme yanılmayla buldum biraz ama :D
+21:12:58	 From Necati Şenel : denedik hocam çalışıyor
+21:13:03	 From Necati Şenel : tamamdır hocam
+21:13:08	 From Necati Şenel : videoyu çektik ama kodda düzeltiriz
+21:13:20	 From Necati Şenel : tamamdır hocam
+21:13:31	 From Anıl Koluaçık : hocam ödevin son teslim tarihi bu çarşamba mı yoksa haftaya çarşamba mı?
+21:13:55	 From Fatih_KOYUNCU : tamamdır hocam
+21:14:41	 From Fatih_KOYUNCU : teşekkürker hocam
+21:14:42	 From Necati Şenel : tamamdır hocam iyi akşamlar
+21:14:44	 From Fatih_KOYUNCU : iyi geceler
+21:14:45	 From Sude Gürbüz : Hocam, 9.hafta çarşamba günkü dersin videosu 27sn olarak gözüküyor.Onun da ders kaydını yükleyebilir misiniz?
+21:14:53	 From Necati Şenel : yanında başka video daha var
+21:14:58	 From Necati Şenel : o video orjinali
+21:15:02	 From Kezban Türk : teşekkürler hocam, hayırlı akşamlar
+21:15:03	 From Sude Gürbüz : Hemen tekrar kontrol edeyim
+21:15:07	 From Sude Gürbüz : Teşekkür ederim
+21:15:09	 From Atabey Aydı : İyi akşamlar hocam

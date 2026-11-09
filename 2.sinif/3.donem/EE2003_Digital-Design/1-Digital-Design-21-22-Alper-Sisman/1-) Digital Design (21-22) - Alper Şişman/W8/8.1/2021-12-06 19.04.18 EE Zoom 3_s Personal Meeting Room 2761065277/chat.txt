@@ -1,0 +1,58 @@
+19:13:01	 From Selin Necip : Bende ekran yok
+19:13:03	 From Sude Gürbüz : Hocam ekran paylaşmıyorsunuz
+19:13:04	 From Mehtap Arda : ekran yok hocam
+19:13:05	 From Mhd Tareq_Zain : hocam ekranı görmüyouz
+19:13:05	 From Sude Ilayda Ozkara : Hocam share screen
+19:17:44	 From Ali Eren Türk : 0
+19:17:44	 From Ege Okan KALI : i0
+19:17:45	 From Seyhun : 0
+19:17:52	 From Ataberk Gedik : 0
+19:17:58	 From Ataberk Gedik : I
+19:18:01	 From Seyhun : I
+19:20:29	 From Ataberk Gedik : clear
+19:20:29	 From Ömer Emeksiz : clear sir
+19:24:11	 From Ömer Emeksiz : sir places of s0 and s1 is important ?
+19:24:59	 From Ömer Emeksiz : okey sir thanks
+19:26:09	 From Ömer Emeksiz : B
+19:26:09	 From Ömer Buminhan Çay : B
+19:26:10	 From Seyhun : B
+19:26:12	 From Sude Gürbüz : B
+19:26:31	 From Ömer Emeksiz : B'
+19:26:31	 From Sude Gürbüz : B'
+19:35:02	 From Ataberk Gedik : B
+19:35:09	 From Mert Eren Ağcabay : B
+19:35:23	 From Ataberk Gedik : clear
+19:39:11	 From Ataberk Gedik : sir do you mean open circuit with high impedence
+19:42:22	 From Koray_Can_KAYA : clear
+19:49:10	 From Ataberk Gedik : clear
+19:49:13	 From Mehmet Mücahit Dönmez : evet hocam
+19:49:13	 From Muhammet Yavuz Tiryaki : clear
+19:49:14	 From Mehtap Arda : anlaşıldı
+19:49:19	 From Koray_Can_KAYA : evet
+19:49:21	 From Murat Çevik : Evet hocam
+19:51:38	 From Ataberk Gedik : 8
+19:51:38	 From Mahsum Aslan : 8
+19:51:49	 From Mahsum Aslan : evet
+19:51:52	 From Seyhun : decoder le 3
+19:52:27	 From Mahsum Aslan : encoder ve decoder ile
+19:52:29	 From Koray_Can_KAYA  To  EE Zoom 3(privately) : 2^m = n olayı mı bu hocam
+19:54:36	 From Mahsum Aslan : hocam encoder atsak direk mcu ile decoder control etsek o zaman pin az kullanmış olmazmıyız?
+19:55:49	 From Mahsum Aslan : hocam amacımız pimleri azalmak değil mi?
+19:56:23	 From Mahsum Aslan : yok hocam pin tasarrufu yapmak demiştim
+19:57:02	 From Mahsum Aslan : dediğinizi anladım hocam
+20:04:55	 From Koray_Can_KAYA : clear
+20:04:59	 From Sude Gürbüz : Got it
+20:13:40	 From Ataberk Gedik : ı1+ı3 olmaz mı
+20:14:10	 From Sude Gürbüz : ı1 xor ı3
+20:14:59	 From Ataberk Gedik : evet
+20:15:24	 From Ataberk Gedik : diğer conditions dont care olursa olur
+20:15:36	 From Ataberk Gedik : anladım
+20:17:59	 From Mehtap Arda : evet
+20:18:03	 From Mahsum Aslan : evet
+20:20:35	 From Mahsum Aslan : 2^8
+20:24:49	 From Seyhun : evet hocam
+20:24:51	 From Aykut Büyükkaya : All clear
+20:26:24	 From Mehtap Arda : evet
+20:26:24	 From Ege Okan KALI : anlasildi
+20:26:28	 From Sude Gürbüz : Evet hocam
+20:26:31	 From Kezban Türk : anlaşıldı hocam

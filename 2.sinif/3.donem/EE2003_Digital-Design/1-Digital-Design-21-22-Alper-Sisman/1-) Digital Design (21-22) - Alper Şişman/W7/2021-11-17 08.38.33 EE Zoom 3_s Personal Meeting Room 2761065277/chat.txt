@@ -1,0 +1,52 @@
+09:00:43	 From Duhan Cengizer : Hocam 12 nin BCD si doğru mu acaba?
+09:09:06	 From Alperen Eroğlu  To  EE Zoom 3(privately) : 24
+09:13:23	 From Mehtap Arda  To  EE Zoom 3(privately) : result 9'dan büyük olmuyor mu hocam case 3'te
+09:14:31	 From Mehtap Arda  To  EE Zoom 3(privately) : 8
+09:14:34	 From Mehtap Arda  To  EE Zoom 3(privately) : değil hocam
+09:15:03	 From Mehtap Arda  To  EE Zoom 3(privately) : evet hocam sağ olun
+09:28:16	 From Alperen Eroğlu  To  EE Zoom 3(privately) : hocam and olursa her durumda 0 olmayacak mı
+09:29:02	 From Alperen Eroğlu  To  EE Zoom 3(privately) : Case 2 de de cout = 0
+09:32:47	 From Alperen Eroğlu  To  EE Zoom 3(privately) : evet hocam
+09:33:21	 From Mehtap Arda  To  EE Zoom 3(privately) : hocam şema kısmını tekrar eder misiniz
+09:33:29	 From Mehtap Arda  To  EE Zoom 3(privately) : ne yaptığımızı anlayamadım tam
+09:33:35	 From Mehtap Arda  To  EE Zoom 3(privately) : or kapısını
+09:33:47	 From Mehtap Arda  To  EE Zoom 3(privately) : evet :(
+09:35:12	 From Mehtap Arda  To  EE Zoom 3(privately) : evet
+09:36:13	 From Mehtap Arda  To  EE Zoom 3(privately) : evet
+09:36:28	 From Alperen Eroğlu : hocam case 3 te neden 6 ile topladık tam anlayamadım
+09:36:50	 From Alperen Eroğlu : evet hocam
+09:38:03	 From Alperen Eroğlu : pardon hocam bende 11000 diye değerlendiriyorum kafamda
+09:38:07	 From Alperen Eroğlu : ondan doğru diyorum
+09:38:14	 From Alperen Eroğlu : evet add 6 yapmamız gerek
+09:39:42	 From Mehtap Arda  To  EE Zoom 3(privately) : evet
+09:39:46	 From Alperen Eroğlu : evet hocam
+09:40:08	 From Alperen Eroğlu : 0
+09:41:46	 From Alperen Eroğlu : cout1 = 1 , cout2 = 0
+09:42:23	 From Alperen Eroğlu : evet hocam
+09:42:25	 From Ömer Emeksiz : yes sir
+09:42:26	 From Mehtap Arda  To  EE Zoom 3(privately) : evet
+09:46:00	 From Alperen Eroğlu : R0R1 + R2R0
+09:46:18	 From Mert Eren Ağcabay : hocam 1101 hatalı oldu sanki
+09:47:21	 From Mert Eren Ağcabay : ro r1 sağ taraftaki bitler değil mi hocam
+09:47:24	 From Ahmet Talha Yıldırım : hocam r0 en değersiz bit değil mi
+09:47:37	 From İbrahim Halil ŞAHİN : aynen hocam ters oldu
+09:47:44	 From Ömer Emeksiz : hocam galiba R0R1 ve R2R3 yeri degismeli
+09:50:54	 From Ahmet Talha Yıldırım : yes
+10:07:59	 From Melih Can Polat : 0101
+10:08:05	 From Sude Gürbüz : 0101
+10:15:58	 From Ataberk Gedik : clear
+10:20:51	 From Sude Gürbüz : Clear
+10:24:10	 From Ataberk Gedik : yes
+10:26:17	 From Sude Gürbüz : nand gate
+10:26:24	 From Sude Gürbüz : Last one
+10:26:51	 From Mhd Tareq_Zain : nor
+10:27:21	 From Sude Gürbüz : Clear
+10:34:18	 From Ataberk Gedik : clear
+10:37:00	 From Sude Gürbüz : Got it
+10:37:18	 From Ahmet Talha Yıldırım : hocam bunu adder devresiyle compare edemezmiydik
+10:37:30	 From Ahmet Talha Yıldırım : aynen
+10:39:56	 From Ömer Emeksiz : no
+10:41:26	 From İbrahim Halil ŞAHİN : hocam sadece b3 le a3 ü compare edemez miyiz doğru sonucu alırmıyız
+10:42:58	 From İbrahim Halil ŞAHİN : tamam hocam anlaşıldı
+10:44:42	 From Ömer Emeksiz : sir IA>B and other inputs coming from another 2 bit comperator right ?
+10:45:00	 From Ömer Emeksiz : okey I see now
